@@ -205,6 +205,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision and Graphics
 
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
 | Efficient Neural Supersampling on a Novel Gaming Dataset |  |  |  |
 | Locally Stylized Neural Radiance Fields |  |  |  |
 | NEMTO: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects |  |  |  |
