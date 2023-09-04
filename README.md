@@ -21,7 +21,7 @@
 ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research papers presented at [*ICCV 2023*](https://iccv2023.thecvf.com/), the premier computer vision conference. Keep up to date with the latest advances in computer vision and deep learning. Code implementations included. :star: the repository for the development of visual intelligence!
 
 <p align="center">
-    <a href="https://iccv2023.thecvf.com/)" target="_blank">
+    <a href="https://iccv2023.thecvf.com/" target="_blank">
         <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ICCV-2023-Papers@main/images/ICCV2023-banner.jpg" alt="ICCV 2023">
     </a>
 <p>
