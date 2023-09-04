@@ -190,9 +190,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Simoun: Synergizing Interactive Motion-Appearance Understanding for Vision-based Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Among Us: Adversarially Robust Collaborative Perception by Consensus | [![GitHub](https://img.shields.io/github/stars/coperception/ROBOSAC)](https://github.com/coperception/ROBOSAC) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09495-b31b1b.svg)](https://arxiv.org/abs/2303.09495) | :heavy_minus_sign: |
 | Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://saltoricristiano.github.io/lidog/) <br /> [![GitHub](https://img.shields.io/github/stars/saltoricristiano/LiDOG)](https://github.com/saltoricristiano/LiDOG) | [![arXiv](https://img.shields.io/badge/arXiv-2304.11705-b31b1b.svg)](https://arxiv.org/abs/2304.11705) | :heavy_minus_sign: |
-| Stabilizing Visual Reinforcement Learning via Asymmetric Interactive Cooperation |  |  |  |
-| MAAL: Multimodality-Aware Autoencoder-based Affordance Learning for 3D Articulated Objects |  |  |  |
-| Rethinking Range View Representation for LiDAR Segmentation |  |  |  |
+| Stabilizing Visual Reinforcement Learning via Asymmetric Interactive Cooperation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MAAL: Multimodality-Aware Autoencoder-based Affordance Learning for 3D Articulated Objects | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Rethinking Range View Representation for LiDAR Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.05367-b31b1b.svg)](https://arxiv.org/abs/2303.05367) | :heavy_minus_sign: |
 | PourIt!: Weakly-Supervised Liquid Perception from a Single Image for Visual Closed-Loop Robotic Pouring |  |  |  |
 | CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation |  |  |  |
 | Environment Agnostic Representation for Visual Reinforcement Learning |  |  |  |
