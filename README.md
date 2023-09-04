@@ -171,7 +171,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Robust Mixture-of-Expert Training for Convolutional Neural Networks | [![GitHub](https://img.shields.io/github/stars/OPTML-Group/Robust-MoE-CNN)](https://github.com/OPTML-Group/Robust-MoE-CNN) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10110-b31b1b.svg)](https://arxiv.org/abs/2308.10110) | :heavy_minus_sign: |
-| Set-Level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-Training Models |  |  |  |
+| Set-Level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-Training Models | [![GitHub](https://img.shields.io/github/stars/Zoky-2020/SGA)](https://github.com/Zoky-2020/SGA) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14061-b31b1b.svg)](https://arxiv.org/abs/2307.14061) | :heavy_minus_sign: |
 | CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning |  |  |  |
 | CGBA: Curvature-Aware Geometric Black-Box Attack |  |  |  |
 | Robust Evaluation of Diffusion-based Adversarial Purification |  |  |  |
