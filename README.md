@@ -187,8 +187,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Simoun: Synergizing Interactive Motion-Appearance Understanding for Vision-based Reinforcement Learning |  |  |  |
-| Among Us: Adversarially Robust Collaborative Perception by Consensus |  |  |  |
+| Simoun: Synergizing Interactive Motion-Appearance Understanding for Vision-based Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Among Us: Adversarially Robust Collaborative Perception by Consensus | [![GitHub](https://img.shields.io/github/stars/coperception/ROBOSAC)](https://github.com/coperception/ROBOSAC) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09495-b31b1b.svg)](https://arxiv.org/abs/2303.09495) | :heavy_minus_sign: |
 | Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation |  |  |  |
 | Stabilizing Visual Reinforcement Learning via Asymmetric Interactive Cooperation |  |  |  |
 | MAAL: Multimodality-Aware Autoencoder-based Affordance Learning for 3D Articulated Objects |  |  |  |
