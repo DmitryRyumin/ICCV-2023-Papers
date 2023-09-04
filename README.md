@@ -151,7 +151,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### 3D from Multi-View and Sensors
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.14383-b31b1b.svg)](https://arxiv.org/abs/2308.14383) | :heavy_minus_sign: |
+| ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cy94.github.io/scannetpp/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11417-b31b1b.svg)](https://arxiv.org/abs/2308.11417) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=E6P9e2r6M8I) |
+<!-- | Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach |  |  |  |
+| Doppelgangers: Learning to Disambiguate Images of Similar Structures |  |  |  |
+| EgoLoc: Revisiting 3D Object Localization from Egocentric Videos with Visual Queries |  |  |  |
+| ClothPose: A Real-world Benchmark for Visual Analysis of Garment Pose via An Indirect Recording Solution |  |  |  |
+| EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity |  |  |  |
+| ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
