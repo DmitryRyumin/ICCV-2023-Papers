@@ -158,9 +158,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Doppelgangers: Learning to Disambiguate Images of Similar Structures | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://doppelgangers-3d.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/RuojinCai/Doppelgangers)](https://github.com/RuojinCai/Doppelgangers) | :heavy_minus_sign: | :heavy_minus_sign: |
 | EgoLoc: Revisiting 3D Object Localization from Egocentric Videos with Visual Queries | [![GitHub](https://img.shields.io/github/stars/Wayne-Mai/EgoLoc)](https://github.com/Wayne-Mai/EgoLoc) | [![arXiv](https://img.shields.io/badge/arXiv-2212.06969-b31b1b.svg)](https://arxiv.org/abs/2212.06969) | :heavy_minus_sign: |
-<!-- | ClothPose: A Real-world Benchmark for Visual Analysis of Garment Pose via An Indirect Recording Solution |  |  |  |
-| EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity |  |  |  |
-| ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting |  |  |  | -->
+| ClothPose: A Real-world Benchmark for Visual Analysis of Garment Pose via an Indirect Recording Solution | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://nexuslrf.github.io/ENVIDR/) <br /> [![GitHub](https://img.shields.io/github/stars/nexuslrf/ENVIDR)](https://github.com/nexuslrf/ENVIDR) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13022-b31b1b.svg)](https://arxiv.org/abs/2303.13022) | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18kU-IWVxboCG8SCGgrBA5JHC0JIgPCS8/view?t=17s) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
