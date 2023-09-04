@@ -168,7 +168,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Adversarial Attack and Defense
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Robust Mixture-of-Expert Training for Convolutional Neural Networks |  |  |  |
+| Set-Level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-Training Models |  |  |  |
+| CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning |  |  |  |
+| CGBA: Curvature-Aware Geometric Black-Box Attack |  |  |  |
+| Robust Evaluation of Diffusion-based Adversarial Purification |  |  |  |
+| Advancing Example Exploitation can Alleviate Critical Challenges in Adversarial Training |  |  |  |
+| The Victim and the Beneficiary: Exploiting a Poisoned Model to Train a Clean Model on Poisoned Data |  |  |  |
+| TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
