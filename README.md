@@ -22,7 +22,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 <p align="center">
     <a href="https://2023.ieeeicassp.org/" target="_blank">
-        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ICASSP-2023-Papers@main/images/ICCV2023-banner.jpg" alt="ICCV 2023">
+        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ICCV-2023-Papers@main/images/ICCV2023-banner.jpg" alt="ICCV 2023">
     </a>
 <p>
 
