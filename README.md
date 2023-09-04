@@ -52,18 +52,30 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     </tr>
     <tr>
         <td>CVPR</td>
-        <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
+        <td>
+            <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a>
+            <br />
+            <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers">
+        </td>
     </tr>
     <tr>
       <td colspan="2" align="center"><i>Speech (SP)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+        <td>
+            <a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a>
+            <br />
+            <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers">
+        </td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+        <td>
+            <a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a>
+            <br />
+            <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers">
+        </td>
     </tr>
 </table>
 
