@@ -193,7 +193,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Stabilizing Visual Reinforcement Learning via Asymmetric Interactive Cooperation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | MAAL: Multimodality-Aware Autoencoder-based Affordance Learning for 3D Articulated Objects | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Rethinking Range View Representation for LiDAR Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.05367-b31b1b.svg)](https://arxiv.org/abs/2303.05367) | :heavy_minus_sign: |
-| PourIt!: Weakly-Supervised Liquid Perception from a Single Image for Visual Closed-Loop Robotic Pouring |  |  |  |
+| PourIt!: Weakly-Supervised Liquid Perception from a Single Image for Visual Closed-Loop Robotic Pouring | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hetolin.github.io/PourIt/) <br /> [![GitHub](https://img.shields.io/github/stars/hetolin/PourIt)](https://github.com/hetolin/PourIt) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11299-b31b1b.svg)](https://arxiv.org/abs/2307.11299) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=R5SpiV0658Q) |
 | CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation |  |  |  |
 | Environment Agnostic Representation for Visual Reinforcement Learning |  |  |  |
 | Test-Time Personalizable Forecasting of 3D Human Poses |  |  |  |
