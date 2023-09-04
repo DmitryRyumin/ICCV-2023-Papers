@@ -205,7 +205,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision and Graphics
 
-| **Title** | **Repo** | **Paper** | **Video** |
+> Will soon be added
+
+<!-- | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Efficient Neural Supersampling on a Novel Gaming Dataset |  |  |  |
 | Locally Stylized Neural Radiance Fields |  |  |  |
@@ -228,7 +230,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Lens Parameter Estimation for Realistic Depth of Field Synthesis |  |  |  |
 | AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism |  |  |  |
 | Cross-Modal Latent Space Alignment for Image to Avatar Translation |  |  |  |
-| Computationally Efficient Neural Image Compression with Shallow Decoders |  |  |  |
+| Computationally Efficient Neural Image Compression with Shallow Decoders |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
