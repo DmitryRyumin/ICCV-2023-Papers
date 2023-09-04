@@ -22,7 +22,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 <p align="center">
     <a href="https://iccv2023.thecvf.com/" target="_blank">
-        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ICCV-2023-Papers@0041834fda24eac30b57e230e2852e46df77f761/images/ICCV2023-banner.jpg" alt="ICCV 2023">
+        <img width="600" src="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/images/ICCV2023-banner.svg" alt="ICCV 2023">
     </a>
 <p>
 
