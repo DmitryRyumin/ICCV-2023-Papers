@@ -157,8 +157,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cy94.github.io/scannetpp/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11417-b31b1b.svg)](https://arxiv.org/abs/2308.11417) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=E6P9e2r6M8I) |
 | Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Doppelgangers: Learning to Disambiguate Images of Similar Structures | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://doppelgangers-3d.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/RuojinCai/Doppelgangers)](https://github.com/RuojinCai/Doppelgangers) | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | EgoLoc: Revisiting 3D Object Localization from Egocentric Videos with Visual Queries |  |  |  |
-| ClothPose: A Real-world Benchmark for Visual Analysis of Garment Pose via An Indirect Recording Solution |  |  |  |
+| EgoLoc: Revisiting 3D Object Localization from Egocentric Videos with Visual Queries | [![GitHub](https://img.shields.io/github/stars/Wayne-Mai/EgoLoc)](https://github.com/Wayne-Mai/EgoLoc) | [![arXiv](https://img.shields.io/badge/arXiv-2212.06969-b31b1b.svg)](https://arxiv.org/abs/2212.06969) | :heavy_minus_sign: |
+<!-- | ClothPose: A Real-world Benchmark for Visual Analysis of Garment Pose via An Indirect Recording Solution |  |  |  |
 | EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity |  |  |  |
 | ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting |  |  |  | -->
 
