@@ -185,7 +185,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision and Robotics
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Simoun: Synergizing Interactive Motion-Appearance Understanding for Vision-based Reinforcement Learning |  |  |  |
+| Among Us: Adversarially Robust Collaborative Perception by Consensus |  |  |  |
+| Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation |  |  |  |
+| Stabilizing Visual Reinforcement Learning via Asymmetric Interactive Cooperation |  |  |  |
+| MAAL: Multimodality-Aware Autoencoder-based Affordance Learning for 3D Articulated Objects |  |  |  |
+| Rethinking Range View Representation for LiDAR Segmentation |  |  |  |
+| PourIt!: Weakly-Supervised Liquid Perception from a Single Image for Visual Closed-Loop Robotic Pouring |  |  |  |
+| CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation |  |  |  |
+| Environment Agnostic Representation for Visual Reinforcement Learning |  |  |  |
+| Test-Time Personalizable Forecasting of 3D Human Poses |  |  |  |
+| HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -193,7 +205,28 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision and Graphics
 
-> Will soon be added
+| Efficient Neural Supersampling on a Novel Gaming Dataset |  |  |  |
+| Locally Stylized Neural Radiance Fields |  |  |  |
+| NEMTO: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects |  |  |  |
+| DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders |  |  |  |
+| IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis |  |  |  |
+| PARIS: Part-Level Reconstruction and Motion Analysis for Articulated Objects |  |  |  |
+| ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model |  |  |  |
+| DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion |  |  |  |
+| Dynamic Mesh-Aware Radiance Fields |  |  |  |
+| Neural Reconstruction of Relightable Human Model from Monocular Video |  |  |  |
+| Neural Microfacet Fields for Inverse Rendering |  |  |  |
+| A Theory of Topological Derivatives for Inverse Rendering of Geometry |  |  |  |
+| Vox-E: Text-Guided Voxel Editing of 3D Objects |  |  |  |
+| StegaNeRF: Embedding Invisible Information within Neural Radiance Fields |  |  |  |
+| GlobalMapper: Arbitrary-Shaped Urban Layout Generation |  |  |  |
+| Urban Radiance Field Representation with Deformable Neural Mesh Primitives |  |  |  |
+| End2End Multi-View Feature Matching with Differentiable Pose Optimization |  |  |  |
+| Tree-Structured Shading Decomposition |  |  |  |
+| Lens Parameter Estimation for Realistic Depth of Field Synthesis |  |  |  |
+| AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism |  |  |  |
+| Cross-Modal Latent Space Alignment for Image to Avatar Translation |  |  |  |
+| Computationally Efficient Neural Image Compression with Shallow Decoders |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
