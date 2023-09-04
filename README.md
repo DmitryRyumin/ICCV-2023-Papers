@@ -174,7 +174,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Set-Level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-Training Models | [![GitHub](https://img.shields.io/github/stars/Zoky-2020/SGA)](https://github.com/Zoky-2020/SGA) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14061-b31b1b.svg)](https://arxiv.org/abs/2307.14061) | :heavy_minus_sign: |
 | CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/nishadsinghi/CleanCLIP)](https://github.com/nishadsinghi/CleanCLIP) | [![arXiv](https://img.shields.io/badge/arXiv-2303.03323-b31b1b.svg)](https://arxiv.org/abs/2303.03323) | :heavy_minus_sign: |
 | CGBA: Curvature-Aware Geometric Black-Box Attack | [![GitHub](https://img.shields.io/github/stars/Farhamdur/CGBA)](https://github.com/Farhamdur/CGBA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.03163-b31b1b.svg)](https://arxiv.org/abs/2308.03163) | :heavy_minus_sign: |
-| Robust Evaluation of Diffusion-based Adversarial Purification |  |  |  |
+| Robust Evaluation of Diffusion-based Adversarial Purification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.09051-b31b1b.svg)](https://arxiv.org/abs/2303.09051) | :heavy_minus_sign: |
 | Advancing Example Exploitation can Alleviate Critical Challenges in Adversarial Training |  |  |  |
 | The Victim and the Beneficiary: Exploiting a Poisoned Model to Train a Clean Model on Poisoned Data |  |  |  |
 | TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models |  |  |  |
