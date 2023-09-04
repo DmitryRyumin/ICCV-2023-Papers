@@ -175,9 +175,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/nishadsinghi/CleanCLIP)](https://github.com/nishadsinghi/CleanCLIP) | [![arXiv](https://img.shields.io/badge/arXiv-2303.03323-b31b1b.svg)](https://arxiv.org/abs/2303.03323) | :heavy_minus_sign: |
 | CGBA: Curvature-Aware Geometric Black-Box Attack | [![GitHub](https://img.shields.io/github/stars/Farhamdur/CGBA)](https://github.com/Farhamdur/CGBA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.03163-b31b1b.svg)](https://arxiv.org/abs/2308.03163) | :heavy_minus_sign: |
 | Robust Evaluation of Diffusion-based Adversarial Purification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.09051-b31b1b.svg)](https://arxiv.org/abs/2303.09051) | :heavy_minus_sign: |
-| Advancing Example Exploitation can Alleviate Critical Challenges in Adversarial Training |  |  |  |
-| The Victim and the Beneficiary: Exploiting a Poisoned Model to Train a Clean Model on Poisoned Data |  |  |  |
-| TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models |  |  |  |
+| Advancing Example Exploitation can Alleviate Critical Challenges in Adversarial Training | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| The Victim and the Beneficiary: Exploiting a Poisoned Model to Train a Clean Model on Poisoned Data | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models | [![GitHub](https://img.shields.io/github/stars/SRI-CSL/TIJO)](https://github.com/SRI-CSL/TIJO) | [![arXiv](https://img.shields.io/badge/arXiv-2308.03906-b31b1b.svg)](https://arxiv.org/abs/2308.03906) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
