@@ -211,7 +211,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Locally Stylized Neural Radiance Fields | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | NEMTO: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.11963-b31b1b.svg)](https://arxiv.org/abs/2303.11963) | :heavy_minus_sign: |
 | DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders | [![GitHub](https://img.shields.io/github/stars/piddnad/DDColor)](https://github.com/piddnad/DDColor) <br /> [![ModelScope](https://img.shields.io/badge/ModelScope-DDColor-614BFF.svg)](https://www.modelscope.cn/models/damo/cv_ddcolor_image-colorization/summary) | [![arXiv](https://img.shields.io/badge/arXiv-2212.11613-b31b1b.svg)](https://arxiv.org/abs/2212.11613) | :heavy_minus_sign: |
-| IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis |  |  |  |
+| IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zju3dv.github.io/intrinsic_nerf/) <br /> [![GitHub](https://img.shields.io/github/stars/zju3dv/IntrinsicNeRF)](https://github.com/zju3dv/IntrinsicNeRF) | [![arXiv](https://img.shields.io/badge/arXiv-2210.00647-b31b1b.svg)](https://arxiv.org/abs/2210.00647) | :heavy_minus_sign: |
 | PARIS: Part-Level Reconstruction and Motion Analysis for Articulated Objects |  |  |  |
 | ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model |  |  |  |
 | DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion |  |  |  |
