@@ -15,7 +15,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/ICCV-2023-Papers)
 ![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/ICCV-2023-Papers)
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dmitryryumin.ICCV-2023-Papers&format=true)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dmitryryumin/ICCV-2023-Papers&format=true)
 
 ---
 
