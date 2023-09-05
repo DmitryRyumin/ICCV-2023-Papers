@@ -247,7 +247,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Semantic-Aware Template Learning via Part Deformation Consistency | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.11916-b31b1b.svg)](https://arxiv.org/abs/2308.11916) | :heavy_minus_sign: |
 | LeaF: Learning Frames for 4D Point Cloud Sequence Understanding | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | MARS: Model-Agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation | [![GitHub](https://img.shields.io/github/stars/shjo-april/MARS)](https://github.com/shjo-april/MARS) | [![arXiv](https://img.shields.io/badge/arXiv-2304.09913-b31b1b.svg)](https://arxiv.org/abs/2304.09913) | :heavy_minus_sign: |
-| USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation |  |  |  |
+| USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.07806-b31b1b.svg)](https://arxiv.org/abs/2303.07806) | :heavy_minus_sign: |
 | Production-Level Video Segmentation from Few Annotated Frames |  |  |  |
 | SIGMA: Scale-Invariant Global Sparse Shape Matching |  |  |  |
 | Self-Calibrated Cross Attention Network for Few-Shot Segmentation |  |  |  |
