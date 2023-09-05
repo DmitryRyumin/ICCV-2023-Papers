@@ -197,7 +197,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.04869-b31b1b.svg)](https://arxiv.org/abs/2303.04869) | :heavy_minus_sign: |
 | Environment Agnostic Representation for Visual Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Test-Time Personalizable Forecasting of 3D Human Poses | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.10628-b31b1b.svg)](https://arxiv.org/abs/2304.10628) |  |
+| HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.10628-b31b1b.svg)](https://arxiv.org/abs/2304.10628) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -207,9 +207,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 > Will soon be added
 
-<!-- | **Title** | **Repo** | **Paper** | **Video** |
+| **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Efficient Neural Supersampling on a Novel Gaming Dataset |  |  |  |
+| Efficient Neural Supersampling on a Novel Gaming Dataset | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.01483-b31b1b.svg)](https://arxiv.org/abs/2308.01483) | :heavy_minus_sign: |
 | Locally Stylized Neural Radiance Fields |  |  |  |
 | NEMTO: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects |  |  |  |
 | DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders |  |  |  |
@@ -230,7 +230,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Lens Parameter Estimation for Realistic Depth of Field Synthesis |  |  |  |
 | AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism |  |  |  |
 | Cross-Modal Latent Space Alignment for Image to Avatar Translation |  |  |  |
-| Computationally Efficient Neural Image Compression with Shallow Decoders |  |  |  | -->
+| Computationally Efficient Neural Image Compression with Shallow Decoders |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
