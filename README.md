@@ -244,7 +244,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Divide and Conquer: 3D Point Cloud Instance Segmentation with Point-Wise Binarization | [![GitHub](https://img.shields.io/github/stars/weiguangzhao/PBNet)](https://github.com/weiguangzhao/PBNet) | [![arXiv](https://img.shields.io/badge/arXiv-2207.11209-b31b1b.svg)](https://arxiv.org/abs/2207.11209) | :heavy_minus_sign: |
 | Point2Mask: Point-Supervised Panoptic Segmentation via Optimal Transport | [![GitHub](https://img.shields.io/github/stars/LiWentomng/Point2Mask)](https://github.com/LiWentomng/Point2Mask) | [![arXiv](https://img.shields.io/badge/arXiv-2308.01779-b31b1b.svg)](https://arxiv.org/abs/2308.01779) | :heavy_minus_sign: |
 | Handwritten and Printed Text Segmentation: A Signature Case Study | [![SignaTR6K](https://img.shields.io/badge/SignaTR6K-dataset-20BEFF.svg)](https://forms.office.com/r/2a5RDg7cAY) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07887-b31b1b.svg)](https://arxiv.org/abs/2307.07887) | :heavy_minus_sign: |
-| Semantic-Aware Template Learning via Part Deformation Consistency |  |  |  |
+| Semantic-Aware Template Learning via Part Deformation Consistency | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.11916-b31b1b.svg)](https://arxiv.org/abs/2308.11916) | :heavy_minus_sign: |
 | LeaF: Learning Frames for 4D Point Cloud Sequence Understanding |  |  |  |
 | MARS: Model-Agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation |  |  |  |
 | USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation |  |  |  |
