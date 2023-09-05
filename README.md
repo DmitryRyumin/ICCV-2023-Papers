@@ -237,7 +237,80 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Segmentation, Grouping and Shape Analysis
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Enhancing Spatial and Semantic Supervision for Hybrid-based 3D Instance Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Learning Neural Eigenfunctions for Unsupervised Semantic Segmentation | [![GitHub](https://img.shields.io/github/stars/thudzj/NeuralEigenfunctionSegmentor)](https://github.com/thudzj/NeuralEigenfunctionSegmentor) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02841-b31b1b.svg)](https://arxiv.org/abs/2304.02841) | :heavy_minus_sign: |
+| Divide and Conquer: 3D Point Cloud Instance Segmentation with Point-Wise Binarization |  |  |  |
+| Point2Mask: Point-Supervised Panoptic Segmentation via Optimal Transport |  |  |  |
+| Handwritten and Printed Text Segmentation: A Signature Case Study |  |  |  |
+| Semantic-Aware Template Learning via Part Deformation Consistency |  |  |  |
+| LeaF: Learning Frames for 4D Point Cloud Sequence Understanding |  |  |  |
+| MARS: Model-Agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation |  |  |  |
+| USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation |  |  |  |
+| Production-Level Video Segmentation from Few Annotated Frames |  |  |  |
+| SIGMA: Scale-Invariant Global Sparse Shape Matching |  |  |  |
+| Self-Calibrated Cross Attention Network for Few-Shot Segmentation |  |  |  |
+| Multi-Granularity Interaction Simulation for Unsupervised Interactive Segmentation |  |  |  |
+| Texture Learning Domain Randomization for Domain Generalized Segmentation |  |  |  |
+| Unsupervised Video Object Segmentation with Online Adversarial Self-Tuning |  |  |  |
+| Exploring Open-Vocabulary Semantic Segmentation without Human Labels |  |  |  |
+| RbA: Segmenting Unknown Regions Rejected by All |  |  |  |
+| SEMPART: Self-Supervised Multi-Resolution Partitioning of Image Semantics |  |  |  |
+| Multi-Object Discovery by Low-Dimensional Object Motion |  |  |  |
+| MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory |  |  |  |
+| Treating Pseudo-Labels Generation as Image Matting for Weakly Supervised Semantic Segmentation |  |  |  |
+| BoxSnake: Polygonal Instance Segmentation with Box Supervision |  |  |  |
+| Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation |  |  |  |
+| Instance Neural Radiance Field |  |  |  |
+| Global Knowledge Calibration for Fast Open-Vocabulary Segmentation |  |  |  |
+| Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation |  |  |  |
+| Boosting Semantic Segmentation from an Explicit Class Embedding's Perspective |  |  |  |
+| The Making and Breaking of Camouflage |  |  |  |
+| CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation |  |  |  |
+| Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation |  |  |  |
+| HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling |  |  |  |
+| FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation |  |  |  |
+| MasQCLIP for Open-Vocabulary Universal Image Segmentation |  |  |  |
+| CTVIS: Consistent Training for Online Video Instance Segmentation |  |  |  |
+| A Simple Framework for Panoptic Segmentation |  |  |  |
+| Spectrum-Guided Multi-Granularity Referring Video Object Segmentation |  |  |  |
+| Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation |  |  |  |
+| Adaptive Superpixel for Active Learning in Semantic Segmentation |  |  |  |
+| Multimodal Variational Auto-Encoder based Audio-Visual Segmentation |  |  |  |
+| Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation |  |  |  |
+| 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision |  |  |  |
+| Foreground-Background Separation through Concept Distillation from Generative Image Foundation Models |  |  |  |
+| SegPrompt: Boosting Open-World Segmentation via Category-Level Prompt Learning |  |  |  |
+| Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection |  |  |  |
+| A Simple Framework for Open-Vocabulary Segmentation and Detection |  |  |  |
+| Source-Free Depth for Object Pop-Out |  |  |  |
+| DynaMITe: Dynamic Query Bootstrapping for Multi-Object Interactive Segmentation Transformer |  |  |  |
+| Atmospheric Transmission and Thermal Inertia Induced Blind Road Segmentation with a Large-Scale Dataset TBRSD |  |  |  |
+| Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation |  |  |  |
+| Homography Guided Temporal Fusion for Road Line and Marking Segmentation |  |  |  |
+| Zero-Shot Semantic Segmentation with Decoupled One-Shot Network |  |  |  |
+| TCOVIS: Temporally Consistent Online Video Instance Segmentation |  |  |  |
+| FPR: False Positive Rectification for Weakly Supervised Semantic Segmentation |  |  |  |
+| Stochastic Segmentation with Conditional Categorical Diffusion Models |  |  |  |
+| Segmenting Everything in Context |  |  |  |
+| Open-Vocabulary Panoptic Segmentation with Embedding Modulation |  |  |  |
+| Residual Pattern Learning for Pixel-Wise Out-of-Distribution Detection in Semantic Segmentation |  |  |  |
+| Zero-Guidance Segmentation using Zero Segment Labels |  |  |  |
+| Model Calibration in Dense Classification with Adaptive Label Perturbation |  |  |  |
+| Enhanced Soft Label for Semi-Supervised Semantic Segmentation |  |  |  |
+| MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation |  |  |  |
+| DiffuMask: Synthesizing Images with Pixel-Level Annotations for Semantic Segmentation Using Diffusion Models |  |  |  |
+| Alignment Before Aggregation: Trajectory Memory Retrieval Network for Video Object Segmentation |  |  |  |
+| Semi-Supervised Semantic Segmentation under Label Noise via Diverse Learning Groups |  |  |  |
+| SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal Targets |  |  |  |
+| Class-Incremental Continual Learning for Instance Segmentation with Image-Level Weak Supervision |  |  |  |
+| Coarse-to-Fine Amodal Segmentation with Shape Prior |  |  |  |
+| Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-Centric Representation |  |  |  |
+| DVIS: Decoupled Video Instance Segmentation Framework |  |  |  |
+| 3D Segmentation of Humans in Point Clouds with Synthetic Data |  |  |  |
+| WaterMask: Instance Segmentation for Underwater Imagery |  |  |  |
+| Decoupled or End-to-End Trained Video Segmentation if Target Data is Scarce? |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
