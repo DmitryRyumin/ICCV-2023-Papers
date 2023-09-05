@@ -205,8 +205,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision and Graphics
 
-> Will soon be added
-
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Efficient Neural Supersampling on a Novel Gaming Dataset | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.01483-b31b1b.svg)](https://arxiv.org/abs/2308.01483) | :heavy_minus_sign: |
