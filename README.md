@@ -622,3 +622,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Machine Learning and Dataset
 
 > Will soon be added
+
+---
+
+## Star History
+
+<p align="center">
+    <a href="https://star-history.com/#Dmitryryumin/ICCV-2023-Papers&Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=Dmitryryumin/ICCV-2023-Papers&type=Date" alt="Star History Chart">
+    </a>
+<p>
