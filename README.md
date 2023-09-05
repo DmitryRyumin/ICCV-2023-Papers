@@ -15,6 +15,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/ICCV-2023-Papers)
 ![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/ICCV-2023-Papers)
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dmitryryumin.ICCV-2023-Papers&format=true)
 
 ---
 
@@ -213,7 +214,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders | [![GitHub](https://img.shields.io/github/stars/piddnad/DDColor)](https://github.com/piddnad/DDColor) <br /> [![ModelScope](https://img.shields.io/badge/ModelScope-DDColor-614BFF.svg)](https://www.modelscope.cn/models/damo/cv_ddcolor_image-colorization/summary) | [![arXiv](https://img.shields.io/badge/arXiv-2212.11613-b31b1b.svg)](https://arxiv.org/abs/2212.11613) | :heavy_minus_sign: |
 | IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zju3dv.github.io/intrinsic_nerf/) <br /> [![GitHub](https://img.shields.io/github/stars/zju3dv/IntrinsicNeRF)](https://github.com/zju3dv/IntrinsicNeRF) | [![arXiv](https://img.shields.io/badge/arXiv-2210.00647-b31b1b.svg)](https://arxiv.org/abs/2210.00647) | :heavy_minus_sign: |
 | PARIS: Part-Level Reconstruction and Motion Analysis for Articulated Objects | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://3dlg-hcvc.github.io/paris/) <br /> [![GitHub](https://img.shields.io/github/stars/3dlg-hcvc/paris)](https://github.com/3dlg-hcvc/paris) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07391-b31b1b.svg)](https://arxiv.org/abs/2308.07391) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=tDSrROPCgUc) |
-| ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model |  |  |  |
+| ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html) <br /> [![GitHub](https://img.shields.io/github/stars/mingyuan-zhang/ReMoDiffuse)](https://github.com/mingyuan-zhang/ReMoDiffuse) | [![arXiv](https://img.shields.io/badge/arXiv-2304.01116-b31b1b.svg)](https://arxiv.org/abs/2304.01116) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=wSddrIA_2p8) |
 | DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion |  |  |  |
 | Dynamic Mesh-Aware Radiance Fields |  |  |  |
 | Neural Reconstruction of Relightable Human Model from Monocular Video |  |  |  |
