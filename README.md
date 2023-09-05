@@ -251,7 +251,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Production-Level Video Segmentation from Few Annotated Frames | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://max810.github.io/xmem2-project-page/) <br /> [![GitHub](https://img.shields.io/github/stars/max810/XMem2)](https://github.com/max810/XMem2) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15958-b31b1b.svg)](https://arxiv.org/abs/2307.15958) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=3X3TUP4vKcc) |
 | ΣIGMA: Scale-Invariant Global Sparse Shape Matching | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.08393-b31b1b.svg)](https://arxiv.org/abs/2308.08393) | :heavy_minus_sign: |
 | Self-Calibrated Cross Attention Network for Few-Shot Segmentation | [![GitHub](https://img.shields.io/github/stars/Sam1224/SCCAN)](https://github.com/Sam1224/SCCAN) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09294-b31b1b.svg)](https://arxiv.org/abs/2308.09294) | :heavy_minus_sign: |
-| Multi-Granularity Interaction Simulation for Unsupervised Interactive Segmentation |  |  |  |
+<!-- | Multi-Granularity Interaction Simulation for Unsupervised Interactive Segmentation |  |  |  |
 | Texture Learning Domain Randomization for Domain Generalized Segmentation |  |  |  |
 | Unsupervised Video Object Segmentation with Online Adversarial Self-Tuning |  |  |  |
 | Exploring Open-Vocabulary Semantic Segmentation without Human Labels |  |  |  |
@@ -310,7 +310,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | DVIS: Decoupled Video Instance Segmentation Framework |  |  |  |
 | 3D Segmentation of Humans in Point Clouds with Synthetic Data |  |  |  |
 | WaterMask: Instance Segmentation for Underwater Imagery |  |  |  |
-| Decoupled or End-to-End Trained Video Segmentation if Target Data is Scarce? |  |  |  |
+| Decoupled or End-to-End Trained Video Segmentation if Target Data is Scarce? |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
