@@ -229,7 +229,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Lens Parameter Estimation for Realistic Depth of Field Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lvsn.github.io/inversedof/) | :heavy_minus_sign: | :heavy_minus_sign: |
 | AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Cross-Modal Latent Space Alignment for Image to Avatar Translation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Computationally Efficient Neural Image Compression with Shallow Decoders | [![GitHub](https://img.shields.io/github/stars/mandt-lab/shallow-ntc)](https://github.com/mandt-lab/shallow-ntc) | [![arXiv](https://img.shields.io/badge/arXiv-2304.06244-b31b1b.svg)](https://arxiv.org/abs/2304.06244) |  |
+| Computationally Efficient Neural Image Compression with Shallow Decoders | [![GitHub](https://img.shields.io/github/stars/mandt-lab/shallow-ntc)](https://github.com/mandt-lab/shallow-ntc) | [![arXiv](https://img.shields.io/badge/arXiv-2304.06244-b31b1b.svg)](https://arxiv.org/abs/2304.06244) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
