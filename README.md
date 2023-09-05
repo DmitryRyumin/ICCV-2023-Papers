@@ -208,8 +208,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Efficient Neural Supersampling on a Novel Gaming Dataset | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.01483-b31b1b.svg)](https://arxiv.org/abs/2308.01483) | :heavy_minus_sign: |
-| Locally Stylized Neural Radiance Fields |  |  |  |
-| NEMTO: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects |  |  |  |
+| Locally Stylized Neural Radiance Fields | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| NEMTO: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.11963-b31b1b.svg)](https://arxiv.org/abs/2303.11963) | :heavy_minus_sign: |
 | DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders |  |  |  |
 | IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis |  |  |  |
 | PARIS: Part-Level Reconstruction and Motion Analysis for Articulated Objects |  |  |  |
