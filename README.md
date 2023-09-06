@@ -269,10 +269,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | The Making and Breaking of Camouflage | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://meowuu7.github.io/few-arti-obj-gen/) <br /> [![GitHub](https://img.shields.io/github/stars/Meowuu7/few-arti-gen)](https://github.com/Meowuu7/few-arti-gen) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10898-b31b1b.svg)](https://arxiv.org/abs/2308.10898) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=p8x3GN3VSPE) |
-| HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling |  |  |  |
-| FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation |  |  |  |
-| MasQCLIP for Open-Vocabulary Universal Image Segmentation |  |  |  |
-| CTVIS: Consistent Training for Online Video Instance Segmentation |  |  |  |
+| HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.10460-b31b1b.svg)](https://arxiv.org/abs/2301.10460) | :heavy_minus_sign: |
+| FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation | [![GitHub](https://img.shields.io/github/stars/TY-Shi/FreeCOS)](https://github.com/TY-Shi/FreeCOS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07245-b31b1b.svg)](https://arxiv.org/abs/2307.07245) | :heavy_minus_sign: |
+| MasQCLIP for Open-Vocabulary Universal Image Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| CTVIS: Consistent Training for Online Video Instance Segmentation | [![GitHub](https://img.shields.io/github/stars/KainingYing/CTVIS)](https://github.com/KainingYing/CTVIS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12616-b31b1b.svg)](https://arxiv.org/abs/2307.12616) | :heavy_minus_sign: |
 | A Simple Framework for Panoptic Segmentation |  |  |  |
 | Spectrum-Guided Multi-Granularity Referring Video Object Segmentation |  |  |  |
 | Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation |  |  |  |
