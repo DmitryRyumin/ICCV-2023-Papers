@@ -266,9 +266,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Global Knowledge Calibration for Fast Open-Vocabulary Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.09181-b31b1b.svg)](https://arxiv.org/abs/2303.09181) | :heavy_minus_sign: |
 | Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.12350-b31b1b.svg)](https://arxiv.org/abs/2308.12350) | :heavy_minus_sign: |
 | Boosting Semantic Segmentation from an Explicit Class Embedding's Perspective | [![gitee](https://gitee-badge.vercel.app/svg/stars/mindspore/models)](https://gitee.com/mindspore/models) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12894-b31b1b.svg)](https://arxiv.org/abs/2308.12894) | :heavy_minus_sign: |
-| The Making and Breaking of Camouflage |  |  |  |
-| CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation |  |  |  |
-| Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation |  |  |  |
+| The Making and Breaking of Camouflage | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://meowuu7.github.io/few-arti-obj-gen/) <br /> [![GitHub](https://img.shields.io/github/stars/Meowuu7/few-arti-gen)](https://github.com/Meowuu7/few-arti-gen) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10898-b31b1b.svg)](https://arxiv.org/abs/2308.10898) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=p8x3GN3VSPE) |
 | HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling |  |  |  |
 | FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation |  |  |  |
 | MasQCLIP for Open-Vocabulary Universal Image Segmentation |  |  |  |
