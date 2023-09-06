@@ -258,11 +258,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | RbA: Segmenting Unknown Regions Rejected by All | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://kuis-ai.github.io/RbA/) <br /> [![GitHub](https://img.shields.io/github/stars/NazirNayal8/RbA)](https://github.com/NazirNayal8/RbA) | [![arXiv](https://img.shields.io/badge/arXiv-2211.14293-b31b1b.svg)](https://arxiv.org/abs/2211.14293) | :heavy_minus_sign: |
 | SEMPART: Self-Supervised Multi-Resolution Partitioning of Image Semantics | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Multi-Object Discovery by Low-Dimensional Object Motion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://kuis-ai.github.io/multi-object-segmentation/) <br /> [![GitHub](https://img.shields.io/github/stars/sadrasafa/multi-object-segmentation)](https://github.com/sadrasafa/multi-object-segmentation) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08027-b31b1b.svg)](https://arxiv.org/abs/2307.08027) | :heavy_minus_sign: |
-| MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory |  |  |  |
-| Treating Pseudo-Labels Generation as Image Matting for Weakly Supervised Semantic Segmentation |  |  |  |
-| BoxSnake: Polygonal Instance Segmentation with Box Supervision |  |  |  |
-| Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation |  |  |  |
-| Instance Neural Radiance Field |  |  |  |
+| MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Treating Pseudo-Labels Generation as Image Matting for Weakly Supervised Semantic Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| BoxSnake: Polygonal Instance Segmentation with Box Supervision | [![GitHub](https://img.shields.io/github/stars/Yangr116/BoxSnake)](https://github.com/Yangr116/BoxSnake) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11630-b31b1b.svg)](https://arxiv.org/abs/2303.11630) | :heavy_minus_sign: |
+| Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.01045-b31b1b.svg)](https://arxiv.org/abs/2308.01045) | :heavy_minus_sign: |
+| Instance Neural Radiance Field | [![GitHub](https://img.shields.io/github/stars/lyclyc52/Instance_NeRF)](https://github.com/lyclyc52/Instance_NeRF) | [![arXiv](https://img.shields.io/badge/arXiv-2304.04395-b31b1b.svg)](https://arxiv.org/abs/2304.04395) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=wW9Bme73coI) |
 | Global Knowledge Calibration for Fast Open-Vocabulary Segmentation |  |  |  |
 | Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation |  |  |  |
 | Boosting Semantic Segmentation from an Explicit Class Embedding's Perspective |  |  |  |
