@@ -278,8 +278,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation | [![GitHub](https://img.shields.io/github/stars/WangChangqi98/CSS)](https://github.com/WangChangqi98/CSS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09755-b31b1b.svg)](https://arxiv.org/abs/2307.09755) | :heavy_minus_sign: |
 | Adaptive Superpixel for Active Learning in Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.16817-b31b1b.svg)](https://arxiv.org/abs/2303.16817) | :heavy_minus_sign: |
 | Multimodal Variational Auto-Encoder based Audio-Visual Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation |  |  |  |
-| 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision |  |  |  |
+| Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation | [![GitHub](https://img.shields.io/github/stars/DLUT-yyc/Isomer)](https://github.com/DLUT-yyc/Isomer) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06693-b31b1b.svg)](https://arxiv.org/abs/2308.06693) | :heavy_minus_sign: |
+| 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jimmy15923.github.io/mit_web/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://vllab.cs.nctu.edu.tw/images/paper/iccv-yang23.pdf) | :heavy_minus_sign: |
 | Foreground-Background Separation through Concept Distillation from Generative Image Foundation Models |  |  |  |
 | SegPrompt: Boosting Open-World Segmentation via Category-Level Prompt Learning |  |  |  |
 | Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection |  |  |  |
