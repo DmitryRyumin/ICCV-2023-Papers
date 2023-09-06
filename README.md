@@ -273,11 +273,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation | [![GitHub](https://img.shields.io/github/stars/TY-Shi/FreeCOS)](https://github.com/TY-Shi/FreeCOS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07245-b31b1b.svg)](https://arxiv.org/abs/2307.07245) | :heavy_minus_sign: |
 | MasQCLIP for Open-Vocabulary Universal Image Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | CTVIS: Consistent Training for Online Video Instance Segmentation | [![GitHub](https://img.shields.io/github/stars/KainingYing/CTVIS)](https://github.com/KainingYing/CTVIS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12616-b31b1b.svg)](https://arxiv.org/abs/2307.12616) | :heavy_minus_sign: |
-| A Simple Framework for Panoptic Segmentation |  |  |  |
-| Spectrum-Guided Multi-Granularity Referring Video Object Segmentation |  |  |  |
-| Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation |  |  |  |
-| Adaptive Superpixel for Active Learning in Semantic Segmentation |  |  |  |
-| Multimodal Variational Auto-Encoder based Audio-Visual Segmentation |  |  |  |
+| A Simple Framework for Panoptic Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Spectrum-Guided Multi-Granularity Referring Video Object Segmentation | [![GitHub](https://img.shields.io/github/stars/bo-miao/SgMg)](https://github.com/bo-miao/SgMg) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13537-b31b1b.svg)](https://arxiv.org/abs/2307.13537) | :heavy_minus_sign: |
+| Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation | [![GitHub](https://img.shields.io/github/stars/WangChangqi98/CSS)](https://github.com/WangChangqi98/CSS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09755-b31b1b.svg)](https://arxiv.org/abs/2307.09755) | :heavy_minus_sign: |
+| Adaptive Superpixel for Active Learning in Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.16817-b31b1b.svg)](https://arxiv.org/abs/2303.16817) | :heavy_minus_sign: |
+| Multimodal Variational Auto-Encoder based Audio-Visual Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation |  |  |  |
 | 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision |  |  |  |
 | Foreground-Background Separation through Concept Distillation from Generative Image Foundation Models |  |  |  |
