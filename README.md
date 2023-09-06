@@ -280,7 +280,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Multimodal Variational Auto-Encoder based Audio-Visual Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation | [![GitHub](https://img.shields.io/github/stars/DLUT-yyc/Isomer)](https://github.com/DLUT-yyc/Isomer) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06693-b31b1b.svg)](https://arxiv.org/abs/2308.06693) | :heavy_minus_sign: |
 | 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jimmy15923.github.io/mit_web/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://vllab.cs.nctu.edu.tw/images/paper/iccv-yang23.pdf) | :heavy_minus_sign: |
-| Foreground-Background Separation through Concept Distillation from Generative Image Foundation Models |  |  |  |
+<!-- | Foreground-Background Separation through Concept Distillation from Generative Image Foundation Models |  |  |  |
 | SegPrompt: Boosting Open-World Segmentation via Category-Level Prompt Learning |  |  |  |
 | Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection |  |  |  |
 | A Simple Framework for Open-Vocabulary Segmentation and Detection |  |  |  |
@@ -310,7 +310,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | DVIS: Decoupled Video Instance Segmentation Framework |  |  |  |
 | 3D Segmentation of Humans in Point Clouds with Synthetic Data |  |  |  |
 | WaterMask: Instance Segmentation for Underwater Imagery |  |  |  |
-| Decoupled or End-to-End Trained Video Segmentation if Target Data is Scarce? |  |  |  |
+| Decoupled or End-to-End Trained Video Segmentation if Target Data is Scarce? |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
