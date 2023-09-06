@@ -263,9 +263,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | BoxSnake: Polygonal Instance Segmentation with Box Supervision | [![GitHub](https://img.shields.io/github/stars/Yangr116/BoxSnake)](https://github.com/Yangr116/BoxSnake) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11630-b31b1b.svg)](https://arxiv.org/abs/2303.11630) | :heavy_minus_sign: |
 | Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.01045-b31b1b.svg)](https://arxiv.org/abs/2308.01045) | :heavy_minus_sign: |
 | Instance Neural Radiance Field | [![GitHub](https://img.shields.io/github/stars/lyclyc52/Instance_NeRF)](https://github.com/lyclyc52/Instance_NeRF) | [![arXiv](https://img.shields.io/badge/arXiv-2304.04395-b31b1b.svg)](https://arxiv.org/abs/2304.04395) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=wW9Bme73coI) |
-| Global Knowledge Calibration for Fast Open-Vocabulary Segmentation |  |  |  |
-| Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation |  |  |  |
-| Boosting Semantic Segmentation from an Explicit Class Embedding's Perspective |  |  |  |
+| Global Knowledge Calibration for Fast Open-Vocabulary Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.09181-b31b1b.svg)](https://arxiv.org/abs/2303.09181) | :heavy_minus_sign: |
+| Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.12350-b31b1b.svg)](https://arxiv.org/abs/2308.12350) | :heavy_minus_sign: |
+| Boosting Semantic Segmentation from an Explicit Class Embedding's Perspective | [![stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fgitee-badge.vercel.app%2Fjson%2Fstars%2mindspore%2Fmodels 'stars')](https://gitee.com/mindspore/models) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12894-b31b1b.svg)](https://arxiv.org/abs/2308.12894) | :heavy_minus_sign: |
 | The Making and Breaking of Camouflage |  |  |  |
 | CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation |  |  |  |
 | Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation |  |  |  |
