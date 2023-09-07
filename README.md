@@ -324,10 +324,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance | :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_minus_sign: |
 | CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.16634-b31b1b.svg)](https://arxiv.org/abs/2307.16634) | :heavy_minus_sign: |
 | RankMixup: Ranking-based Mixup Training for Network Calibration | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://cvlab.yonsei.ac.kr/projects/RankMixup/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11990-b31b1b.svg)](https://arxiv.org/abs/2308.11990) | :heavy_minus_sign: |
-| Label-Noise Learning with Intrinsically Long-Tailed Data |  |  |  |
-| Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition |  |  |  |
-| Rethinking Mobile Block for Efficient Attention-based Models |  |  |  |
-| Read-Only Prompt Optimization for Vision-Language Few-Shot Learning |  |  |  |
+| Label-Noise Learning with Intrinsically Long-Tailed Data | [![GitHub](https://img.shields.io/github/stars/Wakings/TABASCO)](https://github.com/Wakings/TABASCO) | [![arXiv](https://img.shields.io/badge/arXiv-2208.09833-b31b1b.svg)](https://arxiv.org/abs/2208.09833) | :heavy_minus_sign: |
+| Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition | [![GitHub](https://img.shields.io/github/stars/starrycos/PAINet)](https://github.com/starrycos/PAINet) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Rethinking Mobile Block for Efficient Attention-based Models | [![GitHub](https://img.shields.io/github/stars/zhangzjn/EMO)](https://github.com/zhangzjn/EMO) | [![arXiv](https://img.shields.io/badge/arXiv-2301.01146-b31b1b.svg)](https://arxiv.org/abs/2301.01146) | :heavy_minus_sign: |
+| Read-Only Prompt Optimization for Vision-Language Few-Shot Learning | [![GitHub](https://img.shields.io/github/stars/mlvlab/RPO)](https://github.com/mlvlab/RPO) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14960-b31b1b.svg)](https://arxiv.org/abs/2308.14960) | :heavy_minus_sign: |
 | Understanding Self-Attention Mechanism via Dynamical System Perspective |  |  |  |
 | Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels |  |  |  |
 | What do Neural Networks Learn in Image Classification? A Frequency Shortcut Perspective |  |  |  |
