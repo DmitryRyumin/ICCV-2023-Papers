@@ -365,11 +365,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Distilled Reverse Attention Network for Open-World Compositional Zero-Shot Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.00404-b31b1b.svg)](https://arxiv.org/abs/2303.00404) | :heavy_minus_sign: |
 | Candidate-Aware Selective Disambiguation based on Normalized Entropy for Instance-Dependent Partial-Label Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No |  |  |  |
-| Self-Similarity Driven Scale-Invariant Learning for Weakly Supervised Person Search |  |  |  |
-| Sample-Wise Label Confidence Incorporation for Learning with Noisy Labels |  |  |  |
-| Combating Noisy Labels with Sample Selection by Mining High-Discrepancy Examples |  |  |  |
-| Spatial-Aware Token for Weakly Supervised Object Localization |  |  |  |
+| CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No | [![GitHub](https://img.shields.io/github/stars/xmed-lab/CLIPN)](https://github.com/xmed-lab/CLIPN) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12213-b31b1b.svg)](https://arxiv.org/abs/2308.12213) | :heavy_minus_sign: |
+| Self-Similarity Driven Scale-Invariant Learning for Weakly Supervised Person Search | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2302.12986-b31b1b.svg)](https://arxiv.org/abs/2302.12986) | :heavy_minus_sign: |
+| Sample-Wise Label Confidence Incorporation for Learning with Noisy Labels | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Combating Noisy Labels with Sample Selection by Mining High-Discrepancy Examples | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Spatial-Aware Token for Weakly Supervised Object Localization | [![GitHub](https://img.shields.io/github/stars/wpy1999/SAT)](https://github.com/wpy1999/SAT) | [![arXiv](https://img.shields.io/badge/arXiv-2303.10438-b31b1b.svg)](https://arxiv.org/abs/2303.10438) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
