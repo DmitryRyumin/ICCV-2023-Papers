@@ -280,37 +280,37 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Multimodal Variational Auto-Encoder based Audio-Visual Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Isomer: Isomerous Transformer for Zero-Shot Video Object Segmentation | [![GitHub](https://img.shields.io/github/stars/DLUT-yyc/Isomer)](https://github.com/DLUT-yyc/Isomer) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06693-b31b1b.svg)](https://arxiv.org/abs/2308.06693) | :heavy_minus_sign: |
 | 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jimmy15923.github.io/mit_web/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://vllab.cs.nctu.edu.tw/images/paper/iccv-yang23.pdf) | :heavy_minus_sign: |
-<!-- | Foreground-Background Separation through Concept Distillation from Generative Image Foundation Models |  |  |  |
-| SegPrompt: Boosting Open-World Segmentation via Category-Level Prompt Learning |  |  |  |
-| Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection |  |  |  |
-| A Simple Framework for Open-Vocabulary Segmentation and Detection |  |  |  |
-| Source-Free Depth for Object Pop-Out |  |  |  |
-| DynaMITe: Dynamic Query Bootstrapping for Multi-Object Interactive Segmentation Transformer |  |  |  |
-| Atmospheric Transmission and Thermal Inertia Induced Blind Road Segmentation with a Large-Scale Dataset TBRSD |  |  |  |
-| Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation |  |  |  |
-| Homography Guided Temporal Fusion for Road Line and Marking Segmentation |  |  |  |
-| Zero-Shot Semantic Segmentation with Decoupled One-Shot Network |  |  |  |
-| TCOVIS: Temporally Consistent Online Video Instance Segmentation |  |  |  |
-| FPR: False Positive Rectification for Weakly Supervised Semantic Segmentation |  |  |  |
-| Stochastic Segmentation with Conditional Categorical Diffusion Models |  |  |  |
-| Segmenting Everything in Context |  |  |  |
-| Open-Vocabulary Panoptic Segmentation with Embedding Modulation |  |  |  |
-| Residual Pattern Learning for Pixel-Wise Out-of-Distribution Detection in Semantic Segmentation |  |  |  |
-| Zero-Guidance Segmentation using Zero Segment Labels |  |  |  |
-| Model Calibration in Dense Classification with Adaptive Label Perturbation |  |  |  |
-| Enhanced Soft Label for Semi-Supervised Semantic Segmentation |  |  |  |
-| MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation |  |  |  |
-| DiffuMask: Synthesizing Images with Pixel-Level Annotations for Semantic Segmentation Using Diffusion Models |  |  |  |
-| Alignment Before Aggregation: Trajectory Memory Retrieval Network for Video Object Segmentation |  |  |  |
-| Semi-Supervised Semantic Segmentation under Label Noise via Diverse Learning Groups |  |  |  |
-| SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal Targets |  |  |  |
-| Class-Incremental Continual Learning for Instance Segmentation with Image-Level Weak Supervision |  |  |  |
-| Coarse-to-Fine Amodal Segmentation with Shape Prior |  |  |  |
-| Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-Centric Representation |  |  |  |
-| DVIS: Decoupled Video Instance Segmentation Framework |  |  |  |
-| 3D Segmentation of Humans in Point Clouds with Synthetic Data |  |  |  |
-| WaterMask: Instance Segmentation for Underwater Imagery |  |  |  |
-| Decoupled or End-to-End Trained Video Segmentation if Target Data is Scarce? |  |  |  | -->
+| Foreground-Background Separation through Concept Distillation from Generative Image Foundation Models | [![GitHub](https://img.shields.io/github/stars/MischaD/fobadiffusion)](https://github.com/MischaD/fobadiffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2212.14306-b31b1b.svg)](https://arxiv.org/abs/2212.14306) | :heavy_minus_sign: |
+| SegPrompt: Boosting Open-World Segmentation via Category-Level Prompt Learning | [![GitHub](https://img.shields.io/github/stars/aim-uofa/SegPrompt)](https://github.com/aim-uofa/SegPrompt) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06531-b31b1b.svg)](https://arxiv.org/abs/2308.06531) | :heavy_minus_sign: |
+| Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yeren123455.github.io/SIRST-Single-Point-Supervision/) <br /> [![GitHub](https://img.shields.io/github/stars/YeRen123455/SIRST-Single-Point-Supervision)](https://github.com/YeRen123455/SIRST-Single-Point-Supervision) | [![arXiv](https://img.shields.io/badge/arXiv-2304.04442-b31b1b.svg)](https://arxiv.org/abs/2304.04442) | :heavy_minus_sign: |
+| A Simple Framework for Open-Vocabulary Segmentation and Detection | [![GitHub](https://img.shields.io/github/stars/IDEA-Research/OpenSeeD)](https://github.com/IDEA-Research/OpenSeeD) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08131-b31b1b.svg)](https://arxiv.org/abs/2303.08131) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=z4gsQw2n7iM) |
+| Source-Free Depth for Object Pop-Out | [![GitHub](https://img.shields.io/github/stars/Zongwei97/PopNet)](https://github.com/Zongwei97/PopNet) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05370-b31b1b.svg)](https://arxiv.org/abs/2212.05370) | :heavy_minus_sign: |
+| DynaMITe: Dynamic Query Bootstrapping for Multi-Object Interactive Segmentation Transformer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://amitrana001.github.io/DynaMITe/) <br /> [![GitHub](https://img.shields.io/github/stars/amitrana001/DynaMITe)](https://github.com/amitrana001/DynaMITe) | [![arXiv](https://img.shields.io/badge/arXiv-2304.06668-b31b1b.svg)](https://arxiv.org/abs/2304.06668) | :heavy_minus_sign: |
+| Atmospheric Transmission and Thermal Inertia Induced Blind Road Segmentation with a Large-Scale Dataset TBRSD | :heavy_minus_sign: | [![GitHub](https://img.shields.io/github/stars/chenjzBUAA/TBRSD)](https://github.com/chenjzBUAA/TBRSD) | :heavy_minus_sign: |
+| Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Homography Guided Temporal Fusion for Road Line and Marking Segmentation | :heavy_minus_sign: | [![GitHub](https://img.shields.io/github/stars/ShanWang-Shan/HomoFusion)](https://github.com/ShanWang-Shan/HomoFusion) | :heavy_minus_sign: |
+| Zero-Shot Semantic Segmentation with Decoupled One-Shot Network | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| TCOVIS: Temporally Consistent Online Video Instance Segmentation | [![GitHub](https://img.shields.io/github/stars/jun-long-li/TCOVIS)](https://github.com/jun-long-li/TCOVIS) | :heavy_minus_sign: | :heavy_minus_sign: |
+| FPR: False Positive Rectification for Weakly Supervised Semantic Segmentation | [![GitHub](https://img.shields.io/github/stars/mt-cly/FPR)](https://github.com/mt-cly/FPR) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ICCV23-FPR.pdf) | :heavy_minus_sign: |
+| Stochastic Segmentation with Conditional Categorical Diffusion Models | [![GitHub](https://img.shields.io/github/stars/LarsDoorenbos/ccdm-stochastic-segmentation)](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08888-b31b1b.svg)](https://arxiv.org/abs/2303.08888) | :heavy_minus_sign: |
+| SegGPT: Segmenting Everything in Context | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/baaivision/Painter/tree/main/SegGPT) <br /> [![GitHub](https://img.shields.io/github/stars/baaivision/Painter)](https://github.com/baaivision/Painter) <br /> [![Hugging Face](https://img.shields.io/badge/🤗-SegGPT-FFD21F.svg)](https://huggingface.co/spaces/BAAI/SegGPT) | [![arXiv](https://img.shields.io/badge/arXiv-2304.03284-b31b1b.svg)](https://arxiv.org/abs/2304.03284) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=zxwH0dUBKis) |
+| Open-Vocabulary Panoptic Segmentation with Embedding Modulation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.11324-b31b1b.svg)](https://arxiv.org/abs/2303.11324) | :heavy_minus_sign: |
+| Residual Pattern Learning for Pixel-Wise Out-of-Distribution Detection in Semantic Segmentation | [![GitHub](https://img.shields.io/github/stars/yyliu01/RPL)](https://github.com/yyliu01/RPL) | [![arXiv](https://img.shields.io/badge/arXiv-2211.14512-b31b1b.svg)](https://arxiv.org/abs/2211.14512) | :heavy_minus_sign: |
+| Zero-Guidance Segmentation using Zero Segment Labels | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zero-guide-seg.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13396-b31b1b.svg)](https://arxiv.org/abs/2303.13396) | :heavy_minus_sign: |
+| Model Calibration in Dense Classification with Adaptive Label Perturbation | [![GitHub](https://img.shields.io/github/stars/Carlisle-Liu/ASLP)](https://github.com/Carlisle-Liu/ASLP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13539-b31b1b.svg)](https://arxiv.org/abs/2307.13539) | :heavy_minus_sign: |
+| Enhanced Soft Label for Semi-Supervised Semantic Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.04829-b31b1b.svg)](https://arxiv.org/abs/2308.04829) | :heavy_minus_sign: |
+| DiffuMask: Synthesizing Images with Pixel-Level Annotations for Semantic Segmentation using Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://weijiawu.github.io/DiffusionMask/) <br /> [![GitHub](https://img.shields.io/github/stars/weijiawu/DiffuMask)](https://github.com/weijiawu/DiffuMask) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11681-b31b1b.svg)](https://arxiv.org/abs/2303.11681) | :heavy_minus_sign: |
+| Alignment Before Aggregation: Trajectory Memory Retrieval Network for Video Object Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Semi-Supervised Semantic Segmentation under Label Noise via Diverse Learning Groups | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal Targets | [![GitHub](https://img.shields.io/github/stars/csimo005/SUMMIT)](https://github.com/csimo005/SUMMIT) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11880-b31b1b.svg)](https://arxiv.org/abs/2308.11880) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=LDlLq9IdoAw) |
+| Class-Incremental Continual Learning for Instance Segmentation with Image-Level Weak Supervision | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Coarse-to-Fine Amodal Segmentation with Shape Prior | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jianxgao.github.io/C2F-Seg/) <br /> [![GitHub](https://img.shields.io/github/stars/weijiawu/DiffuMask)](https://github.com/JianxGao/C2F-Seg) | [![arXiv](https://img.shields.io/badge/arXiv-2308.16825-b31b1b.svg)](https://arxiv.org/abs/2308.16825) | :heavy_minus_sign: |
+| Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-Centric Representation | [![GitHub](https://img.shields.io/github/stars/kfan21/EoRaS)](https://github.com/kfan21/EoRaS) | :heavy_minus_sign: | :heavy_minus_sign: |
+| DVIS: Decoupled Video Instance Segmentation Framework | [![GitHub](https://img.shields.io/github/stars/zhang-tao-whu/DVIS)](https://github.com/zhang-tao-whu/DVIS) | [![arXiv](https://img.shields.io/badge/arXiv-2306.03413-b31b1b.svg)](https://arxiv.org/abs/2306.03413) | :heavy_minus_sign: |
+| 3D Segmentation of Humans in Point Clouds with Synthetic Data | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://human-3d.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2212.00786-b31b1b.svg)](https://arxiv.org/abs/2212.00786) | :heavy_minus_sign: |
+| WaterMask: Instance Segmentation for Underwater Imagery | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Decoupled or End-to-End Trained Video Segmentation if Target Data is Scarce? | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
