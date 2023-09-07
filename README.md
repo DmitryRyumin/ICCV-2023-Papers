@@ -396,10 +396,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks | [![GitHub](https://img.shields.io/github/stars/hqhQAQ/EvalProtoPNet)](https://github.com/hqhQAQ/EvalProtoPNet) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05946-b31b1b.svg)](https://arxiv.org/abs/2212.05946) | :heavy_minus_sign: |
 | MoreauGrad: Sparse and Robust Interpretation of Neural Networks via Moreau Envelope | [![GitHub](https://img.shields.io/github/stars/buyeah1109/MoreauGrad)](https://github.com/buyeah1109/MoreauGrad) | [![arXiv](https://img.shields.io/badge/arXiv-2302.05294-b31b1b.svg)](https://arxiv.org/abs/2302.05294) | :heavy_minus_sign: |
 | Towards Understanding the Generalization of Deepfake Detectors from a Game-Theoretical View | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Counterfactual-based Saliency Map: Towards Visual Contrastive Explanations for Neural Networks |  |  |  |
-| Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling |  |  |  |
-| Learning Support and Trivial Prototypes for Interpretable Image Classification |  |  |  |
-| Visual Explanations via Iterated Integrated Gradients |  |  |  |
+| Counterfactual-based Saliency Map: Towards Visual Contrastive Explanations for Neural Networks | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Learning Support and Trivial Prototypes for Interpretable Image Classification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.04011-b31b1b.svg)](https://arxiv.org/abs/2301.04011) | :heavy_minus_sign: |
+| Visual Explanations via Iterated Integrated Gradients | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
