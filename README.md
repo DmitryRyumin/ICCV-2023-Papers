@@ -353,12 +353,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | MetaGCD: Learning to Continually Learn in Generalized Category Discovery | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.11063-b31b1b.svg)](https://arxiv.org/abs/2308.11063) | :heavy_minus_sign: |
 | FerKD: Surgical Label Adaptation for Efficient Distillation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Point-Query Quadtree for Crowd Counting, Localization, and More |  |  |  |
-| Nearest Neighbor Guidance for Out-of-Distribution Detection |  |  |  |
-| Bayesian Optimization Meets Self-Distillation |  |  |  |
-| When Prompt-based Incremental Learning does not Meet Strong Pretraining |  |  |  |
-| When to Learn what: Model-Adaptive Data Augmentation Curriculum |  |  |  |
-| Parametric Information Maximization for Generalized Category Discovery |  |  |  |
+| Point-Query Quadtree for Crowd Counting, Localization, and more | [![GitHub](https://img.shields.io/github/stars/cxliu0/PET)](https://github.com/cxliu0/PET) | [![arXiv](https://img.shields.io/badge/arXiv-2308.13814-b31b1b.svg)](https://arxiv.org/abs/2308.13814) | :heavy_minus_sign: |
+| Nearest Neighbor Guidance for Out-of-Distribution Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Bayesian Optimization Meets Self-Distillation | [![GitHub](https://img.shields.io/github/stars/sooperset/boss)](https://github.com/sooperset/boss) | [![arXiv](https://img.shields.io/badge/arXiv-2304.12666-b31b1b.svg)](https://arxiv.org/abs/2304.12666) | :heavy_minus_sign: |
+| When Prompt-based Incremental Learning does not Meet Strong Pretraining | [![GitHub](https://img.shields.io/github/stars/TOM-tym/APG)](https://github.com/TOM-tym/APG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10445-b31b1b.svg)](https://arxiv.org/abs/2308.10445) | :heavy_minus_sign: |
+| When to Learn what: Model-Adaptive Data Augmentation Curriculum | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Parametric Information Maximization for Generalized Category Discovery | [![GitHub](https://img.shields.io/github/stars/ThalesGroup/pim-generalized-category-discovery)](https://github.com/ThalesGroup/pim-generalized-category-discovery) | [![arXiv](https://img.shields.io/badge/arXiv-2212.00334-b31b1b.svg)](https://arxiv.org/abs/2212.00334) | :heavy_minus_sign: |
 | Boosting Few-Shot Action Recognition with Graph-Guided Hybrid Matching |  |  |  |
 | Domain Generalization via Rationale Invariance |  |  |  |
 | Masked Spiking Transformer |  |  |  |
