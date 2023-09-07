@@ -328,9 +328,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition | [![GitHub](https://img.shields.io/github/stars/starrycos/PAINet)](https://github.com/starrycos/PAINet) | :heavy_minus_sign: | :heavy_minus_sign: |
 | Rethinking Mobile Block for Efficient Attention-based Models | [![GitHub](https://img.shields.io/github/stars/zhangzjn/EMO)](https://github.com/zhangzjn/EMO) | [![arXiv](https://img.shields.io/badge/arXiv-2301.01146-b31b1b.svg)](https://arxiv.org/abs/2301.01146) | :heavy_minus_sign: |
 | Read-Only Prompt Optimization for Vision-Language Few-Shot Learning | [![GitHub](https://img.shields.io/github/stars/mlvlab/RPO)](https://github.com/mlvlab/RPO) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14960-b31b1b.svg)](https://arxiv.org/abs/2308.14960) | :heavy_minus_sign: |
-| Understanding Self-Attention Mechanism via Dynamical System Perspective |  |  |  |
-| Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels |  |  |  |
-| What do Neural Networks Learn in Image Classification? A Frequency Shortcut Perspective |  |  |  |
+| Understanding Self-Attention Mechanism via Dynamical System Perspective | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09939-b31b1b.svg)](https://arxiv.org/abs/2308.09939) | :heavy_minus_sign: |
+| Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.10539-b31b1b.svg)](https://arxiv.org/abs/2304.10539) | :heavy_minus_sign: |
+| What do Neural Networks Learn in Image Classification? A Frequency Shortcut Perspective | [![GitHub](https://img.shields.io/github/stars/nis-research/nn-frequency-shortcuts)](https://github.com/nis-research/nn-frequency-shortcuts) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09829-b31b1b.svg)](https://arxiv.org/abs/2307.09829) | :heavy_minus_sign: |
 | Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity |  |  |  |
 | Unified Out-of-Distribution Detection: A Model-Specific Perspective |  |  |  |
 | A Unified Framework for Robustness on Diverse Sampling Errors |  |  |  |
