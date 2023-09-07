@@ -318,7 +318,58 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Recognition: Categorization
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Cross Contrasting Feature Perturbation for Domain Generalization | [![GitHub](https://img.shields.io/github/stars/hackmebroo/CCFP)](https://github.com/hackmebroo/CCFP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12502-b31b1b.svg)](https://arxiv.org/abs/2307.12502) | :heavy_minus_sign: |
+| Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance | :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_minus_sign: |
+| CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification |  |  |  |
+| RankMixup: Ranking-based Mixup Training for Network Calibration |  |  |  |
+| Label-Noise Learning with Intrinsically Long-Tailed Data |  |  |  |
+| Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition |  |  |  |
+| Rethinking Mobile Block for Efficient Attention-based Models |  |  |  |
+| Read-Only Prompt Optimization for Vision-Language Few-Shot Learning |  |  |  |
+| Understanding Self-Attention Mechanism via Dynamical System Perspective |  |  |  |
+| Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels |  |  |  |
+| What do Neural Networks Learn in Image Classification? A Frequency Shortcut Perspective |  |  |  |
+| Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity |  |  |  |
+| Unified Out-of-Distribution Detection: A Model-Specific Perspective |  |  |  |
+| A Unified Framework for Robustness on Diverse Sampling Errors |  |  |  |
+| Scene-Aware Label Graph Learning for Multi-Label Image Classification |  |  |  |
+| Holistic Label Correction for Noisy Multi-Label Classification |  |  |  |
+| Strip-MLP: Efficient Token Interaction for Vision MLP |  |  |  |
+| EQ-Net: Elastic Quantization Neural Networks |  |  |  |
+| Data-Free Knowledge Distillation for Fine-Grained Vision Categorization |  |  |  |
+| Shift from Texture-Bias to Shape-Bias: edge Deformation-based Augmentation for Robust Object Recognition |  |  |  |
+| Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition |  |  |  |
+| DR-Tune: Improving Fine-Tuning of Pretrained Visual Models by Distribution Regularization with Semantic Calibration |  |  |  |
+| Understanding the Feature Norm for Out-of-Distribution Detection |  |  |  |
+| Multi-View Active Fine-Grained Visual Recognition |  |  |  |
+| DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-Trained Diffusion Models |  |  |  |
+| Task-Aware Adaptive Learning for Cross-Domain Few-Shot Learning |  |  |  |
+| Improving Adversarial Robustness of Masked Autoencoders via Test-Time Frequency-Domain Prompting |  |  |  |
+| Saliency Regularization for Self-Training with Partial Annotations |  |  |  |
+| Learning Gabor Texture Features for Fine-Grained Recognition |  |  |  |
+| UniFormerV2: Unlocking the Potential of Image ViTs for Video Understanding |  |  |  |
+| RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels |  |  |  |
+| MetaGCD: Learning to Continually Learn in Generalized Category Discovery |  |  |  |
+| FerKD: Surgical Label Adaptation for Efficient Distillation |  |  |  |
+| Point-Query Quadtree for Crowd Counting, Localization, and More |  |  |  |
+| Nearest Neighbor Guidance for Out-of-Distribution Detection |  |  |  |
+| Bayesian Optimization Meets Self-Distillation |  |  |  |
+| When Prompt-based Incremental Learning does not Meet Strong Pretraining |  |  |  |
+| When to Learn what: Model-Adaptive Data Augmentation Curriculum |  |  |  |
+| Parametric Information Maximization for Generalized Category Discovery |  |  |  |
+| Boosting Few-Shot Action Recognition with Graph-Guided Hybrid Matching |  |  |  |
+| Domain Generalization via Rationale Invariance |  |  |  |
+| Masked Spiking Transformer |  |  |  |
+| Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning |  |  |  |
+| Distilled Reverse Attention Network for Open-World Compositional Zero-Shot Learning |  |  |  |
+| Candidate-Aware Selective Disambiguation based on Normalized Entropy for Instance-Dependent Partial-Label Learning |  |  |  |
+| CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No |  |  |  |
+| Self-Similarity Driven Scale-Invariant Learning for Weakly Supervised Person Search |  |  |  |
+| Sample-Wise Label Confidence Incorporation for Learning with Noisy Labels |  |  |  |
+| Combating Noisy Labels with Sample Selection by Mining High-Discrepancy Examples |  |  |  |
+| Spatial-Aware Token for Weakly Supervised Object Localization |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
