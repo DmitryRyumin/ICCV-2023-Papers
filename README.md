@@ -338,16 +338,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Holistic Label Correction for Noisy Multi-Label Classification | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Strip-MLP: Efficient Token Interaction for Vision MLP | [![GitHub](https://img.shields.io/github/stars/Med-Process/Strip_MLP)](https://github.com/Med-Process/Strip_MLP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11458-b31b1b.svg)](https://arxiv.org/abs/2307.11458) | :heavy_minus_sign: |
 | EQ-Net: Elastic Quantization Neural Networks | [![GitHub](https://img.shields.io/github/stars/xuke225/EQ-Net)](https://github.com/xuke225/EQ-Net) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07650-b31b1b.svg)](https://arxiv.org/abs/2308.07650) | :heavy_minus_sign: |
-| Data-Free Knowledge Distillation for Fine-Grained Vision Categorization |  |  |  |
-| Shift from Texture-Bias to Shape-Bias: edge Deformation-based Augmentation for Robust Object Recognition |  |  |  |
-| Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition |  |  |  |
-| DR-Tune: Improving Fine-Tuning of Pretrained Visual Models by Distribution Regularization with Semantic Calibration |  |  |  |
-| Understanding the Feature Norm for Out-of-Distribution Detection |  |  |  |
-| Multi-View Active Fine-Grained Visual Recognition |  |  |  |
-| DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-Trained Diffusion Models |  |  |  |
-| Task-Aware Adaptive Learning for Cross-Domain Few-Shot Learning |  |  |  |
-| Improving Adversarial Robustness of Masked Autoencoders via Test-Time Frequency-Domain Prompting |  |  |  |
-| Saliency Regularization for Self-Training with Partial Annotations |  |  |  |
+| Data-Free Knowledge Distillation for Fine-Grained Vision Categorization | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Shift from Texture-Bias to Shape-Bias: edge Deformation-based Augmentation for Robust Object Recognition | [![GitHub](https://img.shields.io/github/stars/C0notSilly/-ICCV-23-Edge-Deformation-based-Online-Augmentation)](https://github.com/C0notSilly/-ICCV-23-Edge-Deformation-based-Online-Augmentation) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition | [![GitHub](https://img.shields.io/github/stars/leeisack/Latent-OFER)](https://github.com/leeisack/Latent-OFER) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11404-b31b1b.svg)](https://arxiv.org/abs/2307.11404) | :heavy_minus_sign: |
+| DR-Tune: Improving Fine-Tuning of Pretrained Visual Models by Distribution Regularization with Semantic Calibration | [![GitHub](https://img.shields.io/github/stars/weeknan/DR-Tune)](https://github.com/weeknan/DR-Tune) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12058-b31b1b.svg)](https://arxiv.org/abs/2308.12058) | :heavy_minus_sign: |
+| Understanding the Feature Norm for Out-of-Distribution Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Multi-View Active Fine-Grained Visual Recognition | [![GitHub](https://img.shields.io/github/stars/PRIS-CV/AFGR)](https://github.com/PRIS-CV/AFGR) | [![arXiv](https://img.shields.io/badge/arXiv-2206.01153-b31b1b.svg)](https://arxiv.org/abs/2206.01153) | :heavy_minus_sign: |
+| DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-Trained Diffusion Models | [![GitHub](https://img.shields.io/github/stars/cure-lab/DiffGuard)](https://github.com/cure-lab/DiffGuard) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07687-b31b1b.svg)](https://arxiv.org/abs/2308.07687) | :heavy_minus_sign: |
+| Task-Aware Adaptive Learning for Cross-Domain Few-Shot Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Improving Adversarial Robustness of Masked Autoencoders via Test-Time Frequency-Domain Prompting | [![GitHub](https://img.shields.io/github/stars/shikiw/RobustMAE)](https://github.com/shikiw/RobustMAE) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10315-b31b1b.svg)](https://arxiv.org/abs/2308.10315) | :heavy_minus_sign: |
+| Saliency Regularization for Self-Training with Partial Annotations | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Learning Gabor Texture Features for Fine-Grained Recognition |  |  |  |
 | UniFormerV2: Unlocking the Potential of Image ViTs for Video Understanding |  |  |  |
 | RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels |  |  |  |
