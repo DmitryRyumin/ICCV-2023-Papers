@@ -348,11 +348,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Task-Aware Adaptive Learning for Cross-Domain Few-Shot Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Improving Adversarial Robustness of Masked Autoencoders via Test-Time Frequency-Domain Prompting | [![GitHub](https://img.shields.io/github/stars/shikiw/RobustMAE)](https://github.com/shikiw/RobustMAE) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10315-b31b1b.svg)](https://arxiv.org/abs/2308.10315) | :heavy_minus_sign: |
 | Saliency Regularization for Self-Training with Partial Annotations | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Learning Gabor Texture Features for Fine-Grained Recognition |  |  |  |
-| UniFormerV2: Unlocking the Potential of Image ViTs for Video Understanding |  |  |  |
-| RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels |  |  |  |
-| MetaGCD: Learning to Continually Learn in Generalized Category Discovery |  |  |  |
-| FerKD: Surgical Label Adaptation for Efficient Distillation |  |  |  |
+| Learning Gabor Texture Features for Fine-Grained Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.05396-b31b1b.svg)](https://arxiv.org/abs/2308.05396) | :heavy_minus_sign: |
+| UniFormerV2: Unlocking the Potential of Image ViTs for Video Understanding | [![GitHub](https://img.shields.io/github/stars/OpenGVLab/UniFormerV2)](https://github.com/OpenGVLab/UniFormerV2) | [![arXiv](https://img.shields.io/badge/arXiv-2211.09552-b31b1b.svg)](https://arxiv.org/abs/2211.09552) | :heavy_minus_sign: |
+| RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MetaGCD: Learning to Continually Learn in Generalized Category Discovery | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.11063-b31b1b.svg)](https://arxiv.org/abs/2308.11063) | :heavy_minus_sign: |
+| FerKD: Surgical Label Adaptation for Efficient Distillation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Point-Query Quadtree for Crowd Counting, Localization, and More |  |  |  |
 | Nearest Neighbor Guidance for Out-of-Distribution Detection |  |  |  |
 | Bayesian Optimization Meets Self-Distillation |  |  |  |
