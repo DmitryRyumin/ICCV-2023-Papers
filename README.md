@@ -359,12 +359,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | When Prompt-based Incremental Learning does not Meet Strong Pretraining | [![GitHub](https://img.shields.io/github/stars/TOM-tym/APG)](https://github.com/TOM-tym/APG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10445-b31b1b.svg)](https://arxiv.org/abs/2308.10445) | :heavy_minus_sign: |
 | When to Learn what: Model-Adaptive Data Augmentation Curriculum | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Parametric Information Maximization for Generalized Category Discovery | [![GitHub](https://img.shields.io/github/stars/ThalesGroup/pim-generalized-category-discovery)](https://github.com/ThalesGroup/pim-generalized-category-discovery) | [![arXiv](https://img.shields.io/badge/arXiv-2212.00334-b31b1b.svg)](https://arxiv.org/abs/2212.00334) | :heavy_minus_sign: |
-| Boosting Few-Shot Action Recognition with Graph-Guided Hybrid Matching |  |  |  |
-| Domain Generalization via Rationale Invariance |  |  |  |
-| Masked Spiking Transformer |  |  |  |
-| Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning |  |  |  |
-| Distilled Reverse Attention Network for Open-World Compositional Zero-Shot Learning |  |  |  |
-| Candidate-Aware Selective Disambiguation based on Normalized Entropy for Instance-Dependent Partial-Label Learning |  |  |  |
+| Boosting Few-Shot Action Recognition with Graph-Guided Hybrid Matching | [![GitHub](https://img.shields.io/github/stars/jiazheng-xing/GgHM)](https://github.com/jiazheng-xing/GgHM) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09346-b31b1b.svg)](https://arxiv.org/abs/2308.09346) | :heavy_minus_sign: |
+| Domain Generalization via Rationale Invariance | [![GitHub](https://img.shields.io/github/stars/liangchen527/RIDG)](https://github.com/liangchen527/RIDG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11158-b31b1b.svg)](https://arxiv.org/abs/2308.11158) | :heavy_minus_sign: |
+| Masked Spiking Transformer | [![GitHub](https://img.shields.io/github/stars/bic-L/Masked-Spiking-Transformer)](https://github.com/bic-L/Masked-Spiking-Transformer) | [![arXiv](https://img.shields.io/badge/arXiv-2210.01208-b31b1b.svg)](https://arxiv.org/abs/2210.01208) | :heavy_minus_sign: |
+| Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Distilled Reverse Attention Network for Open-World Compositional Zero-Shot Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.00404-b31b1b.svg)](https://arxiv.org/abs/2303.00404) | :heavy_minus_sign: |
+| Candidate-Aware Selective Disambiguation based on Normalized Entropy for Instance-Dependent Partial-Label Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No |  |  |  |
 | Self-Similarity Driven Scale-Invariant Learning for Weakly Supervised Person Search |  |  |  |
 | Sample-Wise Label Confidence Incorporation for Learning with Noisy Labels |  |  |  |
