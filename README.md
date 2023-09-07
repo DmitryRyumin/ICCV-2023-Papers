@@ -332,12 +332,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.10539-b31b1b.svg)](https://arxiv.org/abs/2304.10539) | :heavy_minus_sign: |
 | What do Neural Networks Learn in Image Classification? A Frequency Shortcut Perspective | [![GitHub](https://img.shields.io/github/stars/nis-research/nn-frequency-shortcuts)](https://github.com/nis-research/nn-frequency-shortcuts) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09829-b31b1b.svg)](https://arxiv.org/abs/2307.09829) | :heavy_minus_sign: |
 | Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity | [![GitHub](https://img.shields.io/github/stars/ltong1130ztr/HAFrame)](https://github.com/ltong1130ztr/HAFrame) | [![arXiv](https://img.shields.io/badge/arXiv-2303.05689-b31b1b.svg)](https://arxiv.org/abs/2303.05689) | :heavy_minus_sign: |
-| Unified Out-of-Distribution Detection: A Model-Specific Perspective |  |  |  |
-| A Unified Framework for Robustness on Diverse Sampling Errors |  |  |  |
-| Scene-Aware Label Graph Learning for Multi-Label Image Classification |  |  |  |
-| Holistic Label Correction for Noisy Multi-Label Classification |  |  |  |
-| Strip-MLP: Efficient Token Interaction for Vision MLP |  |  |  |
-| EQ-Net: Elastic Quantization Neural Networks |  |  |  |
+| Unified Out-of-Distribution Detection: A Model-Specific Perspective | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.06813-b31b1b.svg)](https://arxiv.org/abs/2304.06813) | :heavy_minus_sign: |
+| A Unified Framework for Robustness on Diverse Sampling Errors | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Scene-Aware Label Graph Learning for Multi-Label Image Classification | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Holistic Label Correction for Noisy Multi-Label Classification | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Strip-MLP: Efficient Token Interaction for Vision MLP | [![GitHub](https://img.shields.io/github/stars/Med-Process/Strip_MLP)](https://github.com/Med-Process/Strip_MLP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11458-b31b1b.svg)](https://arxiv.org/abs/2307.11458) | :heavy_minus_sign: |
+| EQ-Net: Elastic Quantization Neural Networks | [![GitHub](https://img.shields.io/github/stars/xuke225/EQ-Net)](https://github.com/xuke225/EQ-Net) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07650-b31b1b.svg)](https://arxiv.org/abs/2308.07650) | :heavy_minus_sign: |
 | Data-Free Knowledge Distillation for Fine-Grained Vision Categorization |  |  |  |
 | Shift from Texture-Bias to Shape-Bias: edge Deformation-based Augmentation for Robust Object Recognition |  |  |  |
 | Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition |  |  |  |
