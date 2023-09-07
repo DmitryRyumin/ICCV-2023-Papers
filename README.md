@@ -331,7 +331,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Understanding Self-Attention Mechanism via Dynamical System Perspective | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09939-b31b1b.svg)](https://arxiv.org/abs/2308.09939) | :heavy_minus_sign: |
 | Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.10539-b31b1b.svg)](https://arxiv.org/abs/2304.10539) | :heavy_minus_sign: |
 | What do Neural Networks Learn in Image Classification? A Frequency Shortcut Perspective | [![GitHub](https://img.shields.io/github/stars/nis-research/nn-frequency-shortcuts)](https://github.com/nis-research/nn-frequency-shortcuts) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09829-b31b1b.svg)](https://arxiv.org/abs/2307.09829) | :heavy_minus_sign: |
-| Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity |  |  |  |
+| Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity | [![GitHub](https://img.shields.io/github/stars/ltong1130ztr/HAFrame)](https://github.com/ltong1130ztr/HAFrame) | [![arXiv](https://img.shields.io/badge/arXiv-2303.05689-b31b1b.svg)](https://arxiv.org/abs/2303.05689) | :heavy_minus_sign: |
 | Unified Out-of-Distribution Detection: A Model-Specific Perspective |  |  |  |
 | A Unified Framework for Robustness on Diverse Sampling Errors |  |  |  |
 | Scene-Aware Label Graph Learning for Multi-Label Image Classification |  |  |  |
