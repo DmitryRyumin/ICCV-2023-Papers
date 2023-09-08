@@ -421,12 +421,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | StyleDomain: Efficient and Lightweight Parameterizations of StyleGAN for One-Shot and Few-Shot Domain Adaptation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.10229-b31b1b.svg)](https://arxiv.org/abs/2212.10229) | :heavy_minus_sign: |
 | GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jeffreyxiang.github.io/GRAM-HD/) | [![arXiv](https://img.shields.io/badge/arXiv-2206.07255-b31b1b.svg)](https://arxiv.org/abs/2206.07255) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Uqzs4uN6v8M) |
 | Your Diffusion Model is Secretly a Zero-Shot Classifier | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://diffusion-classifier.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/diffusion-classifier/diffusion-classifier)](https://github.com/diffusion-classifier/diffusion-classifier) | [![arXiv](https://img.shields.io/badge/arXiv-2303.16203-b31b1b.svg)](https://arxiv.org/abs/2303.16203) | :heavy_minus_sign: |
-| Learning Hierarchical Features with Joint Latent Space Energy-based Prior |  |  |  |
-| ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation |  |  |  |
-| Landscape Learning for Neural Network Inversion |  |  |  |
-| Diffusion in Style |  |  |  |
-| Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions |  |  |  |
-| GETAvatar: Generative Textured Meshes for Animatable Human Avatars |  |  |  |
+| Learning Hierarchical Features with Joint Latent Space Energy-based Prior | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2203.07706-b31b1b.svg)](https://arxiv.org/abs/2203.07706) | :heavy_minus_sign: |
+| Landscape Learning for Neural Network Inversion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2206.09027-b31b1b.svg)](https://arxiv.org/abs/2206.09027) | :heavy_minus_sign: |
+| Diffusion in Style | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://light.princeton.edu/publication/diffusion-sdf/) <br /> [![GitHub](https://img.shields.io/github/stars/princeton-computational-imaging/Diffusion-SDF)](https://github.com/princeton-computational-imaging/Diffusion-SDF) | [![arXiv](https://img.shields.io/badge/arXiv-2211.13757-b31b1b.svg)](https://arxiv.org/abs/2211.13757) | :heavy_minus_sign: |
+| GETAvatar: Generative Textured Meshes for Animatable Human Avatars | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | A-STAR: Test-Time Attention Segregation and Retention for Text-to-Image Synthesis |  |  |  |
 | TF-ICON: Diffusion-based Training-Free Cross-Domain Image Composition |  |  |  |
 | Breaking The Limits of Text-Conditioned 3D Motion Synthesis with Elaborative Descriptions |  |  |  |
