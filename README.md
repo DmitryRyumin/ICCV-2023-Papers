@@ -802,7 +802,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Machine Learning and Dataset
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Unmasked Teacher: Towards Training-Efficient Video Foundation Models | [![GitHub](https://img.shields.io/github/stars/OpenGVLab/unmasked_teacher)](https://github.com/OpenGVLab/unmasked_teacher) | [![arXiv](https://img.shields.io/badge/arXiv-2303.16058-b31b1b.svg)](https://arxiv.org/abs/2303.16058) | :heavy_minus_sign: |
 
 ---
 
