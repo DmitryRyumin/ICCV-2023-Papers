@@ -407,7 +407,42 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Neural Generative Models
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://energy-based-model.github.io/unsupervised-concept-discovery/) <br /> [![GitHub](https://img.shields.io/github/stars/nanlliu/Unsupervised-Compositional-Concepts-Discovery)](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery) | [![arXiv](https://img.shields.io/badge/arXiv-2306.05357-b31b1b.svg)](https://arxiv.org/abs/2306.05357) | :heavy_minus_sign: |
+| Better Aligning Text-to-Image Models with Human Preference | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tgxs002.github.io/align_sd_web/) <br /> [![GitHub](https://img.shields.io/github/stars/tgxs002/align_sd)](https://github.com/tgxs002/align_sd) | [![arXiv](https://img.shields.io/badge/arXiv-2303.14420-b31b1b.svg)](https://arxiv.org/abs/2303.14420) | :heavy_minus_sign: |
+| DLT: Conditioned Layout Generation with Joint Discrete-Continuous Diffusion Layout Transformer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wix-incubator.github.io/DLT/) <br /> [![GitHub](https://img.shields.io/github/stars/wix-incubator/DLT)](https://github.com/wix-incubator/DLT) | [![arXiv](https://img.shields.io/badge/arXiv-2303.03755-b31b1b.svg)](https://arxiv.org/abs/2303.03755) | :heavy_minus_sign: |
+| Anti-DreamBooth: Protecting users from Personalized Text-to-Image Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://anti-dreambooth.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/VinAIResearch/Anti-DreamBooth)](https://github.com/VinAIResearch/Anti-DreamBooth) | [![arXiv](https://img.shields.io/badge/arXiv-2303.15433-b31b1b.svg)](https://arxiv.org/abs/2303.15433) | :heavy_minus_sign: |
+| GECCO: Geometrically-Conditioned Point Diffusion Models |  |  |  |
+| DiffDreamer: Towards Consistent Unsupervised Single-View Scene Extrapolation with Conditional Diffusion Models |  |  |  |
+| Controllable Human Motion Synthesis via Guided Diffusion Models |  |  |  |
+| COOP: Decoupling and Coupling of Whole-Body Grasping Pose Generation |  |  |  |
+| Zero-Shot Spatial Layout Conditioning for Text-to-Image Diffusion Models |  |  |  |
+| StyleDomain: Efficient and Lightweight Parameterizations of StyleGAN for One-Shot and Few-Shot Domain Adaptation |  |  |  |
+| GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds |  |  |  |
+| Your Diffusion Model is Secretly a Zero-Shot Classifier |  |  |  |
+| Learning Hierarchical Features with Joint Latent Space Energy-based Prior |  |  |  |
+| ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation |  |  |  |
+| Landscape Learning for Neural Network Inversion |  |  |  |
+| Diffusion in Style |  |  |  |
+| Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions |  |  |  |
+| GETAvatar: Generative Textured Meshes for Animatable Human Avatars |  |  |  |
+| A-STAR: Test-Time Attention Segregation and Retention for Text-to-Image Synthesis |  |  |  |
+| TF-ICON: Diffusion-based Training-Free Cross-Domain Image Composition |  |  |  |
+| Breaking The Limits of Text-Conditioned 3D Motion Synthesis with Elaborative Descriptions |  |  |  |
+| BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction |  |  |  |
+| Delta Denoising Score |  |  |  |
+| Mimic3D: Thriving 3D-Aware GANs via 3D-to-2D Imitation |  |  |  |
+| DreamBooth3D: Subject-Driven Text-to-3D Generation |  |  |  |
+| Feature Proliferation the Cancer in StyleGAN and its Treatments |  |  |  |
+| Unsupervised Facial Performance Editing via Vector-Quantized StyleGAN Representations |  |  |  |
+| 3D-aware Image Generation using 2D Diffusion Models |  |  |  |
+| Neural Collage Transfer: Artistic Reconstruction via Material Manipulation |  |  |  |
+| Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption |  |  |  |
+| Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction |  |  |  |
+| Erasing Concepts from Diffusion Models |  |  |  |
+| Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding |  |  |  |
+| HairNeRF: Geometry-Aware Hair Swapped Image Synthesis |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
