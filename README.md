@@ -427,7 +427,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Diffusion in Style | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://light.princeton.edu/publication/diffusion-sdf/) <br /> [![GitHub](https://img.shields.io/github/stars/princeton-computational-imaging/Diffusion-SDF)](https://github.com/princeton-computational-imaging/Diffusion-SDF) | [![arXiv](https://img.shields.io/badge/arXiv-2211.13757-b31b1b.svg)](https://arxiv.org/abs/2211.13757) | :heavy_minus_sign: |
 | GETAvatar: Generative Textured Meshes for Animatable Human Avatars | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| A-STAR: Test-Time Attention Segregation and Retention for Text-to-Image Synthesis |  |  |  |
+| A-STAR: Test-Time <i>A</i>ttention <i>S</i>egrega<i>t</i>ion and <i>R</i>etention for Text-to-Image Synthesis | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14544-b31b1b.svg)](https://arxiv.org/abs/2306.14544) | :heavy_minus_sign: |
 | TF-ICON: Diffusion-based Training-Free Cross-Domain Image Composition |  |  |  |
 | Breaking The Limits of Text-Conditioned 3D Motion Synthesis with Elaborative Descriptions |  |  |  |
 | BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction |  |  |  |
