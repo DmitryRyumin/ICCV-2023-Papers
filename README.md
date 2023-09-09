@@ -452,7 +452,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-Training |  |  |  |
+| SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-Training | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.11446-b31b1b.svg)](https://arxiv.org/abs/2211.11446) | :heavy_minus_sign: |
 | DiffusionRet: Generative Text-Video Retrieval with Diffusion Model |  |  |  |
 | Explore and Tell: Embodied Visual Captioning in 3D Environments |  |  |  |
 | Distilling Large Vision-Language Model with Out-of-Distribution Generalizability |  |  |  |
