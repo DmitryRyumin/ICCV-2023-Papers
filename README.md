@@ -461,7 +461,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | TextManiA: Enriching Visual Feature by Text-Driven Manifold Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://textmania.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/postech-ami/TextManiA)](https://github.com/postech-ami/TextManiA) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14611-b31b1b.svg)](https://arxiv.org/abs/2307.14611) | :heavy_minus_sign: |
 | UniRef: A Unified Model for Reference-based Object Segmentation Tasks | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.06571-b31b1b.svg)](https://arxiv.org/abs/2303.06571) | :heavy_minus_sign: |
-| Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pre-Training |  |  |  |
+| Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pre-Training | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Toward Multi-Granularity Decision-Making: Explicit Visual Reasoning with Hierarchical Knowledge |  |  |  |
 | VL-Match: Enhancing Vision-Language Pretraining with Token-Level and Instance-Level Matching |  |  |  |
 | Moment Detection in Long Tutorial Videos |  |  |  |
