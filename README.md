@@ -455,12 +455,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-Training | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.11446-b31b1b.svg)](https://arxiv.org/abs/2211.11446) | :heavy_minus_sign: |
 | DiffusionRet: Generative Text-Video Retrieval with Diffusion Model | [![GitHub](https://img.shields.io/github/stars/jpthu17/DiffusionRet)](https://github.com/jpthu17/DiffusionRet) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09867-b31b1b.svg)](https://arxiv.org/abs/2303.09867) | :heavy_minus_sign: |
 | Explore and Tell: Embodied Visual Captioning in 3D Environments | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://aim3-ruc.github.io/ExploreAndTell/) <br /> [![GitHub](https://img.shields.io/github/stars/HAWLYQ/ET-Cap)](https://github.com/HAWLYQ/ET-Cap) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10447-b31b1b.svg)](https://arxiv.org/abs/2308.10447) | :heavy_minus_sign: |
-| Distilling Large Vision-Language Model with Out-of-Distribution Generalizability |  |  |  |
-| Learning Trajectory-Word Alignments for Video-Language Tasks |  |  |  |
-| Variational Causal Inference Network for Explanatory Visual Question Answering |  |  |  |
-| TextManiA: Enriching Visual Feature by Text-Driven Manifold Augmentation |  |  |  |
-| UniRef: A Unified Model for Reference-based Object Segmentation Tasks |  |  |  |
-| Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models |  |  |  |
+| Distilling Large Vision-Language Model with Out-of-Distribution Generalizability | [![GitHub](https://img.shields.io/github/stars/xuanlinli17/large_vlm_distillation_ood)](https://github.com/xuanlinli17/large_vlm_distillation_ood) | [![arXiv](https://img.shields.io/badge/arXiv-2307.03135-b31b1b.svg)](https://arxiv.org/abs/2307.03135) | :heavy_minus_sign: |
+| Learning Trajectory-Word Alignments for Video-Language Tasks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.01953-b31b1b.svg)](https://arxiv.org/abs/2301.01953) | :heavy_minus_sign: |
+| Variational Causal Inference Network for Explanatory Visual Question Answering | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| TextManiA: Enriching Visual Feature by Text-Driven Manifold Augmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://textmania.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/postech-ami/TextManiA)](https://github.com/postech-ami/TextManiA) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14611-b31b1b.svg)](https://arxiv.org/abs/2307.14611) | :heavy_minus_sign: |
+| UniRef: A Unified Model for Reference-based Object Segmentation Tasks | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.06571-b31b1b.svg)](https://arxiv.org/abs/2303.06571) | :heavy_minus_sign: |
 | Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pre-Training |  |  |  |
 | Toward Multi-Granularity Decision-Making: Explicit Visual Reasoning with Hierarchical Knowledge |  |  |  |
 | VL-Match: Enhancing Vision-Language Pretraining with Token-Level and Instance-Level Matching |  |  |  |
