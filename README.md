@@ -450,7 +450,71 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision and Language
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-Training |  |  |  |
+| DiffusionRet: Generative Text-Video Retrieval with Diffusion Model |  |  |  |
+| Explore and Tell: Embodied Visual Captioning in 3D Environments |  |  |  |
+| Distilling Large Vision-Language Model with Out-of-Distribution Generalizability |  |  |  |
+| Learning Trajectory-Word Alignments for Video-Language Tasks |  |  |  |
+| Variational Causal Inference Network for Explanatory Visual Question Answering |  |  |  |
+| TextManiA: Enriching Visual Feature by Text-Driven Manifold Augmentation |  |  |  |
+| UniRef: A Unified Model for Reference-based Object Segmentation Tasks |  |  |  |
+| Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models |  |  |  |
+| Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pre-Training |  |  |  |
+| Toward Multi-Granularity Decision-Making: Explicit Visual Reasoning with Hierarchical Knowledge |  |  |  |
+| VL-Match: Enhancing Vision-Language Pretraining with Token-Level and Instance-Level Matching |  |  |  |
+| Moment Detection in Long Tutorial Videos |  |  |  |
+| Not All Features Matter: Enhancing Few-Shot CLIP with Adaptive Prior Refinement |  |  |  |
+| Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images |  |  |  |
+| Advancing Referring Expression Segmentation Beyond Single Image |  |  |  |
+| CLIPoint: Adapting CLIP for Powerful 3D Open-World Learning |  |  |  |
+| Unsupervised Prompt Tuning for Text-Driven Object Detection |  |  |  |
+| Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding |  |  |  |
+| I can't Believe there's no Images! Learning Visual Tasks using Only Language Data |  |  |  |
+| Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples |  |  |  |
+| MeViS: A Large-Scale Benchmark for Video Segmentation with Motion Expressions |  |  |  |
+| Diverse Data Augmentation with Diffusions for Effective Test-Time Prompt Tuning |  |  |  |
+| ShapeScaffolder: Structure-Aware 3D Shape Generation from Text |  |  |  |
+| SuS-X: Training-Free Name-Only Transfer of Vision-Language Models |  |  |  |
+| BEVBert: Multimodal Map Pre-Training for Language-Guided Navigation |  |  |  |
+| X-Mesh: Towards Fast and Accurate Text-Driven 3D Stylization via Dynamic Textual Guidance |  |  |  |
+| OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation |  |  |  |
+| Attentive Mask CLIP |  |  |  |
+| Knowledge Proxy Intervention for Deconfounded Video Question Answering |  |  |  |
+| UniVTG: Towards Unified Video-Language Temporal Grounding |  |  |  |
+| Self-Supervised Cross-View Representation Reconstruction for Change Captioning |  |  |  |
+| Unified Coarse-to-Fine Alignment for Text-to-Video Retrieval |  |  |  |
+| Confidence-Aware Pseudo-Label Learning for Weakly Supervised Visual Grounding |  |  |  |
+| TextPSG: Panoptic Scene Graph Generation from Textual Descriptions |  |  |  |
+| MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge |  |  |  |
+| Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation |  |  |  |
+| Transferring Visual Knowledge with Pre-Trained Models for Multimodal Machine Translation |  |  |  |
+| Learning Human-Human Interactions in Images from Weak Textual Supervision |  |  |  |
+| BUS:Efficient and Effective Vision-Language Pretraining with Bottom-Up Patch Summarization |  |  |  |
+| 3D-VisTA: Pre-Trained Transformer for 3D Vision and Text Alignment |  |  |  |
+| ALIP: Adaptive Language-Image Pre-Training with Synthetic Caption |  |  |  |
+| LoGoPrompt: Synthetic Text Images can be Good Visual Prompts for Vision-Language Models |  |  |  |
+| Noise-Aware Learning from Web-Crawled Image-Text Data for Image Captioning |  |  |  |
+| Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering |  |  |  |
+| Prompt-Guided Image Captioning for VQA with GPT-3 |  |  |  |
+| Grounded Image Text Matching with Mismatched Relation Reasoning |  |  |  |
+| GePSAn: Generative Procedure Step Anticipation in Cooking Videos |  |  |  |
+| LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models |  |  |  |
+| VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control |  |  |  |
+| With a Little Help from Your own Past: Prototypical Memory Networks for Image Captioning |  |  |  |
+| Improving Zero-Shot Generalization for CLIP with Synthesized Prompts |  |  |  |
+| DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models |  |  |  |
+| Learning Navigational Visual Representations with Semantic Map Supervision |  |  |  |
+| CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection |  |  |  |
+| Open Set Video HOI detection from Action-Centric Chain-of-Look Prompting |  |  |  |
+| Learning Concise and Descriptive Attributes for Visual Recognition |  |  |  |
+| Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models |  |  |  |
+| Encyclopedic VQA: Visual Questions About Detailed Properties of Fine-Grained Categories |  |  |  |
+| Story Visualization by Online Text Augmentation with Context Memory |  |  |  |
+| Transferable Decoding with Visual Entities for Zero-Shot Image Captioning |  |  |  |
+| Too Large; Data Reduction for Vision-Language Pre-Training |  |  |  |
+| ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
