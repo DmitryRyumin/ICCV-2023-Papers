@@ -468,12 +468,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Not All Features Matter: Enhancing Few-Shot CLIP with Adaptive Prior Refinement | [![GitHub](https://img.shields.io/github/stars/yangyangyang127/APE)](https://github.com/yangyangyang127/APE) | [![arXiv](https://img.shields.io/badge/arXiv-2304.01195-b31b1b.svg)](https://arxiv.org/abs/2304.01195) | :heavy_minus_sign: |
 | Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://whoops-benchmark.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.07274-b31b1b.svg)](https://arxiv.org/abs/2303.07274) | :heavy_minus_sign: |
 | Advancing Referring Expression Segmentation Beyond Single Image | [![GitHub](https://img.shields.io/github/stars/yixuan730/group-res)](https://github.com/yixuan730/group-res) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12452-b31b1b.svg)](https://arxiv.org/abs/2305.12452) | :heavy_minus_sign: |
-| CLIPoint: Adapting CLIP for Powerful 3D Open-World Learning |  |  |  |
-| Unsupervised Prompt Tuning for Text-Driven Object Detection |  |  |  |
-| Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding |  |  |  |
-| I can't Believe there's no Images! Learning Visual Tasks using Only Language Data |  |  |  |
-| Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples |  |  |  |
-| MeViS: A Large-Scale Benchmark for Video Segmentation with Motion Expressions |  |  |  |
+| CLIPoint: Adapting CLIP for Powerful 3D Open-World Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Unsupervised Prompt Tuning for Text-Driven Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.09267-b31b1b.svg)](https://arxiv.org/abs/2307.09267) | :heavy_minus_sign: |
+| I can't Believe there's no Images! Learning Visual Tasks using Only Language Data | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://prior.allenai.org/projects/close) <br /> [![GitHub](https://img.shields.io/github/stars/allenai/close)](https://github.com/allenai/close) | [![arXiv](https://img.shields.io/badge/arXiv-2211.09778-b31b1b.svg)](https://arxiv.org/abs/2211.09778) | :heavy_minus_sign: |
+| Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples | [![GitHub](https://img.shields.io/github/stars/hengliusky/Few_shot_RVOS)](https://github.com/hengliusky/Few_shot_RVOS) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02041-b31b1b.svg)](https://arxiv.org/abs/2309.02041) | :heavy_minus_sign: |
+<!-- | MeViS: A Large-Scale Benchmark for Video Segmentation with Motion Expressions |  |  |  |
 | Diverse Data Augmentation with Diffusions for Effective Test-Time Prompt Tuning |  |  |  |
 | ShapeScaffolder: Structure-Aware 3D Shape Generation from Text |  |  |  |
 | SuS-X: Training-Free Name-Only Transfer of Vision-Language Models |  |  |  |
@@ -514,7 +514,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Story Visualization by Online Text Augmentation with Context Memory |  |  |  |
 | Transferable Decoding with Visual Entities for Zero-Shot Image Captioning |  |  |  |
 | Too Large; Data Reduction for Vision-Language Pre-Training |  |  |  |
-| ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation |  |  |  |
+| ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
