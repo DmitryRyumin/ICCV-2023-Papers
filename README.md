@@ -462,12 +462,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | UniRef: A Unified Model for Reference-based Object Segmentation Tasks | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.06571-b31b1b.svg)](https://arxiv.org/abs/2303.06571) | :heavy_minus_sign: |
 | Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pre-Training | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Toward Multi-Granularity Decision-Making: Explicit Visual Reasoning with Hierarchical Knowledge |  |  |  |
-| VL-Match: Enhancing Vision-Language Pretraining with Token-Level and Instance-Level Matching |  |  |  |
-| Moment Detection in Long Tutorial Videos |  |  |  |
-| Not All Features Matter: Enhancing Few-Shot CLIP with Adaptive Prior Refinement |  |  |  |
-| Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images |  |  |  |
-| Advancing Referring Expression Segmentation Beyond Single Image |  |  |  |
+| Toward Multi-Granularity Decision-Making: Explicit Visual Reasoning with Hierarchical Knowledge | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| VL-Match: Enhancing Vision-Language Pretraining with Token-Level and Instance-Level Matching | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Moment Detection in Long Tutorial Videos | [![GitHub](https://img.shields.io/github/stars/ioanacroi/longmoment-detr)](https://github.com/ioanacroi/longmoment-detr) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Not All Features Matter: Enhancing Few-Shot CLIP with Adaptive Prior Refinement | [![GitHub](https://img.shields.io/github/stars/yangyangyang127/APE)](https://github.com/yangyangyang127/APE) | [![arXiv](https://img.shields.io/badge/arXiv-2304.01195-b31b1b.svg)](https://arxiv.org/abs/2304.01195) | :heavy_minus_sign: |
+| Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://whoops-benchmark.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.07274-b31b1b.svg)](https://arxiv.org/abs/2303.07274) | :heavy_minus_sign: |
+| Advancing Referring Expression Segmentation Beyond Single Image | [![GitHub](https://img.shields.io/github/stars/yixuan730/group-res)](https://github.com/yixuan730/group-res) | [![arXiv](https://img.shields.io/badge/arXiv-2305.12452-b31b1b.svg)](https://arxiv.org/abs/2305.12452) | :heavy_minus_sign: |
 | CLIPoint: Adapting CLIP for Powerful 3D Open-World Learning |  |  |  |
 | Unsupervised Prompt Tuning for Text-Driven Object Detection |  |  |  |
 | Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding |  |  |  |
