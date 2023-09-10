@@ -477,7 +477,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Diverse Data Augmentation with Diffusions for Effective Test-Time Prompt Tuning | [![GitHub](https://img.shields.io/github/stars/chunmeifeng/DiffTPT)](https://github.com/chunmeifeng/DiffTPT) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06038-b31b1b.svg)](https://arxiv.org/abs/2308.06038) | :heavy_minus_sign: |
 | ShapeScaffolder: Structure-Aware 3D Shape Generation from Text | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.yongliangyang.net/docs/shapescaffolder_iccv23.pdf) | :heavy_minus_sign: |
 | SuS-X: Training-Free Name-Only Transfer of Vision-Language Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://vishaal27.github.io/SuS-X-webpage/) <br /> [![GitHub](https://img.shields.io/github/stars/vishaal27/SuS-X)](https://github.com/vishaal27/SuS-X) | [![arXiv](https://img.shields.io/badge/arXiv-2211.16198-b31b1b.svg)](https://arxiv.org/abs/2211.16198) | :heavy_minus_sign: |
-| BEVBert: Multimodal Map Pre-Training for Language-Guided Navigation |  |  |  |
+| BEVBert: Multimodal Map Pre-Training for Language-Guided Navigation | [![GitHub](https://img.shields.io/github/stars/MarSaKi/VLN-BEVBert)](https://github.com/MarSaKi/VLN-BEVBert) | [![arXiv](https://img.shields.io/badge/arXiv-2212.04385-b31b1b.svg)](https://arxiv.org/abs/2212.04385) | :heavy_minus_sign: |
 <!-- | X-Mesh: Towards Fast and Accurate Text-Driven 3D Stylization via Dynamic Textual Guidance |  |  |  |
 | OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation |  |  |  |
 | Attentive Mask CLIP |  |  |  |
