@@ -473,8 +473,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.09267-b31b1b.svg)](https://arxiv.org/abs/2307.09267) | :heavy_minus_sign: |
 | I can't Believe there's no Images! Learning Visual Tasks using Only Language Data | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://prior.allenai.org/projects/close) <br /> [![GitHub](https://img.shields.io/github/stars/allenai/close)](https://github.com/allenai/close) | [![arXiv](https://img.shields.io/badge/arXiv-2211.09778-b31b1b.svg)](https://arxiv.org/abs/2211.09778) | :heavy_minus_sign: |
 | Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples | [![GitHub](https://img.shields.io/github/stars/hengliusky/Few_shot_RVOS)](https://github.com/hengliusky/Few_shot_RVOS) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02041-b31b1b.svg)](https://arxiv.org/abs/2309.02041) | :heavy_minus_sign: |
-<!-- | MeViS: A Large-Scale Benchmark for Video Segmentation with Motion Expressions |  |  |  |
-| Diverse Data Augmentation with Diffusions for Effective Test-Time Prompt Tuning |  |  |  |
+| MeViS: A Large-Scale Benchmark for Video Segmentation with Motion Expressions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://henghuiding.github.io/MeViS/) <br /> [![GitHub](https://img.shields.io/github/stars/henghuiding/MeViS)](https://github.com/henghuiding/MeViS) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08544-b31b1b.svg)](https://arxiv.org/abs/2308.08544) | :heavy_minus_sign: |
+<!-- | Diverse Data Augmentation with Diffusions for Effective Test-Time Prompt Tuning |  |  |  |
 | ShapeScaffolder: Structure-Aware 3D Shape Generation from Text |  |  |  |
 | SuS-X: Training-Free Name-Only Transfer of Vision-Language Models |  |  |  |
 | BEVBert: Multimodal Map Pre-Training for Language-Guided Navigation |  |  |  |
