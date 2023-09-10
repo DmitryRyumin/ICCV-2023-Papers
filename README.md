@@ -475,10 +475,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples | [![GitHub](https://img.shields.io/github/stars/hengliusky/Few_shot_RVOS)](https://github.com/hengliusky/Few_shot_RVOS) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02041-b31b1b.svg)](https://arxiv.org/abs/2309.02041) | :heavy_minus_sign: |
 | MeViS: A Large-Scale Benchmark for Video Segmentation with Motion Expressions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://henghuiding.github.io/MeViS/) <br /> [![GitHub](https://img.shields.io/github/stars/henghuiding/MeViS)](https://github.com/henghuiding/MeViS) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08544-b31b1b.svg)](https://arxiv.org/abs/2308.08544) | :heavy_minus_sign: |
 | Diverse Data Augmentation with Diffusions for Effective Test-Time Prompt Tuning | [![GitHub](https://img.shields.io/github/stars/chunmeifeng/DiffTPT)](https://github.com/chunmeifeng/DiffTPT) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06038-b31b1b.svg)](https://arxiv.org/abs/2308.06038) | :heavy_minus_sign: |
-<!-- | ShapeScaffolder: Structure-Aware 3D Shape Generation from Text |  |  |  |
-| SuS-X: Training-Free Name-Only Transfer of Vision-Language Models |  |  |  |
+| ShapeScaffolder: Structure-Aware 3D Shape Generation from Text | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.yongliangyang.net/docs/shapescaffolder_iccv23.pdf) | :heavy_minus_sign: |
+| SuS-X: Training-Free Name-Only Transfer of Vision-Language Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://vishaal27.github.io/SuS-X-webpage/) <br /> [![GitHub](https://img.shields.io/github/stars/vishaal27/SuS-X)](https://github.com/vishaal27/SuS-X) | [![arXiv](https://img.shields.io/badge/arXiv-2211.16198-b31b1b.svg)](https://arxiv.org/abs/2211.16198) | :heavy_minus_sign: |
 | BEVBert: Multimodal Map Pre-Training for Language-Guided Navigation |  |  |  |
-| X-Mesh: Towards Fast and Accurate Text-Driven 3D Stylization via Dynamic Textual Guidance |  |  |  |
+<!-- | X-Mesh: Towards Fast and Accurate Text-Driven 3D Stylization via Dynamic Textual Guidance |  |  |  |
 | OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation |  |  |  |
 | Attentive Mask CLIP |  |  |  |
 | Knowledge Proxy Intervention for Deconfounded Video Question Answering |  |  |  |
