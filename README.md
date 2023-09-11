@@ -488,9 +488,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Confidence-Aware Pseudo-Label Learning for Weakly Supervised Visual Grounding | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | TextPSG: Panoptic Scene Graph Generation from Textual Descriptions | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wlin-at.github.io/maxi) <br /> [![GitHub](https://img.shields.io/github/stars/wlin-at/MAXI)](https://github.com/wlin-at/MAXI) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08914-b31b1b.svg)](https://arxiv.org/abs/2303.08914) | :heavy_minus_sign: |
-| Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation |  |  |  |
-| Transferring Visual Knowledge with Pre-Trained Models for Multimodal Machine Translation |  |  |  |
-| Learning Human-Human Interactions in Images from Weak Textual Supervision |  |  |  |
+| Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.15932-b31b1b.svg)](https://arxiv.org/abs/2303.15932) | :heavy_minus_sign: |
+| Transferring Visual Knowledge with Pre-Trained Models for Multimodal Machine Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://devaansh100.github.io/projects/cliptrans/) <br /> [![GitHub](https://img.shields.io/github/stars/devaansh100/CLIPTrans)](https://github.com/devaansh100/CLIPTrans) | [![arXiv](https://img.shields.io/badge/arXiv-2308.15226-b31b1b.svg)](https://arxiv.org/abs/2308.15226) | :heavy_minus_sign: |
+| Learning Human-Human Interactions in Images from Weak Textual Supervision | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tau-vailab.github.io/learning-interactions/) <br /> [![GitHub](https://img.shields.io/github/stars/TAU-VAILab/learning-interactions)](https://github.com/TAU-VAILab/learning-interactions) | [![arXiv](https://img.shields.io/badge/arXiv-2304.14104-b31b1b.svg)](https://arxiv.org/abs/2304.14104) | :heavy_minus_sign: |
 | BUS:Efficient and Effective Vision-Language Pretraining with Bottom-Up Patch Summarization |  |  |  |
 | 3D-VisTA: Pre-Trained Transformer for 3D Vision and Text Alignment |  |  |  |
 | ALIP: Adaptive Language-Image Pre-Training with Synthetic Caption |  |  |  |
