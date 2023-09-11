@@ -17,6 +17,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
+> Completed: ![Progress](https://geps.dev/progress/12?successColor=006600)
+
 ---
 
 ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research papers presented at [*ICCV 2023*](https://iccv2023.thecvf.com/), the premier computer vision conference. Keep up to date with the latest advances in computer vision and deep learning. Code implementations included. :star: the repository for the development of visual intelligence!
