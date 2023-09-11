@@ -498,11 +498,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Noise-Aware Learning from Web-Crawled Image-Text Data for Image Captioning | [![GitHub](https://img.shields.io/github/stars/kakaobrain/noc)](https://github.com/kakaobrain/noc) | [![arXiv](https://img.shields.io/badge/arXiv-2212.13563-b31b1b.svg)](https://arxiv.org/abs/2212.13563) | :heavy_minus_sign: |
 | Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Prompt-Guided Image Captioning for VQA with GPT-3 | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yushi-hu.github.io/promptcap_demo/) <br /> [![GitHub](https://img.shields.io/github/stars/Yushi-Hu/PromptCap)](https://github.com/Yushi-Hu/PromptCap) | [![arXiv](https://img.shields.io/badge/arXiv-2211.09699-b31b1b.svg)](https://arxiv.org/abs/2211.09699) | :heavy_minus_sign: |
-| Grounded Image Text Matching with Mismatched Relation Reasoning |  |  |  |
-| GePSAn: Generative Procedure Step Anticipation in Cooking Videos |  |  |  |
-| LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models |  |  |  |
-| VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control |  |  |  |
-| With a Little Help from Your own Past: Prototypical Memory Networks for Image Captioning |  |  |  |
+| Grounded Image Text Matching with Mismatched Relation Reasoning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.01236-b31b1b.svg)](https://arxiv.org/abs/2308.01236) | :heavy_minus_sign: |
+| GePSAn: Generative Procedure Step Anticipation in Cooking Videos | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dki-lab.github.io/LLM-Planner/) <br /> [![GitHub](https://img.shields.io/github/stars/OSU-NLP-Group/LLM-Planner)](https://github.com/OSU-NLP-Group/LLM-Planner) | [![arXiv](https://img.shields.io/badge/arXiv-2212.04088-b31b1b.svg)](https://arxiv.org/abs/2212.04088) | :heavy_minus_sign: |
+| VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control | [![GitHub](https://img.shields.io/github/stars/HenryHZY/VL-PET)](https://github.com/HenryHZY/VL-PET) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09804-b31b1b.svg)](https://arxiv.org/abs/2308.09804) | :heavy_minus_sign: |
+| With a Little Help from Your own Past: Prototypical Memory Networks for Image Captioning | [![GitHub](https://img.shields.io/github/stars/aimagelab/PMA-Net)](https://github.com/aimagelab/PMA-Net) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12383-b31b1b.svg)](https://arxiv.org/abs/2308.12383) | :heavy_minus_sign: |
 | Improving Zero-Shot Generalization for CLIP with Synthesized Prompts |  |  |  |
 | DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models |  |  |  |
 | Learning Navigational Visual Representations with Semantic Map Supervision |  |  |  |
