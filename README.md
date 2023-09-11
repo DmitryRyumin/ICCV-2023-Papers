@@ -480,8 +480,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | BEVBert: Multimodal Map Pre-Training for Language-Guided Navigation | [![GitHub](https://img.shields.io/github/stars/MarSaKi/VLN-BEVBert)](https://github.com/MarSaKi/VLN-BEVBert) | [![arXiv](https://img.shields.io/badge/arXiv-2212.04385-b31b1b.svg)](https://arxiv.org/abs/2212.04385) | :heavy_minus_sign: |
 | X-Mesh: Towards Fast and Accurate Text-Driven 3D Stylization via Dynamic Textual Guidance | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xmu-xiaoma666.github.io/Projects/X-Mesh/) <br /> [![GitHub](https://img.shields.io/github/stars/xmu-xiaoma666/X-Mesh)](https://github.com/xmu-xiaoma666/X-Mesh) | [![arXiv](https://img.shields.io/badge/arXiv-2303.15764-b31b1b.svg)](https://arxiv.org/abs/2303.15764) | :heavy_minus_sign: |
 | OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation | [![GitHub](https://img.shields.io/github/stars/wudongming97/OnlineRefer)](https://github.com/wudongming97/OnlineRefer) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09356-b31b1b.svg)](https://arxiv.org/abs/2307.09356) | :heavy_minus_sign: |
-| Attentive Mask CLIP |  |  |  |
-| Knowledge Proxy Intervention for Deconfounded Video Question Answering |  |  |  |
+| Attentive Mask CLIP | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.08653-b31b1b.svg)](https://arxiv.org/abs/2212.08653) | :heavy_minus_sign: |
+| Knowledge Proxy Intervention for Deconfounded Video Question Answering | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | UniVTG: Towards Unified Video-Language Temporal Grounding |  |  |  |
 | Self-Supervised Cross-View Representation Reconstruction for Change Captioning |  |  |  |
 | Unified Coarse-to-Fine Alignment for Text-to-Video Retrieval |  |  |  |
