@@ -496,8 +496,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ALIP: Adaptive Language-Image Pre-Training with Synthetic Caption | [![GitHub](https://img.shields.io/github/stars/deepglint/ALIP)](https://github.com/deepglint/ALIP) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08428-b31b1b.svg)](https://arxiv.org/abs/2308.08428) | :heavy_minus_sign: |
 | LoGoPrompt: Synthetic Text Images can be Good Visual Prompts for Vision-Language Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://chengshiest.github.io/logo/) | [![arXiv](https://img.shields.io/badge/arXiv-2309.01155-b31b1b.svg)](https://arxiv.org/abs/2309.01155) | :heavy_minus_sign: |
 | Noise-Aware Learning from Web-Crawled Image-Text Data for Image Captioning | [![GitHub](https://img.shields.io/github/stars/kakaobrain/noc)](https://github.com/kakaobrain/noc) | [![arXiv](https://img.shields.io/badge/arXiv-2212.13563-b31b1b.svg)](https://arxiv.org/abs/2212.13563) | :heavy_minus_sign: |
-| Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering |  |  |  |
-| Prompt-Guided Image Captioning for VQA with GPT-3 |  |  |  |
+| Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Prompt-Guided Image Captioning for VQA with GPT-3 | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yushi-hu.github.io/promptcap_demo/) <br /> [![GitHub](https://img.shields.io/github/stars/Yushi-Hu/PromptCap)](https://github.com/Yushi-Hu/PromptCap) | [![arXiv](https://img.shields.io/badge/arXiv-2211.09699-b31b1b.svg)](https://arxiv.org/abs/2211.09699) | :heavy_minus_sign: |
 | Grounded Image Text Matching with Mismatched Relation Reasoning |  |  |  |
 | GePSAn: Generative Procedure Step Anticipation in Cooking Videos |  |  |  |
 | LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models |  |  |  |
