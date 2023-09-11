@@ -509,12 +509,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://toneyaya.github.io/cotdet/) | [![arXiv](https://img.shields.io/badge/arXiv-2309.01093-b31b1b.svg)](https://arxiv.org/abs/2309.01093) | :heavy_minus_sign: |
 | Open Set Video HOI detection from Action-Centric Chain-of-Look Prompting | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Learning Concise and Descriptive Attributes for Visual Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.03685-b31b1b.svg)](https://arxiv.org/abs/2308.03685) | :heavy_minus_sign: |
-| Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models |  |  |  |
-| Encyclopedic VQA: Visual Questions About Detailed Properties of Fine-Grained Categories |  |  |  |
-| Story Visualization by Online Text Augmentation with Context Memory |  |  |  |
-| Transferable Decoding with Visual Entities for Zero-Shot Image Captioning |  |  |  |
-| Too Large; Data Reduction for Vision-Language Pre-Training |  |  |  |
-| ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation |  |  |  |
+| Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models | [![GitHub](https://img.shields.io/github/stars/mlvlab/OVQA)](https://github.com/mlvlab/OVQA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09363-b31b1b.svg)](https://arxiv.org/abs/2308.09363) | :heavy_minus_sign: |
+| Encyclopedic VQA: Visual Questions About Detailed Properties of Fine-Grained Categories | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/google-research/google-research/tree/master/encyclopedic_vqa) | [![arXiv](https://img.shields.io/badge/arXiv-2306.09224-b31b1b.svg)](https://arxiv.org/abs/2306.09224) | :heavy_minus_sign: |
+| Story Visualization by Online Text Augmentation with Context Memory | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dcahn12.github.io/projects/CMOTA/) <br /> [![GitHub](https://img.shields.io/github/stars/yonseivnl/cmota)](https://github.com/yonseivnl/cmota) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07575-b31b1b.svg)](https://arxiv.org/abs/2308.07575) | :heavy_minus_sign: |
+| Transferable Decoding with Visual Entities for Zero-Shot Image Captioning | [![GitHub](https://img.shields.io/github/stars/FeiElysia/ViECap)](https://github.com/FeiElysia/ViECap) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16525-b31b1b.svg)](https://arxiv.org/abs/2307.16525) | :heavy_minus_sign: |
+| Too Large; Data Reduction for Vision-Language Pre-Training | [![GitHub](https://img.shields.io/github/stars/showlab/datacentric.vlp)](https://github.com/showlab/datacentric.vlp) | [![arXiv](https://img.shields.io/badge/arXiv-2305.20087-b31b1b.svg)](https://arxiv.org/abs/2305.20087) | :heavy_minus_sign: |
+| ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.16689-b31b1b.svg)](https://arxiv.org/abs/2308.16689) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
