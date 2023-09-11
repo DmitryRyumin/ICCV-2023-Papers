@@ -482,12 +482,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation | [![GitHub](https://img.shields.io/github/stars/wudongming97/OnlineRefer)](https://github.com/wudongming97/OnlineRefer) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09356-b31b1b.svg)](https://arxiv.org/abs/2307.09356) | :heavy_minus_sign: |
 | Attentive Mask CLIP | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.08653-b31b1b.svg)](https://arxiv.org/abs/2212.08653) | :heavy_minus_sign: |
 | Knowledge Proxy Intervention for Deconfounded Video Question Answering | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| UniVTG: Towards Unified Video-Language Temporal Grounding |  |  |  |
-| Self-Supervised Cross-View Representation Reconstruction for Change Captioning |  |  |  |
-| Unified Coarse-to-Fine Alignment for Text-to-Video Retrieval |  |  |  |
-| Confidence-Aware Pseudo-Label Learning for Weakly Supervised Visual Grounding |  |  |  |
-| TextPSG: Panoptic Scene Graph Generation from Textual Descriptions |  |  |  |
-| MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge |  |  |  |
+| UniVTG: Towards Unified Video-Language Temporal Grounding | [![GitHub](https://img.shields.io/github/stars/showlab/UniVTG)](https://github.com/showlab/UniVTG) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16715-b31b1b.svg)](https://arxiv.org/abs/2307.16715) | :heavy_minus_sign: |
+| Self-Supervised Cross-View Representation Reconstruction for Change Captioning | [![GitHub](https://img.shields.io/github/stars/tuyunbin/SCORER)](https://github.com/tuyunbin/SCORER) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Unified Coarse-to-Fine Alignment for Text-to-Video Retrieval | [![GitHub](https://img.shields.io/github/stars/Ziyang412/UCoFiA)](https://github.com/Ziyang412/UCoFiA) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Confidence-Aware Pseudo-Label Learning for Weakly Supervised Visual Grounding | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| TextPSG: Panoptic Scene Graph Generation from Textual Descriptions | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wlin-at.github.io/maxi) <br /> [![GitHub](https://img.shields.io/github/stars/wlin-at/MAXI)](https://github.com/wlin-at/MAXI) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08914-b31b1b.svg)](https://arxiv.org/abs/2303.08914) | :heavy_minus_sign: |
 | Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation |  |  |  |
 | Transferring Visual Knowledge with Pre-Trained Models for Multimodal Machine Translation |  |  |  |
 | Learning Human-Human Interactions in Images from Weak Textual Supervision |  |  |  |
