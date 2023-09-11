@@ -478,8 +478,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ShapeScaffolder: Structure-Aware 3D Shape Generation from Text | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.yongliangyang.net/docs/shapescaffolder_iccv23.pdf) | :heavy_minus_sign: |
 | SuS-X: Training-Free Name-Only Transfer of Vision-Language Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://vishaal27.github.io/SuS-X-webpage/) <br /> [![GitHub](https://img.shields.io/github/stars/vishaal27/SuS-X)](https://github.com/vishaal27/SuS-X) | [![arXiv](https://img.shields.io/badge/arXiv-2211.16198-b31b1b.svg)](https://arxiv.org/abs/2211.16198) | :heavy_minus_sign: |
 | BEVBert: Multimodal Map Pre-Training for Language-Guided Navigation | [![GitHub](https://img.shields.io/github/stars/MarSaKi/VLN-BEVBert)](https://github.com/MarSaKi/VLN-BEVBert) | [![arXiv](https://img.shields.io/badge/arXiv-2212.04385-b31b1b.svg)](https://arxiv.org/abs/2212.04385) | :heavy_minus_sign: |
-<!-- | X-Mesh: Towards Fast and Accurate Text-Driven 3D Stylization via Dynamic Textual Guidance |  |  |  |
-| OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation |  |  |  |
+| X-Mesh: Towards Fast and Accurate Text-Driven 3D Stylization via Dynamic Textual Guidance | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xmu-xiaoma666.github.io/Projects/X-Mesh/) <br /> [![GitHub](https://img.shields.io/github/stars/xmu-xiaoma666/X-Mesh)](https://github.com/xmu-xiaoma666/X-Mesh) | [![arXiv](https://img.shields.io/badge/arXiv-2303.15764-b31b1b.svg)](https://arxiv.org/abs/2303.15764) | :heavy_minus_sign: |
+| OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation | [![GitHub](https://img.shields.io/github/stars/wudongming97/OnlineRefer)](https://github.com/wudongming97/OnlineRefer) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09356-b31b1b.svg)](https://arxiv.org/abs/2307.09356) | :heavy_minus_sign: |
 | Attentive Mask CLIP |  |  |  |
 | Knowledge Proxy Intervention for Deconfounded Video Question Answering |  |  |  |
 | UniVTG: Towards Unified Video-Language Temporal Grounding |  |  |  |
@@ -514,7 +514,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Story Visualization by Online Text Augmentation with Context Memory |  |  |  |
 | Transferable Decoding with Visual Entities for Zero-Shot Image Captioning |  |  |  |
 | Too Large; Data Reduction for Vision-Language Pre-Training |  |  |  |
-| ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation |  |  |  | -->
+| ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
