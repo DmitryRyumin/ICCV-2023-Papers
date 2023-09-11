@@ -503,12 +503,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dki-lab.github.io/LLM-Planner/) <br /> [![GitHub](https://img.shields.io/github/stars/OSU-NLP-Group/LLM-Planner)](https://github.com/OSU-NLP-Group/LLM-Planner) | [![arXiv](https://img.shields.io/badge/arXiv-2212.04088-b31b1b.svg)](https://arxiv.org/abs/2212.04088) | :heavy_minus_sign: |
 | VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control | [![GitHub](https://img.shields.io/github/stars/HenryHZY/VL-PET)](https://github.com/HenryHZY/VL-PET) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09804-b31b1b.svg)](https://arxiv.org/abs/2308.09804) | :heavy_minus_sign: |
 | With a Little Help from Your own Past: Prototypical Memory Networks for Image Captioning | [![GitHub](https://img.shields.io/github/stars/aimagelab/PMA-Net)](https://github.com/aimagelab/PMA-Net) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12383-b31b1b.svg)](https://arxiv.org/abs/2308.12383) | :heavy_minus_sign: |
-| Improving Zero-Shot Generalization for CLIP with Synthesized Prompts |  |  |  |
-| DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models |  |  |  |
-| Learning Navigational Visual Representations with Semantic Map Supervision |  |  |  |
-| CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection |  |  |  |
-| Open Set Video HOI detection from Action-Centric Chain-of-Look Prompting |  |  |  |
-| Learning Concise and Descriptive Attributes for Visual Recognition |  |  |  |
+| Improving Zero-Shot Generalization for CLIP with Synthesized Prompts | [![GitHub](https://img.shields.io/github/stars/mrflogs/SHIP)](https://github.com/mrflogs/SHIP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07397-b31b1b.svg)](https://arxiv.org/abs/2307.07397) | :heavy_minus_sign: |
+| DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models | [![GitHub](https://img.shields.io/github/stars/j-min/DallEval)](https://github.com/j-min/DallEval) | [![arXiv](https://img.shields.io/badge/arXiv-2202.04053-b31b1b.svg)](https://arxiv.org/abs/2202.04053) | :heavy_minus_sign: |
+| Learning Navigational Visual Representations with Semantic Map Supervision | [![GitHub](https://img.shields.io/github/stars/YicongHong/Ego2Map-NaViT)](https://github.com/YicongHong/Ego2Map-NaViT) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12335-b31b1b.svg)](https://arxiv.org/abs/2307.12335) | :heavy_minus_sign: |
+| CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://toneyaya.github.io/cotdet/) | [![arXiv](https://img.shields.io/badge/arXiv-2309.01093-b31b1b.svg)](https://arxiv.org/abs/2309.01093) | :heavy_minus_sign: |
+| Open Set Video HOI detection from Action-Centric Chain-of-Look Prompting | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Learning Concise and Descriptive Attributes for Visual Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.03685-b31b1b.svg)](https://arxiv.org/abs/2308.03685) | :heavy_minus_sign: |
 | Open-Vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models |  |  |  |
 | Encyclopedic VQA: Visual Questions About Detailed Properties of Fine-Grained Categories |  |  |  |
 | Story Visualization by Online Text Augmentation with Context Memory |  |  |  |
