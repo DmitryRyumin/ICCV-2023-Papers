@@ -743,7 +743,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Low-Level and Physics-based Vision
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| High-Resolution Document Shadow Removal via a Large-Scale Real-World Dataset and a Frequency-Aware Shadow Erasing Net | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cxh-research.github.io/DocShadow-SD7K/) <br /> [![GitHub](https://img.shields.io/github/stars/CXH-Research/DocShadow-SD7K)](https://github.com/CXH-Research/DocShadow-SD7K) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14221-b31b1b.svg)](https://arxiv.org/abs/2308.14221) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
