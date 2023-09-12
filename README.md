@@ -221,8 +221,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | CL-MVSNet: Unsupervised Multi-View Stereo with Dual-Level Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/KaiqiangXiong/CL-MVSNet)](https://github.com/KaiqiangXiong/CL-MVSNet) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://jianbojiao.com/pdfs/iccv23_clmvs.pdf) | :heavy_minus_sign: |
 | Temporal Enhanced Training of Multi-View 3D Object Detector via Historical Object Prediction | [![GitHub](https://img.shields.io/github/stars/Sense-X/HoP)](https://github.com/Sense-X/HoP) | [![arXiv](https://img.shields.io/badge/arXiv-2304.00967-b31b1b.svg)](https://arxiv.org/abs/2304.00967) | :heavy_minus_sign: |
 | Object as Query: Lifting any 2D Object Detector to 3D Detection | [![GitHub](https://img.shields.io/github/stars/tusen-ai/MV2D)](https://github.com/tusen-ai/MV2D) | [![arXiv](https://img.shields.io/badge/arXiv-2301.02364-b31b1b.svg)](https://arxiv.org/abs/2301.02364) | :heavy_minus_sign: |
-| PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection |  |  |  |
-| Not Every Side is Equal: Localization Uncertainty Estimation for Semi-Supervised 3D Object Detection |  |  |  |
+| PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.03982-b31b1b.svg)](https://arxiv.org/abs/2308.03982) | :heavy_minus_sign: |
+| Not Every Side is Equal: Localization Uncertainty Estimation for Semi-Supervised 3D Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
