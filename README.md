@@ -218,9 +218,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | BANSAC: A Dynamic BAyesian Network for SAmple Consensus | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pmiraldo.github.io/projects/bansac/bansac.html) | :heavy_minus_sign: | :heavy_minus_sign: |
 | Theoretical and Numerical Analysis of 3D Reconstruction using Point and Line Incidences |  | [![arXiv](https://img.shields.io/badge/arXiv-2303.13593-b31b1b.svg)](https://arxiv.org/abs/2303.13593) | :heavy_minus_sign: |
 | RealGraph: A Multiview Dataset for 4D Real-World Context Graph Generation | [![GitHub](https://img.shields.io/github/stars/THU-luvision/RealGraph)](https://github.com/THU-luvision/RealGraph) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://rqhuang88.github.io/html/RealGraph.html) | :heavy_minus_sign: |
-| CL-MVSNet: Unsupervised Multi-View Stereo with Dual-Level Contrastive Learning |  |  |  |
-| Temporal Enhanced Training of Multi-View 3D Object Detector via Historical Object Prediction |  |  |  |
-| Object as Query: Lifting any 2D Object Detector to 3D Detection |  |  |  |
+| CL-MVSNet: Unsupervised Multi-View Stereo with Dual-Level Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/KaiqiangXiong/CL-MVSNet)](https://github.com/KaiqiangXiong/CL-MVSNet) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://jianbojiao.com/pdfs/iccv23_clmvs.pdf) | :heavy_minus_sign: |
+| Temporal Enhanced Training of Multi-View 3D Object Detector via Historical Object Prediction | [![GitHub](https://img.shields.io/github/stars/Sense-X/HoP)](https://github.com/Sense-X/HoP) | [![arXiv](https://img.shields.io/badge/arXiv-2304.00967-b31b1b.svg)](https://arxiv.org/abs/2304.00967) | :heavy_minus_sign: |
+| Object as Query: Lifting any 2D Object Detector to 3D Detection | [![GitHub](https://img.shields.io/github/stars/tusen-ai/MV2D)](https://github.com/tusen-ai/MV2D) | [![arXiv](https://img.shields.io/badge/arXiv-2301.02364-b31b1b.svg)](https://arxiv.org/abs/2301.02364) | :heavy_minus_sign: |
 | PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection |  |  |  |
 | Not Every Side is Equal: Localization Uncertainty Estimation for Semi-Supervised 3D Object Detection |  |  |  |
 
