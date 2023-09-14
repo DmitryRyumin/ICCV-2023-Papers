@@ -724,7 +724,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/apple/ml-fastvit)) <br /> [![GitHub](https://img.shields.io/github/stars/apple/ml-fastvit)](https://github.com/apple/ml-fastvit) | [![arXiv](https://img.shields.io/badge/arXiv-2303.14189-b31b1b.svg)](https://arxiv.org/abs/2303.14189) | :heavy_minus_sign: |
+| FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization | [![GitHub](https://img.shields.io/github/stars/apple/ml-fastvit)](https://github.com/apple/ml-fastvit) | [![arXiv](https://img.shields.io/badge/arXiv-2303.14189-b31b1b.svg)](https://arxiv.org/abs/2303.14189) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -734,10 +734,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Femtodet: an object detection baseline for energy versus performance tradeoffs | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/yh-pengtu/FemtoDet)) <br /> [![GitHub](https://img.shields.io/github/stars/yh-pengtu/FemtoDet)](https://github.com/yh-pengtu/FemtoDet) | [![arXiv](https://img.shields.io/badge/arXiv-2301.06719-b31b1b.svg)](https://arxiv.org/abs/2301.06719) | :heavy_minus_sign: |
-| Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/Atten4Vis/GroupDETR)) <br /> [![GitHub](https://img.shields.io/github/stars/Atten4Vis/GroupDETR)](https://github.com/Atten4Vis/GroupDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2207.13085-b31b1b.svg)](https://arxiv.org/abs/2207.13085) | :heavy_minus_sign: |
-| Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/LiewFeng/imTED)) <br /> [![GitHub](https://img.shields.io/github/stars/LiewFeng/imTED)](https://github.com/LiewFeng/imTED) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09613-b31b1b.svg)](https://arxiv.org/abs/2205.09613) | :heavy_minus_sign: |
-| ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/iSEE-Laboratory/ASAG)) <br /> [![GitHub](https://img.shields.io/github/stars/iSEE-Laboratory/ASAG)](https://github.com/iSEE-Laboratory/ASAG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09242-b31b1b.svg)](https://arxiv.org/abs/2308.09242) | :heavy_minus_sign: |
+| Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment | [![GitHub](https://img.shields.io/github/stars/Atten4Vis/GroupDETR)](https://github.com/Atten4Vis/GroupDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2207.13085-b31b1b.svg)](https://arxiv.org/abs/2207.13085) | :heavy_minus_sign: |
+| Integrally Migrating Pre-Trained Transformer Encoder-Decoders for Visual Object Detection | [![GitHub](https://img.shields.io/github/stars/LiewFeng/imTED)](https://github.com/LiewFeng/imTED) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09613-b31b1b.svg)](https://arxiv.org/abs/2205.09613) | :heavy_minus_sign: |
+| ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation | [![GitHub](https://img.shields.io/github/stars/iSEE-Laboratory/ASAG)](https://github.com/iSEE-Laboratory/ASAG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09242-b31b1b.svg)](https://arxiv.org/abs/2308.09242) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -867,6 +866,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | High-Resolution Document Shadow Removal via a Large-Scale Real-World Dataset and a Frequency-Aware Shadow Erasing Net | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cxh-research.github.io/DocShadow-SD7K/) <br /> [![GitHub](https://img.shields.io/github/stars/CXH-Research/DocShadow-SD7K)](https://github.com/CXH-Research/DocShadow-SD7K) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14221-b31b1b.svg)](https://arxiv.org/abs/2308.14221) | :heavy_minus_sign: |
+| Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution | [![GitHub](https://img.shields.io/github/stars/Jiamian-Wang/Iterative-Soft-Shrinkage-SR)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09650-b31b1b.svg)](https://arxiv.org/abs/2303.09650) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -874,7 +874,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Computer Vision Theory
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Femtodet: An Object Detection Baseline for Energy Versus Performance Tradeoffs | [![GitHub](https://img.shields.io/github/stars/yh-pengtu/FemtoDet)](https://github.com/yh-pengtu/FemtoDet) | [![arXiv](https://img.shields.io/badge/arXiv-2301.06719-b31b1b.svg)](https://arxiv.org/abs/2301.06719) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -946,9 +948,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Efficient and Scalable Vision
 
-| **Title** | **Repo** | **Paper** | **Video** |
-|-----------|:--------:|:---------:|:---------:|
-| Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) <br /> [![GitHub](https://img.shields.io/github/stars/Jiamian-Wang/Iterative-Soft-Shrinkage-SR)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09650-b31b1b.svg)](https://arxiv.org/abs/2303.09650) | :heavy_minus_sign: |
+> Will soon be added
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -998,8 +998,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| BoMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/cyh-0/BoMD) <br /> [![GitHub](https://img.shields.io/github/stars/cyh-0/BoMD)](https://github.com/cyh-0/BoMD) | [![arXiv](https://img.shields.io/badge/arXiv-2203.01937-b31b1b.svg)](https://arxiv.org/abs/2203.01937) | :heavy_minus_sign: |
-| CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/ljwztc/CLIP-Driven-Universal-Model) <br /> [![GitHub](https://img.shields.io/github/stars/ljwztc/CLIP-Driven-Universal-Model)](https://github.com/ljwztc/CLIP-Driven-Universal-Model) | [![arXiv](https://img.shields.io/badge/arXiv-2301.00785-b31b1b.svg)](https://arxiv.org/abs/2301.00785) | :heavy_minus_sign: |
+| BoMD: Bag of Multi-Label Local Descriptors for Noisy Chest X-Ray Classification | [![GitHub](https://img.shields.io/github/stars/cyh-0/BoMD)](https://github.com/cyh-0/BoMD) | [![arXiv](https://img.shields.io/badge/arXiv-2203.01937-b31b1b.svg)](https://arxiv.org/abs/2203.01937) | :heavy_minus_sign: |
+| CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection | [![GitHub](https://img.shields.io/github/stars/ljwztc/CLIP-Driven-Universal-Model)](https://github.com/ljwztc/CLIP-Driven-Universal-Model) | [![arXiv](https://img.shields.io/badge/arXiv-2301.00785-b31b1b.svg)](https://arxiv.org/abs/2301.00785) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
