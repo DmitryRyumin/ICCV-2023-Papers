@@ -271,10 +271,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis | [![GitHub](https://img.shields.io/github/stars/LukasStruppek/Rickrolling-the-Artist)](https://github.com/LukasStruppek/Rickrolling-the-Artist) | [![arXiv](https://img.shields.io/badge/arXiv-2211.02408-b31b1b.svg)](https://arxiv.org/abs/2211.02408) | :heavy_minus_sign: |
 | Hard No-Box Adversarial Attack on Skeleton-based Human Action Recognition with Skeleton-Motion-Informed Gradient | [![GitHub](https://img.shields.io/github/stars/luyg45/HardNoBoxAttack)](https://github.com/luyg45/HardNoBoxAttack) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05681-b31b1b.svg)](https://arxiv.org/abs/2308.05681) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=hvniybZIiqA) |
 | Structure Invariant Transformation for Better Adversarial Transferability | [![GitHub](https://img.shields.io/github/stars/xiaosen-wang/SIT)](https://github.com/xiaosen-wang/SIT) | :heavy_minus_sign: | :heavy_minus_sign: |
-| Beating Backdoor Attack at Its Own Game |  |  |  |
-| Transferable Adversarial Attack for Both Vision Transformers and Convolutional Networks via Momentum Integrated Gradients |  |  |  |
-| REAP: A Large-Scale Realistic Adversarial Patch Benchmark |  |  |  |
-| Multi-Metrics Adaptively Identifies Backdoors in Federated Learning |  |  |  |
+| Beating Backdoor Attack at its Own Game | [![GitHub](https://img.shields.io/github/stars/damianliumin/non-adversarial_backdoor)](https://github.com/damianliumin/non-adversarial_backdoor) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15539-b31b1b.svg)](https://arxiv.org/abs/2307.15539) | :heavy_minus_sign: |
+| Transferable Adversarial Attack for Both Vision Transformers and Convolutional Networks via Momentum Integrated Gradients | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| REAP: A Large-Scale Realistic Adversarial Patch Benchmark | [![GitHub](https://img.shields.io/github/stars/wagner-group/reap-benchmark)](https://github.com/wagner-group/reap-benchmark) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05680-b31b1b.svg)](https://arxiv.org/abs/2212.05680) | :heavy_minus_sign: |
+| Multi-Metrics Adaptively Identifies Backdoors in Federated Learning | [![GitHub](https://img.shields.io/github/stars/siquanhuang/Multi-metrics_against_backdoors_in_FL)](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06601-b31b1b.svg)](https://arxiv.org/abs/2303.06601) | :heavy_minus_sign: |
 | Backpropagation Path Search on Adversarial Transferability |  |  |  |
 | Fast Adaptation of Neural Networks using Test-Time Feedback |  |  |  |
 | One-Bit Flip is All You Need: When Bit-Flip Attack Meets Model Training |  |  |  |
