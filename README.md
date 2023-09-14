@@ -680,7 +680,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/apple/ml-fastvit)) <br /> [![GitHub](https://img.shields.io/github/stars/apple/ml-fastvit)](https://github.com/apple/ml-fastvit) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11417-b31b1b.svg)](https://arxiv.org/abs/2303.14189) | :heavy_minus_sign: |
+| FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/apple/ml-fastvit)) <br /> [![GitHub](https://img.shields.io/github/stars/apple/ml-fastvit)](https://github.com/apple/ml-fastvit) | [![arXiv](https://img.shields.io/badge/arXiv-2303.14189-b31b1b.svg)](https://arxiv.org/abs/2303.14189) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -690,7 +690,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Femtodet: an object detection baseline for energy versus performance tradeoffs | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/yh-pengtu/FemtoDet)) <br /> [![GitHub](https://img.shields.io/github/stars/yh-pengtu/FemtoDet)](https://github.com/yh-pengtu/FemtoDet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11417-b31b1b.svg)](https://arxiv.org/abs/2301.06719) | :heavy_minus_sign: |
+| Femtodet: an object detection baseline for energy versus performance tradeoffs | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/yh-pengtu/FemtoDet)) <br /> [![GitHub](https://img.shields.io/github/stars/yh-pengtu/FemtoDet)](https://github.com/yh-pengtu/FemtoDet) | [![arXiv](https://img.shields.io/badge/arXiv-2301.06719-b31b1b.svg)](https://arxiv.org/abs/2301.06719) | :heavy_minus_sign: |
+| Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/Atten4Vis/GroupDETR)) <br /> [![GitHub](https://img.shields.io/github/stars/Atten4Vis/GroupDETR)](https://github.com/Atten4Vis/GroupDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2207.13085-b31b1b.svg)](https://arxiv.org/abs/2207.13085) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -894,7 +895,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) <br /> [![GitHub](https://img.shields.io/github/stars/Jiamian-Wang/Iterative-Soft-Shrinkage-SR)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14221-b31b1b.svg)](https://arxiv.org/abs/2303.09650) | :heavy_minus_sign: |
+| Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) <br /> [![GitHub](https://img.shields.io/github/stars/Jiamian-Wang/Iterative-Soft-Shrinkage-SR)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09650-b31b1b.svg)](https://arxiv.org/abs/2303.09650) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
