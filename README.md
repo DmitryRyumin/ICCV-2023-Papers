@@ -241,33 +241,33 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | The Victim and the Beneficiary: Exploiting a Poisoned Model to Train a Clean Model on Poisoned Data | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models | [![GitHub](https://img.shields.io/github/stars/SRI-CSL/TIJO)](https://github.com/SRI-CSL/TIJO) | [![arXiv](https://img.shields.io/badge/arXiv-2308.03906-b31b1b.svg)](https://arxiv.org/abs/2308.03906) | :heavy_minus_sign: |
 | SAGA: Spectral Adversarial Geometric Attack on 3D Meshes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://stoliktomer.github.io/SAGA/) <br /> [![GitHub](https://img.shields.io/github/stars/StolikTomer/SAGA)](https://github.com/StolikTomer/SAGA) | [![arXiv](https://img.shields.io/badge/arXiv-2211.13775-b31b1b.svg)](https://arxiv.org/abs/2211.13775) | :heavy_minus_sign: |
-<!-- | Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples |  |  |  |
-| ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion |  |  |  |
-| Frequency-Aware GAN for Adversarial Manipulation Generation |  |  |  |
-| Breaking Temporal Consistency: Generating Video Universal Adversarial Perturbations using Image Models |  |  |  |
-| Tracing the Origin of Adversarial Attack for Forensic Investigation and Deterrence |  |  |  |
-| Downstream-Agnostic Adversarial Examples |  |  |  |
-| Hiding Visual Information via Obfuscating Adversarial Perturbations |  |  |  |
-| An Embarrassingly Simple Self-Supervised Trojan Attack |  |  |  |
-| Efficient Decision-based Black-Box Patch Attacks on Video Recognition |  |  |  |
-| Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff |  |  |  |
-| Towards Building More Robust Models with Frequency Bias |  |  |  |
-| System-Driven Adversarial Object Evasion Attack in Autonomous Driving |  |  |  |
-| Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning |  |  |  |
-| Enhancing Generalization of Universal Adversarial Perturbation through Gradient Aggregation |  |  |  |
-| Unified Adversarial Patch for Cross-Modal Attacks in the Physical World |  |  |  |
-| RFLA: A Stealthy Reflected Light Adversarial Attack in the Physical World |  |  |  |
-| Enhancing Fine-Tuning based Backdoor Defense with Sharpness-Aware Minimization |  |  |  |
-| Conditional 360-Degree Image Synthesis for Immersive Indoor Scene Decoration |  |  |  |
-| An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability |  |  |  |
-| Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning |  |  |  |
-| LEA2: A Lightweight Ensemble Adversarial Attack via Non-Overlapping Vulnerable Frequency Regions |  |  |  |
-| Explaining Adversarial Robustness of Neural Networks from Clustering Effect Perspective |  |  |  |
-| VertexSerum: Poisoning Graph Neural Networks for Link Inference |  |  |  |
-| How to Choose Your Best Allies for a Transferable Attack? |  |  |  |
-| Enhancing Adversarial Robustness in Semi-Supervised Learning via Adaptively Weighted Regularization and Knowledge Distillation |  |  |  |
-| AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models |  |  |  |
-| FnF Attack Adversarial Attack against Multiple Object Trackers by Inducing False Negatives and False Positives |  |  |  |
+| Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples | [![GitHub](https://img.shields.io/github/stars/qiufan319/benchmark_pc_attack)](https://github.com/qiufan319/benchmark_pc_attack) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16361-b31b1b.svg)](https://arxiv.org/abs/2307.16361) | :heavy_minus_sign: |
+| ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://islab-ai.github.io/active-iccv2023/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07009-b31b1b.svg)](https://arxiv.org/abs/2308.07009) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=m6m90kX0O3w) |
+| Frequency-Aware GAN for Adversarial Manipulation Generation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Breaking Temporal Consistency: Generating Video Universal Adversarial Perturbations using Image Models | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Tracing the Origin of Adversarial Attack for Forensic Investigation and Deterrence | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2301.01218-b31b1b.svg)](https://arxiv.org/abs/2301.01218) | :heavy_minus_sign: |
+| Downstream-Agnostic Adversarial Examples | [![GitHub](https://img.shields.io/github/stars/CGCL-codes/AdvEncoder)](https://github.com/CGCL-codes/AdvEncoder) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12280-b31b1b.svg)](https://arxiv.org/abs/2307.12280) | :heavy_minus_sign: |
+| Hiding Visual Information via Obfuscating Adversarial Perturbations | [![GitHub](https://img.shields.io/github/stars/suzhigangssz/AVIH)](https://github.com/suzhigangssz/AVIH) | [![arXiv](https://img.shields.io/badge/arXiv-2209.15304-b31b1b.svg)](https://arxiv.org/abs/2209.15304) | :heavy_minus_sign: |
+| An Embarrassingly Simple Self-Supervised Trojan Attack | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Efficient Decision-based Black-Box Patch Attacks on Video Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.11917-b31b1b.svg)](https://arxiv.org/abs/2303.11917) | :heavy_minus_sign: |
+| Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.16454-b31b1b.svg)](https://arxiv.org/abs/2308.16454) | :heavy_minus_sign: |
+| Towards Building more Robust Models with Frequency Bias | [![GitHub](https://img.shields.io/github/stars/retsuh-bqw/ICCV23-Towards-Building-More-Robust-Models-with-Frequency-Bias)](https://github.com/retsuh-bqw/ICCV23-Towards-Building-More-Robust-Models-with-Frequency-Bias) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09763-b31b1b.svg)](https://arxiv.org/abs/2307.09763) | :heavy_minus_sign: |
+| System-Driven Adversarial Object Evasion Attack in Autonomous Driving | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://sites.google.com/view/cav-sec/sysadv) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11894-b31b1b.svg)](https://arxiv.org/abs/2308.11894) | :heavy_minus_sign: |
+| Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning | [![GitHub](https://img.shields.io/github/stars/microsoft/robustlearn)](https://github.com/microsoft/robustlearn) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02533-b31b1b.svg)](https://arxiv.org/abs/2308.02533) | :heavy_minus_sign: |
+| Enhancing Generalization of Universal Adversarial Perturbation through Gradient Aggregation | [![GitHub](https://img.shields.io/github/stars/liuxuannan/Stochastic-Gradient-Aggregation)](https://github.com/liuxuannan/Stochastic-Gradient-Aggregation) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06015-b31b1b.svg)](https://arxiv.org/abs/2308.06015) | :heavy_minus_sign: |
+| Unified Adversarial Patch for Cross-Modal Attacks in the Physical World | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.07859-b31b1b.svg)](https://arxiv.org/abs/2307.07859) | :heavy_minus_sign: |
+| RFLA: A Stealthy Reflected Light Adversarial Attack in the Physical World | [![GitHub](https://img.shields.io/github/stars/winterwindwang/RFLA)](https://github.com/winterwindwang/RFLA) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07653-b31b1b.svg)](https://arxiv.org/abs/2307.07653) | :heavy_minus_sign: |
+| Enhancing Fine-Tuning based Backdoor Defense with Sharpness-Aware Minimization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.11823-b31b1b.svg)](https://arxiv.org/abs/2304.11823) | :heavy_minus_sign: |
+| Conditional 360-Degree Image Synthesis for Immersive Indoor Scene Decoration | [![GitHub](https://img.shields.io/github/stars/kcshum/neural_360_decoration)](https://github.com/kcshum/neural_360_decoration) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09621-b31b1b.svg)](https://arxiv.org/abs/2307.09621) | :heavy_minus_sign: |
+| An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability | [![GitHub](https://img.shields.io/github/stars/CHENBIN99/AdaEA)](https://github.com/CHENBIN99/AdaEA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02897-b31b1b.svg)](https://arxiv.org/abs/2308.02897) | :heavy_minus_sign: |
+| Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning | [![GitHub](https://img.shields.io/github/stars/ByungKwanLee/Double-Debiased-Adversary)](https://github.com/ByungKwanLee/Double-Debiased-Adversary) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07250-b31b1b.svg)](https://arxiv.org/abs/2307.07250) | :heavy_minus_sign: |
+| LEA2: A Lightweight Ensemble Adversarial Attack via Non-Overlapping Vulnerable Frequency Regions | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Explaining Adversarial Robustness of Neural Networks from Clustering Effect Perspective | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| VertexSerum: Poisoning Graph Neural Networks for Link Inference | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.01469-b31b1b.svg)](https://arxiv.org/abs/2308.01469) | :heavy_minus_sign: |
+| How to Choose Your Best Allies for a Transferable Attack? | [![GitHub](https://img.shields.io/github/stars/t-maho/transferability_measure_fit)](https://github.com/t-maho/transferability_measure_fit) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02312-b31b1b.svg)](https://arxiv.org/abs/2304.02312) | :heavy_minus_sign: |
+| Enhancing Adversarial Robustness in Semi-Supervised Learning via Adaptively Weighted Regularization and Knowledge Distillation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.04061-b31b1b.svg)](https://arxiv.org/abs/2308.04061) | :heavy_minus_sign: |
+| AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| FnF Attack Adversarial Attack against Multiple Object Trackers by Inducing False Negatives and False Positives | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis |  |  |  |
 | Hard No-Box Adversarial Attack on Skeleton-based Human Action Recognition with Skeleton-Motion-Informed Gradient |  |  |  |
 | Structure Invariant Transformation for Better Adversarial Transferability |  |  |  |
@@ -284,7 +284,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | The Perils of Learning from Unlabeled Data: Backdoor Attacks on Semi-Supervised Learning |  |  |  |
 | Boosting Adversarial Transferability via Gradient Relevance Attack |  |  |  |
 | Towards Robust Model Watermark via Reducing Parametric Vulnerability |  |  |  |
-| TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization |  |  |  | -->
+| TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
