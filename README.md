@@ -769,7 +769,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Generative AI
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/vvictoryuki/FreeDoM)) <br /> [![GitHub](https://img.shields.io/github/stars/vvictoryuki/FreeDoM)](https://github.com/vvictoryuki/FreeDoM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09833-b31b1b.svg)](https://arxiv.org/abs/2303.09833) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
