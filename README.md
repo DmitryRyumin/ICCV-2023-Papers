@@ -945,7 +945,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Medical and Biological Vision; Cell Microscopy
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| BoMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/cyh-0/BoMD) <br /> [![GitHub](https://img.shields.io/github/stars/cyh-0/BoMD)](https://github.com/cyh-0/BoMD) | [![arXiv](https://img.shields.io/badge/arXiv-2203.01937-b31b1b.svg)](https://arxiv.org/abs/2203.01937) | :heavy_minus_sign: |
+| CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/ljwztc/CLIP-Driven-Universal-Model) <br /> [![GitHub](https://img.shields.io/github/stars/ljwztc/CLIP-Driven-Universal-Model)](https://github.com/ljwztc/CLIP-Driven-Universal-Model) | [![arXiv](https://img.shields.io/badge/arXiv-2301.00785-b31b1b.svg)](https://arxiv.org/abs/2301.00785) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
