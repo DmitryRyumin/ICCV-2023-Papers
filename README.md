@@ -678,7 +678,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Deep Learning Architectures
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)]([https://doppelgangers-3d.github.io/](https://github.com/apple/ml-fastvit)) <br /> [![GitHub](https://img.shields.io/github/stars/apple/ml-fastvit)](https://github.com/apple/ml-fastvit) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11417-b31b1b.svg)](https://arxiv.org/abs/2303.14189) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
