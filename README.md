@@ -662,14 +662,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Fairness, Privacy, Ethics, Social-good, Transparency, Accountability in Vision
 
-> Will soon be added
-
-<!-- | **Title** | **Repo** | **Paper** | **Video** |
+| **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Enhancing Privacy Preservation in Federated Learning via Learning Rate Perturbation |  |  |  |
-| TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation |  |  |  |
-| FACTS: First Amplify Correlations and Then Slice to Discover Bias |  |  |  |
-| Computation and Data Efficient Backdoor Attacks |  |  |  |
+| Enhancing Privacy Preservation in Federated Learning via Learning Rate Perturbation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation | [![GitHub](https://img.shields.io/github/stars/zj-jayzhang/Federated-Class-Continual-Learning)](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06937-b31b1b.svg)](https://arxiv.org/abs/2303.06937) | :heavy_minus_sign: |
+| FACTS: First Amplify Correlations and then Slice to Discover Bias | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | Computation and Data Efficient Backdoor Attacks |  |  |  |
 | Global Balanced Experts for Federated Long-Tailed Learning |  |  |  |
 | Source-Free Domain Adaptive Human Pose Estimation |  |  |  |
 | Gender Artifacts in Visual Datasets |  |  |  |
