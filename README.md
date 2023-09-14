@@ -275,12 +275,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Transferable Adversarial Attack for Both Vision Transformers and Convolutional Networks via Momentum Integrated Gradients | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | REAP: A Large-Scale Realistic Adversarial Patch Benchmark | [![GitHub](https://img.shields.io/github/stars/wagner-group/reap-benchmark)](https://github.com/wagner-group/reap-benchmark) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05680-b31b1b.svg)](https://arxiv.org/abs/2212.05680) | :heavy_minus_sign: |
 | Multi-Metrics Adaptively Identifies Backdoors in Federated Learning | [![GitHub](https://img.shields.io/github/stars/siquanhuang/Multi-metrics_against_backdoors_in_FL)](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06601-b31b1b.svg)](https://arxiv.org/abs/2303.06601) | :heavy_minus_sign: |
-| Backpropagation Path Search on Adversarial Transferability |  |  |  |
-| Fast Adaptation of Neural Networks using Test-Time Feedback |  |  |  |
-| One-Bit Flip is All You Need: When Bit-Flip Attack Meets Model Training |  |  |  |
-| PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning |  |  |  |
-| Towards Viewpoint-Invariant Visual Recognition via Adversarial Training |  |  |  |
-| Fast Adversarial Training with Smooth Convergence |  |  |  |
+| Backpropagation Path Search on Adversarial Transferability | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.07625-b31b1b.svg)](https://arxiv.org/abs/2308.07625) | :heavy_minus_sign: |
+| Fast Adaptation of Neural Networks using Test-Time Feedback | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| One-Bit Flip is All You Need: When Bit-Flip Attack Meets Model Training | [![GitHub](https://img.shields.io/github/stars/jianshuod/TBA)](https://github.com/jianshuod/TBA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07934-b31b1b.svg)](https://arxiv.org/abs/2308.07934) | :heavy_minus_sign: |
+| PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2202.03609-b31b1b.svg)](https://arxiv.org/abs/2202.03609) | :heavy_minus_sign: |
+| Towards Viewpoint-Invariant Visual Recognition via Adversarial Training | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.10235-b31b1b.svg)](https://arxiv.org/abs/2307.10235) | :heavy_minus_sign: |
+| Fast Adversarial Training with Smooth Convergence | [![GitHub](https://img.shields.io/github/stars/FAT-CS/ConvergeSmooth)](https://github.com/FAT-CS/ConvergeSmooth) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12857-b31b1b.svg)](https://arxiv.org/abs/2308.12857) | :heavy_minus_sign: |
 | The Perils of Learning from Unlabeled Data: Backdoor Attacks on Semi-Supervised Learning |  |  |  |
 | Boosting Adversarial Transferability via Gradient Relevance Attack |  |  |  |
 | Towards Robust Model Watermark via Reducing Parametric Vulnerability |  |  |  |
