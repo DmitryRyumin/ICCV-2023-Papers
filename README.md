@@ -664,6 +664,50 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 > Will soon be added
 
+<!-- | **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Enhancing Privacy Preservation in Federated Learning via Learning Rate Perturbation |  |  |  |
+| TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation |  |  |  |
+| FACTS: First Amplify Correlations and Then Slice to Discover Bias |  |  |  |
+| Computation and Data Efficient Backdoor Attacks |  |  |  |
+| Global Balanced Experts for Federated Long-Tailed Learning |  |  |  |
+| Source-Free Domain Adaptive Human Pose Estimation |  |  |  |
+| Gender Artifacts in Visual Datasets |  |  |  |
+| FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation |  |  |  |
+| zPROBE: Zero Peek Robustness Checks for Federated Learning |  |  |  |
+| Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study |  |  |  |
+| FedPD: Federated Open Set Recognition with Parameter Disentanglement |  |  |  |
+| MUter: Machine Unlearning for Adversarial Training Models |  |  |  |
+| Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color |  |  |  |
+| A Multidimensional Analysis of Social Biases in Vision Transformers |  |  |  |
+| Partition-and-Debias: Agnostic Biases Mitigation via a Mixture of Biases-Specific Experts |  |  |  |
+| Rethinking Data Distillation: Do not Overlook Calibration |  |  |  |
+| Mining Bias-Target Alignment from Voronoi Cells |  |  |  |
+| Better May not be Fairer: A Study on Subgroup Discrepancy in Image Classification |  |  |  |
+| GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization |  |  |  |
+| Benchmarking Algorithmic Bias in Face Recognition: An Experimental Approach using Synthetic Faces and Human Evaluation |  |  |  |
+| FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning |  |  |  |
+| Towards Attack-Tolerant Federated Learning via Critical Parameter Analysis |  |  |  |
+| What can Discriminator do? Towards Box-Free Ownership Verification of Generative Adversarial Networks |  |  |  |
+| Robust Heterogeneous Federated Learning under Data Corruption |  |  |  |
+| Communication-Efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence |  |  |  |
+| GPFL: Simultaneously Learning Global and Personalized Feature Information for Personalized Federated Learning |  |  |  |
+| MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention |  |  |  |
+| Identification of Systematic Errors of Image Classifiers on Rare Subgroups |  |  |  |
+| Adaptive Image Anonymization in the Context of Image Classification with Neural Networks |  |  |  |
+| When do Curricula Work in Federated Learning? |  |  |  |
+| Domain Specified Optimization for Deployment Authorization |  |  |  |
+| STPrivacy: Spatio-Temporal Privacy-Preserving Action Recognition |  |  |  |
+| SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation |  |  |  |
+| Generative Gradient Inversion without Prior |  |  |  |
+| Inspecting the Geographical Representativeness of Images from Text-to-Image Models |  |  |  |
+| Divide and Conquer: a Two-Step Method for High Quality Face De-Identification with Model Explainability |  |  |  |
+| Exploring the Benefits of Visual Prompting in Differential Privacy |  |  |  |
+| Towards Fairness-Aware Adversarial Network Pruning |  |  |  |
+| AutoReP: Automatic ReLU Replacement for Fast Private Network Inference |  |  |  |
+| Flatness-Aware Minimization for Domain Generalization |  |  |  |
+| Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples |  |  |  | -->
+
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
