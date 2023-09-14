@@ -281,10 +281,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2202.03609-b31b1b.svg)](https://arxiv.org/abs/2202.03609) | :heavy_minus_sign: |
 | Towards Viewpoint-Invariant Visual Recognition via Adversarial Training | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.10235-b31b1b.svg)](https://arxiv.org/abs/2307.10235) | :heavy_minus_sign: |
 | Fast Adversarial Training with Smooth Convergence | [![GitHub](https://img.shields.io/github/stars/FAT-CS/ConvergeSmooth)](https://github.com/FAT-CS/ConvergeSmooth) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12857-b31b1b.svg)](https://arxiv.org/abs/2308.12857) | :heavy_minus_sign: |
-| The Perils of Learning from Unlabeled Data: Backdoor Attacks on Semi-Supervised Learning |  |  |  |
-| Boosting Adversarial Transferability via Gradient Relevance Attack |  |  |  |
-| Towards Robust Model Watermark via Reducing Parametric Vulnerability |  |  |  |
-| TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization |  |  |  |
+| The Perils of Learning from Unlabeled Data: Backdoor Attacks on Semi-Supervised Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00453-b31b1b.svg)](https://arxiv.org/abs/2211.00453) | :heavy_minus_sign: |
+| Boosting Adversarial Transferability via Gradient Relevance Attack | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Towards Robust Model Watermark via Reducing Parametric Vulnerability | [![GitHub](https://img.shields.io/github/stars/GuanhaoGan/robust-model-watermarking)](https://github.com/GuanhaoGan/robust-model-watermarking) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04777-b31b1b.svg)](https://arxiv.org/abs/2309.04777) | :heavy_minus_sign: |
+| TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
