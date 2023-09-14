@@ -744,7 +744,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Image and Video Synthesis
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | [![GitHub](https://img.shields.io/github/stars/vvictoryuki/FreeDoM)](https://github.com/vvictoryuki/FreeDoM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09833-b31b1b.svg)](https://arxiv.org/abs/2303.09833) | :heavy_minus_sign: |
+| BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -770,12 +773,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | [![GitHub](https://img.shields.io/github/stars/vvictoryuki/FreeDoM)](https://github.com/vvictoryuki/FreeDoM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09833-b31b1b.svg)](https://arxiv.org/abs/2303.09833) | :heavy_minus_sign: |
-| BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: |
 | Simulating Fluids in Real-World Still Images | [![GitHub](https://img.shields.io/github/stars/simon3dv/SLR-SFS)](https://github.com/simon3dv/SLR-SFS) | [![arXiv](https://img.shields.io/badge/arXiv-2204.11335-b31b1b.svg)](https://arxiv.org/abs/2204.11335) | :heavy_minus_sign: |
-| Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | [![GitHub](https://img.shields.io/github/stars/aimagelab/multimodal-garment-designer)](https://github.com/aimagelab/multimodal-garment-designer) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02051-b31b1b.svg)](https://arxiv.org/abs/2304.02051) | :heavy_minus_sign: |
 | FateZero: Fusing Attentions for Zero-shot Text-based Video Editing | [![GitHub](https://img.shields.io/github/stars/ChenyangQiQi/FateZero)](https://github.com/ChenyangQiQi/FateZero) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09535-b31b1b.svg)](https://arxiv.org/abs/2303.09535) | :heavy_minus_sign: |
-| DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion | [![GitHub](https://img.shields.io/github/stars/Zhaozixiang1228/MMIF-DDFM)](https://github.com/Zhaozixiang1228/MMIF-DDFM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06840-b31b1b.svg)](https://arxiv.org/abs/2303.06840) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -791,7 +790,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Low-Level Vision and Theory
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion | [![GitHub](https://img.shields.io/github/stars/Zhaozixiang1228/MMIF-DDFM)](https://github.com/Zhaozixiang1228/MMIF-DDFM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06840-b31b1b.svg)](https://arxiv.org/abs/2303.06840) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -1047,7 +1048,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision Applications and Systems
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | [![GitHub](https://img.shields.io/github/stars/aimagelab/multimodal-garment-designer)](https://github.com/aimagelab/multimodal-garment-designer) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02051-b31b1b.svg)](https://arxiv.org/abs/2304.02051) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
