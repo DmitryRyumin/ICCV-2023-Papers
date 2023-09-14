@@ -268,9 +268,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Enhancing Adversarial Robustness in Semi-Supervised Learning via Adaptively Weighted Regularization and Knowledge Distillation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.04061-b31b1b.svg)](https://arxiv.org/abs/2308.04061) | :heavy_minus_sign: |
 | AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | FnF Attack Adversarial Attack against Multiple Object Trackers by Inducing False Negatives and False Positives | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis |  |  |  |
-| Hard No-Box Adversarial Attack on Skeleton-based Human Action Recognition with Skeleton-Motion-Informed Gradient |  |  |  |
-| Structure Invariant Transformation for Better Adversarial Transferability |  |  |  |
+| Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis | [![GitHub](https://img.shields.io/github/stars/LukasStruppek/Rickrolling-the-Artist)](https://github.com/LukasStruppek/Rickrolling-the-Artist) | [![arXiv](https://img.shields.io/badge/arXiv-2211.02408-b31b1b.svg)](https://arxiv.org/abs/2211.02408) | :heavy_minus_sign: |
+| Hard No-Box Adversarial Attack on Skeleton-based Human Action Recognition with Skeleton-Motion-Informed Gradient | [![GitHub](https://img.shields.io/github/stars/luyg45/HardNoBoxAttack)](https://github.com/luyg45/HardNoBoxAttack) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05681-b31b1b.svg)](https://arxiv.org/abs/2308.05681) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=hvniybZIiqA) |
+| Structure Invariant Transformation for Better Adversarial Transferability | [![GitHub](https://img.shields.io/github/stars/xiaosen-wang/SIT)](https://github.com/xiaosen-wang/SIT) | :heavy_minus_sign: | :heavy_minus_sign: |
 | Beating Backdoor Attack at Its Own Game |  |  |  |
 | Transferable Adversarial Attack for Both Vision Transformers and Convolutional Networks via Momentum Integrated Gradients |  |  |  |
 | REAP: A Large-Scale Realistic Adversarial Patch Benchmark |  |  |  |
