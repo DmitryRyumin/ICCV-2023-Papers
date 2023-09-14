@@ -774,7 +774,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Simulating Fluids in Real-World Still Images | [![GitHub](https://img.shields.io/github/stars/simon3dv/SLR-SFS)](https://github.com/simon3dv/SLR-SFS) | [![arXiv](https://img.shields.io/badge/arXiv-2204.11335-b31b1b.svg)](https://arxiv.org/abs/2204.11335) | :heavy_minus_sign: |
-| FateZero: Fusing Attentions for Zero-shot Text-based Video Editing | [![GitHub](https://img.shields.io/github/stars/ChenyangQiQi/FateZero)](https://github.com/ChenyangQiQi/FateZero) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09535-b31b1b.svg)](https://arxiv.org/abs/2303.09535) | :heavy_minus_sign: |
+| FateZero: Fusing Attentions for Zero-Shot Text-based Video Editing | [![GitHub](https://img.shields.io/github/stars/ChenyangQiQi/FateZero)](https://github.com/ChenyangQiQi/FateZero) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09535-b31b1b.svg)](https://arxiv.org/abs/2303.09535) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
