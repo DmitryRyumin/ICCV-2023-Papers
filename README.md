@@ -890,7 +890,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Efficient and Scalable Vision
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) <br /> [![GitHub](https://img.shields.io/github/stars/Jiamian-Wang/Iterative-Soft-Shrinkage-SR)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14221-b31b1b.svg)](https://arxiv.org/abs/2303.09650) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
