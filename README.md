@@ -672,9 +672,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Source-Free Domain Adaptive Human Pose Estimation | [![GitHub](https://img.shields.io/github/stars/davidpengucf/SFDAHPE)](https://github.com/davidpengucf/SFDAHPE) | [![arXiv](https://img.shields.io/badge/arXiv-2308.03202-b31b1b.svg)](https://arxiv.org/abs/2308.03202) | :heavy_minus_sign: |
 | Gender Artifacts in Visual Datasets | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://princetonvisualai.github.io/gender-artifacts/) <br /> [![GitHub](https://img.shields.io/github/stars/princetonvisualai/gender-artifacts)](https://github.com/princetonvisualai/gender-artifacts) | [![arXiv](https://img.shields.io/badge/arXiv-2206.09191-b31b1b.svg)](https://arxiv.org/abs/2206.09191) | :heavy_minus_sign: |
 | FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2205.14900-b31b1b.svg)](https://arxiv.org/abs/2205.14900) | :heavy_minus_sign: |
-<!-- | zPROBE: Zero Peek Robustness Checks for Federated Learning |  |  |  |
-| Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study |  |  |  |
-| FedPD: Federated Open Set Recognition with Parameter Disentanglement |  |  |  |
+| zPROBE: Zero Peek Robustness Checks for Federated Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2206.12100-b31b1b.svg)](https://arxiv.org/abs/2206.12100) | :heavy_minus_sign: |
+| Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | FedPD: Federated Open Set Recognition with Parameter Disentanglement |  |  |  |
 | MUter: Machine Unlearning for Adversarial Training Models |  |  |  |
 | Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color |  |  |  |
 | A Multidimensional Analysis of Social Biases in Vision Transformers |  |  |  |
