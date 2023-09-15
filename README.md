@@ -675,9 +675,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | zPROBE: Zero Peek Robustness Checks for Federated Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2206.12100-b31b1b.svg)](https://arxiv.org/abs/2206.12100) | :heavy_minus_sign: |
 | Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | FedPD: Federated Open Set Recognition with Parameter Disentanglement | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | MUter: Machine Unlearning for Adversarial Training Models |  |  |  |
-| Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color |  |  |  |
-| A Multidimensional Analysis of Social Biases in Vision Transformers |  |  |  |
+| MUter: Machine Unlearning for Adversarial Training Models | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.05148-b31b1b.svg)](https://arxiv.org/abs/2309.05148) | :heavy_minus_sign: |
+<!-- | A Multidimensional Analysis of Social Biases in Vision Transformers |  |  |  |
 | Partition-and-Debias: Agnostic Biases Mitigation via a Mixture of Biases-Specific Experts |  |  |  |
 | Rethinking Data Distillation: Do not Overlook Calibration |  |  |  |
 | Mining Bias-Target Alignment from Voronoi Cells |  |  |  |
