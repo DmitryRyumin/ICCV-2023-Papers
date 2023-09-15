@@ -427,7 +427,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Cross Contrasting Feature Perturbation for Domain Generalization | [![GitHub](https://img.shields.io/github/stars/hackmebroo/CCFP)](https://github.com/hackmebroo/CCFP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12502-b31b1b.svg)](https://arxiv.org/abs/2307.12502) | :heavy_minus_sign: |
-| Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance | :heavy_minus_sign: | :heavy_minus_sign:  | :heavy_minus_sign: |
+| Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.07403-b31b1b.svg)](https://arxiv.org/abs/2309.07403) | :heavy_minus_sign: |
 | CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.16634-b31b1b.svg)](https://arxiv.org/abs/2307.16634) | :heavy_minus_sign: |
 | RankMixup: Ranking-based Mixup Training for Network Calibration | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://cvlab.yonsei.ac.kr/projects/RankMixup/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11990-b31b1b.svg)](https://arxiv.org/abs/2308.11990) | :heavy_minus_sign: |
 | Label-Noise Learning with Intrinsically Long-Tailed Data | [![GitHub](https://img.shields.io/github/stars/Wakings/TABASCO)](https://github.com/Wakings/TABASCO) | [![arXiv](https://img.shields.io/badge/arXiv-2208.09833-b31b1b.svg)](https://arxiv.org/abs/2208.09833) | :heavy_minus_sign: |
