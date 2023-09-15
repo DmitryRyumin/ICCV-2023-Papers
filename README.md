@@ -674,8 +674,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | FRAug: Tackling Federated Learning with Non-IID Features via Representation Augmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2205.14900-b31b1b.svg)](https://arxiv.org/abs/2205.14900) | :heavy_minus_sign: |
 | zPROBE: Zero Peek Robustness Checks for Federated Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2206.12100-b31b1b.svg)](https://arxiv.org/abs/2206.12100) | :heavy_minus_sign: |
 | Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | FedPD: Federated Open Set Recognition with Parameter Disentanglement |  |  |  |
-| MUter: Machine Unlearning for Adversarial Training Models |  |  |  |
+| FedPD: Federated Open Set Recognition with Parameter Disentanglement | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | MUter: Machine Unlearning for Adversarial Training Models |  |  |  |
 | Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color |  |  |  |
 | A Multidimensional Analysis of Social Biases in Vision Transformers |  |  |  |
 | Partition-and-Debias: Agnostic Biases Mitigation via a Mixture of Biases-Specific Experts |  |  |  |
