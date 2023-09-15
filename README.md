@@ -947,7 +947,28 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Efficient and Scalable Vision
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Rethinking Vision Transformers for MobileNet Size and Speed | [![GitHub](https://img.shields.io/github/stars/snap-research/EfficientFormer)](https://github.com/snap-research/EfficientFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2212.08059-b31b1b.svg)](https://arxiv.org/abs/2212.08059) | :heavy_minus_sign: |
+| DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds | [![GitHub](https://img.shields.io/github/stars/IRMVLab/DELFlow)](https://github.com/IRMVLab/DELFlow) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04383-b31b1b.svg)](https://arxiv.org/abs/2308.04383) | :heavy_minus_sign: |
+| Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13494-b31b1b.svg)](https://arxiv.org/abs/2308.13494) | :heavy_minus_sign: |
+| Inherent Redundancy in Spiking Neural Networks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.08227-b31b1b.svg)](https://arxiv.org/abs/2308.08227) | :heavy_minus_sign: |
+| Achievement-based Training Progress Balancing for Multi-Task Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.04549-b31b1b.svg)](https://arxiv.org/abs/2308.04549) | :heavy_minus_sign: |
+| Differentiable Transportation Pruning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.08483-b31b1b.svg)](https://arxiv.org/abs/2307.08483) | :heavy_minus_sign: |
+| XiNet: Efficient Neural Networks for tinyML | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Jumping through Local Minima: Quantization in the Loss Landscape of Vision Transformers | [![GitHub](https://img.shields.io/github/stars/enyac-group/evol-q)](https://github.com/enyac-group/evol-q) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10814-b31b1b.svg)](https://arxiv.org/abs/2308.10814) | :heavy_minus_sign: |
+| A2Q: Accumulator-Aware Quantization with Guaranteed Overflow Avoidance | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.04383-b31b1b.svg)](https://arxiv.org/abs/2308.13504v1) | :heavy_minus_sign: |
+| Workie-Talkie: Accelerating Federated Learning by Overlapping Computing and Communications via Contrastive Regularization | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| DenseShift: Towards Accurate and Transferable Low-Bit Shift Network | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2208.09708-b31b1b.svg)](https://arxiv.org/abs/2208.09708) | :heavy_minus_sign: |
+| PRANC: Pseudo RAndom Networks for Compacting deep models | [![GitHub](https://img.shields.io/github/stars/UCDvision/PRANC)](https://github.com/UCDvision/PRANC) | [![arXiv](https://img.shields.io/badge/arXiv-2206.08464-b31b1b.svg)](https://arxiv.org/abs/2206.08464) | :heavy_minus_sign: |
+| Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement | [![GitHub](https://img.shields.io/github/stars/apple/ml-dr)](https://github.com/apple/ml-dr) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08983-b31b1b.svg)](https://arxiv.org/abs/2303.08983) | :heavy_minus_sign: |
+| A Fast Unified System for 3D Object Detection and Tracking | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Estimator Meets Equilibrium Perspective: A Rectified Straight Through Estimator for Binary Neural Networks Training | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.06689-b31b1b.svg)](https://arxiv.org/abs/2308.06689) | :heavy_minus_sign: |
+| I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference | [![GitHub](https://img.shields.io/github/stars/zkkli/I-ViT)](https://github.com/zkkli/I-ViT) | [![arXiv](https://img.shields.io/badge/arXiv-2207.01405-b31b1b.svg)](https://arxiv.org/abs/2207.01405) | :heavy_minus_sign: |
+| EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.10554-b31b1b.svg)](https://arxiv.org/abs/2307.10554) | :heavy_minus_sign: |
+| Local or Global: Selective Knowledge Assimilation for Federated Learning with Limited Labels | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.08809-b31b1b.svg)](https://arxiv.org/abs/2307.08809) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
