@@ -698,13 +698,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | STPrivacy: Spatio-Temporal Privacy-Preserving Action Recognition |  | [![arXiv](https://img.shields.io/badge/arXiv-2301.03046-b31b1b.svg)](https://arxiv.org/abs/2301.03046) | :heavy_minus_sign: |
 | SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Generative Gradient Inversion without Prior | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | Inspecting the Geographical Representativeness of Images from Text-to-Image Models |  |  |  |
-| Divide and Conquer: a Two-Step Method for High Quality Face De-Identification with Model Explainability |  |  |  |
-| Exploring the Benefits of Visual Prompting in Differential Privacy |  |  |  |
-| Towards Fairness-Aware Adversarial Network Pruning |  |  |  |
-| AutoReP: Automatic ReLU Replacement for Fast Private Network Inference |  |  |  |
-| Flatness-Aware Minimization for Domain Generalization |  |  |  |
-| Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples |  |  |  | -->
+| Inspecting the Geographical Representativeness of Images from Text-to-Image Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.11080-b31b1b.svg)](https://arxiv.org/abs/2305.11080) | :heavy_minus_sign: |
+| Divide and Conquer: A Two-Step Method for High Quality Face De-Identification with Model Explainability | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Exploring the Benefits of Visual Prompting in Differential Privacy | [![GitHub](https://img.shields.io/github/stars/EzzzLi/Prom-PATE)](https://github.com/EzzzLi/Prom-PATE) | [![arXiv](https://img.shields.io/badge/arXiv-2303.12247-b31b1b.svg)](https://arxiv.org/abs/2303.12247) | :heavy_minus_sign: |
+| Towards Fairness-Aware Adversarial Network Pruning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| AutoReP: Automatic ReLU Replacement for Fast Private Network Inference | [![GitHub](https://img.shields.io/github/stars/HarveyP123/AutoReP)](https://github.com/HarveyP123/AutoReP) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10134-b31b1b.svg)](https://arxiv.org/abs/2308.10134) | :heavy_minus_sign: |
+| Flatness-Aware Minimization for Domain Generalization | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.11108-b31b1b.svg)](https://arxiv.org/abs/2307.11108) | :heavy_minus_sign: |
+| Communication-Efficient Vertical Federated Learning with Limited Overlapping Samples | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl) | [![arXiv](https://img.shields.io/badge/arXiv-2303.16270-b31b1b.svg)](https://arxiv.org/abs/2303.16270) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
