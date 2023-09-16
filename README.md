@@ -688,17 +688,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Towards Attack-Tolerant Federated Learning via Critical Parameter Analysis | [![GitHub](https://img.shields.io/github/stars/Sungwon-Han/FEDCPA)](https://github.com/Sungwon-Han/FEDCPA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09318-b31b1b.svg)](https://arxiv.org/abs/2308.09318) | :heavy_minus_sign: |
 | What can Discriminator do? Towards Box-Free Ownership Verification of Generative Adversarial Networks | [![GitHub](https://img.shields.io/github/stars/AbstractTeen/gan_ownership_verification)](https://github.com/AbstractTeen/gan_ownership_verification) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15860-b31b1b.svg)](https://arxiv.org/abs/2307.15860) | :heavy_minus_sign: |
 | Robust Heterogeneous Federated Learning under Data Corruption | [![GitHub](https://img.shields.io/github/stars/FangXiuwen/AugHFL)](https://github.com/FangXiuwen/AugHFL) | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | Communication-Efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence |  |  |  |
-| GPFL: Simultaneously Learning Global and Personalized Feature Information for Personalized Federated Learning |  |  |  |
-| MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention |  |  |  |
-| Identification of Systematic Errors of Image Classifiers on Rare Subgroups |  |  |  |
-| Adaptive Image Anonymization in the Context of Image Classification with Neural Networks |  |  |  |
-| When do Curricula Work in Federated Learning? |  |  |  |
-| Domain Specified Optimization for Deployment Authorization |  |  |  |
-| STPrivacy: Spatio-Temporal Privacy-Preserving Action Recognition |  |  |  |
-| SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation |  |  |  |
-| Generative Gradient Inversion without Prior |  |  |  |
-| Inspecting the Geographical Representativeness of Images from Text-to-Image Models |  |  |  |
+| Communication-Efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence | [![GitHub](https://img.shields.io/github/stars/Soptq/iccv23-3sfc)](https://github.com/Soptq/iccv23-3sfc) | [![arXiv](https://img.shields.io/badge/arXiv-2302.13562-b31b1b.svg)](https://arxiv.org/abs/2302.13562) | :heavy_minus_sign: |
+| GPFL: Simultaneously Learning Global and Personalized Feature Information for Personalized Federated Learning | [![GitHub](https://img.shields.io/github/stars/TsingZ0/GPFL)](https://github.com/TsingZ0/GPFL) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10279-b31b1b.svg)](https://arxiv.org/abs/2308.10279) | :heavy_minus_sign: |
+| MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.13955-b31b1b.svg)](https://arxiv.org/abs/2211.13955) | :heavy_minus_sign: |
+| Identification of Systematic Errors of Image Classifiers on Rare Subgroups | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.05072-b31b1b.svg)](https://arxiv.org/abs/2303.05072) | :heavy_minus_sign: |
+| Adaptive Image Anonymization in the Context of Image Classification with Neural Networks | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| When do Curricula Work in Federated Learning? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.12712-b31b1b.svg)](https://arxiv.org/abs/2212.12712) | :heavy_minus_sign: |
+| Domain Specified Optimization for Deployment Authorization | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| STPrivacy: Spatio-Temporal Privacy-Preserving Action Recognition |  | [![arXiv](https://img.shields.io/badge/arXiv-2301.03046-b31b1b.svg)](https://arxiv.org/abs/2301.03046) | :heavy_minus_sign: |
+| SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Generative Gradient Inversion without Prior | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | Inspecting the Geographical Representativeness of Images from Text-to-Image Models |  |  |  |
 | Divide and Conquer: a Two-Step Method for High Quality Face De-Identification with Model Explainability |  |  |  |
 | Exploring the Benefits of Visual Prompting in Differential Privacy |  |  |  |
 | Towards Fairness-Aware Adversarial Network Pruning |  |  |  |
