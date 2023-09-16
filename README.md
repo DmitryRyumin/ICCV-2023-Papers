@@ -678,17 +678,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | MUter: Machine Unlearning for Adversarial Training Models | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.05148-b31b1b.svg)](https://arxiv.org/abs/2309.05148) | :heavy_minus_sign: |
 | A Multidimensional Analysis of Social Biases in Vision Transformers | [![GitHub](https://img.shields.io/github/stars/jannik-brinkmann/social-biases-in-vision-transformers)](https://github.com/jannik-brinkmann/social-biases-in-vision-transformers) | [![arXiv](https://img.shields.io/badge/arXiv-2308.01948-b31b1b.svg)](https://arxiv.org/abs/2308.01948) | :heavy_minus_sign: |
-<!-- | Partition-and-Debias: Agnostic Biases Mitigation via a Mixture of Biases-Specific Experts |  |  |  |
-| Rethinking Data Distillation: Do not Overlook Calibration |  |  |  |
-| Mining Bias-Target Alignment from Voronoi Cells |  |  |  |
-| Better May not be Fairer: A Study on Subgroup Discrepancy in Image Classification |  |  |  |
-| GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization |  |  |  |
-| Benchmarking Algorithmic Bias in Face Recognition: An Experimental Approach using Synthetic Faces and Human Evaluation |  |  |  |
-| FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning |  |  |  |
-| Towards Attack-Tolerant Federated Learning via Critical Parameter Analysis |  |  |  |
-| What can Discriminator do? Towards Box-Free Ownership Verification of Generative Adversarial Networks |  |  |  |
-| Robust Heterogeneous Federated Learning under Data Corruption |  |  |  |
-| Communication-Efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence |  |  |  |
+| Partition-and-Debias: Agnostic Biases Mitigation via a Mixture of Biases-Specific Experts | [![GitHub](https://img.shields.io/github/stars/Jiaxuan-Li/PnD)](https://github.com/Jiaxuan-Li/PnD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10005-b31b1b.svg)](https://arxiv.org/abs/2308.10005) | :heavy_minus_sign: |
+| Rethinking Data Distillation: Do not Overlook Calibration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12463-b31b1b.svg)](https://arxiv.org/abs/2307.12463) | :heavy_minus_sign: |
+| Mining Bias-Target Alignment from Voronoi Cells | [![GitHub](https://img.shields.io/github/stars/renahon/mining_bias_target_alignment_from_voronoi_cells)](https://github.com/renahon/mining_bias_target_alignment_from_voronoi_cells) | [![arXiv](https://img.shields.io/badge/arXiv-2305.03691-b31b1b.svg)](https://arxiv.org/abs/2305.03691) | :heavy_minus_sign: |
+| Better May not be Fairer: A Study on Subgroup Discrepancy in Image Classification | [![GitHub](https://img.shields.io/github/stars/charismaticchiu/CIFAR-B)](https://github.com/charismaticchiu/CIFAR-B) | :heavy_minus_sign: | :heavy_minus_sign: |
+| GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization | [![GitHub](https://img.shields.io/github/stars/ffhibnese/GIFD)](https://github.com/ffhibnese/GIFD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04699-b31b1b.svg)](https://arxiv.org/abs/2308.04699) | :heavy_minus_sign: |
+| Benchmarking Algorithmic Bias in Face Recognition: An Experimental Approach using Synthetic Faces and Human Evaluation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.05441-b31b1b.svg)](https://arxiv.org/abs/2308.05441) | :heavy_minus_sign: |
+| FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning | [![GitHub](https://img.shields.io/github/stars/imguangyu/FedPerfix)](https://github.com/imguangyu/FedPerfix) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09160-b31b1b.svg)](https://arxiv.org/abs/2308.09160) | :heavy_minus_sign: |
+| Towards Attack-Tolerant Federated Learning via Critical Parameter Analysis | [![GitHub](https://img.shields.io/github/stars/Sungwon-Han/FEDCPA)](https://github.com/Sungwon-Han/FEDCPA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09318-b31b1b.svg)](https://arxiv.org/abs/2308.09318) | :heavy_minus_sign: |
+| What can Discriminator do? Towards Box-Free Ownership Verification of Generative Adversarial Networks | [![GitHub](https://img.shields.io/github/stars/AbstractTeen/gan_ownership_verification)](https://github.com/AbstractTeen/gan_ownership_verification) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15860-b31b1b.svg)](https://arxiv.org/abs/2307.15860) | :heavy_minus_sign: |
+| Robust Heterogeneous Federated Learning under Data Corruption | [![GitHub](https://img.shields.io/github/stars/FangXiuwen/AugHFL)](https://github.com/FangXiuwen/AugHFL) | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | Communication-Efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence |  |  |  |
 | GPFL: Simultaneously Learning Global and Personalized Feature Information for Personalized Federated Learning |  |  |  |
 | MPCViT: Searching for Accurate and Efficient MPC-Friendly Vision Transformer with Heterogeneous Attention |  |  |  |
 | Identification of Systematic Errors of Image Classifiers on Rare Subgroups |  |  |  |
