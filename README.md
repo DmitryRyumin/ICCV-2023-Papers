@@ -757,15 +757,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | How Far Pre-Trained Models are from Neural Collapse on the Target Dataset Informs their Transferability | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | OPERA: Omni-Supervised Representation Learning with Hierarchical Supervisions | [![GitHub](https://img.shields.io/github/stars/wangck20/OPERA)](https://github.com/wangck20/OPERA) | [![arXiv](https://img.shields.io/badge/arXiv-2210.05557-b31b1b.svg)](https://arxiv.org/abs/2210.05557) | :heavy_minus_sign: |
 | Perceptual Grouping in Contrastive Vision-Language Models | [![GitHub](https://img.shields.io/github/stars/kahnchana/clippy)](https://github.com/kahnchana/clippy) | [![arXiv](https://img.shields.io/badge/arXiv-2210.09996-b31b1b.svg)](https://arxiv.org/abs/2210.09996) | :heavy_minus_sign: |
-| Fully Attentional Networks with Self-Emerging Token Labeling |  |  |  |
-| Instance and Category Supervision are Alternate Learners for Continual Learning |  |  |  |
-| SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-Training |  |  |  |
-| Motion-Guided Masking for Spatiotemporal Representation Learning |  |  |  |
-| Data Augmented Flatness-Aware Gradient Projection for Continual Learning |  |  |  |
-| Take-a-Photo: 3D-to-2D Generative Pre-Training of Point Cloud Models |  |  |  |
-| BiViT: Extremely Compressed Binary Vision Transformers |  |  |  |
-| Spatio-Temporal Crop Aggregation for Video Representation Learning |  |  |  |
-| Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning |  |  |  |
+| Fully Attentional Networks with Self-Emerging Token Labeling | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Instance and Category Supervision are Alternate Learners for Continual Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-Training | [![GitHub](https://img.shields.io/github/stars/HongYan1123/SkeletonMAE)](https://github.com/HongYan1123/SkeletonMAE) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08476-b31b1b.svg)](https://arxiv.org/abs/2307.08476) | :heavy_minus_sign: |
+| Motion-Guided Masking for Spatiotemporal Representation Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.12962-b31b1b.svg)](https://arxiv.org/abs/2308.12962) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/motion-guided-masking-for-spatiotemporal-representation-learning) | :heavy_minus_sign: |
+| Data Augmented Flatness-Aware Gradient Projection for Continual Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Take-a-Photo: 3D-to-2D Generative Pre-Training of Point Cloud Models | [![GitHub](https://img.shields.io/github/stars/Hwangzy22/TAP)](https://github.com/wangzy22/TAP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14971-b31b1b.svg)](https://arxiv.org/abs/2307.14971) | :heavy_minus_sign: |
+| BiViT: Extremely Compressed Binary Vision Transformers | [![GitHub](https://img.shields.io/github/stars/ThisisBillhe/BiViT)](https://github.com/ThisisBillhe/BiViT) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07091-b31b1b.svg)](https://arxiv.org/abs/2211.07091) | :heavy_minus_sign: |
+| Spatio-Temporal Crop Aggregation for Video Representation Learning | [![GitHub](https://img.shields.io/github/stars/Separius/SCALE)](https://github.com/Separius/SCALE) | [![arXiv](https://img.shields.io/badge/arXiv-2211.17042-b31b1b.svg)](https://arxiv.org/abs/2211.17042) | :heavy_minus_sign: |
+| Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning | [![GitHub](https://img.shields.io/github/stars/HanjaeKim98/CoT)](https://github.com/HanjaeKim98/CoT) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04016-b31b1b.svg)](https://arxiv.org/abs/2308.04016) | :heavy_minus_sign: |
 | Semantic Information in Contrastive Learning |  |  |  |
 | Cross-Domain Product Representation Learning for Rich-Content E-Commerce |  |  |  |
 | Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning |  |  |  |
