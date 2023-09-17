@@ -746,10 +746,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Exploring Model Transferability through the Lens of Potential Energy | [![GitHub](https://img.shields.io/github/stars/lixiaotong97/PED)](https://github.com/lixiaotong97/PED) | [![arXiv](https://img.shields.io/badge/arXiv-2308.15074-b31b1b.svg)](https://arxiv.org/abs/2308.15074) | :heavy_minus_sign: |
 | Improving CLIP Fine-Tuning Performance | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Unsupervised Manifold Linearizing and Clustering |  | [![arXiv](https://img.shields.io/badge/arXiv-2301.01805-b31b1b.svg)](https://arxiv.org/abs/2301.01805) | :heavy_minus_sign: |
-| Generalized Sum Pooling for Metric Learning |  |  |  |
-| Partition Speeds Up Learning Implicit Neural Representations based on Exponential-Increase Hypothesis |  |  |  |
-| The Effectiveness of MAE Pre-Pretraining for Billion-Scale Pretraining |  |  |  |
-| Token-Label Alignment for Vision Transformers |  |  |  |
+| Generalized Sum Pooling for Metric Learning | [![GitHub](https://img.shields.io/github/stars/yetigurbuz/generalized-sum-pooling)](https://github.com/yetigurbuz/generalized-sum-pooling) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09228-b31b1b.svg)](https://arxiv.org/abs/2308.09228) | :heavy_minus_sign: |
+| Partition Speeds Up Learning Implicit Neural Representations based on Exponential-Increase Hypothesis | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| The Effectiveness of MAE Pre-Pretraining for Billion-Scale Pretraining | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.13496-b31b1b.svg)](https://arxiv.org/abs/2303.13496) | :heavy_minus_sign: |
+| Token-Label Alignment for Vision Transformers | [![GitHub](https://img.shields.io/github/stars/Euphoria16/TL-Align)](https://github.com/Euphoria16/TL-Align) | [![arXiv](https://img.shields.io/badge/arXiv-2210.06455-b31b1b.svg)](https://arxiv.org/abs/2210.06455) | :heavy_minus_sign: |
 | Efficiently Robustify Pre-Trained Models |  |  |  |
 | OFVL-MS: Once for Visual Localization Across Multiple Indoor Scenes |  |  |  |
 | Feature Prediction Diffusion Model for Video Anomaly Detection |  |  |  |
