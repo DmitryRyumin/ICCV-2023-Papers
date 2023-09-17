@@ -736,11 +736,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier | [![GitHub](https://img.shields.io/github/stars/ZexiLee/ICCV-2023-FedETF)](https://github.com/ZexiLee/ICCV-2023-FedETF) | [![arXiv](https://img.shields.io/badge/arXiv-2303.10058-b31b1b.svg)](https://arxiv.org/abs/2303.10058) | :heavy_minus_sign: |
 | Generalizable Neural Fields as Partially Observed Neural Processes | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.06660-b31b1b.svg)](https://arxiv.org/abs/2309.06660) | :heavy_minus_sign: |
 | M2T: Masking Transformers Twice for Faster Decoding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.07313-b31b1b.svg)](https://arxiv.org/abs/2304.07313) | :heavy_minus_sign: |
-| Keep it SimPool: Who Said Supervised Transformers Suffer from Attention Deficit? |  |  |  |
-| Improving Pixel-based MIM by Reducing Wasted Modeling Capability |  |  |  |
-| Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration |  |  |  |
-| Quality Diversity for Visual Pre-Training |  |  |  |
-| Subclass-Balancing Contrastive Learning for Long-Tailed Recognition |  |  |  |
+| Keep it SimPool: Who Said Supervised Transformers Suffer from Attention Deficit? | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.06891-b31b1b.svg)](https://arxiv.org/abs/2309.06891) | :heavy_minus_sign: |
+| Improving Pixel-based MIM by Reducing Wasted Modeling Capability | [![GitHub](https://img.shields.io/github/stars/open-mmlab/mmpretrain)](https://github.com/open-mmlab/mmpretrain) | [![arXiv](https://img.shields.io/badge/arXiv-2308.00261-b31b1b.svg)](https://arxiv.org/abs/2308.00261) | :heavy_minus_sign: |
+| Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06513-b31b1b.svg)](https://arxiv.org/abs/2306.06513) | :heavy_minus_sign: |
+| Quality Diversity for Visual Pre-Training | [![GitHub](https://img.shields.io/github/stars/ruchikachavhan/quality-diversity-pretraining)](https://github.com/ruchikachavhan/quality-diversity-pretraining) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Subclass-Balancing Contrastive Learning for Long-Tailed Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15925-b31b1b.svg)](https://arxiv.org/abs/2306.15925) | :heavy_minus_sign: |
 | Mastering Spatial Graph Prediction of Road Networks |  |  |  |
 | Poincaré ResNet |  |  |  |
 | Exploring Model Transferability through the Lens of Potential Energy |  |  |  |
