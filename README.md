@@ -750,13 +750,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Partition Speeds Up Learning Implicit Neural Representations based on Exponential-Increase Hypothesis | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | The Effectiveness of MAE Pre-Pretraining for Billion-Scale Pretraining | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.13496-b31b1b.svg)](https://arxiv.org/abs/2303.13496) | :heavy_minus_sign: |
 | Token-Label Alignment for Vision Transformers | [![GitHub](https://img.shields.io/github/stars/Euphoria16/TL-Align)](https://github.com/Euphoria16/TL-Align) | [![arXiv](https://img.shields.io/badge/arXiv-2210.06455-b31b1b.svg)](https://arxiv.org/abs/2210.06455) | :heavy_minus_sign: |
-| Efficiently Robustify Pre-Trained Models |  |  |  |
-| OFVL-MS: Once for Visual Localization Across Multiple Indoor Scenes |  |  |  |
-| Feature Prediction Diffusion Model for Video Anomaly Detection |  |  |  |
-| Joint Implicit Neural Representation for High-Fidelity and Compact Vector Fonts |  |  |  |
-| How Far Pre-Trained Models are from Neural Collapse on the Target Dataset Informs their Transferability |  |  |  |
-| OPERA: Omni-Supervised Representation Learning with Hierarchical Supervisions |  |  |  |
-| Perceptual Grouping in Contrastive Vision-Language Models |  |  |  |
+| Efficiently Robustify Pre-Trained Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.07499-b31b1b.svg)](https://arxiv.org/abs/2309.07499) | :heavy_minus_sign: |
+| OFVL-MS: Once for Visual Localization Across Multiple Indoor Scenes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/mooncake199809/UFVL-Net/tree/main/configs/ofvl_ms) <br /> [![GitHub](https://img.shields.io/github/stars/mooncake199809/UFVL-Net)](https://github.com/mooncake199809/UFVL-Net) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11928-b31b1b.svg)](https://arxiv.org/abs/2308.11928) | :heavy_minus_sign: |
+| Feature Prediction Diffusion Model for Video Anomaly Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Joint Implicit Neural Representation for High-Fidelity and Compact Vector Fonts | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| How Far Pre-Trained Models are from Neural Collapse on the Target Dataset Informs their Transferability | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| OPERA: Omni-Supervised Representation Learning with Hierarchical Supervisions | [![GitHub](https://img.shields.io/github/stars/wangck20/OPERA)](https://github.com/wangck20/OPERA) | [![arXiv](https://img.shields.io/badge/arXiv-2210.05557-b31b1b.svg)](https://arxiv.org/abs/2210.05557) | :heavy_minus_sign: |
+| Perceptual Grouping in Contrastive Vision-Language Models | [![GitHub](https://img.shields.io/github/stars/kahnchana/clippy)](https://github.com/kahnchana/clippy) | [![arXiv](https://img.shields.io/badge/arXiv-2210.09996-b31b1b.svg)](https://arxiv.org/abs/2210.09996) | :heavy_minus_sign: |
 | Fully Attentional Networks with Self-Emerging Token Labeling |  |  |  |
 | Instance and Category Supervision are Alternate Learners for Continual Learning |  |  |  |
 | SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-Training |  |  |  |
