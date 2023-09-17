@@ -804,6 +804,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-----------|:--------:|:---------:|:---------:|
 | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | [![GitHub](https://img.shields.io/github/stars/vvictoryuki/FreeDoM)](https://github.com/vvictoryuki/FreeDoM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09833-b31b1b.svg)](https://arxiv.org/abs/2303.09833) | :heavy_minus_sign: |
 | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: |
+| LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutDiffusion) <br /> [![GitHub](https://img.shields.io/github/stars/microsoft/LayoutGeneration)](https://github.com/microsoft/LayoutGeneration) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11589-b31b1b.svg)](https://arxiv.org/abs/2303.11589) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
