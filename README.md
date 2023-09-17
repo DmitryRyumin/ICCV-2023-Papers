@@ -105,6 +105,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 - [Privacy, Security, Fairness, and Explainability](#privacy-security-fairness-and-explainability)
 - [Fairness, Privacy, Ethics, Social-good, Transparency, Accountability in Vision](#fairness-privacy-ethics-social-good-transparency-accountability-in-vision)
 - [First Person (Egocentric) Vision](#first-person-egocentric-vision)
+- [Representation Learning](#representation-learning)
 - [Deep Learning Architectures](#deep-learning-architectures)
 - [Recognition: Detection](#recognition-detection)
 - [Image and Video Synthesis](#image-and-video-synthesis)
@@ -721,6 +722,55 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | COPILOT: Human-Environment Collision Prediction and Localization from Egocentric Videos | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://sites.google.com/stanford.edu/copilot) | [![arXiv](https://img.shields.io/badge/arXiv-2210.01781-b31b1b.svg)](https://arxiv.org/abs/2210.01781) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=lxRTPeac8Oo) |
 | EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://mvig-rhos.com/ego_pca) | [![arXiv](https://img.shields.io/badge/arXiv-2309.02423-b31b1b.svg)](https://arxiv.org/abs/2309.02423) | :heavy_minus_sign: |
 | EgoVLPv2: Egocentric Video-Language Pre-Training with Fusion in the Backbone | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://shramanpramanick.github.io/EgoVLPv2/) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05463-b31b1b.svg)](https://arxiv.org/abs/2307.05463) | :heavy_minus_sign: |
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
+### Representation Learning
+
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis | [![GitHub](https://img.shields.io/github/stars/ivalab/WDiscOOD)](https://github.com/ivalab/WDiscOOD) | [![arXiv](https://img.shields.io/badge/arXiv-2303.07543-b31b1b.svg)](https://arxiv.org/abs/2303.07543) | :heavy_minus_sign: |
+| Pairwise Similarity Learning is SimPLE | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier | [![GitHub](https://img.shields.io/github/stars/ZexiLee/ICCV-2023-FedETF)](https://github.com/ZexiLee/ICCV-2023-FedETF) | [![arXiv](https://img.shields.io/badge/arXiv-2303.10058-b31b1b.svg)](https://arxiv.org/abs/2303.10058) | :heavy_minus_sign: |
+| Generalizable Neural Fields as Partially Observed Neural Processes | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.06660-b31b1b.svg)](https://arxiv.org/abs/2309.06660) | :heavy_minus_sign: |
+| M2T: Masking Transformers Twice for Faster Decoding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.07313-b31b1b.svg)](https://arxiv.org/abs/2304.07313) | :heavy_minus_sign: |
+| Keep it SimPool: Who Said Supervised Transformers Suffer from Attention Deficit? |  |  |  |
+| Improving Pixel-based MIM by Reducing Wasted Modeling Capability |  |  |  |
+| Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration |  |  |  |
+| Quality Diversity for Visual Pre-Training |  |  |  |
+| Subclass-Balancing Contrastive Learning for Long-Tailed Recognition |  |  |  |
+| Mastering Spatial Graph Prediction of Road Networks |  |  |  |
+| Poincaré ResNet |  |  |  |
+| Exploring Model Transferability through the Lens of Potential Energy |  |  |  |
+| Improving CLIP Fine-Tuning Performance |  |  |  |
+| Unsupervised Manifold Linearizing and Clustering |  |  |  |
+| Generalized Sum Pooling for Metric Learning |  |  |  |
+| Partition Speeds Up Learning Implicit Neural Representations based on Exponential-Increase Hypothesis |  |  |  |
+| The Effectiveness of MAE Pre-Pretraining for Billion-Scale Pretraining |  |  |  |
+| Token-Label Alignment for Vision Transformers |  |  |  |
+| Efficiently Robustify Pre-Trained Models |  |  |  |
+| OFVL-MS: Once for Visual Localization Across Multiple Indoor Scenes |  |  |  |
+| Feature Prediction Diffusion Model for Video Anomaly Detection |  |  |  |
+| Joint Implicit Neural Representation for High-Fidelity and Compact Vector Fonts |  |  |  |
+| How Far Pre-Trained Models are from Neural Collapse on the Target Dataset Informs their Transferability |  |  |  |
+| OPERA: Omni-Supervised Representation Learning with Hierarchical Supervisions |  |  |  |
+| Perceptual Grouping in Contrastive Vision-Language Models |  |  |  |
+| Fully Attentional Networks with Self-Emerging Token Labeling |  |  |  |
+| Instance and Category Supervision are Alternate Learners for Continual Learning |  |  |  |
+| SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-Training |  |  |  |
+| Motion-Guided Masking for Spatiotemporal Representation Learning |  |  |  |
+| Data Augmented Flatness-Aware Gradient Projection for Continual Learning |  |  |  |
+| Take-a-Photo: 3D-to-2D Generative Pre-Training of Point Cloud Models |  |  |  |
+| BiViT: Extremely Compressed Binary Vision Transformers |  |  |  |
+| Spatio-Temporal Crop Aggregation for Video Representation Learning |  |  |  |
+| Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning |  |  |  |
+| Semantic Information in Contrastive Learning |  |  |  |
+| Cross-Domain Product Representation Learning for Rich-Content E-Commerce |  |  |  |
+| Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning |  |  |  |
+| HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness |  |  |  |
+| Unleashing Text-to-Image Diffusion Models for Visual Perception |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
