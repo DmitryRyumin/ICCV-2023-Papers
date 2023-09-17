@@ -766,11 +766,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | BiViT: Extremely Compressed Binary Vision Transformers | [![GitHub](https://img.shields.io/github/stars/ThisisBillhe/BiViT)](https://github.com/ThisisBillhe/BiViT) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07091-b31b1b.svg)](https://arxiv.org/abs/2211.07091) | :heavy_minus_sign: |
 | Spatio-Temporal Crop Aggregation for Video Representation Learning | [![GitHub](https://img.shields.io/github/stars/Separius/SCALE)](https://github.com/Separius/SCALE) | [![arXiv](https://img.shields.io/badge/arXiv-2211.17042-b31b1b.svg)](https://arxiv.org/abs/2211.17042) | :heavy_minus_sign: |
 | Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning | [![GitHub](https://img.shields.io/github/stars/HanjaeKim98/CoT)](https://github.com/HanjaeKim98/CoT) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04016-b31b1b.svg)](https://arxiv.org/abs/2308.04016) | :heavy_minus_sign: |
-| Semantic Information in Contrastive Learning |  |  |  |
-| Cross-Domain Product Representation Learning for Rich-Content E-Commerce |  |  |  |
-| Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning |  |  |  |
-| HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness |  |  |  |
-| Unleashing Text-to-Image Diffusion Models for Visual Perception |  |  |  |
+| Semantic Information in Contrastive Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Cross-Domain Product Representation Learning for Rich-Content E-Commerce | [![GitHub](https://img.shields.io/github/stars/adxcreative/COPE)](https://github.com/adxcreative/COPE) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05550-b31b1b.svg)](https://arxiv.org/abs/2308.05550) | :heavy_minus_sign: |
+| Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness | [![GitHub](https://img.shields.io/github/stars/MKYucel/hybrid_augment)](https://github.com/MKYucel/hybrid_augment) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11823-b31b1b.svg)](https://arxiv.org/abs/2307.11823) | :heavy_minus_sign: |
+| Unleashing Text-to-Image Diffusion Models for Visual Perception | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://vpd.ivg-research.xyz/) <br /> [![GitHub](https://img.shields.io/github/stars/wl-zhao/VPD)](https://github.com/wl-zhao/VPD) | [![arXiv](https://img.shields.io/badge/arXiv-2303.02153-b31b1b.svg)](https://arxiv.org/abs/2303.02153) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
