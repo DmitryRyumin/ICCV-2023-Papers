@@ -741,11 +741,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.06513-b31b1b.svg)](https://arxiv.org/abs/2306.06513) | :heavy_minus_sign: |
 | Quality Diversity for Visual Pre-Training | [![GitHub](https://img.shields.io/github/stars/ruchikachavhan/quality-diversity-pretraining)](https://github.com/ruchikachavhan/quality-diversity-pretraining) | :heavy_minus_sign: | :heavy_minus_sign: |
 | Subclass-Balancing Contrastive Learning for Long-Tailed Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.15925-b31b1b.svg)](https://arxiv.org/abs/2306.15925) | :heavy_minus_sign: |
-| Mastering Spatial Graph Prediction of Road Networks |  |  |  |
-| Poincaré ResNet |  |  |  |
-| Exploring Model Transferability through the Lens of Potential Energy |  |  |  |
-| Improving CLIP Fine-Tuning Performance |  |  |  |
-| Unsupervised Manifold Linearizing and Clustering |  |  |  |
+| Mastering Spatial Graph Prediction of Road Networks | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.00828-b31b1b.svg)](https://arxiv.org/abs/2210.00828) | :heavy_minus_sign: |
+| Poincaré ResNet | [![GitHub](https://img.shields.io/github/stars/maxvanspengler/poincare-resnet)](https://github.com/maxvanspengler/poincare-resnet) | [![arXiv](https://img.shields.io/badge/arXiv-2303.14027-b31b1b.svg)](https://arxiv.org/abs/2303.14027) | :heavy_minus_sign: |
+| Exploring Model Transferability through the Lens of Potential Energy | [![GitHub](https://img.shields.io/github/stars/lixiaotong97/PED)](https://github.com/lixiaotong97/PED) | [![arXiv](https://img.shields.io/badge/arXiv-2308.15074-b31b1b.svg)](https://arxiv.org/abs/2308.15074) | :heavy_minus_sign: |
+| Improving CLIP Fine-Tuning Performance | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Unsupervised Manifold Linearizing and Clustering |  | [![arXiv](https://img.shields.io/badge/arXiv-2301.01805-b31b1b.svg)](https://arxiv.org/abs/2301.01805) | :heavy_minus_sign: |
 | Generalized Sum Pooling for Metric Learning |  |  |  |
 | Partition Speeds Up Learning Implicit Neural Representations based on Exponential-Increase Hypothesis |  |  |  |
 | The Effectiveness of MAE Pre-Pretraining for Billion-Scale Pretraining |  |  |  |
