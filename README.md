@@ -17,7 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-> Completed: ![Progress](https://geps.dev/progress/22?successColor=006600)
+> Completed: ![Progress](https://geps.dev/progress/24?successColor=006600)
 
 ---
 
@@ -811,20 +811,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Adaptive Frequency Filters as Efficient Global Token Mixers | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/TokenMixers/tree/main/Adaptive%20Frequency%20Filters) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14008-b31b1b.svg)](https://arxiv.org/abs/2307.14008) | :heavy_minus_sign: |
 | Fcaformer: Forward Cross Attention in Hybrid Vision Transformer | [![GitHub](https://img.shields.io/github/stars/hkzhang-git/FcaFormer)](https://github.com/hkzhang-git/FcaFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07198-b31b1b.svg)](https://arxiv.org/abs/2211.07198) | :heavy_minus_sign: |
 | Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yaoleiqi.github.io/pub_homepage/2023_ICCV/index.html) <br /> [![GitHub](https://img.shields.io/github/stars/YaoleiQi/DSCNet)](https://github.com/YaoleiQi/DSCNet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08388-b31b1b.svg)](https://arxiv.org/abs/2307.08388) | :heavy_minus_sign: |
-<!-- | Sentence Attention Blocks for Answer Grounding |  |  |  |
-| MST-Compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree |  |  |  |
-| EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation |  |  |  |
-| SPANet: Frequency-Balancing Token Mixer using Spectral Pooling Aggregation Modulation |  |  |  |
-| ModelGiF: Gradient Fields for Model Functional Distance |  |  |  |
-| ClusT3: Information Invariant Test-Time Training |  |  |  |
-| Cumulative Spatial Knowledge Distillation for Vision Transformers |  |  |  |
-| Luminance-Aware Color Transform for Multiple Exposure Correction |  |  |  |
-| Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks |  |  |  |
-| Domain Generalization Guided by Gradient Signal to Noise Ratio of Parameters |  |  |  |
-| DOT: A Distillation-Oriented Trainer |  |  |  |
-| Extensible and Efficient Proxy for Neural Architecture Search |  |  |  |
-| Learning to Transform for Generalizable Instance-Wise Invariance |  |  |  |
-| Convolutional Networks with Oriented 1D Kernels |  |  |  | -->
+| Sentence Attention Blocks for Answer Grounding | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MST-Compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13735-b31b1b.svg)](https://arxiv.org/abs/2308.13735) | :heavy_minus_sign: |
+| EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.07803-b31b1b.svg)](https://arxiv.org/abs/2304.07803) | :heavy_minus_sign: |
+| SPANet: Frequency-Balancing Token Mixer using Spectral Pooling Aggregation Modulation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://doranlyong.github.io/projects/spanet/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11568-b31b1b.svg)](https://arxiv.org/abs/2308.11568) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=wEVuA9-jv00) |
+| ModelGiF: Gradient Fields for Model Functional Distance | [![GitHub](https://img.shields.io/github/stars/zju-vipa/modelgif)](https://github.com/zju-vipa/modelgif) | :heavy_minus_sign: | :heavy_minus_sign: |
+| ClusT3: Information Invariant Test-Time Training | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Cumulative Spatial Knowledge Distillation for Vision Transformers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.08500-b31b1b.svg)](https://arxiv.org/abs/2307.08500) | :heavy_minus_sign: |
+| Luminance-Aware Color Transform for Multiple Exposure Correction | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks | [![GitHub](https://img.shields.io/github/stars/qymeng94/SLTT)](https://github.com/qymeng94/SLTT) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14311-b31b1b.svg)](https://arxiv.org/abs/2302.14311) | :heavy_minus_sign: |
+| Domain Generalization Guided by Gradient Signal to Noise Ratio of Parameters | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| DOT: A Distillation-Oriented Trainer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.08436-b31b1b.svg)](https://arxiv.org/abs/2307.08436) | :heavy_minus_sign: |
+| Extensible and Efficient Proxy for Neural Architecture Search | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Learning to Transform for Generalizable Instance-Wise Invariance | [![GitHub](https://img.shields.io/github/stars/sutkarsh/flow_inv)](https://github.com/sutkarsh/flow_inv) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Convolutional Networks with Oriented 1D Kernels | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
