@@ -834,9 +834,79 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment | [![GitHub](https://img.shields.io/github/stars/Atten4Vis/GroupDETR)](https://github.com/Atten4Vis/GroupDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2207.13085-b31b1b.svg)](https://arxiv.org/abs/2207.13085) | :heavy_minus_sign: |
-| Integrally Migrating Pre-Trained Transformer Encoder-Decoders for Visual Object Detection | [![GitHub](https://img.shields.io/github/stars/LiewFeng/imTED)](https://github.com/LiewFeng/imTED) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09613-b31b1b.svg)](https://arxiv.org/abs/2205.09613) | :heavy_minus_sign: |
+| Random Boxes are Open-World Object Detectors | [![GitHub](https://img.shields.io/github/stars/scuwyh2000/RandBox)](https://github.com/scuwyh2000/RandBox) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08249-b31b1b.svg)](https://arxiv.org/abs/2307.08249) | :heavy_minus_sign: |
+| Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection | [![GitHub](https://img.shields.io/github/stars/hustvl/MIMDet)](https://github.com/hustvl/MIMDet) | [![arXiv](https://img.shields.io/badge/arXiv-2204.02964-b31b1b.svg)](https://arxiv.org/abs/2204.02964) | :heavy_minus_sign: |
+| CoIn: Contrastive Instance Feature Mining for Outdoor 3D Object Detection with Very Limited Annotations | [![GitHub](https://img.shields.io/github/stars/xmuqimingxia/CoIn)](https://github.com/xmuqimingxia/CoIn) | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism |  |  |  |
+| Anchor-Intermediate Detector: Decoupling and Coupling Bounding Boxes for Accurate Object Detection |  |  |  |
+| Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification |  |  |  |
+| Deep Equilibrium Object Detection |  |  |  |
+| RecursiveDet: End-to-End Region-based Recursive Object Detection |  |  |  |
+| Small Object Detection via Coarse-to-Fine Proposal Generation and Imitation Learning |  |  |  | -->
 | ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation | [![GitHub](https://img.shields.io/github/stars/iSEE-Laboratory/ASAG)](https://github.com/iSEE-Laboratory/ASAG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09242-b31b1b.svg)](https://arxiv.org/abs/2308.09242) | :heavy_minus_sign: |
+<!-- | COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts |  |  |  |
+| Generative Prompt Model for Weakly Supervised Object Localization |  |  |  |
+| UniKD: Universal Knowledge Distillation for Mimicking Homogeneous or Heterogeneous Object Detectors |  |  |  |
+| PNI: Industrial Anomaly Detection using Position and Neighborhood Information |  |  |  |
+| Masked Autoencoders are Stronger Knowledge Distillers |  |  |  |
+| GPA-3D: Geometry-Aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds |  |  |  |
+| ADNet: Lane Shape Prediction via Anchor Decomposition |  |  |  |
+| Periodically Exchange Teacher-Student for Source-Free Object Detection |  |  |  |
+| Towards Fair and Comprehensive Comparisons for Image-based 3D Object Detection |  |  |  |
+| Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver |  |  |  |
+| Template-Guided Hierarchical Feature Restoration for Anomaly Detection |  |  |  |
+| ALWOD: Active Learning for Weakly-Supervised Object Detection |  |  |  |
+| ProtoFL: Unsupervised Federated Learning via Prototypical Distillation |  |  |  |
+| Efficient Adaptive Human-Object Interaction Detection with Concept-Guided Memory |  |  |  |
+| Detection Transformer with Stable Matching |  |  |  |
+| Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection |  |  |  |
+| Anomaly Detection Under Distribution Shift |  |  |  |
+| Detecting Objects with Context-Likelihood Graphs and Graph Refinement |  |  |  |
+| Unsupervised Object Localization with Representer Point Selection |  |  |  |
+| DETR does not Need Multi-Scale or Locality Design |  |  |  |
+| Deep Directly-Trained Spiking Neural Networks for Object Detection |  |  |  |
+| GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data |  |  |  |
+| StageInteractor: Query-based Object Detector with Cross-Stage Interaction |  |  |  |
+| Adaptive Rotated Convolution for Rotated Object Detection |  |  |  |
+| Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection |  |  |  |
+| Exploring Transformers for Open-World Instance Segmentation |  |  |  |
+| DDG-Net: Discriminability-Driven Graph Network for Weakly-Supervised Temporal Action Localization |  |  |  | -->
+| Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment | [![GitHub](https://img.shields.io/github/stars/Atten4Vis/GroupDETR)](https://github.com/Atten4Vis/GroupDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2207.13085-b31b1b.svg)](https://arxiv.org/abs/2207.13085) | :heavy_minus_sign: |
+<!-- | Category-Aware Allocation Transformer for Weakly Supervised Object Localization |  |  |  |
+| The Devil is in the Crack Orientation: A New Perspective for Crack Detection |  |  |  |
+| Clusterformer: Cluster-based Transformer for 3D Object Detection in Point Clouds |  |  |  |
+| Less is more: Focus Attention for Efficient DETR |  |  |  |
+| DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting |  |  |  |
+| Multi-Label Self-Supervised Learning with Scene Images |  |  |  |
+| Cascade-DETR: Delving into High-Quality Universal Object Detection |  |  |  |
+| Representation Disparity-Aware Distillation for 3D Object Detection |  |  |  |
+| FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision |  |  |  |
+| DetZero: Rethinking Offboard 3D Object Detection with Long-Term Sequential Point Clouds |  |  |  |
+| DETRs with Collaborative Hybrid Assignments Training |  |  |  |
+| Open-Vocabulary Object Detection with an Open Corpus |  |  |  |
+| SparseDet: Improving Sparsely Annotated Object Detection with Pseudo-Positive Mining |  |  |  |
+| Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model |  |  |  |
+| UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation |  |  |  |
+| Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection |  |  |  |
+| MonoNeRD: NeRF-Like Representations for Monocular 3D Object Detection |  |  |  | -->
+| Integrally Migrating Pre-Trained Transformer Encoder-Decoders for Visual Object Detection | [![GitHub](https://img.shields.io/github/stars/LiewFeng/imTED)](https://github.com/LiewFeng/imTED) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09613-b31b1b.svg)](https://arxiv.org/abs/2205.09613) | :heavy_minus_sign: |
+<!-- | Generating Dynamic Kernels via Transformers for Lane Detection |  |  |  |
+| Meta-ZSDETR: Zero-Shot DETR with Meta-Learning |  |  |  |
+| Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes |  |  |  |
+| AlignDet: Aligning Pre-Training and Fine-Tuning in Object Detection |  |  |  |
+| MULLER: Multilayer Laplacian Resizer for Vision |  |  |  |
+| Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection |  |  |  |
+| DETRDistill: A Universal Knowledge Distillation Framework for DETR-Families |  |  |  |
+| Delving into Motion-Aware Matching for Monocular 3D Object Tracking |  |  |  |
+| FB-BEV: BEV Representation from Forward-Backward View Transformations |  |  |  |
+| Learning from Noisy Data for Semi-Supervised 3D Object Detection |  |  |  |
+| Boosting Long-Tailed Object Detection via Step-Wise Learning on Smooth-Tail Data |  |  |  |
+| Objects do not Disappear: Video Object Detection by Single-Frame Object Location Anticipation |  |  |  |
+| Unified Visual Relationship Detection with Vision and Language Models |  |  |  |
+| Universal Domain Adaptation via Compressive Attention Matching |  |  |  |
+| Unsupervised Domain Adaptive Detection with Network Stability Analysis |  |  |  |
+| ImGeoNet: Image-Induced Geometry-Aware Voxel Representation for Multi-View 3D Object Detection |  |  |  |
+| Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
