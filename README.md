@@ -780,7 +780,51 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| Efficient Controllable Multi-Task Architectures | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.11744-b31b1b.svg)](https://arxiv.org/abs/2308.11744) | :heavy_minus_sign: |
+| ParCNetV2: Oversized Kernel with Enhanced Attention | [![GitHub](https://img.shields.io/github/stars/XuRuihan/ParCNetV2)](https://github.com/XuRuihan/ParCNetV2) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07157-b31b1b.svg)](https://arxiv.org/abs/2211.07157) | :heavy_minus_sign: |
+| Unleashing the Power of Gradient Signal-to-Noise Ratio for Zero-Shot NAS | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MMST-ViT: Climate Change-Aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer | [![GitHub](https://img.shields.io/github/stars/fudong03/MMST-ViT)](https://github.com/fudong03/MMST-ViT) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1xc_8KkOxVUVsHUiz9Vgv1nqqOa2O_t-2/view) | :heavy_minus_sign: |
 | FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization | [![GitHub](https://img.shields.io/github/stars/apple/ml-fastvit)](https://github.com/apple/ml-fastvit) | [![arXiv](https://img.shields.io/badge/arXiv-2303.14189-b31b1b.svg)](https://arxiv.org/abs/2303.14189) | :heavy_minus_sign: |
+| IIEU: Rethinking Neural Feature Activation from Decision-Making | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Scratching Visual Transformer's Back with Uniform Attention | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2210.08457-b31b1b.svg)](https://arxiv.org/abs/2210.08457) | :heavy_minus_sign: |
+| SpaceEvo: Hardware-Friendly Search Space Design for Efficient INT8 Inference | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.08308-b31b1b.svg)](https://arxiv.org/abs/2303.08308) | :heavy_minus_sign: |
+| ElasticViT: Conflict-Aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.09730-b31b1b.svg)](https://arxiv.org/abs/2303.09730) | :heavy_minus_sign: |
+| Gramian Attention Heads are Strong yet Efficient Vision Learners | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones |  |  |  |
+| Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction |  |  |  |
+| Unified Data-Free Compression: Pruning and Quantization without Fine-Tuning |  |  |  |
+| LaPE: Layer-Adaptive Position Embedding for Vision Transformers with Independent Layer Normalization |  |  |  |
+| Exemplar-Free Continual Transformer with Convolutions |  |  |  |
+| Building Vision Transformers with Hierarchy Aware Feature Aggregation |  |  |  |
+| ShiftNAS: Improving One-Shot NAS via Probability Shift |  |  |  |
+| DarSwin: Distortion Aware Radial Swin Transformer |  |  |  |
+| ROME: Robustifying Memory-Efficient NAS via Topology Disentanglement and Gradient Accumulation |  |  |  |
+| FDViT: Improve the Hierarchical Architecture of Vision Transformer |  |  |  |
+| FLatten Transformer: Vision Transformer using Focused Linear Attention |  |  |  |
+| MixPath: A Unified Approach for One-Shot Neural Architecture Search |  |  |  |
+| SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow |  |  |  |
+| Dynamic Perceiver for Efficient Visual Recognition |  |  |  |
+| SG-Former: Self-Guided Transformer with Evolving Token Reallocation |  |  |  |
+| Scale-Aware Modulation Meet Transformer |  |  |  |
+| Learning to Upsample by Learning to Sample |  |  |  |
+| GET: Group Event Transformer for Event-based Vision |  |  |  |
+| Adaptive Frequency Filters as Efficient Global Token Mixers |  |  |  |
+| Fcaformer: Forward Cross Attention in Hybrid Vision Transformer |  |  |  |
+| Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation |  |  |  |
+| Sentence Attention Blocks for Answer Grounding |  |  |  |
+| MST-Compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree |  |  |  |
+| EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation |  |  |  |
+| SPANet: Frequency-Balancing Token Mixer using Spectral Pooling Aggregation Modulation |  |  |  |
+| ModelGiF: Gradient Fields for Model Functional Distance |  |  |  |
+| ClusT3: Information Invariant Test-Time Training |  |  |  |
+| Cumulative Spatial Knowledge Distillation for Vision Transformers |  |  |  |
+| Luminance-Aware Color Transform for Multiple Exposure Correction |  |  |  |
+| Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks |  |  |  |
+| Domain Generalization Guided by Gradient Signal to Noise Ratio of Parameters |  |  |  |
+| DOT: A Distillation-Oriented Trainer |  |  |  |
+| Extensible and Efficient Proxy for Neural Architecture Search |  |  |  |
+| Learning to Transform for Generalizable Instance-Wise Invariance |  |  |  |
+| Convolutional Networks with Oriented 1D Kernels |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
