@@ -837,14 +837,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Random Boxes are Open-World Object Detectors | [![GitHub](https://img.shields.io/github/stars/scuwyh2000/RandBox)](https://github.com/scuwyh2000/RandBox) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08249-b31b1b.svg)](https://arxiv.org/abs/2307.08249) | :heavy_minus_sign: |
 | Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection | [![GitHub](https://img.shields.io/github/stars/hustvl/MIMDet)](https://github.com/hustvl/MIMDet) | [![arXiv](https://img.shields.io/badge/arXiv-2204.02964-b31b1b.svg)](https://arxiv.org/abs/2204.02964) | :heavy_minus_sign: |
 | CoIn: Contrastive Instance Feature Mining for Outdoor 3D Object Detection with Very Limited Annotations | [![GitHub](https://img.shields.io/github/stars/xmuqimingxia/CoIn)](https://github.com/xmuqimingxia/CoIn) | :heavy_minus_sign: | :heavy_minus_sign: |
-| A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism |  |  |  |
-| Anchor-Intermediate Detector: Decoupling and Coupling Bounding Boxes for Accurate Object Detection |  |  |  |
-| Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification |  |  |  |
-| Deep Equilibrium Object Detection |  |  |  |
-| RecursiveDet: End-to-End Region-based Recursive Object Detection |  |  |  |
-| Small Object Detection via Coarse-to-Fine Proposal Generation and Imitation Learning |  |  |  |
+| A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Anchor-Intermediate Detector: Decoupling and Coupling Bounding Boxes for Accurate Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Deep Equilibrium Object Detection | [![GitHub](https://img.shields.io/github/stars/MCG-NJU/DEQDet)](https://github.com/MCG-NJU/DEQDet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09564-b31b1b.svg)](https://arxiv.org/abs/2308.09564) | :heavy_minus_sign: |
+| RecursiveDet: End-to-End Region-based Recursive Object Detection | [![GitHub](https://img.shields.io/github/stars/bravezzzzzz/RecursiveDet)](https://github.com/bravezzzzzz/RecursiveDet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13619-b31b1b.svg)](https://arxiv.org/abs/2307.13619) | :heavy_minus_sign: |
+| Small Object Detection via Coarse-to-Fine Proposal Generation and Imitation Learning | [![GitHub](https://img.shields.io/github/stars/shaunyuan22/CFINet)](https://github.com/shaunyuan22/CFINet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09534-b31b1b.svg)](https://arxiv.org/abs/2308.09534) |  |
 | ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation | [![GitHub](https://img.shields.io/github/stars/iSEE-Laboratory/ASAG)](https://github.com/iSEE-Laboratory/ASAG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09242-b31b1b.svg)](https://arxiv.org/abs/2308.09242) | :heavy_minus_sign: |
-| COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts |  |  |  |
+<!-- | COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts |  |  |  |
 | Generative Prompt Model for Weakly Supervised Object Localization |  |  |  |
 | UniKD: Universal Knowledge Distillation for Mimicking Homogeneous or Heterogeneous Object Detectors |  |  |  |
 | PNI: Industrial Anomaly Detection using Position and Neighborhood Information |  |  |  |
@@ -906,7 +906,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Universal Domain Adaptation via Compressive Attention Matching |  |  |  |
 | Unsupervised Domain Adaptive Detection with Network Stability Analysis |  |  |  |
 | ImGeoNet: Image-Induced Geometry-Aware Voxel Representation for Multi-View 3D Object Detection |  |  |  |
-| Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection |  |  |  |
+| Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
