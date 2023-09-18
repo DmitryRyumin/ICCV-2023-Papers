@@ -790,15 +790,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | SpaceEvo: Hardware-Friendly Search Space Design for Efficient INT8 Inference | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.08308-b31b1b.svg)](https://arxiv.org/abs/2303.08308) | :heavy_minus_sign: |
 | ElasticViT: Conflict-Aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.09730-b31b1b.svg)](https://arxiv.org/abs/2303.09730) | :heavy_minus_sign: |
 | Gramian Attention Heads are Strong yet Efficient Vision Learners | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones |  |  |  |
-| Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction |  |  |  |
-| Unified Data-Free Compression: Pruning and Quantization without Fine-Tuning |  |  |  |
-| LaPE: Layer-Adaptive Position Embedding for Vision Transformers with Independent Layer Normalization |  |  |  |
-| Exemplar-Free Continual Transformer with Convolutions |  |  |  |
-| Building Vision Transformers with Hierarchy Aware Feature Aggregation |  |  |  |
-| ShiftNAS: Improving One-Shot NAS via Probability Shift |  |  |  |
-| DarSwin: Distortion Aware Radial Swin Transformer |  |  |  |
-| ROME: Robustifying Memory-Efficient NAS via Topology Disentanglement and Gradient Accumulation |  |  |  |
+| EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones | [![GitHub](https://img.shields.io/github/stars/LeapLabTHU/EfficientTrain)](https://github.com/LeapLabTHU/EfficientTrain) | [![arXiv](https://img.shields.io/badge/arXiv-2211.09703-b31b1b.svg)](https://arxiv.org/abs/2211.09703) | :heavy_minus_sign: |
+| Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction | [![GitHub](https://img.shields.io/github/stars/wjh892521292/Ord2Seq)](https://github.com/wjh892521292/Ord2Seq) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09004-b31b1b.svg)](https://arxiv.org/abs/2307.09004) | :heavy_minus_sign: |
+| Unified Data-Free Compression: Pruning and Quantization without Fine-Tuning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.09004-b31b1b.svg)](https://arxiv.org/abs/2307.09004) | :heavy_minus_sign: |
+| LaPE: Layer-Adaptive Position Embedding for Vision Transformers with Independent Layer Normalization | [![GitHub](https://img.shields.io/github/stars/Ingrid725/LaPE)](https://github.com/Ingrid725/LaPE) | [![arXiv](https://img.shields.io/badge/arXiv-2212.05262-b31b1b.svg)](https://arxiv.org/abs/2212.05262) | :heavy_minus_sign: |
+| Exemplar-Free Continual Transformer with Convolutions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cvir.github.io/projects/contracon) <br /> [![GitHub](https://img.shields.io/github/stars/CVIR/contracon)](https://github.com/CVIR/contracon) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11357-b31b1b.svg)](https://arxiv.org/abs/2308.11357) | :heavy_minus_sign: |
+| Building Vision Transformers with Hierarchy Aware Feature Aggregation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| ShiftNAS: Improving One-Shot NAS via Probability Shift | [![GitHub](https://img.shields.io/github/stars/bestfleer/ShiftNAS)](https://github.com/bestfleer/ShiftNAS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08300-b31b1b.svg)](https://arxiv.org/abs/2307.08300) | :heavy_minus_sign: |
+| DarSwin: Distortion Aware Radial Swin Transformer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lvsn.github.io/darswin/) | [![arXiv](https://img.shields.io/badge/arXiv-2304.09691-b31b1b.svg)](https://arxiv.org/abs/2304.09691) | :heavy_minus_sign: |
+<!-- | ROME: Robustifying Memory-Efficient NAS via Topology Disentanglement and Gradient Accumulation |  |  |  |
 | FDViT: Improve the Hierarchical Architecture of Vision Transformer |  |  |  |
 | FLatten Transformer: Vision Transformer using Focused Linear Attention |  |  |  |
 | MixPath: A Unified Approach for One-Shot Neural Architecture Search |  |  |  |
