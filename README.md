@@ -798,20 +798,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Building Vision Transformers with Hierarchy Aware Feature Aggregation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | ShiftNAS: Improving One-Shot NAS via Probability Shift | [![GitHub](https://img.shields.io/github/stars/bestfleer/ShiftNAS)](https://github.com/bestfleer/ShiftNAS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08300-b31b1b.svg)](https://arxiv.org/abs/2307.08300) | :heavy_minus_sign: |
 | DarSwin: Distortion Aware Radial Swin Transformer | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lvsn.github.io/darswin/) | [![arXiv](https://img.shields.io/badge/arXiv-2304.09691-b31b1b.svg)](https://arxiv.org/abs/2304.09691) | :heavy_minus_sign: |
-<!-- | ROME: Robustifying Memory-Efficient NAS via Topology Disentanglement and Gradient Accumulation |  |  |  |
-| FDViT: Improve the Hierarchical Architecture of Vision Transformer |  |  |  |
-| FLatten Transformer: Vision Transformer using Focused Linear Attention |  |  |  |
-| MixPath: A Unified Approach for One-Shot Neural Architecture Search |  |  |  |
-| SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow |  |  |  |
-| Dynamic Perceiver for Efficient Visual Recognition |  |  |  |
-| SG-Former: Self-Guided Transformer with Evolving Token Reallocation |  |  |  |
-| Scale-Aware Modulation Meet Transformer |  |  |  |
-| Learning to Upsample by Learning to Sample |  |  |  |
-| GET: Group Event Transformer for Event-based Vision |  |  |  |
-| Adaptive Frequency Filters as Efficient Global Token Mixers |  |  |  |
-| Fcaformer: Forward Cross Attention in Hybrid Vision Transformer |  |  |  |
-| Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation |  |  |  |
-| Sentence Attention Blocks for Answer Grounding |  |  |  |
+| ROME: Robustifying Memory-Efficient NAS via Topology Disentanglement and Gradient Accumulation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2011.11233-b31b1b.svg)](https://arxiv.org/abs/2011.11233) | :heavy_minus_sign: |
+| FDViT: Improve the Hierarchical Architecture of Vision Transformer | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| FLatten Transformer: Vision Transformer using Focused Linear Attention | [![GitHub](https://img.shields.io/github/stars/LeapLabTHU/FLatten-Transformer)](https://github.com/LeapLabTHU/FLatten-Transformer) | [![arXiv](https://img.shields.io/badge/arXiv-2308.00442-b31b1b.svg)](https://arxiv.org/abs/2308.00442) | :heavy_minus_sign: |
+| MixPath: A Unified Approach for One-Shot Neural Architecture Search | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2001.05887-b31b1b.svg)](https://arxiv.org/abs/2001.05887) | :heavy_minus_sign: |
+| SSF: Accelerating Training of Spiking Neural Networks with Stabilized Spiking Flow | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Dynamic Perceiver for Efficient Visual Recognition | [![GitHub](https://img.shields.io/github/stars/LeapLabTHU/Dynamic_Perceiver)](https://github.com/LeapLabTHU/Dynamic_Perceiver) | [![arXiv](https://img.shields.io/badge/arXiv-2306.11248-b31b1b.svg)](https://arxiv.org/abs/2306.11248) | :heavy_minus_sign: |
+| SG-Former: Self-Guided Transformer with Evolving Token Reallocation | [![GitHub](https://img.shields.io/github/stars/OliverRensu/SG-Former)](https://github.com/OliverRensu/SG-Former) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12216-b31b1b.svg)](https://arxiv.org/abs/2308.12216) | :heavy_minus_sign: |
+| Scale-Aware Modulation Meet Transformer | [![GitHub](https://img.shields.io/github/stars/OliverRensu/SG-Former)](https://github.com/OliverRensu/SG-Former) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08579-b31b1b.svg)](https://arxiv.org/abs/2307.08579) | :heavy_minus_sign: |
+| Learning to Upsample by Learning to Sample | [![GitHub](https://img.shields.io/github/stars/tiny-smart/dysample)](https://github.com/tiny-smart/dysample) | [![arXiv](https://img.shields.io/badge/arXiv-2308.15085-b31b1b.svg)](https://arxiv.org/abs/2308.15085) | :heavy_minus_sign: |
+| GET: Group Event Transformer for Event-based Vision | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Adaptive Frequency Filters as Efficient Global Token Mixers | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/TokenMixers/tree/main/Adaptive%20Frequency%20Filters) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14008-b31b1b.svg)](https://arxiv.org/abs/2307.14008) | :heavy_minus_sign: |
+| Fcaformer: Forward Cross Attention in Hybrid Vision Transformer | [![GitHub](https://img.shields.io/github/stars/hkzhang-git/FcaFormer)](https://github.com/hkzhang-git/FcaFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07198-b31b1b.svg)](https://arxiv.org/abs/2211.07198) | :heavy_minus_sign: |
+| Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yaoleiqi.github.io/pub_homepage/2023_ICCV/index.html) <br /> [![GitHub](https://img.shields.io/github/stars/YaoleiQi/DSCNet)](https://github.com/YaoleiQi/DSCNet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08388-b31b1b.svg)](https://arxiv.org/abs/2307.08388) | :heavy_minus_sign: |
+<!-- | Sentence Attention Blocks for Answer Grounding |  |  |  |
 | MST-Compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree |  |  |  |
 | EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation |  |  |  |
 | SPANet: Frequency-Balancing Token Mixer using Spectral Pooling Aggregation Modulation |  |  |  |
