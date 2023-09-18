@@ -844,11 +844,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | RecursiveDet: End-to-End Region-based Recursive Object Detection | [![GitHub](https://img.shields.io/github/stars/bravezzzzzz/RecursiveDet)](https://github.com/bravezzzzzz/RecursiveDet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13619-b31b1b.svg)](https://arxiv.org/abs/2307.13619) | :heavy_minus_sign: |
 | Small Object Detection via Coarse-to-Fine Proposal Generation and Imitation Learning | [![GitHub](https://img.shields.io/github/stars/shaunyuan22/CFINet)](https://github.com/shaunyuan22/CFINet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09534-b31b1b.svg)](https://arxiv.org/abs/2308.09534) |  |
 | ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation | [![GitHub](https://img.shields.io/github/stars/iSEE-Laboratory/ASAG)](https://github.com/iSEE-Laboratory/ASAG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09242-b31b1b.svg)](https://arxiv.org/abs/2308.09242) | :heavy_minus_sign: |
-<!-- | COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts |  |  |  |
-| Generative Prompt Model for Weakly Supervised Object Localization |  |  |  |
-| UniKD: Universal Knowledge Distillation for Mimicking Homogeneous or Heterogeneous Object Detectors |  |  |  |
-| PNI: Industrial Anomaly Detection using Position and Neighborhood Information |  |  |  |
-| Masked Autoencoders are Stronger Knowledge Distillers |  |  |  |
+| COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/alibaba/easyrobust/tree/main/benchmarks/coco_o) <br /> [![GitHub](https://img.shields.io/github/stars/alibaba/easyrobust)](https://github.com/alibaba/easyrobust) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12730-b31b1b.svg)](https://arxiv.org/abs/2307.12730) | :heavy_minus_sign: |
+| Generative Prompt Model for Weakly Supervised Object Localization | [![GitHub](https://img.shields.io/github/stars/callsys/GenPromp)](https://github.com/callsys/GenPromp) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09756-b31b1b.svg)](https://arxiv.org/abs/2307.09756) | :heavy_minus_sign: |
+| UniKD: Universal Knowledge Distillation for Mimicking Homogeneous or Heterogeneous Object Detectors | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| PNI: Industrial Anomaly Detection using Position and Neighborhood Information | [![GitHub](https://img.shields.io/github/stars/wogur110/PNI_Anomaly_Detection)](https://github.com/wogur110/PNI_Anomaly_Detection) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12634-b31b1b.svg)](https://arxiv.org/abs/2211.12634) | :heavy_minus_sign: |
+<!-- | Masked Autoencoders are Stronger Knowledge Distillers |  |  |  |
 | GPA-3D: Geometry-Aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds |  |  |  |
 | ADNet: Lane Shape Prediction via Anchor Decomposition |  |  |  |
 | Periodically Exchange Teacher-Student for Source-Free Object Detection |  |  |  |
