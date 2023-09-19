@@ -852,12 +852,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | GPA-3D: Geometry-Aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds | [![GitHub](https://img.shields.io/github/stars/Liz66666/GPA3D)](https://github.com/Liz66666/GPA3D) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08140-b31b1b.svg)](https://arxiv.org/abs/2308.08140) | :heavy_minus_sign: |
 | ADNet: Lane Shape Prediction via Anchor Decomposition | [![GitHub](https://img.shields.io/github/stars/Sephirex-X/ADNet)](https://github.com/Sephirex-X/ADNet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10481-b31b1b.svg)](https://arxiv.org/abs/2308.10481) | :heavy_minus_sign: |
 | Periodically Exchange Teacher-Student for Source-Free Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Towards Fair and Comprehensive Comparisons for Image-based 3D Object Detection |  |  |  |
-| Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver |  |  |  |
-| Template-Guided Hierarchical Feature Restoration for Anomaly Detection |  |  |  |
-| ALWOD: Active Learning for Weakly-Supervised Object Detection |  |  |  |
-| ProtoFL: Unsupervised Federated Learning via Prototypical Distillation |  |  |  |
-| Efficient Adaptive Human-Object Interaction Detection with Concept-Guided Memory |  |  |  |
+| Towards Fair and Comprehensive Comparisons for Image-based 3D Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.01289-b31b1b.svg)](https://arxiv.org/abs/2304.01289) | :heavy_minus_sign: |
+| Template-Guided Hierarchical Feature Restoration for Anomaly Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| ALWOD: Active Learning for Weakly-Supervised Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.07914-b31b1b.svg)](https://arxiv.org/abs/2309.07914) | :heavy_minus_sign: |
+| ProtoFL: Unsupervised Federated Learning via Prototypical Distillation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12450-b31b1b.svg)](https://arxiv.org/abs/2307.12450) | :heavy_minus_sign: |
+| Efficient Adaptive Human-Object Interaction Detection with Concept-Guided Memory | [![GitHub](https://img.shields.io/github/stars/ltttpku/ADA-CM)](https://github.com/ltttpku/ADA-CM) | [![arXiv](https://img.shields.io/badge/arXiv-2309.03696-b31b1b.svg)](https://arxiv.org/abs/2309.03696) | :heavy_minus_sign: |
 | Detection Transformer with Stable Matching |  |  |  |
 | Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection |  |  |  |
 | Anomaly Detection Under Distribution Shift |  |  |  |
