@@ -866,9 +866,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | DETR does not Need Multi-Scale or Locality Design | [![GitHub](https://img.shields.io/github/stars/impiga/Plain-DETR)](https://github.com/impiga/Plain-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2308.01904-b31b1b.svg)](https://arxiv.org/abs/2308.01904) | :heavy_minus_sign: |
 | Deep Directly-Trained Spiking Neural Networks for Object Detection | [![GitHub](https://img.shields.io/github/stars/BICLab/EMS-YOLO)](https://github.com/BICLab/EMS-YOLO) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11411-b31b1b.svg)](https://arxiv.org/abs/2307.11411) | :heavy_minus_sign: |
 | GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| StageInteractor: Query-based Object Detector with Cross-Stage Interaction |  |  |  |
-| Adaptive Rotated Convolution for Rotated Object Detection |  |  |  |
-| Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection |  |  |  |
+| StageInteractor: Query-based Object Detector with Cross-Stage Interaction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.04978-b31b1b.svg)](https://arxiv.org/abs/2304.04978) | :heavy_minus_sign: |
+| Adaptive Rotated Convolution for Rotated Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.07820-b31b1b.svg)](https://arxiv.org/abs/2303.07820) | :heavy_minus_sign: |
+| Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Exploring Transformers for Open-World Instance Segmentation |  |  |  |
 | DDG-Net: Discriminability-Driven Graph Network for Weakly-Supervised Temporal Action Localization |  |  |  |
 | Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment | [![GitHub](https://img.shields.io/github/stars/Atten4Vis/GroupDETR)](https://github.com/Atten4Vis/GroupDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2207.13085-b31b1b.svg)](https://arxiv.org/abs/2207.13085) | :heavy_minus_sign: |
