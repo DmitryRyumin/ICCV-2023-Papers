@@ -885,10 +885,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | DETRs with Collaborative Hybrid Assignments Training | [![GitHub](https://img.shields.io/github/stars/Sense-X/Co-DETR)](https://github.com/Sense-X/Co-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12860-b31b1b.svg)](https://arxiv.org/abs/2211.12860) | :heavy_minus_sign: |
 | Open-Vocabulary Object Detection with an Open Corpus | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | SparseDet: Improving Sparsely Annotated Object Detection with Pseudo-Positive Mining | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.cs.umd.edu/~sakshams/SparseDet/) <br /> [![GitHub](https://img.shields.io/github/stars/saksham-s/SparseDet)](https://github.com/saksham-s/SparseDet) | [![arXiv](https://img.shields.io/badge/arXiv-2201.04620-b31b1b.svg)](https://arxiv.org/abs/2201.04620) | :heavy_minus_sign: |
-| Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model |  |  |  |
-| UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation |  |  |  |
-| Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection |  |  |  |
-| MonoNeRD: NeRF-Like Representations for Monocular 3D Object Detection |  |  |  |
+| Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation | [![GitHub](https://img.shields.io/github/stars/Haiyang-W/UniTR)](https://github.com/Haiyang-W/UniTR) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07732-b31b1b.svg)](https://arxiv.org/abs/2308.07732) | :heavy_minus_sign: |
+| Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection | [![GitHub](https://img.shields.io/github/stars/xcyao00/FOD)](https://github.com/xcyao00/FOD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02983-b31b1b.svg)](https://arxiv.org/abs/2308.02983) | :heavy_minus_sign: |
+| MonoNeRD: NeRF-Like Representations for Monocular 3D Object Detection | [![GitHub](https://img.shields.io/github/stars/cskkxjk/MonoNeRD)](https://github.com/cskkxjk/MonoNeRD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09421-b31b1b.svg)](https://arxiv.org/abs/2308.09421) | :heavy_minus_sign: |
 | Integrally Migrating Pre-Trained Transformer Encoder-Decoders for Visual Object Detection | [![GitHub](https://img.shields.io/github/stars/LiewFeng/imTED)](https://github.com/LiewFeng/imTED) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09613-b31b1b.svg)](https://arxiv.org/abs/2205.09613) | :heavy_minus_sign: |
 | Generating Dynamic Kernels via Transformers for Lane Detection |  |  |  |
 | Meta-ZSDETR: Zero-Shot DETR with Meta-Learning |  |  |  |
