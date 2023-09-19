@@ -869,8 +869,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | StageInteractor: Query-based Object Detector with Cross-Stage Interaction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.04978-b31b1b.svg)](https://arxiv.org/abs/2304.04978) | :heavy_minus_sign: |
 | Adaptive Rotated Convolution for Rotated Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.07820-b31b1b.svg)](https://arxiv.org/abs/2303.07820) | :heavy_minus_sign: |
 | Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Exploring Transformers for Open-World Instance Segmentation |  |  |  |
-| DDG-Net: Discriminability-Driven Graph Network for Weakly-Supervised Temporal Action Localization |  |  |  |
+| Exploring Transformers for Open-World Instance Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.04206-b31b1b.svg)](https://arxiv.org/abs/2308.04206) | :heavy_minus_sign: |
+| DDG-Net: Discriminability-Driven Graph Network for Weakly-Supervised Temporal Action Localization | [![GitHub](https://img.shields.io/github/stars/XiaojunTang22/ICCV2023-DDGNet)](https://github.com/XiaojunTang22/ICCV2023-DDGNet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16415-b31b1b.svg)](https://arxiv.org/abs/2307.16415) | :heavy_minus_sign: |
 | Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment | [![GitHub](https://img.shields.io/github/stars/Atten4Vis/GroupDETR)](https://github.com/Atten4Vis/GroupDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2207.13085-b31b1b.svg)](https://arxiv.org/abs/2207.13085) | :heavy_minus_sign: |
 | Category-Aware Allocation Transformer for Weakly Supervised Object Localization |  |  |  |
 | The Devil is in the Crack Orientation: A New Perspective for Crack Detection |  |  |  |
