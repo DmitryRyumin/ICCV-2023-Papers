@@ -858,11 +858,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ALWOD: Active Learning for Weakly-Supervised Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.07914-b31b1b.svg)](https://arxiv.org/abs/2309.07914) | :heavy_minus_sign: |
 | ProtoFL: Unsupervised Federated Learning via Prototypical Distillation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12450-b31b1b.svg)](https://arxiv.org/abs/2307.12450) | :heavy_minus_sign: |
 | Efficient Adaptive Human-Object Interaction Detection with Concept-Guided Memory | [![GitHub](https://img.shields.io/github/stars/ltttpku/ADA-CM)](https://github.com/ltttpku/ADA-CM) | [![arXiv](https://img.shields.io/badge/arXiv-2309.03696-b31b1b.svg)](https://arxiv.org/abs/2309.03696) | :heavy_minus_sign: |
-| Detection Transformer with Stable Matching |  |  |  |
-| Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection |  |  |  |
-| Anomaly Detection Under Distribution Shift |  |  |  |
-| Detecting Objects with Context-Likelihood Graphs and Graph Refinement |  |  |  |
-| Unsupervised Object Localization with Representer Point Selection |  |  |  |
+| Detection Transformer with Stable Matching | [![GitHub](https://img.shields.io/github/stars/IDEA-Research/Stable-DINO)](https://github.com/IDEA-Research/Stable-DINO) | [![arXiv](https://img.shields.io/badge/arXiv-2304.04742-b31b1b.svg)](https://arxiv.org/abs/2304.04742) | :heavy_minus_sign: |
+| Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Anomaly Detection Under Distribution Shift | [![GitHub](https://img.shields.io/github/stars/mala-lab/ADShift)](https://github.com/mala-lab/ADShift) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13845-b31b1b.svg)](https://arxiv.org/abs/2303.13845) | :heavy_minus_sign: |
+| Detecting Objects with Context-Likelihood Graphs and Graph Refinement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.12395-b31b1b.svg)](https://arxiv.org/abs/2212.12395) | :heavy_minus_sign: |
+| Unsupervised Object Localization with Representer Point Selection | [![GitHub](https://img.shields.io/github/stars/yeonghwansong/UOLwRPS)](https://github.com/yeonghwansong/UOLwRPS) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04172-b31b1b.svg)](https://arxiv.org/abs/2309.04172) | :heavy_minus_sign: |
 | DETR does not Need Multi-Scale or Locality Design |  |  |  |
 | Deep Directly-Trained Spiking Neural Networks for Object Detection |  |  |  |
 | GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data |  |  |  |
