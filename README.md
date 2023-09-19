@@ -890,7 +890,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection | [![GitHub](https://img.shields.io/github/stars/xcyao00/FOD)](https://github.com/xcyao00/FOD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02983-b31b1b.svg)](https://arxiv.org/abs/2308.02983) | :heavy_minus_sign: |
 | MonoNeRD: NeRF-Like Representations for Monocular 3D Object Detection | [![GitHub](https://img.shields.io/github/stars/cskkxjk/MonoNeRD)](https://github.com/cskkxjk/MonoNeRD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09421-b31b1b.svg)](https://arxiv.org/abs/2308.09421) | :heavy_minus_sign: |
 | Integrally Migrating Pre-Trained Transformer Encoder-Decoders for Visual Object Detection | [![GitHub](https://img.shields.io/github/stars/LiewFeng/imTED)](https://github.com/LiewFeng/imTED) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09613-b31b1b.svg)](https://arxiv.org/abs/2205.09613) | :heavy_minus_sign: |
-| Generating Dynamic Kernels via Transformers for Lane Detection |  |  |  |
+| Generating Dynamic Kernels via Transformers for Lane Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Meta-ZSDETR: Zero-Shot DETR with Meta-Learning |  |  |  |
 | Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes |  |  |  |
 | AlignDet: Aligning Pre-Training and Fine-Tuning in Object Detection |  |  |  |
