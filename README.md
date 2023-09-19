@@ -875,8 +875,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Category-Aware Allocation Transformer for Weakly Supervised Object Localization | [![GitHub](https://img.shields.io/github/stars/zhiweichen0012/CATR)](https://github.com/zhiweichen0012/CATR) | :heavy_minus_sign: | :heavy_minus_sign: |
 | The Devil is in the Crack Orientation: A New Perspective for Crack Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Clusterformer: Cluster-based Transformer for 3D Object Detection in Point Clouds | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Less is more: Focus Attention for Efficient DETR | [![Gitee Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR) <br /> [![Gitee Page](https://img.shields.io/badge/Gitee-Page-303643.svg)](https://gitee.com/mindspore/models/tree/master/research/cv/Focus-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12612-b31b1b.svg)](https://arxiv.org/abs/2307.12612) |  |
-| DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting |  |  |  |
+| Less is more: Focus Attention for Efficient DETR | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR) <br /> [![Gitee Page](https://img.shields.io/badge/Gitee-Page-303643.svg)](https://gitee.com/mindspore/models/tree/master/research/cv/Focus-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12612-b31b1b.svg)](https://arxiv.org/abs/2307.12612) | :heavy_minus_sign: |
+| DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting | [![GitHub](https://img.shields.io/github/stars/IDEA-Research/3D-deformable-attention)](https://github.com/IDEA-Research/3D-deformable-attention) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12972-b31b1b.svg)](https://arxiv.org/abs/2307.12972) | :heavy_minus_sign: |
 | Multi-Label Self-Supervised Learning with Scene Images |  |  |  |
 | Cascade-DETR: Delving into High-Quality Universal Object Detection |  |  |  |
 | Representation Disparity-Aware Distillation for 3D Object Detection |  |  |  |
