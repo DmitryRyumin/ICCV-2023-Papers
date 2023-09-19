@@ -891,13 +891,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | MonoNeRD: NeRF-Like Representations for Monocular 3D Object Detection | [![GitHub](https://img.shields.io/github/stars/cskkxjk/MonoNeRD)](https://github.com/cskkxjk/MonoNeRD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09421-b31b1b.svg)](https://arxiv.org/abs/2308.09421) | :heavy_minus_sign: |
 | Integrally Migrating Pre-Trained Transformer Encoder-Decoders for Visual Object Detection | [![GitHub](https://img.shields.io/github/stars/LiewFeng/imTED)](https://github.com/LiewFeng/imTED) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09613-b31b1b.svg)](https://arxiv.org/abs/2205.09613) | :heavy_minus_sign: |
 | Generating Dynamic Kernels via Transformers for Lane Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Meta-ZSDETR: Zero-Shot DETR with Meta-Learning |  |  |  |
-| Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes |  |  |  |
-| AlignDet: Aligning Pre-Training and Fine-Tuning in Object Detection |  |  |  |
-| MULLER: Multilayer Laplacian Resizer for Vision |  |  |  |
-| Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection |  |  |  |
-| DETRDistill: A Universal Knowledge Distillation Framework for DETR-Families |  |  |  |
-| Delving into Motion-Aware Matching for Monocular 3D Object Tracking |  |  |  |
+| Meta-ZSDETR: Zero-Shot DETR with Meta-Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09540-b31b1b.svg)](https://arxiv.org/abs/2308.09540) | :heavy_minus_sign: |
+| Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det) <br /> [![GitHub](https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark)](https://github.com/ucas-vg/PointTinyBenchmark) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12101-b31b1b.svg)](https://arxiv.org/abs/2307.12101) | :heavy_minus_sign: |
+| AlignDet: Aligning Pre-Training and Fine-Tuning in Object Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://liming-ai.github.io/AlignDet) <br /> [![GitHub](https://img.shields.io/github/stars/liming-ai/AlignDet)](https://github.com/liming-ai/AlignDet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11077-b31b1b.svg)](https://arxiv.org/abs/2307.11077) | :heavy_minus_sign: |
+| MULLER: Multilayer Laplacian Resizer for Vision | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.02859-b31b1b.svg)](https://arxiv.org/abs/2304.02859) | :heavy_minus_sign: |
+| Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.10155-b31b1b.svg)](https://arxiv.org/abs/2308.10155) | :heavy_minus_sign: |
+| DETRDistill: A Universal Knowledge Distillation Framework for DETR-Families | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.10156-b31b1b.svg)](https://arxiv.org/abs/2211.10156) | :heavy_minus_sign: |
+| Delving into Motion-Aware Matching for Monocular 3D Object Tracking | [![GitHub](https://img.shields.io/github/stars/kuanchihhuang/MoMA-M3T)](https://github.com/kuanchihhuang/MoMA-M3T) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11607-b31b1b.svg)](https://arxiv.org/abs/2308.11607) | :heavy_minus_sign: |
 | FB-BEV: BEV Representation from Forward-Backward View Transformations |  |  |  |
 | Learning from Noisy Data for Semi-Supervised 3D Object Detection |  |  |  |
 | Boosting Long-Tailed Object Detection via Step-Wise Learning on Smooth-Tail Data |  |  |  |
