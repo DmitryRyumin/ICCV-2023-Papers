@@ -848,10 +848,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Generative Prompt Model for Weakly Supervised Object Localization | [![GitHub](https://img.shields.io/github/stars/callsys/GenPromp)](https://github.com/callsys/GenPromp) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09756-b31b1b.svg)](https://arxiv.org/abs/2307.09756) | :heavy_minus_sign: |
 | UniKD: Universal Knowledge Distillation for Mimicking Homogeneous or Heterogeneous Object Detectors | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | PNI: Industrial Anomaly Detection using Position and Neighborhood Information | [![GitHub](https://img.shields.io/github/stars/wogur110/PNI_Anomaly_Detection)](https://github.com/wogur110/PNI_Anomaly_Detection) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12634-b31b1b.svg)](https://arxiv.org/abs/2211.12634) | :heavy_minus_sign: |
-<!-- | Masked Autoencoders are Stronger Knowledge Distillers |  |  |  |
-| GPA-3D: Geometry-Aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds |  |  |  |
-| ADNet: Lane Shape Prediction via Anchor Decomposition |  |  |  |
-| Periodically Exchange Teacher-Student for Source-Free Object Detection |  |  |  |
+| Masked Autoencoders are Stronger Knowledge Distillers | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| GPA-3D: Geometry-Aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds | [![GitHub](https://img.shields.io/github/stars/Liz66666/GPA3D)](https://github.com/Liz66666/GPA3D) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08140-b31b1b.svg)](https://arxiv.org/abs/2308.08140) | :heavy_minus_sign: |
+| ADNet: Lane Shape Prediction via Anchor Decomposition | [![GitHub](https://img.shields.io/github/stars/Sephirex-X/ADNet)](https://github.com/Sephirex-X/ADNet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10481-b31b1b.svg)](https://arxiv.org/abs/2308.10481) | :heavy_minus_sign: |
+| Periodically Exchange Teacher-Student for Source-Free Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Towards Fair and Comprehensive Comparisons for Image-based 3D Object Detection |  |  |  |
 | Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver |  |  |  |
 | Template-Guided Hierarchical Feature Restoration for Anomaly Detection |  |  |  |
@@ -906,7 +906,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Universal Domain Adaptation via Compressive Attention Matching |  |  |  |
 | Unsupervised Domain Adaptive Detection with Network Stability Analysis |  |  |  |
 | ImGeoNet: Image-Induced Geometry-Aware Voxel Representation for Multi-View 3D Object Detection |  |  |  |
-| Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection |  |  |  | -->
+| Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
