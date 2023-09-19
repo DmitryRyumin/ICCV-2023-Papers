@@ -863,9 +863,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Anomaly Detection Under Distribution Shift | [![GitHub](https://img.shields.io/github/stars/mala-lab/ADShift)](https://github.com/mala-lab/ADShift) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13845-b31b1b.svg)](https://arxiv.org/abs/2303.13845) | :heavy_minus_sign: |
 | Detecting Objects with Context-Likelihood Graphs and Graph Refinement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.12395-b31b1b.svg)](https://arxiv.org/abs/2212.12395) | :heavy_minus_sign: |
 | Unsupervised Object Localization with Representer Point Selection | [![GitHub](https://img.shields.io/github/stars/yeonghwansong/UOLwRPS)](https://github.com/yeonghwansong/UOLwRPS) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04172-b31b1b.svg)](https://arxiv.org/abs/2309.04172) | :heavy_minus_sign: |
-| DETR does not Need Multi-Scale or Locality Design |  |  |  |
-| Deep Directly-Trained Spiking Neural Networks for Object Detection |  |  |  |
-| GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data |  |  |  |
+| DETR does not Need Multi-Scale or Locality Design | [![GitHub](https://img.shields.io/github/stars/impiga/Plain-DETR)](https://github.com/impiga/Plain-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2308.01904-b31b1b.svg)](https://arxiv.org/abs/2308.01904) | :heavy_minus_sign: |
+| Deep Directly-Trained Spiking Neural Networks for Object Detection | [![GitHub](https://img.shields.io/github/stars/BICLab/EMS-YOLO)](https://github.com/BICLab/EMS-YOLO) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11411-b31b1b.svg)](https://arxiv.org/abs/2307.11411) | :heavy_minus_sign: |
+| GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | StageInteractor: Query-based Object Detector with Cross-Stage Interaction |  |  |  |
 | Adaptive Rotated Convolution for Rotated Object Detection |  |  |  |
 | Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection |  |  |  |
