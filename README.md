@@ -877,12 +877,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Clusterformer: Cluster-based Transformer for 3D Object Detection in Point Clouds | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Less is more: Focus Attention for Efficient DETR | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR) <br /> [![Gitee Page](https://img.shields.io/badge/Gitee-Page-303643.svg)](https://gitee.com/mindspore/models/tree/master/research/cv/Focus-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12612-b31b1b.svg)](https://arxiv.org/abs/2307.12612) | :heavy_minus_sign: |
 | DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting | [![GitHub](https://img.shields.io/github/stars/IDEA-Research/3D-deformable-attention)](https://github.com/IDEA-Research/3D-deformable-attention) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12972-b31b1b.svg)](https://arxiv.org/abs/2307.12972) | :heavy_minus_sign: |
-| Multi-Label Self-Supervised Learning with Scene Images |  |  |  |
-| Cascade-DETR: Delving into High-Quality Universal Object Detection |  |  |  |
-| Representation Disparity-Aware Distillation for 3D Object Detection |  |  |  |
-| FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision |  |  |  |
-| DetZero: Rethinking Offboard 3D Object Detection with Long-Term Sequential Point Clouds |  |  |  |
-| DETRs with Collaborative Hybrid Assignments Training |  |  |  |
+| Multi-Label Self-Supervised Learning with Scene Images | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.03286-b31b1b.svg)](https://arxiv.org/abs/2308.03286) | :heavy_minus_sign: |
+| Cascade-DETR: Delving into High-Quality Universal Object Detection | [![GitHub](https://img.shields.io/github/stars/SysCV/cascade-detr)](https://github.com/SysCV/cascade-detr) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11035-b31b1b.svg)](https://arxiv.org/abs/2307.11035) | :heavy_minus_sign: |
+| Representation Disparity-Aware Distillation for 3D Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.10308-b31b1b.svg)](https://arxiv.org/abs/2308.10308) | :heavy_minus_sign: |
+| FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.03594-b31b1b.svg)](https://arxiv.org/abs/2308.03594) | :heavy_minus_sign: |
+| DetZero: Rethinking Offboard 3D Object Detection with Long-Term Sequential Point Clouds | [![GitHub](https://img.shields.io/github/stars/PJLab-ADG/DetZero)](https://github.com/PJLab-ADG/DetZero) | [![arXiv](https://img.shields.io/badge/arXiv-2306.06023-b31b1b.svg)](https://arxiv.org/abs/2306.06023) | :heavy_minus_sign: |
+| DETRs with Collaborative Hybrid Assignments Training | [![GitHub](https://img.shields.io/github/stars/Sense-X/Co-DETR)](https://github.com/Sense-X/Co-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12860-b31b1b.svg)](https://arxiv.org/abs/2211.12860) | :heavy_minus_sign: |
 | Open-Vocabulary Object Detection with an Open Corpus |  |  |  |
 | SparseDet: Improving Sparsely Annotated Object Detection with Pseudo-Positive Mining |  |  |  |
 | Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model |  |  |  |
