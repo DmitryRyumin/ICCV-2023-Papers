@@ -898,15 +898,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.10155-b31b1b.svg)](https://arxiv.org/abs/2308.10155) | :heavy_minus_sign: |
 | DETRDistill: A Universal Knowledge Distillation Framework for DETR-Families | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.10156-b31b1b.svg)](https://arxiv.org/abs/2211.10156) | :heavy_minus_sign: |
 | Delving into Motion-Aware Matching for Monocular 3D Object Tracking | [![GitHub](https://img.shields.io/github/stars/kuanchihhuang/MoMA-M3T)](https://github.com/kuanchihhuang/MoMA-M3T) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11607-b31b1b.svg)](https://arxiv.org/abs/2308.11607) | :heavy_minus_sign: |
-| FB-BEV: BEV Representation from Forward-Backward View Transformations |  |  |  |
-| Learning from Noisy Data for Semi-Supervised 3D Object Detection |  |  |  |
-| Boosting Long-Tailed Object Detection via Step-Wise Learning on Smooth-Tail Data |  |  |  |
-| Objects do not Disappear: Video Object Detection by Single-Frame Object Location Anticipation |  |  |  |
-| Unified Visual Relationship Detection with Vision and Language Models |  |  |  |
-| Universal Domain Adaptation via Compressive Attention Matching |  |  |  |
-| Unsupervised Domain Adaptive Detection with Network Stability Analysis |  |  |  |
-| ImGeoNet: Image-Induced Geometry-Aware Voxel Representation for Multi-View 3D Object Detection |  |  |  |
-| Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection |  |  |  |
+| FB-BEV: BEV Representation from Forward-Backward View Transformations | [![GitHub](https://img.shields.io/github/stars/NVlabs/FB-BEV)](https://github.com/NVlabs/FB-BEV) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02236-b31b1b.svg)](https://arxiv.org/abs/2308.02236) | :heavy_minus_sign: |
+| Learning from Noisy Data for Semi-Supervised 3D Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Boosting Long-Tailed Object Detection via Step-Wise Learning on Smooth-Tail Data | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12833-b31b1b.svg)](https://arxiv.org/abs/2305.12833) | :heavy_minus_sign: |
+| Objects do not Disappear: Video Object Detection by Single-Frame Object Location Anticipation | [![GitHub](https://img.shields.io/github/stars/L-KID/Video-object-detection-by-location-anticipation)](https://github.com/L-KID/Video-object-detection-by-location-anticipation) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04770-b31b1b.svg)](https://arxiv.org/abs/2308.04770) | :heavy_minus_sign: |
+| Unified Visual Relationship Detection with Vision and Language Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/google-research/scenic/tree/main/scenic/projects/univrd) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08998-b31b1b.svg)](https://arxiv.org/abs/2303.08998) | :heavy_minus_sign: |
+| Universal Domain Adaptation via Compressive Attention Matching | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.11862-b31b1b.svg)](https://arxiv.org/abs/2304.11862) | :heavy_minus_sign: |
+| Unsupervised Domain Adaptive Detection with Network Stability Analysis | [![GitHub](https://img.shields.io/github/stars/tiankongzhang/NSA)](https://github.com/tiankongzhang/NSA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08182-b31b1b.svg)](https://arxiv.org/abs/2308.08182) | :heavy_minus_sign: |
+| ImGeoNet: Image-Induced Geometry-Aware Voxel Representation for Multi-View 3D Object Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ttaoretw.github.io/imgeonet/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09098-b31b1b.svg)](https://arxiv.org/abs/2308.09098) | :heavy_minus_sign: |
+| Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection | [![GitHub](https://img.shields.io/github/stars/Yinyf0804/WSOD-CBL)](https://github.com/Yinyf0804/WSOD-CBL) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05991-b31b1b.svg)](https://arxiv.org/abs/2308.05991) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
