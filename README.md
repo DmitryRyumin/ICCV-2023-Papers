@@ -916,9 +916,77 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | [![GitHub](https://img.shields.io/github/stars/vvictoryuki/FreeDoM)](https://github.com/vvictoryuki/FreeDoM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09833-b31b1b.svg)](https://arxiv.org/abs/2303.09833) | :heavy_minus_sign: |
-| BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: |
+| Text-Driven Generative Domain Adaptation with Spectral Consistency Regularization | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.11096-b31b1b.svg)](https://arxiv.org/abs/2308.11096) | :heavy_minus_sign: |
+| Controllable Visual-Tactile Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://visual-tactile-synthesis.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/RuihanGao/visual-tactile-synthesis)](https://github.com/RuihanGao/visual-tactile-synthesis) | [![arXiv](https://img.shields.io/badge/arXiv-2305.03051-b31b1b.svg)](https://arxiv.org/abs/2305.03051) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=TdwPfwsGX3I) |
+| Editing Implicit Assumptions in Text-to-Image Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://time-diffusion.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/bahjat-kawar/time-diffusion)](https://github.com/bahjat-kawar/time-diffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08084-b31b1b.svg)](https://arxiv.org/abs/2303.08084) | :heavy_minus_sign: |
+| DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars | [![GitHub](https://img.shields.io/github/stars/SamsungLabs/DINAR)](https://github.com/SamsungLabs/DINAR) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09375-b31b1b.svg)](https://arxiv.org/abs/2303.09375) | :heavy_minus_sign: |
+| Smoothness Similarity Regularization for Few-Shot GAN Adaptation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09717-b31b1b.svg)](https://arxiv.org/abs/2308.09717) | :heavy_minus_sign: |
+| HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.12085-b31b1b.svg)](https://arxiv.org/abs/2306.12085) | :heavy_minus_sign: |
+| Long-Term Photometric Consistent Novel View Synthesis with Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yorkucvil.github.io/Photoconsistent-NVS/) | [![arXiv](https://img.shields.io/badge/arXiv-2304.10700-b31b1b.svg)](https://arxiv.org/abs/2304.10700) | :heavy_minus_sign: |
+| AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.10438-b31b1b.svg)](https://arxiv.org/abs/2309.10438) | :heavy_minus_sign: |
+| GaFET: Learning Geometry-Aware Facial Expression Translation from in-the-Wild Images | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.03413-b31b1b.svg)](https://arxiv.org/abs/2308.03413) | :heavy_minus_sign: |
+| Collecting the Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures | [![GitHub](https://img.shields.io/github/stars/NannanLi999/pt_square)](https://github.com/NannanLi999/pt_square) | [![arXiv](https://img.shields.io/badge/arXiv-2210.01887-b31b1b.svg)](https://arxiv.org/abs/2210.01887) | :heavy_minus_sign: |
+| Multi-Directional Subspace Editing in Style-Space | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://chennaveh.github.io/MDSE/) <br /> [![GitHub](https://img.shields.io/github/stars/chennaveh/MDSE)](https://github.com/chennaveh/MDSE) | [![arXiv](https://img.shields.io/badge/arXiv-2211.11825-b31b1b.svg)](https://arxiv.org/abs/2211.11825) | :heavy_minus_sign: |
+| HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://stelabou.github.io/hyperreenact.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/StelaBou/HyperReenact)](https://github.com/StelaBou/HyperReenact) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10797-b31b1b.svg)](https://arxiv.org/abs/2307.10797) | :heavy_minus_sign: |
+| Generating Realistic Images from in-the-Wild Sounds | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.02405-b31b1b.svg)](https://arxiv.org/abs/2309.02405) | :heavy_minus_sign: |
+<!-- | CC3D: Layout-Conditioned Generation of Compositional 3D Scenes |  |  |  |
+| UMFuse: Unified Multi View Fusion for Human Editing Applications |  |  |  |
+| Evaluating Data Attribution for Text-to-Image Models |  |  |  |
+| Neural Characteristic Function Learning for Conditional Image Generation |  |  |  |
+| WaveIPT: Joint Attention and Flow Alignment in the Wavelet Domain for Pose Transfer |  |  |  | -->
 | LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutDiffusion) <br /> [![GitHub](https://img.shields.io/github/stars/microsoft/LayoutGeneration)](https://github.com/microsoft/LayoutGeneration) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11589-b31b1b.svg)](https://arxiv.org/abs/2303.11589) | :heavy_minus_sign: |
+<!-- | Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation |  |  |  |
+| Conceptual and Hierarchical Latent Space Decomposition for Face Editing |  |  |  |
+| Improving Diversity in Zero-Shot GAN Adaptation with Semantic Variations |  |  |  |
+| BallGAN: 3D-Aware Image Synthesis with a Spherical Background |  |  |  |
+| End-to-End Diffusion Latent Optimization Improves Classifier Guidance |  |  |  |
+| Deep Geometrized Cartoon Line Inbetweening |  |  |  |
+| UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation |  |  |  |
+| Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond |  |  |  |
+| SVDiff: Compact Parameter Space for Diffusion Fine-Tuning |  |  |  |
+| MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices |  |  |  |
+| Structure and Content-Guided Video Synthesis with Diffusion Models |  |  |  |
+| Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation |  |  |  |
+| Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers |  |  |  |
+| A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance |  |  |  |
+| Generative Multiplane Neural Radiance for 3D-Aware Image Generation |  |  |  |
+| Parallax-Tolerant Unsupervised Deep Image Stitching |  |  |  |
+| GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning |  |  |  |
+| EverLight: Indoor-Outdoor Editable HDR Lighting Estimation |  |  |  |
+| Prompt Tuning Inversion for Text-Driven Image Editing using Diffusion Models |  |  |  |
+| Efficient Diffusion Training via Min-SNR Weighting Strategy |  |  |  | -->
+| BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: |
+<!-- | Improving Sample Quality of Diffusion Models using Self-Attention Guidance |  |  |  |
+| Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation |  |  |  |
+| Deep Image Harmonization with Learnable Augmentation |  |  |  |
+| Out-of-Domain GAN Inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation |  |  |  |
+| Bidirectionally Deformable Motion Modulation for Video-based Human Pose Transfer |  |  |  |
+| Size does Matter: Size-Aware Virtual Try-On via Clothing-Oriented Transformation Try-On Network |  |  |  |
+| VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs |  |  |  |
+| Learning Global-Aware Kernel for Image Harmonization |  |  |  |
+| Expressive Text-to-Image Generation with Rich Text |  |  |  |
+| A Large-Scale Outdoor Multi-Modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction |  |  |  |
+| Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis |  |  |  |
+| Perceptual Artifacts Localization for Image Synthesis Tasks |  |  |  |
+| Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis |  |  |  |
+| StylerDALLE: Language-Guided Style Transfer using a Vector-Quantized Tokenizer of a Large-Scale Generative Model |  |  |  |
+| Shortcut-V2V: Compression Framework for Video-to-Video Translation based on Temporal Redundancy Reduction |  |  |  |
+| Tune-a-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation |  |  |  |
+| BlendFace: Re-Designing Identity Encoders for Face-Swapping |  |  |  |
+| Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors |  |  |  |
+| LinkGAN: Linking GAN Latents to Pixels for Controllable Image Synthesis |  |  |  |
+| Open-Vocabulary Object Segmentation with Diffusion Models |  |  |  |
+| StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models |  |  |  |
+| ToonTalker: Cross-Domain Face Reenactment |  |  |  |
+| Dense Text-to-Image Generation with Attention Modulation |  |  |  |
+| Householder Projector for Unsupervised Latent Semantics Discovery |  |  |  |
+| Deep Image Harmonization with Globally Guided Feature Transformation and Relation Distillation |  |  |  |
+| One-Shot Generative Domain Adaptation |  |  |  |
+| Hashing Neural Video Decomposition with Multiplicative Residuals in Space-Time |  |  |  |
+| Versatile Diffusion: Text, Images and Variations All in One Diffusion Model |  |  |  |
+| Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis |  |  |  | -->
+| FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | [![GitHub](https://img.shields.io/github/stars/vvictoryuki/FreeDoM)](https://github.com/vvictoryuki/FreeDoM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09833-b31b1b.svg)](https://arxiv.org/abs/2303.09833) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
