@@ -948,8 +948,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Structure and Content-Guided Video Synthesis with Diffusion Models | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://research.runwayml.com/gen1) | [![arXiv](https://img.shields.io/badge/arXiv-2302.03011-b31b1b.svg)](https://arxiv.org/abs/2302.03011) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Y2_JmgzTeeo) |
 | Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yuxinn-j.github.io/projects/Scenimefy.html) <br /> [![GitHub](https://img.shields.io/github/stars/Yuxinn-J/Scenimefy)](https://github.com/Yuxinn-J/Scenimefy) <br /> [![Hugging Face](https://img.shields.io/badge/🤗-Demo-FFD21F.svg)](https://huggingface.co/spaces/YuxinJ/Scenimefy) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12968-b31b1b.svg)](https://arxiv.org/abs/2308.12968) | :heavy_minus_sign: |
-| Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers |  |  |  |
-| A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance |  |  |  |
+| Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Generative Multiplane Neural Radiance for 3D-Aware Image Generation |  |  |  |
 | Parallax-Tolerant Unsupervised Deep Image Stitching |  |  |  |
 | GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning |  |  |  |
