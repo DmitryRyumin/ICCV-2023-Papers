@@ -942,7 +942,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | BallGAN: 3D-Aware Image Synthesis with a Spherical Background | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://minjung-s.github.io/ballgan) <br /> [![GitHub](https://img.shields.io/github/stars/minjung-s/BallGAN)](https://github.com/minjung-s/BallGAN) | [![arXiv](https://img.shields.io/badge/arXiv-2301.09091-b31b1b.svg)](https://arxiv.org/abs/2301.09091) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=RUIWWMiomuY) |
 | End-to-End Diffusion Latent Optimization Improves Classifier Guidance | [![GitHub](https://img.shields.io/github/stars/salesforce/DOODL)](https://github.com/salesforce/DOODL) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13703-b31b1b.svg)](https://arxiv.org/abs/2303.13703) | :heavy_minus_sign: |
 | Deep Geometrized Cartoon Line Inbetweening | [![GitHub](https://img.shields.io/github/stars/lisiyao21/AnimeInbet)](https://github.com/lisiyao21/AnimeInbet) | :heavy_minus_sign: | :heavy_minus_sign: |
-| UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation |  |  |  |
+| UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://unitedhuman.github.io/) | :heavy_minus_sign: | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=pdsfUYFDLSw) |
 | Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond |  |  |  |
 | SVDiff: Compact Parameter Space for Diffusion Fine-Tuning |  |  |  |
 | MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices |  |  |  |
@@ -957,7 +957,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Prompt Tuning Inversion for Text-Driven Image Editing using Diffusion Models |  |  |  |
 | Efficient Diffusion Training via Min-SNR Weighting Strategy |  |  |  |
 | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: |
-<!-- | Improving Sample Quality of Diffusion Models using Self-Attention Guidance |  |  |  |
+| Improving Sample Quality of Diffusion Models using Self-Attention Guidance |  |  |  |
 | Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation |  |  |  |
 | Deep Image Harmonization with Learnable Augmentation |  |  |  |
 | Out-of-Domain GAN Inversion via Invertibility Decomposition for Photo-Realistic Human Face Manipulation |  |  |  |
@@ -985,8 +985,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | One-Shot Generative Domain Adaptation |  |  |  |
 | Hashing Neural Video Decomposition with Multiplicative Residuals in Space-Time |  |  |  |
 | Versatile Diffusion: Text, Images and Variations All in One Diffusion Model |  |  |  |
-| Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis |  |  |  | -->
-<!-- | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | [![GitHub](https://img.shields.io/github/stars/vvictoryuki/FreeDoM)](https://github.com/vvictoryuki/FreeDoM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09833-b31b1b.svg)](https://arxiv.org/abs/2303.09833) | :heavy_minus_sign: | -->
+| Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis |  |  |  |
+| FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | [![GitHub](https://img.shields.io/github/stars/vvictoryuki/FreeDoM)](https://github.com/vvictoryuki/FreeDoM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09833-b31b1b.svg)](https://arxiv.org/abs/2303.09833) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
