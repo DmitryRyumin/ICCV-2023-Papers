@@ -943,11 +943,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | End-to-End Diffusion Latent Optimization Improves Classifier Guidance | [![GitHub](https://img.shields.io/github/stars/salesforce/DOODL)](https://github.com/salesforce/DOODL) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13703-b31b1b.svg)](https://arxiv.org/abs/2303.13703) | :heavy_minus_sign: |
 | Deep Geometrized Cartoon Line Inbetweening | [![GitHub](https://img.shields.io/github/stars/lisiyao21/AnimeInbet)](https://github.com/lisiyao21/AnimeInbet) | :heavy_minus_sign: | :heavy_minus_sign: |
 | UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://unitedhuman.github.io/) | :heavy_minus_sign: | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=pdsfUYFDLSw) |
-| Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond |  |  |  |
-| SVDiff: Compact Parameter Space for Diffusion Fine-Tuning |  |  |  |
-| MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices |  |  |  |
-| Structure and Content-Guided Video Synthesis with Diffusion Models |  |  |  |
-| Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation |  |  |  |
+| Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.08996-b31b1b.svg)](https://arxiv.org/abs/2307.08996) | :heavy_minus_sign: |
+| SVDiff: Compact Parameter Space for Diffusion Fine-Tuning | [![GitHub](https://img.shields.io/github/stars/mkshing/svdiff-pytorch)](https://github.com/mkshing/svdiff-pytorch) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11305-b31b1b.svg)](https://arxiv.org/abs/2303.11305) | :heavy_minus_sign: |
+| MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Structure and Content-Guided Video Synthesis with Diffusion Models | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://research.runwayml.com/gen1) | [![arXiv](https://img.shields.io/badge/arXiv-2302.03011-b31b1b.svg)](https://arxiv.org/abs/2302.03011) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Y2_JmgzTeeo) |
+| Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yuxinn-j.github.io/projects/Scenimefy.html) <br /> [![GitHub](https://img.shields.io/github/stars/Yuxinn-J/Scenimefy)](https://github.com/Yuxinn-J/Scenimefy) <br /> [![Hugging Face](https://img.shields.io/badge/🤗-Demo-FFD21F.svg)](https://huggingface.co/spaces/YuxinJ/Scenimefy) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12968-b31b1b.svg)](https://arxiv.org/abs/2308.12968) | :heavy_minus_sign: |
 | Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers |  |  |  |
 | A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance |  |  |  |
 | Generative Multiplane Neural Radiance for 3D-Aware Image Generation |  |  |  |
