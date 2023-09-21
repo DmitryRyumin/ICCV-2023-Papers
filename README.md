@@ -950,12 +950,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yuxinn-j.github.io/projects/Scenimefy.html) <br /> [![GitHub](https://img.shields.io/github/stars/Yuxinn-J/Scenimefy)](https://github.com/Yuxinn-J/Scenimefy) <br /> [![Hugging Face](https://img.shields.io/badge/🤗-Demo-FFD21F.svg)](https://huggingface.co/spaces/YuxinJ/Scenimefy) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12968-b31b1b.svg)](https://arxiv.org/abs/2308.12968) | :heavy_minus_sign: |
 | Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Generative Multiplane Neural Radiance for 3D-Aware Image Generation |  |  |  |
-| Parallax-Tolerant Unsupervised Deep Image Stitching |  |  |  |
-| GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning |  |  |  |
-| EverLight: Indoor-Outdoor Editable HDR Lighting Estimation |  |  |  |
-| Prompt Tuning Inversion for Text-Driven Image Editing using Diffusion Models |  |  |  |
-| Efficient Diffusion Training via Min-SNR Weighting Strategy |  |  |  |
+| Generative Multiplane Neural Radiance for 3D-Aware Image Generation | [![GitHub](https://img.shields.io/github/stars/VIROBO-15/GMNR)](https://github.com/VIROBO-15/GMNR) | [![arXiv](https://img.shields.io/badge/arXiv-2304.01172-b31b1b.svg)](https://arxiv.org/abs/2304.01172) | :heavy_minus_sign: |
+| Parallax-Tolerant Unsupervised Deep Image Stitching | [![GitHub](https://img.shields.io/github/stars/nie-lang/UDIS2)](https://github.com/nie-lang/UDIS2) | [![arXiv](https://img.shields.io/badge/arXiv-2302.08207-b31b1b.svg)](https://arxiv.org/abs/2302.08207) | :heavy_minus_sign: |
+| GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning | [![GitHub](https://img.shields.io/github/stars/desaixie/gait)](https://github.com/desaixie/gait) | :heavy_minus_sign: | :heavy_minus_sign: |
+| EverLight: Indoor-Outdoor Editable HDR Lighting Estimation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lvsn.github.io/everlight/) | [![arXiv](https://img.shields.io/badge/arXiv-2304.13207-b31b1b.svg)](https://arxiv.org/abs/2304.13207) | :heavy_minus_sign: |
+| Prompt Tuning Inversion for Text-Driven Image Editing using Diffusion Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.04441-b31b1b.svg)](https://arxiv.org/abs/2305.04441) | :heavy_minus_sign: |
+| Efficient Diffusion Training via Min-SNR Weighting Strategy | [![GitHub](https://img.shields.io/github/stars/TiankaiHang/Min-SNR-Diffusion-Training)](https://github.com/TiankaiHang/Min-SNR-Diffusion-Training) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09556-b31b1b.svg)](https://arxiv.org/abs/2303.09556) | :heavy_minus_sign: |
 | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: |
 | Improving Sample Quality of Diffusion Models using Self-Attention Guidance |  |  |  |
 | Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation |  |  |  |
