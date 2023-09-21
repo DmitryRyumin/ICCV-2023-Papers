@@ -936,12 +936,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Neural Characteristic Function Learning for Conditional Image Generation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | WaveIPT: Joint Attention and Flow Alignment in the Wavelet Domain for Pose Transfer | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutDiffusion) <br /> [![GitHub](https://img.shields.io/github/stars/microsoft/LayoutGeneration)](https://github.com/microsoft/LayoutGeneration) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11589-b31b1b.svg)](https://arxiv.org/abs/2303.11589) | :heavy_minus_sign: |
-<!-- | Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation |  |  |  |
-| Conceptual and Hierarchical Latent Space Decomposition for Face Editing |  |  |  |
-| Improving Diversity in Zero-Shot GAN Adaptation with Semantic Variations |  |  |  |
-| BallGAN: 3D-Aware Image Synthesis with a Spherical Background |  |  |  |
-| End-to-End Diffusion Latent Optimization Improves Classifier Guidance |  |  |  |
-| Deep Geometrized Cartoon Line Inbetweening |  |  |  |
+| Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation | [![GitHub](https://img.shields.io/github/stars/AiArt-HDU/HIDA)](https://github.com/AiArt-HDU/HIDA) | [![arXiv](https://img.shields.io/badge/arXiv-2309.00216-b31b1b.svg)](https://arxiv.org/abs/2309.00216) | :heavy_minus_sign: |
+| Conceptual and Hierarchical Latent Space Decomposition for Face Editing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Improving Diversity in Zero-Shot GAN Adaptation with Semantic Variations | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.10554-b31b1b.svg)](https://arxiv.org/abs/2308.10554) | :heavy_minus_sign: |
+| BallGAN: 3D-Aware Image Synthesis with a Spherical Background | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://minjung-s.github.io/ballgan) <br /> [![GitHub](https://img.shields.io/github/stars/minjung-s/BallGAN)](https://github.com/minjung-s/BallGAN) | [![arXiv](https://img.shields.io/badge/arXiv-2301.09091-b31b1b.svg)](https://arxiv.org/abs/2301.09091) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=RUIWWMiomuY) |
+| End-to-End Diffusion Latent Optimization Improves Classifier Guidance | [![GitHub](https://img.shields.io/github/stars/salesforce/DOODL)](https://github.com/salesforce/DOODL) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13703-b31b1b.svg)](https://arxiv.org/abs/2303.13703) | :heavy_minus_sign: |
+| Deep Geometrized Cartoon Line Inbetweening | [![GitHub](https://img.shields.io/github/stars/lisiyao21/AnimeInbet)](https://github.com/lisiyao21/AnimeInbet) | :heavy_minus_sign: | :heavy_minus_sign: |
 | UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation |  |  |  |
 | Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond |  |  |  |
 | SVDiff: Compact Parameter Space for Diffusion Fine-Tuning |  |  |  |
@@ -955,8 +955,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning |  |  |  |
 | EverLight: Indoor-Outdoor Editable HDR Lighting Estimation |  |  |  |
 | Prompt Tuning Inversion for Text-Driven Image Editing using Diffusion Models |  |  |  |
-| Efficient Diffusion Training via Min-SNR Weighting Strategy |  |  |  | -->
-<!-- | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: | -->
+| Efficient Diffusion Training via Min-SNR Weighting Strategy |  |  |  |
+| BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | [![GitHub](https://img.shields.io/github/stars/showlab/BoxDiff)](https://github.com/showlab/BoxDiff) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10816-b31b1b.svg)](https://arxiv.org/abs/2307.10816) | :heavy_minus_sign: |
 <!-- | Improving Sample Quality of Diffusion Models using Self-Attention Guidance |  |  |  |
 | Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation |  |  |  |
 | Deep Image Harmonization with Learnable Augmentation |  |  |  |
