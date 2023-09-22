@@ -1020,14 +1020,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Segment Anything | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://segment-anything.com/) <br /> [![GitHub](https://img.shields.io/github/stars/facebookresearch/segment-anything)](https://github.com/facebookresearch/segment-anything) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02643-b31b1b.svg)](https://arxiv.org/abs/2304.02643) | :heavy_minus_sign: |
 | Shape Analysis of Euclidean Curves under Frenet-Serret Framework | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Unmasking Anomalies in Road-Scene Segmentation | [![GitHub](https://img.shields.io/github/stars/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation) <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iMF5lWj3J8zlIJFkekXC3ipQo2semJfL?usp=sharing) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13316-b31b1b.svg)](https://arxiv.org/abs/2307.13316) | :heavy_minus_sign: |
-| High Quality Entity Segmentation |  |  |  |
-| Towards Open-Vocabulary Video Instance Segmentation |  |  |  |
-| Beyond One-to-One: Rethinking the Referring Image Segmentation |  |  |  |
-| Multiple Instance Learning Framework with Masked Hard Instance Mining for whole Slide Image Classification |  |  |  |
-| Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning |  |  |  |
-| Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval |  |  |  |
-| Towards Deeply Unified Depth-Aware Panoptic Segmentation with Bi-Directional Guidance Learning |  |  |  |
-| LogicSeg: Parsing Visual Semantics with Neural Logic Learning and Reasoning |  |  |  |
+| High Quality Entity Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](http://luqi.info/entityv2.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/qqlu/Entity)](https://github.com/qqlu/Entity) | [![arXiv](https://img.shields.io/badge/arXiv-2211.05776-b31b1b.svg)](https://arxiv.org/abs/2211.05776) | :heavy_minus_sign: |
+| Towards Open-Vocabulary Video Instance Segmentation | [![GitHub](https://img.shields.io/github/stars/haochenheheda/LVVIS)](https://github.com/haochenheheda/LVVIS) | [![arXiv](https://img.shields.io/badge/arXiv-2304.01715-b31b1b.svg)](https://arxiv.org/abs/2304.01715) | :heavy_minus_sign: |
+| Beyond One-to-One: Rethinking the Referring Image Segmentation | [![GitHub](https://img.shields.io/github/stars/toggle1995/RIS-DMMI)](https://github.com/toggle1995/RIS-DMMI) | [![arXiv](https://img.shields.io/badge/arXiv-2308.13853-b31b1b.svg)](https://arxiv.org/abs/2308.13853) | :heavy_minus_sign: |
+| Multiple Instance Learning Framework with Masked Hard Instance Mining for whole Slide Image Classification | [![GitHub](https://img.shields.io/github/stars/DearCaat/MHIM-MIL)](https://github.com/DearCaat/MHIM-MIL) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15254-b31b1b.svg)](https://arxiv.org/abs/2307.15254) | :heavy_minus_sign: |
+| Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning | [![GitHub](https://img.shields.io/github/stars/bair-climate-initiative/scale-mae)](https://github.com/bair-climate-initiative/scale-mae) | [![arXiv](https://img.shields.io/badge/arXiv-2212.14532-b31b1b.svg)](https://arxiv.org/abs/2212.14532) | :heavy_minus_sign: |
+| Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval | [![GitHub](https://img.shields.io/github/stars/IMCCretrieval/ProST)](https://github.com/IMCCretrieval/ProST) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Towards Deeply Unified Depth-Aware Panoptic Segmentation with Bi-Directional Guidance Learning | [![GitHub](https://img.shields.io/github/stars/jwh97nn/DeepDPS)](https://github.com/jwh97nn/DeepDPS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14786-b31b1b.svg)](https://arxiv.org/abs/2307.14786) | :heavy_minus_sign: |
+| LogicSeg: Parsing Visual Semantics with Neural Logic Learning and Reasoning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | ASIC: Aligning Sparse in-the-Wild Image Collections |  |  |  |
 
 <a href="#sections">
