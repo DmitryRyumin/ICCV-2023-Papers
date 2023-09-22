@@ -1038,9 +1038,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| CLIPascene: Scene Sketching with Different Types and Levels of Abstraction |  |  |  |
-| LD-ZNet: A Latent Diffusion Approach for Text-based Image Segmentation |  |  |  |
-| TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models |  |  |  |
+| CLIPascene: Scene Sketching with Different Types and Levels of Abstraction | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://clipascene.github.io/CLIPascene/) <br /> [![GitHub](https://img.shields.io/github/stars/yael-vinker/SceneSketch)](https://github.com/yael-vinker/SceneSketch) | [![arXiv](https://img.shields.io/badge/arXiv-2211.17256-b31b1b.svg)](https://arxiv.org/abs/2211.17256) | :heavy_minus_sign: |
+| LD-ZNet: A Latent Diffusion Approach for Text-based Image Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://koutilya-pnvr.github.io/LD-ZNet/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.12343-b31b1b.svg)](https://arxiv.org/abs/2303.12343) | :heavy_minus_sign: |
+| TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions |  |  |  |
 | Scalable Diffusion Models with Transformers |  |  |  |
 | Texture Generation on 3D Meshes with Point-UV Diffusion |  |  |  |
