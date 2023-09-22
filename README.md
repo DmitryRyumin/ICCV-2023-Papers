@@ -17,7 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-> Completed: ![Progress](https://geps.dev/progress/32?successColor=006600)
+> Completed: ![Progress](https://geps.dev/progress/33?successColor=006600)
 
 ---
 
@@ -631,12 +631,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Learning Conditional Control for Pretrained Text-to-Image Diffusion Models | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Adding Conditional Control to Text-to-Image Diffusion Models | [![GitHub](https://img.shields.io/github/stars/lllyasviel/ControlNet)](https://github.com/lllyasviel/ControlNet) | [![arXiv](https://img.shields.io/badge/arXiv-2302.05543-b31b1b.svg)](https://arxiv.org/abs/2302.05543) | :heavy_minus_sign: |
 | Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jerrypiglet.github.io/fipt-ucsd/) <br /> [![GitHub](https://img.shields.io/github/stars/lwwu2/fipt)](https://github.com/lwwu2/fipt) | [![arXiv](https://img.shields.io/badge/arXiv-2304.05669-b31b1b.svg)](https://arxiv.org/abs/2304.05669) |  |
 | Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://agi-labs.github.io/manipulate-by-seeing/) <br /> [![GitHub](https://img.shields.io/github/stars/AGI-Labs/manipulate-by-seeing)](https://github.com/AGI-Labs/manipulate-by-seeing) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08135-b31b1b.svg)](https://arxiv.org/abs/2303.08135) | :heavy_minus_sign: |
 | 3D Implicit Transporter for Temporally Consistent Keypoint Discovery | [![GitHub](https://img.shields.io/github/stars/zhongcl-thu/3D-Implicit-Transporter)](https://github.com/zhongcl-thu/3D-Implicit-Transporter) | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/373328882_3D_Implicit_Transporter_for_Temporally_Consistent_Keypoint_Discovery) | :heavy_minus_sign: |
 | Chordal Averaging on Flag Manifolds and its Applications | [![GitHub](https://img.shields.io/github/stars/nmank/FlagAveraging)](https://github.com/nmank/FlagAveraging) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13501-b31b1b.svg)](https://arxiv.org/abs/2303.13501) | :heavy_minus_sign: |
-| UniDexGrasp++: Improving Universal Dexterous Grasping via Geometry-Aware Curriculum Learning and Iterative Generalist-Specialist Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.00464-b31b1b.svg)](https://arxiv.org/abs/2304.00464) | :heavy_minus_sign: |
+| UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-Aware Curriculum and Iterative Generalist-Specialist Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.00464-b31b1b.svg)](https://arxiv.org/abs/2304.00464) | :heavy_minus_sign: |
 | GameFormer: Game-Theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mczhi.github.io/GameFormer/) <br /> [![GitHub](https://img.shields.io/github/stars/MCZhi/GameFormer)](https://github.com/MCZhi/GameFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2303.05760-b31b1b.svg)](https://arxiv.org/abs/2303.05760) | :heavy_minus_sign: |
 | PPR: Physically Plausible Reconstruction from Monocular Videos | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gengshan-y.github.io/ppr/) <br /> [![GitHub](https://img.shields.io/github/stars/gengshan-y/ppr)](https://github.com/gengshan-y/ppr) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://gengshan-y.github.io/ppr/PPR.pdf) | :heavy_minus_sign: |
 
@@ -651,7 +651,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Zolly: Zoom Focal Length Correctly for Perspective-Distorted Human Mesh Reconstruction | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://wenjiawang0312.github.io/projects/zolly/) <br /> [![GitHub](https://img.shields.io/github/stars/WenjiaWang0312/Zolly)](https://github.com/WenjiaWang0312/Zolly) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13796-b31b1b.svg)](https://arxiv.org/abs/2303.13796) | :heavy_minus_sign: |
 | ACLS: Adaptive and Conditional Label Smoothing for Network Calibration | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cvlab.yonsei.ac.kr/projects/ACLS/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11911-b31b1b.svg)](https://arxiv.org/abs/2308.11911) | :heavy_minus_sign: |
 | PGFed: Personalize Each Client's Global Objective for Federated Learning | [![GitHub](https://img.shields.io/github/stars/ljaiverson/pgfed)](https://github.com/ljaiverson/pgfed) | [![arXiv](https://img.shields.io/badge/arXiv-2212.01448-b31b1b.svg)](https://arxiv.org/abs/2212.01448) | :heavy_minus_sign: |
-| Overcoming Bias in Pretrained Models by Manipulating the Finetuning Dataset | [![GitHub](https://img.shields.io/github/stars/princetonvisualai/overcoming-pretraining-bias)](https://github.com/princetonvisualai/overcoming-pretraining-bias) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06167-b31b1b.svg)](https://arxiv.org/abs/2303.06167) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/369199104_Overcoming_Bias_in_Pretrained_Models_by_Manipulating_the_Finetuning_Dataset) | :heavy_minus_sign: |
+| Overwriting Pretrained Bias with Finetuning Data | [![GitHub](https://img.shields.io/github/stars/princetonvisualai/overcoming-pretraining-bias)](https://github.com/princetonvisualai/overcoming-pretraining-bias) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06167-b31b1b.svg)](https://arxiv.org/abs/2303.06167) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/369199104_Overcoming_Bias_in_Pretrained_Models_by_Manipulating_the_Finetuning_Dataset) | :heavy_minus_sign: |
 | ITI-GEN: Inclusive Text-to-Image Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://czhang0528.github.io/iti-gen) <br /> [![GitHub](https://img.shields.io/github/stars/humansensinglab/ITI-GEN)](https://github.com/humansensinglab/ITI-GEN) | [![arXiv](https://img.shields.io/badge/arXiv-2309.05569-b31b1b.svg)](https://arxiv.org/abs/2309.05569) | :heavy_minus_sign: |
 | FunnyBirds: A Synthetic Vision Dataset for a Part-based Analysis of Explainable AI Methods | [![GitHub](https://img.shields.io/github/stars/visinf/funnybirds)](https://github.com/visinf/funnybirds) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06248-b31b1b.svg)](https://arxiv.org/abs/2308.06248) | :heavy_minus_sign: |
 | X-VoE: Measuring eXplanatory Violation of Expectation in Physical Events | [![GitHub](https://img.shields.io/github/stars/daibopku/X-VoE)](https://github.com/daibopku/X-VoE) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10441-b31b1b.svg)](https://arxiv.org/abs/2308.10441) | :heavy_minus_sign: |
@@ -1015,7 +1015,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Recognition, Segmentation, and Shape Analysis
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Segment Anything | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://segment-anything.com/) <br /> [![GitHub](https://img.shields.io/github/stars/facebookresearch/segment-anything)](https://github.com/facebookresearch/segment-anything) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02643-b31b1b.svg)](https://arxiv.org/abs/2304.02643) | :heavy_minus_sign: |
+| Shape Analysis of Euclidean Curves under Frenet-Serret Framework | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Unmasking Anomalies in Road-Scene Segmentation | [![GitHub](https://img.shields.io/github/stars/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation) <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iMF5lWj3J8zlIJFkekXC3ipQo2semJfL?usp=sharing) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13316-b31b1b.svg)](https://arxiv.org/abs/2307.13316) | :heavy_minus_sign: |
+| High Quality Entity Segmentation |  |  |  |
+| Towards Open-Vocabulary Video Instance Segmentation |  |  |  |
+| Beyond One-to-One: Rethinking the Referring Image Segmentation |  |  |  |
+| Multiple Instance Learning Framework with Masked Hard Instance Mining for whole Slide Image Classification |  |  |  |
+| Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning |  |  |  |
+| Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval |  |  |  |
+| Towards Deeply Unified Depth-Aware Panoptic Segmentation with Bi-Directional Guidance Learning |  |  |  |
+| LogicSeg: Parsing Visual Semantics with Neural Logic Learning and Reasoning |  |  |  |
+| ASIC: Aligning Sparse in-the-Wild Image Collections |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -1025,6 +1038,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| CLIPascene: Scene Sketching with Different Types and Levels of Abstraction |  |  |  |
+| LD-ZNet: A Latent Diffusion Approach for Text-based Image Segmentation |  |  |  |
+| TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models |  |  |  |
+| NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions |  |  |  |
+| Scalable Diffusion Models with Transformers |  |  |  |
+| Texture Generation on 3D Meshes with Point-UV Diffusion |  |  |  |
+| Generative Novel View Synthesis with 3D-Aware Diffusion Models |  |  |  |
+| DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning |  |  |  |
+| VQ3D: Learning a 3D-Aware Generative Model on ImageNet |  |  |  |
+| Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection |  |  |  |
+| A Complete Recipe for Diffusion Generative Models |  |  |  |
+| MMVP: Motion-Matrix-Based Video Prediction |  |  |  |
 | Simulating Fluids in Real-World Still Images | [![GitHub](https://img.shields.io/github/stars/simon3dv/SLR-SFS)](https://github.com/simon3dv/SLR-SFS) | [![arXiv](https://img.shields.io/badge/arXiv-2204.11335-b31b1b.svg)](https://arxiv.org/abs/2204.11335) | :heavy_minus_sign: |
 | FateZero: Fusing Attentions for Zero-Shot Text-based Video Editing | [![GitHub](https://img.shields.io/github/stars/ChenyangQiQi/FateZero)](https://github.com/ChenyangQiQi/FateZero) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09535-b31b1b.svg)](https://arxiv.org/abs/2303.09535) | :heavy_minus_sign: |
 
