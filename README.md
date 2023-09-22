@@ -1330,7 +1330,53 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Faces and Gestures
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| DeePoint: Visual Pointing Recognition and Direction Estimation | [![GitHub](https://img.shields.io/github/stars/kyotovision-public/deepoint)](https://github.com/kyotovision-public/deepoint) | [![arXiv](https://img.shields.io/badge/arXiv-2304.06977-b31b1b.svg)](https://arxiv.org/abs/2304.06977) | :heavy_minus_sign: |
+| Contactless Pulse Estimation Leveraging Pseudo Labels and Self-Supervision | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Most Important Person-Guided Dual-Branch Cross-Patch Attention for Group Affect Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| ContactGen: Generative Contact Modeling for Grasp Generation | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://shenlong.web.illinois.edu/papers/contactgen.pdf) | :heavy_minus_sign: |
+| Imitator: Personalized Speech-Driven 3D Facial Animation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://balamuruganthambiraja.github.io/Imitator/) | [![arXiv](https://img.shields.io/badge/arXiv-2301.00023-b31b1b.svg)](https://arxiv.org/abs/2301.00023) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=JhXTdjiUCUw) |
+| DVGaze: Dual-View Gaze Estimation | [![GitHub](https://img.shields.io/github/stars/yihuacheng/DVGaze)](https://github.com/yihuacheng/DVGaze) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10310-b31b1b.svg)](https://arxiv.org/abs/2308.10310) | :heavy_minus_sign: |
+<!-- | TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective |  |  |  |
+| Towards Unsupervised Domain Generalization for Face Anti-Spoofing |  |  |  |
+| Reinforced Disentanglement for Face Swapping without Skip Connection |  |  |  |
+| CoSign: Exploring Co-Occurrence Signals in Skeleton-based Continuous Sign Language Recognition |  |  |  |
+| EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation |  |  |  |
+| LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise |  |  |  |
+| ASM: Adaptive Skinning Model for High-Quality 3D Face Modeling |  |  |  |
+| Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment |  |  |  |
+| UniFace: Unified Cross-Entropy Loss for Deep Face Recognition |  |  |  |
+| Human Part-Wise 3D Motion Context Learning for Sign Language Recognition |  |  |  |
+| Weakly-Supervised Text-Driven Contrastive Learning for Facial Behavior Understanding |  |  |  |
+| HaMuCo: Hand Pose Estimation via Multiview Collaborative Self-Supervised Learning |  |  |  |
+| ReactioNet: Learning High-Order Facial Behavior from Universal Stimulus-Reaction by Dyadic Relation Reasoning |  |  |  |
+| CLIP-Cluster: CLIP-Guided Attribute Hallucination for Face Clustering |  |  |  |
+| Learning Human Dynamics in Autonomous Driving Scenarios |  |  |  |
+| LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation |  |  |  |
+| Controllable Guide-Space for Generalizable Face Forgery Detection |  |  |  |
+| Unpaired Multi-Domain Attribute Translation of 3D Facial Shapes with a Square and Symmetric Geometric Map |  |  |  |
+| Emotional Listener Portrait: Neural Listener Head Generation with Emotion |  |  |  |
+| Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis |  |  |  |
+| Invariant Feature Regularization for Fair Face Recognition |  |  |  |
+| Gloss-Free Sign Language Translation: Improving from Visual-Language Pretraining |  |  |  |
+| Contrastive Pseudo Learning for Open-World DeepFake Attribution |  |  |  |
+| Continual Learning for Personalized Co-Speech Gesture Generation |  |  |  |
+| HandR2N2: Iterative 3D Hand Pose Estimation using a Residual Recurrent Neural Network |  |  |  |
+| SPACE: Speech-Driven Portrait Animation with Controllable Expression |  |  |  |
+| How to Boost Face Recognition with StyleGAN? |  |  |  |
+| ChildPlay: A New Benchmark for Understanding Children's Gaze Behaviour |  |  |  |
+| Robust One-Shot Face Video Re-Enactment using Hybrid Latent Spaces of StyleGAN2 |  |  |  |
+| Data-Free Class-Incremental Hand Gesture Recognition |  |  |  |
+| Learning Robust Representations with Information Bottleneck and Memory Network for RGB-D-based Gesture Recognition |  |  |  |
+| Knowledge-Spreader: Learning Semi-Supervised Facial Action Dynamics by Consistifying Knowledge Granularity |  |  |  |
+| Face Clustering via Graph Convolutional Networks with Confidence Edges |  |  |  |
+| StyleGANEX: StyleGAN-based Manipulation Beyond Cropped Aligned Faces |  |  |  |
+| SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes |  |  |  |
+| Adaptive Nonlinear Latent Transformation for Conditional Face Editing |  |  |  |
+| Semi-Supervised Speech-Driven 3D Facial Animation via Cross-Modal Encoding |  |  |  |
+| ICD-Face: Intra-Class Compactness Distillation for Face Recognition |  |  |  |
+| C2ST: Cross-Modal Contextualized Sequence Transduction for Continuous Sign Language Recognition |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
