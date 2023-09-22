@@ -1028,7 +1028,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval | [![GitHub](https://img.shields.io/github/stars/IMCCretrieval/ProST)](https://github.com/IMCCretrieval/ProST) | :heavy_minus_sign: | :heavy_minus_sign: |
 | Towards Deeply Unified Depth-Aware Panoptic Segmentation with Bi-Directional Guidance Learning | [![GitHub](https://img.shields.io/github/stars/jwh97nn/DeepDPS)](https://github.com/jwh97nn/DeepDPS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14786-b31b1b.svg)](https://arxiv.org/abs/2307.14786) | :heavy_minus_sign: |
 | LogicSeg: Parsing Visual Semantics with Neural Logic Learning and Reasoning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| ASIC: Aligning Sparse in-the-Wild Image Collections |  |  |  |
+| ASIC: Aligning Sparse in-the-Wild Image Collections | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://kampta.github.io/asic/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.16201-b31b1b.svg)](https://arxiv.org/abs/2303.16201) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=fLjkkMriuoY) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
