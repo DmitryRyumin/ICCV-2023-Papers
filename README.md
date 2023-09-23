@@ -1101,7 +1101,59 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Navigation and Autonomous Driving
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Robust Monocular Depth Estimation under Challenging Conditions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://md4all.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/md4all/md4all)](https://github.com/md4all/md4all) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09711-b31b1b.svg)](https://arxiv.org/abs/2308.09711) | :heavy_minus_sign: |
+| UMC: A Unified Bandwidth-Efficient and Multi-Resolution based Collaborative Perception Framework | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://tianhangwang.github.io/UMC/) <br /> [![GitHub](https://img.shields.io/github/stars/ispc-lab/UMC)](https://github.com/ispc-lab/UMC) | [![arXiv](https://img.shields.io/badge/arXiv-2303.12400-b31b1b.svg)](https://arxiv.org/abs/2303.12400) | :heavy_minus_sign: |
+| View Consistent Purification for Accurate Cross-View Localization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://shanwang-shan.github.io/PureACL-website/) <br /> [![GitHub](https://img.shields.io/github/stars/ShanWang-Shan/PureACL-website)](https://github.com/ShanWang-Shan/PureACL-website) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08110-b31b1b.svg)](https://arxiv.org/abs/2308.08110) | :heavy_minus_sign: |
+| Semi-Supervised Semantics-Guided Adversarial Training for Robust Trajectory Prediction | [![GitHub](https://img.shields.io/github/stars/jrcblue/SSAT-for-Motion-Prediction)](https://github.com/jrcblue/SSAT-for-Motion-Prediction) | [![arXiv](https://img.shields.io/badge/arXiv-2205.14230-b31b1b.svg)](https://arxiv.org/abs/2205.14230) | :heavy_minus_sign: |
+| NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping | [![GitHub](https://img.shields.io/github/stars/JunyuanDeng/NeRF-LOAM)](https://github.com/JunyuanDeng/NeRF-LOAM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.10709-b31b1b.svg)](https://arxiv.org/abs/2303.10709) | :heavy_minus_sign: |
+<!-- | MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models |  |  |  |
+| Hidden Biases of End-to-End Driving Models |  |  |  |
+| Search for or Navigate to? Dual Adaptive Thinking for Object Navigation |  |  |  |
+| BiFF: Bi-Level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction |  |  |  |
+| Towards Zero Domain Gap: A Comprehensive Study of Realistic LiDAR Simulation for Autonomy Testing |  |  |  |
+| Clustering based Point Cloud Representation Learning for 3D Analysis |  |  |  |
+| ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation |  |  |  |
+| MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving |  |  |  |
+| Learning Vision-and-Language Navigation from YouTube Videos |  |  |  |
+| TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models |  |  |  |
+| VAD: Vectorized Scene Representation for Efficient Autonomous Driving |  |  |  |
+| Traj-MAE: Masked Autoencoders for Trajectory Prediction |  |  |  |
+| Sparse Point Guided 3D Lane Detection |  |  |  |
+| A Simple Vision Transformer for Weakly Semi-Supervised 3D Object Detection |  |  |  |
+| Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction |  |  |  |
+| FocalFormer3D: Focusing on Hard Instance for 3D Object Detection |  |  |  |
+| Scene as Occupancy |  |  |  |
+| Real-Time Neural Rasterization for Large Scenes |  |  |  |
+| A Game of Bundle Adjustment - Learning Efficient Convergence |  |  |  |
+| Efficient Transformer-based 3D Object Detection with Dynamic Token Halting |  |  |  |
+| RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration |  |  |  |
+| CASSPR: Cross Attention Single Scan Place Recognition |  |  |  |
+| Recursive Video Lane Detection |  |  |  |
+| Parametric Depth based Feature Representation Learning for Object Detection and Segmentation in Bird's-Eye View |  |  |  |
+| SHIFT3D: Synthesizing Hard Inputs for Tricking 3D Detectors |  |  |  |
+| Bootstrap Motion Forecasting With Self-Consistent Constraints |  |  |  |
+| Towards Viewpoint Robustness in Bird's Eye View Segmentation |  |  |  |
+| R-Pred: Two-Stage Motion Prediction via Tube-Query Attention-based Trajectory Refinement |  |  |  |
+| INT2: Interactive Trajectory Prediction at Intersections |  |  |  |
+| MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception |  |  |  |
+| Unsupervised Self-Driving Attention Prediction via Uncertainty Mining and Knowledge Embedding |  |  |  |
+| SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation |  |  |  |
+| MotionLM: Multi-Agent Motion Forecasting as Language Modeling |  |  |  |
+| Improving Online Lane Graph Extraction by Object-Lane Clustering |  |  |  |
+| Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving |  |  |  |
+| Self-Supervised Monocular Depth Estimation by Direction-Aware Cumulative Convolution Network |  |  |  |
+| Ordered Atomic Activity for Fine-Grained Interactive Traffic Scenario Understanding |  |  |  |
+| DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation |  |  |  |
+| Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving |  |  |  |
+| MV-Map: Offboard HD-Map Generation with Multi-View Consistency |  |  |  |
+| Towards Universal LiDAR-based 3D Object Detection by Multi-Domain Knowledge Transfer |  |  |  |
+| Forecast-MAE: Self-Supervised Pre-Training for Motion Forecasting with Masked Autoencoders |  |  |  |
+| UniFusion: Unified Multi-View Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View |  |  |  |
+| BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images |  |  |  |
+| CORE: Cooperative Reconstruction for Multi-Agent Perception |  |  |  |
+| MetaBEV: Solving Sensor Failures for 3D Detection and Map Segmentation |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
