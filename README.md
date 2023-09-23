@@ -17,7 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-> Completed: ![Progress](https://geps.dev/progress/35?successColor=006600)
+> Completed: ![Progress](https://geps.dev/progress/36?successColor=006600)
 
 ---
 
@@ -1059,7 +1059,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Humans, 3D Modeling, and Driving
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lukashoel.github.io/text-to-room/) <br /> [![GitHub](https://img.shields.io/github/stars/lukasHoel/text2room)](https://github.com/lukasHoel/text2room) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11989-b31b1b.svg)](https://arxiv.org/abs/2303.11989) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=fjRnFL91EZc) |
+| LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses | [![GitHub](https://img.shields.io/github/stars/apple/ml-live-pose)](https://github.com/apple/ml-live-pose) | [![arXiv](https://img.shields.io/badge/arXiv-2304.00054-b31b1b.svg)](https://arxiv.org/abs/2304.00054) | :heavy_minus_sign: |
+| NDDepth: Normal-Distance Assisted Monocular Depth Estimation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.10592-b31b1b.svg)](https://arxiv.org/abs/2309.10592) | :heavy_minus_sign: |
+| LATR: 3D Lane Detection from Monocular Images with Transformer | [![GitHub](https://img.shields.io/github/stars/JMoonr/LATR)](https://github.com/JMoonr/LATR) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04583-b31b1b.svg)](https://arxiv.org/abs/2308.04583) | :heavy_minus_sign: |
+| DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/DriveAdapter)](https://github.com/OpenDriveLab/DriveAdapter) | [![arXiv](https://img.shields.io/badge/arXiv-2308.00398-b31b1b.svg)](https://arxiv.org/abs/2308.00398) | :heavy_minus_sign: |
+| Dynamic Point Fields | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sergeyprokudin.github.io/dpf/) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02626-b31b1b.svg)](https://arxiv.org/abs/2304.02626) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=i-9eAgS8HEA) |
+| Generalizing Neural Human Fitting to Unseen Poses with Articulated SE(3) Equivariance | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://arteq.is.tue.mpg.de/) | [![arXiv](https://img.shields.io/badge/arXiv-2304.10528-b31b1b.svg)](https://arxiv.org/abs/2304.10528) | :heavy_minus_sign: |
+| Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sanweiliti.github.io/egohmr/egohmr.html) <br /> [![GitHub](https://img.shields.io/github/stars/sanweiliti/EgoHMR)](https://github.com/sanweiliti/EgoHMR) | [![arXiv](https://img.shields.io/badge/arXiv-2304.06024-b31b1b.svg)](https://arxiv.org/abs/2304.06024) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Fh5vtB2pbq0) |
+| DECO: Dense Estimation of 3D Human-Scene Contact in the Wild | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://deco.is.tue.mpg.de/) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image | [![GitHub](https://img.shields.io/github/stars/PengfeiRen96/DIR)](https://github.com/PengfeiRen96/DIR) | [![arXiv](https://img.shields.io/badge/arXiv-2302.02410-b31b1b.svg)](https://arxiv.org/abs/2302.02410) | :heavy_minus_sign: |
+| Chasing Clouds: Differentiable Volumetric Rasterisation of Point Clouds as a Highly Efficient and Accurate Loss for Large-Scale Deformable 3D Registration | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize more and Forget Less | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.09914-b31b1b.svg)](https://arxiv.org/abs/2303.09914) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
