@@ -1372,11 +1372,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Knowledge-Spreader: Learning Semi-Supervised Facial Action Dynamics by Consistifying Knowledge Granularity | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Face Clustering via Graph Convolutional Networks with Confidence Edges | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | StyleGANEX: StyleGAN-based Manipulation Beyond Cropped Aligned Faces | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.mmlab-ntu.com/project/styleganex/) <br /> [![GitHub](https://img.shields.io/github/stars/williamyang1991/StyleGANEX)](https://github.com/williamyang1991/StyleGANEX) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06146-b31b1b.svg)](https://arxiv.org/abs/2303.06146) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=8oK0TXQmxg8) |
-| SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes |  |  |  |
-| Adaptive Nonlinear Latent Transformation for Conditional Face Editing |  |  |  |
-| Semi-Supervised Speech-Driven 3D Facial Animation via Cross-Modal Encoding |  |  |  |
-| ICD-Face: Intra-Class Compactness Distillation for Face Recognition |  |  |  |
-| C2ST: Cross-Modal Contextualized Sequence Transduction for Continuous Sign Language Recognition |  |  |  |
+| SeeABLE: Soft Discrepancies and Bounded Contrastive Learning for Exposing Deepfakes | [![GitHub](https://img.shields.io/github/stars/anonymous-author-sub/seeable)](https://github.com/anonymous-author-sub/seeable) | [![arXiv](https://img.shields.io/badge/arXiv-2211.11296-b31b1b.svg)](https://arxiv.org/abs/2211.11296) | :heavy_minus_sign: |
+| Adaptive Nonlinear Latent Transformation for Conditional Face Editing | [![GitHub](https://img.shields.io/github/stars/Hzzone/AdaTrans)](https://github.com/Hzzone/AdaTrans) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07790-b31b1b.svg)](https://arxiv.org/abs/2307.07790) | :heavy_minus_sign: |
+| Semi-Supervised Speech-Driven 3D Facial Animation via Cross-Modal Encoding | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| ICD-Face: Intra-Class Compactness Distillation for Face Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| C2ST: Cross-Modal Contextualized Sequence Transduction for Continuous Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
