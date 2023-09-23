@@ -1360,9 +1360,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Invariant Feature Regularization for Fair Face Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Gloss-Free Sign Language Translation: Improving from Visual-Language Pretraining | [![GitHub](https://img.shields.io/github/stars/zhoubenjia/GFSLT-VLP)](https://github.com/zhoubenjia/GFSLT-VLP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14768-b31b1b.svg)](https://arxiv.org/abs/2307.14768) | :heavy_minus_sign: |
-| Contrastive Pseudo Learning for Open-World DeepFake Attribution |  |  |  |
-| Continual Learning for Personalized Co-Speech Gesture Generation |  |  |  |
-| HandR2N2: Iterative 3D Hand Pose Estimation using a Residual Recurrent Neural Network |  |  |  |
+| Contrastive Pseudo Learning for Open-World DeepFake Attribution | [![GitHub](https://img.shields.io/github/stars/TencentYoutuResearch/OpenWorld-DeepFakeAttribution)](https://github.com/TencentYoutuResearch/OpenWorld-DeepFakeAttribution) | [![arXiv](https://img.shields.io/badge/arXiv-2309.11132-b31b1b.svg)](https://arxiv.org/abs/2309.11132) | :heavy_minus_sign: |
+| Continual Learning for Personalized Co-Speech Gesture Generation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| HandR2N2: Iterative 3D Hand Pose Estimation using a Residual Recurrent Neural Network | [![GitHub](https://img.shields.io/github/stars/cwc1260/HandR2N2)](https://github.com/cwc1260/HandR2N2) | :heavy_minus_sign: | :heavy_minus_sign: |
 | SPACE: Speech-Driven Portrait Animation with Controllable Expression |  |  |  |
 | How to Boost Face Recognition with StyleGAN? |  |  |  |
 | ChildPlay: A New Benchmark for Understanding Children's Gaze Behaviour |  |  |  |
