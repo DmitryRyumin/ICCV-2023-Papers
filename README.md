@@ -1353,13 +1353,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ReactioNet: Learning High-Order Facial Behavior from Universal Stimulus-Reaction by Dyadic Relation Reasoning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | CLIP-Cluster: CLIP-Guided Attribute Hallucination for Face Clustering | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Learning Human Dynamics in Autonomous Driving Scenarios | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation |  |  |  |
-| Controllable Guide-Space for Generalizable Face Forgery Detection |  |  |  |
-| Unpaired Multi-Domain Attribute Translation of 3D Facial Shapes with a Square and Symmetric Geometric Map |  |  |  |
-| Emotional Listener Portrait: Neural Listener Head Generation with Emotion |  |  |  |
-| Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis |  |  |  |
-| Invariant Feature Regularization for Fair Face Recognition |  |  |  |
-| Gloss-Free Sign Language Translation: Improving from Visual-Language Pretraining |  |  |  |
+| LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation | [![GitHub](https://img.shields.io/github/stars/zyhbili/LivelySpeaker)](https://github.com/zyhbili/LivelySpeaker) | [![arXiv](https://img.shields.io/badge/arXiv-2309.09294-b31b1b.svg)](https://arxiv.org/abs/2309.09294) | :heavy_minus_sign: |
+| Controllable Guide-Space for Generalizable Face Forgery Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.14039-b31b1b.svg)](https://arxiv.org/abs/2307.14039) | :heavy_minus_sign: |
+| Unpaired Multi-Domain Attribute Translation of 3D Facial Shapes with a Square and Symmetric Geometric Map | [![GitHub](https://img.shields.io/github/stars/NaughtyZZ/3D_facial_shape_attribute_translation_ssgmap)](https://github.com/NaughtyZZ/3D_facial_shape_attribute_translation_ssgmap) | [![arXiv](https://img.shields.io/badge/arXiv-2308.13245-b31b1b.svg)](https://arxiv.org/abs/2308.13245) | :heavy_minus_sign: |
+| Emotional Listener Portrait: Neural Listener Head Generation with Emotion | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Invariant Feature Regularization for Fair Face Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Gloss-Free Sign Language Translation: Improving from Visual-Language Pretraining | [![GitHub](https://img.shields.io/github/stars/zhoubenjia/GFSLT-VLP)](https://github.com/zhoubenjia/GFSLT-VLP) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14768-b31b1b.svg)](https://arxiv.org/abs/2307.14768) | :heavy_minus_sign: |
 | Contrastive Pseudo Learning for Open-World DeepFake Attribution |  |  |  |
 | Continual Learning for Personalized Co-Speech Gesture Generation |  |  |  |
 | HandR2N2: Iterative 3D Hand Pose Estimation using a Residual Recurrent Neural Network |  |  |  |
