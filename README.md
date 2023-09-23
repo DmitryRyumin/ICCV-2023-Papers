@@ -1363,9 +1363,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Contrastive Pseudo Learning for Open-World DeepFake Attribution | [![GitHub](https://img.shields.io/github/stars/TencentYoutuResearch/OpenWorld-DeepFakeAttribution)](https://github.com/TencentYoutuResearch/OpenWorld-DeepFakeAttribution) | [![arXiv](https://img.shields.io/badge/arXiv-2309.11132-b31b1b.svg)](https://arxiv.org/abs/2309.11132) | :heavy_minus_sign: |
 | Continual Learning for Personalized Co-Speech Gesture Generation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | HandR2N2: Iterative 3D Hand Pose Estimation using a Residual Recurrent Neural Network | [![GitHub](https://img.shields.io/github/stars/cwc1260/HandR2N2)](https://github.com/cwc1260/HandR2N2) | :heavy_minus_sign: | :heavy_minus_sign: |
-| SPACE: Speech-Driven Portrait Animation with Controllable Expression |  |  |  |
-| How to Boost Face Recognition with StyleGAN? |  |  |  |
-| ChildPlay: A New Benchmark for Understanding Children's Gaze Behaviour |  |  |  |
+| SPACE: Speech-Driven Portrait Animation with Controllable Expression | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.09809-b31b1b.svg)](https://arxiv.org/abs/2211.09809) | :heavy_minus_sign: |
+| How to Boost Face Recognition with StyleGAN? | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://seva100.github.io/stylegan-for-facerec) <br /> [![GitHub](https://img.shields.io/github/stars/seva100/stylegan-for-facerec)](https://github.com/seva100/stylegan-for-facerec) | [![arXiv](https://img.shields.io/badge/arXiv-2210.10090-b31b1b.svg)](https://arxiv.org/abs/2210.10090) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Bsi0RMTdEaI) |
+| ChildPlay: A New Benchmark for Understanding Children's Gaze Behaviour | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.idiap.ch/en/dataset/childplay-gaze) <br /> [![Zenodo](https://img.shields.io/badge/Zenodo-dataset-FFD1BF.svg)](https://zenodo.org/record/8252535) | [![arXiv](https://img.shields.io/badge/arXiv-2307.01630-b31b1b.svg)](https://arxiv.org/abs/2307.01630) | :heavy_minus_sign: |
 | Robust One-Shot Face Video Re-Enactment using Hybrid Latent Spaces of StyleGAN2 |  |  |  |
 | Data-Free Class-Incremental Hand Gesture Recognition |  |  |  |
 | Learning Robust Representations with Information Bottleneck and Memory Network for RGB-D-based Gesture Recognition |  |  |  |
