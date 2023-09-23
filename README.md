@@ -1352,7 +1352,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | HaMuCo: Hand Pose Estimation via Multiview Collaborative Self-Supervised Learning | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zxz267.github.io/HaMuCo/) <br /> [![GitHub](https://img.shields.io/github/stars/zxz267/HaMuCo)](https://github.com/zxz267/HaMuCo) | [![arXiv](https://img.shields.io/badge/arXiv-2302.00988-b31b1b.svg)](https://arxiv.org/abs/2302.00988) | :heavy_minus_sign: |
 | ReactioNet: Learning High-Order Facial Behavior from Universal Stimulus-Reaction by Dyadic Relation Reasoning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | CLIP-Cluster: CLIP-Guided Attribute Hallucination for Face Clustering | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Learning Human Dynamics in Autonomous Driving Scenarios |  |  |  |
+| Learning Human Dynamics in Autonomous Driving Scenarios | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation |  |  |  |
 | Controllable Guide-Space for Generalizable Face Forgery Detection |  |  |  |
 | Unpaired Multi-Domain Attribute Translation of 3D Facial Shapes with a Square and Symmetric Geometric Map |  |  |  |
