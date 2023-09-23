@@ -1346,8 +1346,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.09023-b31b1b.svg)](https://arxiv.org/abs/2307.09023) | :heavy_minus_sign: |
 | ASM: Adaptive Skinning Model for High-Quality 3D Face Modeling | [![GitHub](https://img.shields.io/github/stars/LiuLinyun/ASM-unofficial)](https://github.com/LiuLinyun/ASM-unofficial) | [![arXiv](https://img.shields.io/badge/arXiv-2304.09423-b31b1b.svg)](https://arxiv.org/abs/2304.09423) | :heavy_minus_sign: |
 | Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| UniFace: Unified Cross-Entropy Loss for Deep Face Recognition |  |  |  |
-| Human Part-Wise 3D Motion Context Learning for Sign Language Recognition |  |  |  |
+| UniFace: Unified Cross-Entropy Loss for Deep Face Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Human Part-Wise 3D Motion Context Learning for Sign Language Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09305-b31b1b.svg)](https://arxiv.org/abs/2308.09305) | :heavy_minus_sign: |
 | Weakly-Supervised Text-Driven Contrastive Learning for Facial Behavior Understanding |  |  |  |
 | HaMuCo: Hand Pose Estimation via Multiview Collaborative Self-Supervised Learning |  |  |  |
 | ReactioNet: Learning High-Order Facial Behavior from Universal Stimulus-Reaction by Dyadic Relation Reasoning |  |  |  |
