@@ -1338,10 +1338,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | ContactGen: Generative Contact Modeling for Grasp Generation | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://shenlong.web.illinois.edu/papers/contactgen.pdf) | :heavy_minus_sign: |
 | Imitator: Personalized Speech-Driven 3D Facial Animation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://balamuruganthambiraja.github.io/Imitator/) | [![arXiv](https://img.shields.io/badge/arXiv-2301.00023-b31b1b.svg)](https://arxiv.org/abs/2301.00023) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=JhXTdjiUCUw) |
 | DVGaze: Dual-View Gaze Estimation | [![GitHub](https://img.shields.io/github/stars/yihuacheng/DVGaze)](https://github.com/yihuacheng/DVGaze) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10310-b31b1b.svg)](https://arxiv.org/abs/2308.10310) | :heavy_minus_sign: |
-<!-- | TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective |  |  |  |
-| Towards Unsupervised Domain Generalization for Face Anti-Spoofing |  |  |  |
-| Reinforced Disentanglement for Face Swapping without Skip Connection |  |  |  |
-| CoSign: Exploring Co-Occurrence Signals in Skeleton-based Continuous Sign Language Recognition |  |  |  |
+| TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective | [![GitHub](https://img.shields.io/github/stars/DanJun6737/TransFace)](https://github.com/DanJun6737/TransFace) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10133-b31b1b.svg)](https://arxiv.org/abs/2308.10133) | :heavy_minus_sign: |
+| Towards Unsupervised Domain Generalization for Face Anti-Spoofing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Reinforced Disentanglement for Face Swapping without Skip Connection | [![GitHub](https://img.shields.io/github/stars/alaist/RD-FS)](https://github.com/alaist/RD-FS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07928-b31b1b.svg)](https://arxiv.org/abs/2307.07928) | :heavy_minus_sign: |
+| CoSign: Exploring Co-Occurrence Signals in Skeleton-based Continuous Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation |  |  |  |
 | LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise |  |  |  |
 | ASM: Adaptive Skinning Model for High-Quality 3D Face Modeling |  |  |  |
@@ -1376,7 +1376,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Adaptive Nonlinear Latent Transformation for Conditional Face Editing |  |  |  |
 | Semi-Supervised Speech-Driven 3D Facial Animation via Cross-Modal Encoding |  |  |  |
 | ICD-Face: Intra-Class Compactness Distillation for Face Recognition |  |  |  |
-| C2ST: Cross-Modal Contextualized Sequence Transduction for Continuous Sign Language Recognition |  |  |  | -->
+| C2ST: Cross-Modal Contextualized Sequence Transduction for Continuous Sign Language Recognition |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
