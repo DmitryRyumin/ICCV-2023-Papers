@@ -17,7 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-> Completed: ![Progress](https://geps.dev/progress/36?successColor=006600)
+> Completed: ![Progress](https://geps.dev/progress/37?successColor=006600)
 
 ---
 
@@ -1082,7 +1082,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| A 5-Point Minimal Solver for Event Camera Relative Motion Estimation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| General Planar Motion from a Pair of 3D Correspondences | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Beyond the Pixel: A Photometrically Calibrated HDR Dataset for Luminance and Color Prediction | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lvsn.github.io/beyondthepixel/) <br /> [![GitHub](https://img.shields.io/github/stars/lvsn/beyondthepixel)](https://github.com/lvsn/beyondthepixel) | [![arXiv](https://img.shields.io/badge/arXiv-2304.12372-b31b1b.svg)](https://arxiv.org/abs/2304.12372) | :heavy_minus_sign: |
 | DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion | [![GitHub](https://img.shields.io/github/stars/Zhaozixiang1228/MMIF-DDFM)](https://github.com/Zhaozixiang1228/MMIF-DDFM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06840-b31b1b.svg)](https://arxiv.org/abs/2303.06840) | :heavy_minus_sign: |
+| Iterative Prompt Learning for Unsupervised Backlit Image Enhancement | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zhexinliang.github.io/CLIP_LIT_page/) <br /> [![GitHub](https://img.shields.io/github/stars/ZhexinLiang/CLIP-LIT)](https://github.com/ZhexinLiang/CLIP-LIT) | [![arXiv](https://img.shields.io/badge/arXiv-2303.17569-b31b1b.svg)](https://arxiv.org/abs/2303.17569) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=0qbkxNmkNWU) |
+| Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://red-fairy.github.io/ZeroShotDayNightDA-Webpage/) <br /> [![GitHub](https://img.shields.io/github/stars/Red-Fairy/ZeroShotDayNightDA)](https://github.com/Red-Fairy/ZeroShotDayNightDA) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08779-b31b1b.svg)](https://arxiv.org/abs/2307.08779) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=_Urw6HBjzAk) |
+| Multi-Interactive Feature Learning and a Full-Time Multi-Modality Benchmark for Image Fusion and Segmentation | [![GitHub](https://img.shields.io/github/stars/JinyuanLiu-CV/SegMiF)](https://github.com/JinyuanLiu-CV/SegMiF) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02097-b31b1b.svg)](https://arxiv.org/abs/2308.02097) | :heavy_minus_sign: |
+| Computational 3D Imaging with Position Sensors | :heavy_minus_sign: | :heavy_minus_sign: | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=pL2puwXOY9c) |
+| Passive Ultra-Wideband Single-Photon Imaging | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Viewing Graph Solvability in Practice | [![GitHub](https://img.shields.io/github/stars/federica-arrigoni/finite-solvability)](https://github.com/federica-arrigoni/finite-solvability) | :heavy_minus_sign: | :heavy_minus_sign: |
+| Minimal Solutions to Generalized Three-View Relative Pose Problem | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| SoDaCam: Software-Defined Cameras via Single-Photon Imaging | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://wisionlab.com/project/sodacam/) | [![arXiv](https://img.shields.io/badge/arXiv-2309.00066-b31b1b.svg)](https://arxiv.org/abs/2309.00066) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
