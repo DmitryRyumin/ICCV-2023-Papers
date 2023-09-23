@@ -1342,10 +1342,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Towards Unsupervised Domain Generalization for Face Anti-Spoofing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Reinforced Disentanglement for Face Swapping without Skip Connection | [![GitHub](https://img.shields.io/github/stars/alaist/RD-FS)](https://github.com/alaist/RD-FS) | [![arXiv](https://img.shields.io/badge/arXiv-2307.07928-b31b1b.svg)](https://arxiv.org/abs/2307.07928) | :heavy_minus_sign: |
 | CoSign: Exploring Co-Occurrence Signals in Skeleton-based Continuous Sign Language Recognition | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation |  |  |  |
-| LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise |  |  |  |
-| ASM: Adaptive Skinning Model for High-Quality 3D Face Modeling |  |  |  |
-| Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment |  |  |  |
+| EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ziqiaopeng.github.io/emotalk/) <br /> [![GitHub](https://img.shields.io/github/stars/psyai-net/EmoTalk_release)](https://github.com/psyai-net/EmoTalk_release) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11089-b31b1b.svg)](https://arxiv.org/abs/2303.11089) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=0uV2B1m-XjI) |
+| LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.09023-b31b1b.svg)](https://arxiv.org/abs/2307.09023) | :heavy_minus_sign: |
+| ASM: Adaptive Skinning Model for High-Quality 3D Face Modeling | [![GitHub](https://img.shields.io/github/stars/LiuLinyun/ASM-unofficial)](https://github.com/LiuLinyun/ASM-unofficial) | [![arXiv](https://img.shields.io/badge/arXiv-2304.09423-b31b1b.svg)](https://arxiv.org/abs/2304.09423) | :heavy_minus_sign: |
+| Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | UniFace: Unified Cross-Entropy Loss for Deep Face Recognition |  |  |  |
 | Human Part-Wise 3D Motion Context Learning for Sign Language Recognition |  |  |  |
 | Weakly-Supervised Text-Driven Contrastive Learning for Facial Behavior Understanding |  |  |  |
