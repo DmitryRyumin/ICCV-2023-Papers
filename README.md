@@ -1136,19 +1136,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Bootstrap Motion Forecasting With Self-Consistent Constraints | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2204.05859-b31b1b.svg)](https://arxiv.org/abs/2204.05859) | :heavy_minus_sign: |
 | Towards Viewpoint Robustness in Bird's Eye View Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://nvlabs.github.io/viewpoint-robustness/) | [![arXiv](https://img.shields.io/badge/arXiv-2309.05192-b31b1b.svg)](https://arxiv.org/abs/2309.05192) | :heavy_minus_sign: |
 | R-Pred: Two-Stage Motion Prediction via Tube-Query Attention-based Trajectory Refinement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.08609-b31b1b.svg)](https://arxiv.org/abs/2211.08609) | :heavy_minus_sign: |
-<!-- | INT2: Interactive Trajectory Prediction at Intersections |  |  |  |
-| MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception |  |  |  |
-| Unsupervised Self-Driving Attention Prediction via Uncertainty Mining and Knowledge Embedding |  |  |  |
-| SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation |  |  |  |
-| MotionLM: Multi-Agent Motion Forecasting as Language Modeling |  |  |  |
-| Improving Online Lane Graph Extraction by Object-Lane Clustering |  |  |  |
-| Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving |  |  |  |
-| Self-Supervised Monocular Depth Estimation by Direction-Aware Cumulative Convolution Network |  |  |  |
-| Ordered Atomic Activity for Fine-Grained Interactive Traffic Scenario Understanding |  |  |  |
-| DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation |  |  |  |
-| Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving |  |  |  |
-| MV-Map: Offboard HD-Map Generation with Multi-View Consistency |  |  |  |
-| Towards Universal LiDAR-based 3D Object Detection by Multi-Domain Knowledge Transfer |  |  |  |
+| INT2: Interactive Trajectory Prediction at Intersections | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://int2.cn/) <br /> [![GitHub](https://img.shields.io/github/stars/AIR-DISCOVER/INT2)](https://github.com/AIR-DISCOVER/INT2) | :heavy_minus_sign: | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=KNkuakDvgVc) |
+| MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception | [![GitHub](https://img.shields.io/github/stars/ZRandomize/MatrixVT)](https://github.com/ZRandomize/MatrixVT) | [![arXiv](https://img.shields.io/badge/arXiv-2211.10593-b31b1b.svg)](https://arxiv.org/abs/2211.10593) | :heavy_minus_sign: |
+| Unsupervised Self-Driving Attention Prediction via Uncertainty Mining and Knowledge Embedding | [![GitHub](https://img.shields.io/github/stars/zaplm/DriverAttention)](https://github.com/zaplm/DriverAttention) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09706-b31b1b.svg)](https://arxiv.org/abs/2303.09706) | :heavy_minus_sign: |
+| SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13323-b31b1b.svg)](https://arxiv.org/abs/2308.13323) | :heavy_minus_sign: |
+| MotionLM: Multi-Agent Motion Forecasting as Language Modeling | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Improving Online Lane Graph Extraction by Object-Lane Clustering | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.10947-b31b1b.svg)](https://arxiv.org/abs/2307.10947) | :heavy_minus_sign: |
+| Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Self-Supervised Monocular Depth Estimation by Direction-Aware Cumulative Convolution Network | [![GitHub](https://img.shields.io/github/stars/wencheng256/DaCCN)](https://github.com/wencheng256/DaCCN) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05605-b31b1b.svg)](https://arxiv.org/abs/2308.05605) | :heavy_minus_sign: |
+| Ordered Atomic Activity for Fine-Grained Interactive Traffic Scenario Understanding | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1Jwzzr0puAWte5xa-xQwOAnpAXsBsSw7f/view) | :heavy_minus_sign: |
+| DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.vis.xyz/pub/vtd/) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04422-b31b1b.svg)](https://arxiv.org/abs/2309.04422) | :heavy_minus_sign: |
+| MV-Map: Offboard HD-Map Generation with Multi-View Consistency | [![GitHub](https://img.shields.io/github/stars/ZiYang-xie/MV-Map)](https://github.com/ZiYang-xie/MV-Map) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08851-b31b1b.svg)](https://arxiv.org/abs/2305.08851) | :heavy_minus_sign: |
+<!-- | Towards Universal LiDAR-based 3D Object Detection by Multi-Domain Knowledge Transfer |  |  |  |
 | Forecast-MAE: Self-Supervised Pre-Training for Motion Forecasting with Masked Autoencoders |  |  |  |
 | UniFusion: Unified Multi-View Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View |  |  |  |
 | BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images |  |  |  |
