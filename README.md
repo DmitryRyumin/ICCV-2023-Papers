@@ -1133,10 +1133,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Recursive Video Lane Detection | [![GitHub](https://img.shields.io/github/stars/dongkwonjin/RVLD)](https://github.com/dongkwonjin/RVLD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11106-b31b1b.svg)](https://arxiv.org/abs/2308.11106) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Z0FaOqVrN5w) |
 | Parametric Depth based Feature Representation Learning for Object Detection and Segmentation in Bird's-Eye View | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.04106-b31b1b.svg)](https://arxiv.org/abs/2307.04106) | :heavy_minus_sign: |
 | SHIFT3D: Synthesizing Hard Inputs for Tricking 3D Detectors | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.05810-b31b1b.svg)](https://arxiv.org/abs/2309.05810) | :heavy_minus_sign: |
-<!-- | Bootstrap Motion Forecasting With Self-Consistent Constraints |  |  |  |
-| Towards Viewpoint Robustness in Bird's Eye View Segmentation |  |  |  |
-| R-Pred: Two-Stage Motion Prediction via Tube-Query Attention-based Trajectory Refinement |  |  |  |
-| INT2: Interactive Trajectory Prediction at Intersections |  |  |  |
+| Bootstrap Motion Forecasting With Self-Consistent Constraints | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2204.05859-b31b1b.svg)](https://arxiv.org/abs/2204.05859) | :heavy_minus_sign: |
+| Towards Viewpoint Robustness in Bird's Eye View Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://nvlabs.github.io/viewpoint-robustness/) | [![arXiv](https://img.shields.io/badge/arXiv-2309.05192-b31b1b.svg)](https://arxiv.org/abs/2309.05192) | :heavy_minus_sign: |
+| R-Pred: Two-Stage Motion Prediction via Tube-Query Attention-based Trajectory Refinement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.08609-b31b1b.svg)](https://arxiv.org/abs/2211.08609) | :heavy_minus_sign: |
+<!-- | INT2: Interactive Trajectory Prediction at Intersections |  |  |  |
 | MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception |  |  |  |
 | Unsupervised Self-Driving Attention Prediction via Uncertainty Mining and Knowledge Embedding |  |  |  |
 | SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation |  |  |  |
