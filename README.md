@@ -1122,13 +1122,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Traj-MAE: Masked Autoencoders for Trajectory Prediction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.06697-b31b1b.svg)](https://arxiv.org/abs/2303.06697) | :heavy_minus_sign: |
 | Sparse Point Guided 3D Lane Detection | [![GitHub](https://img.shields.io/github/stars/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection)](https://github.com/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection) | :heavy_minus_sign: | :heavy_minus_sign: |
 | A Simple Vision Transformer for Weakly Semi-Supervised 3D Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction |  |  |  |
-| FocalFormer3D: Focusing on Hard Instance for 3D Object Detection |  |  |  |
-| Scene as Occupancy |  |  |  |
-| Real-Time Neural Rasterization for Large Scenes |  |  |  |
-| A Game of Bundle Adjustment - Learning Efficient Convergence |  |  |  |
-| Efficient Transformer-based 3D Object Detection with Dynamic Token Halting |  |  |  |
-| RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration |  |  |  |
+| Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| FocalFormer3D: Focusing on Hard Instance for 3D Object Detection | [![GitHub](https://img.shields.io/github/stars/NVlabs/FocalFormer3D)](https://github.com/NVlabs/FocalFormer3D) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04556-b31b1b.svg)](https://arxiv.org/abs/2308.04556) | :heavy_minus_sign: |
+| Scene as Occupancy | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/OccNet)](https://github.com/OpenDriveLab/OccNet) | [![arXiv](https://img.shields.io/badge/arXiv-2306.02851-b31b1b.svg)](https://arxiv.org/abs/2306.02851) | :heavy_minus_sign: |
+| Real-Time Neural Rasterization for Large Scenes | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Game of Bundle Adjustment - Learning Efficient Convergence | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13270-b31b1b.svg)](https://arxiv.org/abs/2308.13270) | :heavy_minus_sign: |
+| Efficient Transformer-based 3D Object Detection with Dynamic Token Halting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.05078-b31b1b.svg)](https://arxiv.org/abs/2303.05078) | :heavy_minus_sign: |
+<!-- | RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration |  |  |  |
 | CASSPR: Cross Attention Single Scan Place Recognition |  |  |  |
 | Recursive Video Lane Detection |  |  |  |
 | Parametric Depth based Feature Representation Learning for Object Detection and Segmentation in Bird's-Eye View |  |  |  |
