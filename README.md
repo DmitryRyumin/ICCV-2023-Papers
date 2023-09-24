@@ -1113,16 +1113,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Search for or Navigate to? Dual Adaptive Thinking for Object Navigation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2208.00553-b31b1b.svg)](https://arxiv.org/abs/2208.00553) | :heavy_minus_sign: |
 | BiFF: Bi-Level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14161-b31b1b.svg)](https://arxiv.org/abs/2306.14161) | :heavy_minus_sign: |
 | Towards Zero Domain Gap: A Comprehensive Study of Realistic LiDAR Simulation for Autonomy Testing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | Clustering based Point Cloud Representation Learning for 3D Analysis |  |  |  |
-| ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation |  |  |  |
-| MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving |  |  |  |
-| Learning Vision-and-Language Navigation from YouTube Videos |  |  |  |
-| TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models |  |  |  |
-| VAD: Vectorized Scene Representation for Efficient Autonomous Driving |  |  |  |
-| Traj-MAE: Masked Autoencoders for Trajectory Prediction |  |  |  |
-| Sparse Point Guided 3D Lane Detection |  |  |  |
-| A Simple Vision Transformer for Weakly Semi-Supervised 3D Object Detection |  |  |  |
-| Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction |  |  |  |
+| Clustering based Point Cloud Representation Learning for 3D Analysis | [![GitHub](https://img.shields.io/github/stars/FengZicai/Cluster3Dseg)](https://github.com/FengZicai/Cluster3Dseg) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14605-b31b1b.svg)](https://arxiv.org/abs/2307.14605) | :heavy_minus_sign: |
+| ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://kuis-ai.github.io/adapt/) <br /> [![GitHub](https://img.shields.io/github/stars/KUIS-AI/adapt)](https://github.com/KUIS-AI/adapt) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14187-b31b1b.svg)](https://arxiv.org/abs/2307.14187) | :heavy_minus_sign: |
+| MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Learning Vision-and-Language Navigation from YouTube Videos | [![GitHub](https://img.shields.io/github/stars/JeremyLinky/YouTube-VLN)](https://github.com/JeremyLinky/YouTube-VLN) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11984-b31b1b.svg)](https://arxiv.org/abs/2307.11984) | :heavy_minus_sign: |
+| TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.05985-b31b1b.svg)](https://arxiv.org/abs/2308.05985) | :heavy_minus_sign: |
+| VAD: Vectorized Scene Representation for Efficient Autonomous Driving | [![GitHub](https://img.shields.io/github/stars/hustvl/VAD)](https://github.com/hustvl/VAD) | [![arXiv](https://img.shields.io/badge/arXiv-2303.12077-b31b1b.svg)](https://arxiv.org/abs/2303.12077) | :heavy_minus_sign: |
+| Traj-MAE: Masked Autoencoders for Trajectory Prediction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.06697-b31b1b.svg)](https://arxiv.org/abs/2303.06697) | :heavy_minus_sign: |
+| Sparse Point Guided 3D Lane Detection | [![GitHub](https://img.shields.io/github/stars/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection)](https://github.com/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection) | :heavy_minus_sign: | :heavy_minus_sign: |
+| A Simple Vision Transformer for Weakly Semi-Supervised 3D Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction |  |  |  |
 | FocalFormer3D: Focusing on Hard Instance for 3D Object Detection |  |  |  |
 | Scene as Occupancy |  |  |  |
 | Real-Time Neural Rasterization for Large Scenes |  |  |  |
