@@ -1128,12 +1128,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Real-Time Neural Rasterization for Large Scenes | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | A Game of Bundle Adjustment - Learning Efficient Convergence | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.13270-b31b1b.svg)](https://arxiv.org/abs/2308.13270) | :heavy_minus_sign: |
 | Efficient Transformer-based 3D Object Detection with Dynamic Token Halting | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.05078-b31b1b.svg)](https://arxiv.org/abs/2303.05078) | :heavy_minus_sign: |
-<!-- | RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration |  |  |  |
-| CASSPR: Cross Attention Single Scan Place Recognition |  |  |  |
-| Recursive Video Lane Detection |  |  |  |
-| Parametric Depth based Feature Representation Learning for Object Detection and Segmentation in Bird's-Eye View |  |  |  |
-| SHIFT3D: Synthesizing Hard Inputs for Tricking 3D Detectors |  |  |  |
-| Bootstrap Motion Forecasting With Self-Consistent Constraints |  |  |  |
+| RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration | [![GitHub](https://img.shields.io/github/stars/IRMVLab/RegFormer)](https://github.com/IRMVLab/RegFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2303.12384-b31b1b.svg)](https://arxiv.org/abs/2303.12384) | :heavy_minus_sign: |
+| CASSPR: Cross Attention Single Scan Place Recognition | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.12542-b31b1b.svg)](https://arxiv.org/abs/2211.12542) | :heavy_minus_sign: |
+| Recursive Video Lane Detection | [![GitHub](https://img.shields.io/github/stars/dongkwonjin/RVLD)](https://github.com/dongkwonjin/RVLD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11106-b31b1b.svg)](https://arxiv.org/abs/2308.11106) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Z0FaOqVrN5w) |
+| Parametric Depth based Feature Representation Learning for Object Detection and Segmentation in Bird's-Eye View | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.04106-b31b1b.svg)](https://arxiv.org/abs/2307.04106) | :heavy_minus_sign: |
+| SHIFT3D: Synthesizing Hard Inputs for Tricking 3D Detectors | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.05810-b31b1b.svg)](https://arxiv.org/abs/2309.05810) | :heavy_minus_sign: |
+<!-- | Bootstrap Motion Forecasting With Self-Consistent Constraints |  |  |  |
 | Towards Viewpoint Robustness in Bird's Eye View Segmentation |  |  |  |
 | R-Pred: Two-Stage Motion Prediction via Tube-Query Attention-based Trajectory Refinement |  |  |  |
 | INT2: Interactive Trajectory Prediction at Intersections |  |  |  |
