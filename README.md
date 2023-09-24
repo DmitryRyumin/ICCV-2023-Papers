@@ -1108,12 +1108,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | View Consistent Purification for Accurate Cross-View Localization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://shanwang-shan.github.io/PureACL-website/) <br /> [![GitHub](https://img.shields.io/github/stars/ShanWang-Shan/PureACL-website)](https://github.com/ShanWang-Shan/PureACL-website) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08110-b31b1b.svg)](https://arxiv.org/abs/2308.08110) | :heavy_minus_sign: |
 | Semi-Supervised Semantics-Guided Adversarial Training for Robust Trajectory Prediction | [![GitHub](https://img.shields.io/github/stars/jrcblue/SSAT-for-Motion-Prediction)](https://github.com/jrcblue/SSAT-for-Motion-Prediction) | [![arXiv](https://img.shields.io/badge/arXiv-2205.14230-b31b1b.svg)](https://arxiv.org/abs/2205.14230) | :heavy_minus_sign: |
 | NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping | [![GitHub](https://img.shields.io/github/stars/JunyuanDeng/NeRF-LOAM)](https://github.com/JunyuanDeng/NeRF-LOAM) | [![arXiv](https://img.shields.io/badge/arXiv-2303.10709-b31b1b.svg)](https://arxiv.org/abs/2303.10709) | :heavy_minus_sign: |
-<!-- | MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models |  |  |  |
-| Hidden Biases of End-to-End Driving Models |  |  |  |
-| Search for or Navigate to? Dual Adaptive Thinking for Object Navigation |  |  |  |
-| BiFF: Bi-Level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction |  |  |  |
-| Towards Zero Domain Gap: A Comprehensive Study of Realistic LiDAR Simulation for Autonomy Testing |  |  |  |
-| Clustering based Point Cloud Representation Learning for 3D Analysis |  |  |  |
+| MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mapprior.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/xiyuez2/MapPrior)](https://github.com/xiyuez2/MapPrior) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12963-b31b1b.svg)](https://arxiv.org/abs/2308.12963) | :heavy_minus_sign: |
+| Hidden Biases of End-to-End Driving Models | [![GitHub](https://img.shields.io/github/stars/autonomousvision/carla_garage)](https://github.com/autonomousvision/carla_garage) | [![arXiv](https://img.shields.io/badge/arXiv-2306.07957-b31b1b.svg)](https://arxiv.org/abs/2306.07957) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ChrPW8RdqQU) |
+| Search for or Navigate to? Dual Adaptive Thinking for Object Navigation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2208.00553-b31b1b.svg)](https://arxiv.org/abs/2208.00553) | :heavy_minus_sign: |
+| BiFF: Bi-Level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2306.14161-b31b1b.svg)](https://arxiv.org/abs/2306.14161) | :heavy_minus_sign: |
+| Towards Zero Domain Gap: A Comprehensive Study of Realistic LiDAR Simulation for Autonomy Testing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | Clustering based Point Cloud Representation Learning for 3D Analysis |  |  |  |
 | ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation |  |  |  |
 | MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving |  |  |  |
 | Learning Vision-and-Language Navigation from YouTube Videos |  |  |  |
