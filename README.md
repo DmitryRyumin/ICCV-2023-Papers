@@ -17,7 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-> Completed: ![Progress](https://geps.dev/progress/37?successColor=006600)
+> Completed: ![Progress](https://geps.dev/progress/39?successColor=006600)
 
 ---
 
@@ -1148,12 +1148,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.vis.xyz/pub/vtd/) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04422-b31b1b.svg)](https://arxiv.org/abs/2309.04422) | :heavy_minus_sign: |
 | MV-Map: Offboard HD-Map Generation with Multi-View Consistency | [![GitHub](https://img.shields.io/github/stars/ZiYang-xie/MV-Map)](https://github.com/ZiYang-xie/MV-Map) | [![arXiv](https://img.shields.io/badge/arXiv-2305.08851-b31b1b.svg)](https://arxiv.org/abs/2305.08851) | :heavy_minus_sign: |
-<!-- | Towards Universal LiDAR-based 3D Object Detection by Multi-Domain Knowledge Transfer |  |  |  |
-| Forecast-MAE: Self-Supervised Pre-Training for Motion Forecasting with Masked Autoencoders |  |  |  |
-| UniFusion: Unified Multi-View Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View |  |  |  |
-| BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images |  |  |  |
-| CORE: Cooperative Reconstruction for Multi-Agent Perception |  |  |  |
-| MetaBEV: Solving Sensor Failures for 3D Detection and Map Segmentation |  |  |  | -->
+| Towards Universal LiDAR-based 3D Object Detection by Multi-Domain Knowledge Transfer | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Forecast-MAE: Self-Supervised Pre-Training for Motion Forecasting with Masked Autoencoders | [![GitHub](https://img.shields.io/github/stars/jchengai/forecast-mae)](https://github.com/jchengai/forecast-mae) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09882-b31b1b.svg)](https://arxiv.org/abs/2308.09882) | :heavy_minus_sign: |
+| UniFusion: Unified Multi-View Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View | [![GitHub](https://img.shields.io/github/stars/cfzd/UniFusion)](https://github.com/cfzd/UniFusion) | [![arXiv](https://img.shields.io/badge/arXiv-2207.08536-b31b1b.svg)](https://arxiv.org/abs/2207.08536) | :heavy_minus_sign: |
+| BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images | [![GitHub](https://img.shields.io/github/stars/zjuluolun/BEVPlace)](https://github.com/zjuluolun/BEVPlace) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14325-b31b1b.svg)](https://arxiv.org/abs/2302.14325) | :heavy_minus_sign: |
+| CORE: Cooperative Reconstruction for Multi-Agent Perception | [![GitHub](https://img.shields.io/github/stars/zllxot/CORE)](https://github.com/zllxot/CORE) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11514-b31b1b.svg)](https://arxiv.org/abs/2307.11514) | :heavy_minus_sign: |
+| MetaBEV: Solving Sensor Failures for 3D Detection and Map Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://chongjiange.github.io/metabev.html) <br /> [![GitHub](https://img.shields.io/github/stars/ChongjianGE/MetaBEV)](https://github.com/ChongjianGE/MetaBEV) | [![arXiv](https://img.shields.io/badge/arXiv-2304.09801-b31b1b.svg)](https://arxiv.org/abs/2304.09801) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=TiEQpYq77Xo) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
