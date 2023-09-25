@@ -1162,7 +1162,76 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### 3D from a Single Image and Shape-from-X
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Aggregating Feature Point Cloud for Depth Completion | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Coordinate Transformer: Achieving Single-Stage Multi-Person Mesh Recovery from Videos | [![GitHub](https://img.shields.io/github/stars/Li-Hao-yuan/CoordFormer)](https://github.com/Li-Hao-yuan/CoordFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10334-b31b1b.svg)](https://arxiv.org/abs/2308.10334) | :heavy_minus_sign: |
+<!-- | MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation |  |  |  |
+| SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments |  |  |  |
+| Creative Birds: Self-Supervised Single-View 3D Style Transfer |  |  |  |
+| Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF |  |  |  |
+| CORE: Co-Planarity Regularized Monocular Geometry Estimation with Weak Supervision |  |  |  |
+| Relightify: Relightable 3D Faces from a Single Image via Diffusion Models |  |  |  |
+| GLA-GCN: Global-Local Adaptive Graph Convolutional Network for 3D Human Pose Estimation from Monocular Video |  |  |  |
+| Calibrating Panoramic Depth Estimation for Practical Localization and Mapping |  |  |  |
+| SimNP: Learning Self-Similarity Priors between Neural Points |  |  |  |
+| AGG-Net: Attention Guided Gated-Convolutional Network for Depth Image Completion |  |  |  |
+| Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data |  |  |  |
+| CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion |  |  |  |
+| U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds |  |  |  |
+| Single Depth-Image 3D Reflection Symmetry and Shape Prediction |  |  |  |
+| Self-Supervised Monocular Depth Estimation: Let's Talk About the Weather |  |  |  |
+| Mesh2Tex: Generating Mesh Textures from Image Queries |  |  |  |
+| Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation |  |  |  |
+| Learning a Room with the Occ-SDF Hybrid: Signed Distance Function Mingled with Occupancy Aids Scene Representation |  |  |  |
+| Robust Geometry-Preserving Depth Estimation using Differentiable Rendering |  |  |  |
+| FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models |  |  |  |
+| One-Shot Implicit Animatable Avatars with Model-based Priors |  |  |  |
+| VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis |  |  |  |
+| Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion |  |  |  |
+| AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration |  |  |  |
+| Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction |  |  |  |
+| Accurate 3D Face Reconstruction with Facial Component Tokens |  |  |  |
+| Metric3D: Towards Zero-Shot Metric 3D Prediction from a Single Image |  |  |  |
+| Reconstructing Interacting Hands with Interaction Prior from Monocular Images |  |  |  |
+| SparseNeRF: Distilling Depth Ranking for Few-Shot Novel View Synthesis |  |  |  |
+| Beyond the Limitation of Monocular 3D Detector via Knowledge Distillation |  |  |  |
+| HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details |  |  |  |
+| Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape |  |  |  |
+| JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery |  |  |  |
+| D-IF: Uncertainty-Aware Human Digitization via Implicit Distribution Field |  |  |  |
+| 3D Distillation: Improving Self-Supervised Monocular Depth Estimation on Reflective Surfaces |  |  |  |
+| DeformToon3D: Deformable Neural Radiance Fields for 3D Toonification |  |  |  |
+| MonoDETR: Depth-Guided Transformer for Monocular 3D Object Detection |  |  |  |
+| ReLeaPS: Reinforcement Learning-based Illumination Planning for Generalized Photometric Stereo |  |  |  |
+| Convex Decomposition of Indoor Scenes |  |  |  |
+| NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes |  |  |  |
+| UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields |  |  |  |
+| Efficient Converted Spiking Neural Network for 3D and 2D Classification |  |  |  |
+| Distribution-Aligned Diffusion for Human Mesh Recovery |  |  |  |
+| Towards Zero-Shot Scale-Aware Monocular Depth Estimation |  |  |  |
+| Learning Depth Estimation for Transparent and Mirror Surfaces |  |  |  |
+| Uni-3D: A Universal Model for Panoptic 3D Scene Reconstruction |  |  |  |
+| 3D VR Sketch Guided 3D Shape Prototyping and Exploration |  |  |  |
+| Transparent Shape from a Single View Polarization Image |  |  |  |
+| Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-Aligned Reconstruction Priors |  |  |  |
+| Zero-1-to-3: Zero-Shot One Image to 3D Object |  |  |  |
+| FrozenRecon: Pose-Free 3D Scene Reconstruction with Frozen Depth Models |  |  |  |
+| LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction |  |  |  |
+| 3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets |  |  |  |
+| Nonrigid Object Contact Estimation with Regional Unwrapping Transformer |  |  |  |
+| SHERF: Generalizable Human NeRF from a Single Image |  |  |  |
+| Full-Body Articulated Human-Object Interaction |  |  |  |
+| PlaneRecTR: Unified Query Learning for 3D Plane Recovery from a Single View |  |  |  |
+| SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields |  |  |  |
+| 3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation |  |  |  |
+| Two-in-One Depth: Bridging the Gap between Monocular and Binocular Self-Supervised Depth Estimation |  |  |  |
+| LRRU: Long-Short Range Recurrent Updating Networks for Depth Completion |  |  |  |
+| OccFormer: Dual-Path Transformer for Vision-based 3D Semantic Occupancy Prediction |  |  |  |
+| CHORD: Category-Level Hand-Held Object Reconstruction via Shape Deformation |  |  |  |
+| NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space |  |  |  |
+| Neural Video Depth Stabilizer |  |  |  |
+| DiLiGenT-Pi: Photometric Stereo for Planar Surfaces with Rich Details - Benchmark Dataset and Beyond |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
