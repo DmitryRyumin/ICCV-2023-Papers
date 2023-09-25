@@ -1166,18 +1166,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-----------|:--------:|:---------:|:---------:|
 | Aggregating Feature Point Cloud for Depth Completion | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Coordinate Transformer: Achieving Single-Stage Multi-Person Mesh Recovery from Videos | [![GitHub](https://img.shields.io/github/stars/Li-Hao-yuan/CoordFormer)](https://github.com/Li-Hao-yuan/CoordFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10334-b31b1b.svg)](https://arxiv.org/abs/2308.10334) | :heavy_minus_sign: |
-<!-- | MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation |  |  |  |
-| SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments |  |  |  |
-| Creative Birds: Self-Supervised Single-View 3D Style Transfer |  |  |  |
-| Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF |  |  |  |
-| CORE: Co-Planarity Regularized Monocular Geometry Estimation with Weak Supervision |  |  |  |
-| Relightify: Relightable 3D Faces from a Single Image via Diffusion Models |  |  |  |
-| GLA-GCN: Global-Local Adaptive Graph Convolutional Network for 3D Human Pose Estimation from Monocular Video |  |  |  |
-| Calibrating Panoramic Depth Estimation for Practical Localization and Mapping |  |  |  |
-| SimNP: Learning Self-Similarity Priors between Neural Points |  |  |  |
-| AGG-Net: Attention Guided Gated-Convolutional Network for Depth Image Completion |  |  |  |
-| Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data |  |  |  |
-| CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion |  |  |  |
+| MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.14336-b31b1b.svg)](https://arxiv.org/abs/2307.14336) | :heavy_minus_sign: |
+| SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Creative Birds: Self-Supervised Single-View 3D Style Transfer | [![GitHub](https://img.shields.io/github/stars/wrk226/creative_birds)](https://github.com/wrk226/creative_birds) | [![arXiv](https://img.shields.io/badge/arXiv-2307.14127-b31b1b.svg)](https://arxiv.org/abs/2307.14127) | :heavy_minus_sign: |
+| Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://vlislab22.github.io/DOT/) <br /> [![GitHub](https://img.shields.io/github/stars/hbai98/DOT)](https://github.com/hbai98/DOT) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15333-b31b1b.svg)](https://arxiv.org/abs/2307.15333) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=i9MnoFhH8Ec) |
+| CORE: Co-Planarity Regularized Monocular Geometry Estimation with Weak Supervision | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Relightify: Relightable 3D Faces from a Single Image via Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://foivospar.github.io/Relightify/) | [![arXiv](https://img.shields.io/badge/arXiv-2305.06077-b31b1b.svg)](https://arxiv.org/abs/2305.06077) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=N5pSN4Pc0JM) |
+| GLA-GCN: Global-Local Adaptive Graph Convolutional Network for 3D Human Pose Estimation from Monocular Video | [![GitHub](https://img.shields.io/github/stars/bruceyo/GLA-GCN)](https://github.com/bruceyo/GLA-GCN) | [![arXiv](https://img.shields.io/badge/arXiv-2307.05853-b31b1b.svg)](https://arxiv.org/abs/2307.05853) | :heavy_minus_sign: |
+| Calibrating Panoramic Depth Estimation for Practical Localization and Mapping | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.14005-b31b1b.svg)](https://arxiv.org/abs/2308.14005) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=KXz8IwrtJWg) |
+| SimNP: Learning Self-Similarity Priors between Neural Points | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.03809-b31b1b.svg)](https://arxiv.org/abs/2309.03809) | :heavy_minus_sign: |
+| AGG-Net: Attention Guided Gated-Convolutional Network for Depth Image Completion | [![GitHub](https://img.shields.io/github/stars/htx0601/AGG-Net)](https://github.com/htx0601/AGG-Net) | [![arXiv](https://img.shields.io/badge/arXiv-2309.01624-b31b1b.svg)](https://arxiv.org/abs/2309.01624) | :heavy_minus_sign: |
+| Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://szymanowiczs.github.io/viewset-diffusion) <br /> [![GitHub](https://img.shields.io/github/stars/szymanowiczs/viewset-diffusion)](https://github.com/szymanowiczs/viewset-diffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2306.07881-b31b1b.svg)](https://arxiv.org/abs/2306.07881) | :heavy_minus_sign: |
+<!-- | CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion |  |  |  |
 | U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds |  |  |  |
 | Single Depth-Image 3D Reflection Symmetry and Shape Prediction |  |  |  |
 | Self-Supervised Monocular Depth Estimation: Let's Talk About the Weather |  |  |  |
@@ -1189,8 +1189,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | One-Shot Implicit Animatable Avatars with Model-based Priors |  |  |  |
 | VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis |  |  |  |
 | Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion |  |  |  |
-| AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration |  |  |  |
-| Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction |  |  |  |
+| AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration |  |  |  | -->
+<!-- | Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction |  |  |  |
 | Accurate 3D Face Reconstruction with Facial Component Tokens |  |  |  |
 | Metric3D: Towards Zero-Shot Metric 3D Prediction from a Single Image |  |  |  |
 | Reconstructing Interacting Hands with Interaction Prior from Monocular Images |  |  |  |
