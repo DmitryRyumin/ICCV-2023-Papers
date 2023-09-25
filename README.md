@@ -622,6 +622,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Transferable Decoding with Visual Entities for Zero-Shot Image Captioning | [![GitHub](https://img.shields.io/github/stars/FeiElysia/ViECap)](https://github.com/FeiElysia/ViECap) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16525-b31b1b.svg)](https://arxiv.org/abs/2307.16525) | :heavy_minus_sign: |
 | Too Large; Data Reduction for Vision-Language Pre-Training | [![GitHub](https://img.shields.io/github/stars/showlab/datacentric.vlp)](https://github.com/showlab/datacentric.vlp) | [![arXiv](https://img.shields.io/badge/arXiv-2305.20087-b31b1b.svg)](https://arxiv.org/abs/2305.20087) | :heavy_minus_sign: |
 | ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.16689-b31b1b.svg)](https://arxiv.org/abs/2308.16689) | :heavy_minus_sign: |
+| Zero-Shot Composed Image Retrieval with Textual Inversion | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://circo.micc.unifi.it/demo) <br /> [![GitHub](https://img.shields.io/github/stars/miccunifi/SEARLE)](https://github.com/miccunifi/SEARLE) | [![arXiv](https://img.shields.io/badge/arXiv-2303.15247-b31b1b.svg)](https://arxiv.org/abs/2303.15247) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
