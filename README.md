@@ -17,7 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICCV-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-> Completed: ![Progress](https://geps.dev/progress/39?successColor=006600)
+> Completed: ![Progress](https://geps.dev/progress/40?successColor=006600)
 
 ---
 
@@ -1177,19 +1177,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | SimNP: Learning Self-Similarity Priors between Neural Points | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.03809-b31b1b.svg)](https://arxiv.org/abs/2309.03809) | :heavy_minus_sign: |
 | AGG-Net: Attention Guided Gated-Convolutional Network for Depth Image Completion | [![GitHub](https://img.shields.io/github/stars/htx0601/AGG-Net)](https://github.com/htx0601/AGG-Net) | [![arXiv](https://img.shields.io/badge/arXiv-2309.01624-b31b1b.svg)](https://arxiv.org/abs/2309.01624) | :heavy_minus_sign: |
 | Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://szymanowiczs.github.io/viewset-diffusion) <br /> [![GitHub](https://img.shields.io/github/stars/szymanowiczs/viewset-diffusion)](https://github.com/szymanowiczs/viewset-diffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2306.07881-b31b1b.svg)](https://arxiv.org/abs/2306.07881) | :heavy_minus_sign: |
-<!-- | CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion |  |  |  |
-| U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds |  |  |  |
-| Single Depth-Image 3D Reflection Symmetry and Shape Prediction |  |  |  |
-| Self-Supervised Monocular Depth Estimation: Let's Talk About the Weather |  |  |  |
-| Mesh2Tex: Generating Mesh Textures from Image Queries |  |  |  |
-| Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation |  |  |  |
-| Learning a Room with the Occ-SDF Hybrid: Signed Distance Function Mingled with Occupancy Aids Scene Representation |  |  |  |
-| Robust Geometry-Preserving Depth Estimation using Differentiable Rendering |  |  |  |
-| FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models |  |  |  |
-| One-Shot Implicit Animatable Avatars with Model-based Priors |  |  |  |
-| VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis |  |  |  |
-| Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion |  |  |  |
-| AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration |  |  |  | -->
+| CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.07938-b31b1b.svg)](https://arxiv.org/abs/2307.07938) | :heavy_minus_sign: |
+| U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds | [![GitHub](https://img.shields.io/github/stars/ZhangCYG/U-RED)](https://github.com/ZhangCYG/U-RED) | [![arXiv](https://img.shields.io/badge/arXiv-2308.06383-b31b1b.svg)](https://arxiv.org/abs/2308.06383) | :heavy_minus_sign: |
+| Single Depth-Image 3D Reflection Symmetry and Shape Prediction | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Self-Supervised Monocular Depth Estimation: Let's Talk About the Weather | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://kieran514.github.io/Robust-Depth-Project/) <br /> [![GitHub](https://img.shields.io/github/stars/kieran514/robustdepth)](https://github.com/kieran514/robustdepth) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08357-b31b1b.svg)](https://arxiv.org/abs/2307.08357) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=zGXzpJAWjcQ&t=3s) |
+| Mesh2Tex: Generating Mesh Textures from Image Queries | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://alexeybokhovkin.github.io/mesh2tex/) | [![arXiv](https://img.shields.io/badge/arXiv-2304.05868-b31b1b.svg)](https://arxiv.org/abs/2304.05868) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=tY6pPHN5v9Q) |
+| Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.02874-b31b1b.svg)](https://arxiv.org/abs/2308.02874) | :heavy_minus_sign: |
+| Learning a Room with the Occ-SDF Hybrid: Signed Distance Function Mingled with Occupancy Aids Scene Representation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://shawlyu.github.io/Occ-SDF-Hybrid/) <br /> [![GitHub](https://img.shields.io/github/stars/shawLyu/Occ-SDF-Hybrid)](https://github.com/shawLyu/Occ-SDF-Hybrid) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09152-b31b1b.svg)](https://arxiv.org/abs/2303.09152) | :heavy_minus_sign: |
+| Robust Geometry-Preserving Depth Estimation using Differentiable Rendering | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.09724-b31b1b.svg)](https://arxiv.org/abs/2309.09724) | :heavy_minus_sign: |
+| FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://jianglongye.com/featurenerf/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.12786-b31b1b.svg)](https://arxiv.org/abs/2303.12786) | :heavy_minus_sign: |
+| One-Shot Implicit Animatable Avatars with Model-based Priors | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://huangyangyi.github.io/ELICIT/) <br /> [![GitHub](https://img.shields.io/github/stars/shawLyu/Occ-SDF-Hybrid)](https://github.com/shawLyu/Occ-SDF-Hybrid) | [![arXiv](https://img.shields.io/badge/arXiv-2212.02469-b31b1b.svg)](https://arxiv.org/abs/2212.02469) | :heavy_minus_sign: |
+| VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xdimlab.github.io/VeRi3d/) <br /> [![GitHub](https://img.shields.io/github/stars/XinyaChen21/Veri3d)](https://github.com/XinyaChen21/Veri3d) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04800-b31b1b.svg)](https://arxiv.org/abs/2309.04800) | :heavy_minus_sign: |
+| Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion | [![GitHub](https://img.shields.io/github/stars/yutaojiang1/Diffuse3D)](https://github.com/yutaojiang1/Diffuse3D) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://csyhquan.github.io/manuscript/23-iccv-Diffuse3D%20Wide-Angle%203D%20Photography%20via%20Bilateral%20Diffusion.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=5mL6AMEvPSQ) |
+| AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.11170-b31b1b.svg)](https://arxiv.org/abs/2309.11170) | :heavy_minus_sign: |
 <!-- | Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction |  |  |  |
 | Accurate 3D Face Reconstruction with Facial Component Tokens |  |  |  |
 | Metric3D: Towards Zero-Shot Metric 3D Prediction from a Single Image |  |  |  |
