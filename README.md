@@ -1205,15 +1205,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | DeformToon3D: Deformable Neural Radiance Fields for 3D Toonification | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.mmlab-ntu.com/project/deformtoon3d/) <br /> [![GitHub](https://img.shields.io/github/stars/junzhezhang/DeformToon3D)](https://github.com/junzhezhang/DeformToon3D) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04410-b31b1b.svg)](https://arxiv.org/abs/2309.04410) | :heavy_minus_sign: |
 | MonoDETR: Depth-Guided Transformer for Monocular 3D Object Detection | [![GitHub](https://img.shields.io/github/stars/ZrrSkywalker/MonoDETR)](https://github.com/ZrrSkywalker/MonoDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.13310-b31b1b.svg)](https://arxiv.org/abs/2203.13310) | :heavy_minus_sign: |
 | ReLeaPS: Reinforcement Learning-based Illumination Planning for Generalized Photometric Stereo | :heavy_minus_sign: | :heavy_minus_sign: | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Tj0t19EUoUA) |
-<!-- | Convex Decomposition of Indoor Scenes |  |  |  |
-| NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes |  |  |  |
-| UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields |  |  |  |
-| Efficient Converted Spiking Neural Network for 3D and 2D Classification |  |  |  |
-| Distribution-Aligned Diffusion for Human Mesh Recovery |  |  |  |
-| Towards Zero-Shot Scale-Aware Monocular Depth Estimation |  |  |  |
-| Learning Depth Estimation for Transparent and Mirror Surfaces |  |  |  |
-| Uni-3D: A Universal Model for Panoptic 3D Scene Reconstruction |  |  |  |
-| 3D VR Sketch Guided 3D Shape Prototyping and Exploration |  |  |  |
+| Convex Decomposition of Indoor Scenes | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.04246-b31b1b.svg)](https://arxiv.org/abs/2307.04246) | :heavy_minus_sign: |
+| NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zubair-irshad.github.io/projects/neo360.html) <br /> [![GitHub](https://img.shields.io/github/stars/zubair-irshad/NeO-360)](https://github.com/zubair-irshad/NeO-360) | [![arXiv](https://img.shields.io/badge/arXiv-2308.12967-b31b1b.svg)](https://arxiv.org/abs/2308.12967) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=avmylyL_V8c) |
+| UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lv3d.github.io/urbanGIRAFFE/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.14167-b31b1b.svg)](https://arxiv.org/abs/2303.14167) | :heavy_minus_sign: |
+| Efficient Converted Spiking Neural Network for 3D and 2D Classification | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Distribution-Aligned Diffusion for Human Mesh Recovery | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gongjia0208.github.io/HMDiff/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.13369-b31b1b.svg)](https://arxiv.org/abs/2308.13369) | :heavy_minus_sign: |
+| Towards Zero-Shot Scale-Aware Monocular Depth Estimation | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://sites.google.com/view/tri-zerodepth) | [![arXiv](https://img.shields.io/badge/arXiv-2306.17253-b31b1b.svg)](https://arxiv.org/abs/2306.17253) | :heavy_minus_sign: |
+| Learning Depth Estimation for Transparent and Mirror Surfaces | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cvlab-unibo.github.io/Depth4ToM/) | [![arXiv](https://img.shields.io/badge/arXiv-2307.15052-b31b1b.svg)](https://arxiv.org/abs/2307.15052) | :heavy_minus_sign: |
+| Uni-3D: A Universal Model for Panoptic 3D Scene Reconstruction | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | 3D VR Sketch Guided 3D Shape Prototyping and Exploration |  |  |  |
 | Transparent Shape from a Single View Polarization Image |  |  |  |
 | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-Aligned Reconstruction Priors |  |  |  |
 | Zero-1-to-3: Zero-Shot One Image to 3D Object |  |  |  |
