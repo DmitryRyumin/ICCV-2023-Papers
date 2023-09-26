@@ -1192,13 +1192,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.11170-b31b1b.svg)](https://arxiv.org/abs/2309.11170) | :heavy_minus_sign: |
 | Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction | [![GitHub](https://img.shields.io/github/stars/zhangy76/KNOWN)](https://github.com/zhangy76/KNOWN) | [![arXiv](https://img.shields.io/badge/arXiv-2308.00799-b31b1b.svg)](https://arxiv.org/abs/2308.00799) | :heavy_minus_sign: |
 | Accurate 3D Face Reconstruction with Facial Component Tokens | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | Metric3D: Towards Zero-Shot Metric 3D Prediction from a Single Image |  |  |  |
-| Reconstructing Interacting Hands with Interaction Prior from Monocular Images |  |  |  |
-| SparseNeRF: Distilling Depth Ranking for Few-Shot Novel View Synthesis |  |  |  |
-| Beyond the Limitation of Monocular 3D Detector via Knowledge Distillation |  |  |  |
-| HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details |  |  |  |
-| Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape |  |  |  |
-| JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery |  |  |  |
+| Metric3D: Towards Zero-Shot Metric 3D Prediction from a Single Image | [![GitHub](https://img.shields.io/github/stars/YvanYin/Metric3D)](https://github.com/YvanYin/Metric3D) | [![arXiv](https://img.shields.io/badge/arXiv-2307.10984-b31b1b.svg)](https://arxiv.org/abs/2307.10984) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=I3PkukQ3_F8) |
+| Reconstructing Interacting Hands with Interaction Prior from Monocular Images | [![GitHub](https://img.shields.io/github/stars/binghui-z/InterPrior_pytorch)](https://github.com/binghui-z/InterPrior_pytorch) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14082-b31b1b.svg)](https://arxiv.org/abs/2308.14082) | :heavy_minus_sign: |
+| SparseNeRF: Distilling Depth Ranking for Few-Shot Novel View Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sparsenerf.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/Wanggcong/SparseNeRF)](https://github.com/Wanggcong/SparseNeRF) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14082-b31b1b.svg)](https://arxiv.org/abs/2308.14082) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=V0yCTakA964) |
+| Beyond the Limitation of Monocular 3D Detector via Knowledge Distillation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://project-hiface.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11225-b31b1b.svg)](https://arxiv.org/abs/2303.11225) | :heavy_minus_sign: |
+| Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xujiacong.github.io/Animal3D/) <br /> [![GitHub](https://img.shields.io/github/stars/XuJiacong/Animal3D)](https://github.com/XuJiacong/Animal3D) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11737-b31b1b.svg)](https://arxiv.org/abs/2308.11737) | :heavy_minus_sign: |
+<!-- | JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery |  |  |  |
 | D-IF: Uncertainty-Aware Human Digitization via Implicit Distribution Field |  |  |  |
 | 3D Distillation: Improving Self-Supervised Monocular Depth Estimation on Reflective Surfaces |  |  |  |
 | DeformToon3D: Deformable Neural Radiance Fields for 3D Toonification |  |  |  |
