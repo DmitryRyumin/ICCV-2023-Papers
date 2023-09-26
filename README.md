@@ -1220,8 +1220,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | FrozenRecon: Pose-Free 3D Scene Reconstruction with Frozen Depth Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://aim-uofa.github.io/FrozenRecon/) <br /> [![GitHub](https://img.shields.io/github/stars/aim-uofa/FrozenRecon)](https://github.com/aim-uofa/FrozenRecon) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05733-b31b1b.svg)](https://arxiv.org/abs/2308.05733) | :heavy_minus_sign: |
 | LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction | [![GitHub](https://img.shields.io/github/stars/robotic-vision-lab/Learning-Implicitly-From-Spatial-Transformers-Network)](https://github.com/robotic-vision-lab/Learning-Implicitly-From-Spatial-Transformers-Network) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12194-b31b1b.svg)](https://arxiv.org/abs/2307.12194) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=gUn5i6FgWWE) |
 | 3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-<!-- | Nonrigid Object Contact Estimation with Regional Unwrapping Transformer |  |  |  |
-| SHERF: Generalizable Human NeRF from a Single Image |  |  |  |
+| Nonrigid Object Contact Estimation with Regional Unwrapping Transformer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.14074-b31b1b.svg)](https://arxiv.org/abs/2308.14074) | :heavy_minus_sign: |
+<!-- | SHERF: Generalizable Human NeRF from a Single Image |  |  |  |
 | Full-Body Articulated Human-Object Interaction |  |  |  |
 | PlaneRecTR: Unified Query Learning for 3D Plane Recovery from a Single View |  |  |  |
 | SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields |  |  |  |
