@@ -1190,9 +1190,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xdimlab.github.io/VeRi3d/) <br /> [![GitHub](https://img.shields.io/github/stars/XinyaChen21/Veri3d)](https://github.com/XinyaChen21/Veri3d) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04800-b31b1b.svg)](https://arxiv.org/abs/2309.04800) | :heavy_minus_sign: |
 | Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion | [![GitHub](https://img.shields.io/github/stars/yutaojiang1/Diffuse3D)](https://github.com/yutaojiang1/Diffuse3D) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://csyhquan.github.io/manuscript/23-iccv-Diffuse3D%20Wide-Angle%203D%20Photography%20via%20Bilateral%20Diffusion.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=5mL6AMEvPSQ) |
 | AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.11170-b31b1b.svg)](https://arxiv.org/abs/2309.11170) | :heavy_minus_sign: |
-<!-- | Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction |  |  |  |
-| Accurate 3D Face Reconstruction with Facial Component Tokens |  |  |  |
-| Metric3D: Towards Zero-Shot Metric 3D Prediction from a Single Image |  |  |  |
+| Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction | [![GitHub](https://img.shields.io/github/stars/zhangy76/KNOWN)](https://github.com/zhangy76/KNOWN) | [![arXiv](https://img.shields.io/badge/arXiv-2308.00799-b31b1b.svg)](https://arxiv.org/abs/2308.00799) | :heavy_minus_sign: |
+| Accurate 3D Face Reconstruction with Facial Component Tokens | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+<!-- | Metric3D: Towards Zero-Shot Metric 3D Prediction from a Single Image |  |  |  |
 | Reconstructing Interacting Hands with Interaction Prior from Monocular Images |  |  |  |
 | SparseNeRF: Distilling Depth Ranking for Few-Shot Novel View Synthesis |  |  |  |
 | Beyond the Limitation of Monocular 3D Detector via Knowledge Distillation |  |  |  |
