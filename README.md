@@ -1198,13 +1198,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Beyond the Limitation of Monocular 3D Detector via Knowledge Distillation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://project-hiface.github.io/) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11225-b31b1b.svg)](https://arxiv.org/abs/2303.11225) | :heavy_minus_sign: |
 | Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xujiacong.github.io/Animal3D/) <br /> [![GitHub](https://img.shields.io/github/stars/XuJiacong/Animal3D)](https://github.com/XuJiacong/Animal3D) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11737-b31b1b.svg)](https://arxiv.org/abs/2308.11737) | :heavy_minus_sign: |
-<!-- | JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery |  |  |  |
-| D-IF: Uncertainty-Aware Human Digitization via Implicit Distribution Field |  |  |  |
-| 3D Distillation: Improving Self-Supervised Monocular Depth Estimation on Reflective Surfaces |  |  |  |
-| DeformToon3D: Deformable Neural Radiance Fields for 3D Toonification |  |  |  |
-| MonoDETR: Depth-Guided Transformer for Monocular 3D Object Detection |  |  |  |
-| ReLeaPS: Reinforcement Learning-based Illumination Planning for Generalized Photometric Stereo |  |  |  |
-| Convex Decomposition of Indoor Scenes |  |  |  |
+| JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery | [![GitHub](https://img.shields.io/github/stars/xljh0520/JOTR)](https://github.com/xljh0520/JOTR) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16377-b31b1b.svg)](https://arxiv.org/abs/2307.16377) | :heavy_minus_sign: |
+| D-IF: Uncertainty-Aware Human Digitization via Implicit Distribution Field | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yxt7979.github.io/idf/) <br /> [![GitHub](https://img.shields.io/github/stars/psyai-net/D-IF_release)](https://github.com/psyai-net/D-IF_release) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08857-b31b1b.svg)](https://arxiv.org/abs/2308.08857) | :heavy_minus_sign: |
+| 3D Distillation: Improving Self-Supervised Monocular Depth Estimation on Reflective Surfaces | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| DeformToon3D: Deformable Neural Radiance Fields for 3D Toonification | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.mmlab-ntu.com/project/deformtoon3d/) <br /> [![GitHub](https://img.shields.io/github/stars/junzhezhang/DeformToon3D)](https://github.com/junzhezhang/DeformToon3D) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04410-b31b1b.svg)](https://arxiv.org/abs/2309.04410) | :heavy_minus_sign: |
+| MonoDETR: Depth-Guided Transformer for Monocular 3D Object Detection | [![GitHub](https://img.shields.io/github/stars/ZrrSkywalker/MonoDETR)](https://github.com/ZrrSkywalker/MonoDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2203.13310-b31b1b.svg)](https://arxiv.org/abs/2203.13310) | :heavy_minus_sign: |
+| ReLeaPS: Reinforcement Learning-based Illumination Planning for Generalized Photometric Stereo | :heavy_minus_sign: | :heavy_minus_sign: | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Tj0t19EUoUA) |
+<!-- | Convex Decomposition of Indoor Scenes |  |  |  |
 | NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes |  |  |  |
 | UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields |  |  |  |
 | Efficient Converted Spiking Neural Network for 3D and 2D Classification |  |  |  |
