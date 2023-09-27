@@ -1240,7 +1240,67 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Motion Estimation, Matching and Tracking
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| TMR: Text-to-Motion Retrieval using Contrastive 3D Human Motion Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mathis.petrovich.fr/tmr/) <br /> [![GitHub](https://img.shields.io/github/stars/Mathux/TMR)](https://github.com/Mathux/TMR) <br /> [![Hugging Face](https://img.shields.io/badge/🤗-Demo-FFD21F.svg)](https://huggingface.co/spaces/Mathux/TMR) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Petrovich_TMR_Text-to-Motion_Retrieval_Using_Contrastive_3D_Human_Motion_Synthesis_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.00976-b31b1b.svg)](https://arxiv.org/abs/2305.00976) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=FK0RukgDEtM) |
+| Sequential Texts Driven Cohesive Motions Synthesis with Natural Transitions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://druthrie.github.io/sequential-texts-to-motion/) <br /> [![GitHub](https://img.shields.io/github/stars/Druthrie/ST2M)](https://github.com/Druthrie/ST2M) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Sequential_Texts_Driven_Cohesive_Motions_Synthesis_with_Natural_Transitions_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Auxiliary Tasks Benefit 3D Skeleton-based Human Motion Prediction | [![GitHub](https://img.shields.io/github/stars/MediaBrain-SJTU/AuxFormer)](https://github.com/MediaBrain-SJTU/AuxFormer) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Auxiliary_Tasks_Benefit_3D_Skeleton-based_Human_Motion_Prediction_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.08942-b31b1b.svg)](https://arxiv.org/abs/2308.08942) | :heavy_minus_sign: |
+| Explicit Motion Disentangling for Efficient Optical Flow Estimation | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_Explicit_Motion_Disentangling_for_Efficient_Optical_Flow_Estimation_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| TrackFlow: Multi-Object tracking with Normalizing Flows | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Mancusi_TrackFlow_Multi-Object_tracking_with_Normalizing_Flows_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.11513-b31b1b.svg)](https://arxiv.org/abs/2308.11513) | :heavy_minus_sign: |
+<!-- | HumanMAC: Masked Motion Completion for Human Motion Prediction |  |  |  |
+| Geometrized Transformer for Self-Supervised Homography Estimation |  |  |  |
+| SemARFlow: Injecting Semantics into Unsupervised Optical Flow Estimation for Autonomous Driving |  |  |  |
+| NeSS-ST: Detecting Good and Stable Keypoints with a Neural Stability Score and the Shi-Tomasi detector |  |  |  |
+| Robust Object Modeling for Visual Tracking |  |  |  |
+| Social Diffusion: Long-Term Multiple Human Motion Anticipation |  |  |  |
+| Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking |  |  |  |
+| HMD-NeMo: Online 3D Avatar Motion Generation from Sparse Observations |  |  |  |
+| Learning Fine-Grained Features for Pixel-Wise Video Correspondences |  |  |  |
+| GAFlow: Incorporating Gaussian Attention into Optical Flow |  |  |  |
+| Occ^2Net: Robust Image Matching based on 3D Occupancy Estimation for Occluded Regions |  |  |  |
+| Locomotion-Action-Manipulation: Synthesizing Human-Scene Interactions in Complex 3D Environments |  |  |  |
+| Trajectory Unified Transformer for Pedestrian Trajectory Prediction |  |  |  |
+| TMA: Temporal Motion Aggregation for Event-based Optical Flow |  |  |  |
+| Taming Contrast Maximization for Learning Sequential, Low-Latency, Event-based Optical Flow |  |  |  |
+| GlueStick: Robust Image Matching by Sticking Points and Lines Together |  |  |  |
+| DARTH: Holistic Test-Time Adaptation for Multiple Object Tracking |  |  |  |
+| S-TREK: Sequential Translation and Rotation Equivariant Keypoints for Local Feature Extraction |  |  |  |
+| Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation |  |  |  |
+| Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes |  |  |  |
+| Sparse Instance Conditioned Multimodal Trajectory Prediction |  |  |  |
+| PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment |  |  |  |
+| 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking |  |  |  |
+| Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction |  |  |  |
+| Supervised Homography Learning with Realistic Dataset Generation |  |  |  |
+| Joint-Relation Transformer for Multi-Person Motion Prediction |  |  |  |
+| Event-based Temporally Dense Optical Flow Estimation with Sequential Learning |  |  |  |
+| 3D Motion Magnification: Visualizing Subtle Motions from Time-Varying Radiance Fields |  |  |  |
+| Learning Optical Flow from Event Camera with Rendered Dataset |  |  |  |
+| Persistent-Transient Duality: A Multi-Mechanism Approach for Modeling Human-Object Interaction |  |  |  |
+| Deep Homography Mixture for Single Image Rolling Shutter Correction |  |  |  |
+| Fast Neural Scene Flow |  |  |  |
+| RLSAC: Reinforcement Learning Enhanced Sample Consensus for End-to-End Robust Estimation |  |  |  |
+| MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking |  |  |  |
+| MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors |  |  |  |
+| portsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes |  |  |  |
+| Heterogeneous Diversity Driven Active Learning for Multi-Object Tracking |  |  |  |
+| TM2D: Bimodality Driven 3D Dance Generation via Music-Text Integration |  |  |  |
+| Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking |  |  |  |
+| Collaborative Tracking Learning for Frame-Rate-Insensitive Multi-Object Tracking |  |  |  |
+| CiteTracker: Correlating Image and Text for Visual Tracking |  |  |  |
+| SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation |  |  |  |
+| Uncertainty-Aware Unsupervised Multi-Object Tracking |  |  |  |
+| PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework |  |  |  |
+| EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting |  |  |  |
+| RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation |  |  |  |
+| Multi-Scale Bidirectional Recurrent Network with Hybrid Correlation for Point Cloud based Scene Flow Estimation |  |  |  |
+| ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking |  |  |  |
+| TAPIR: Tracking any Point with Per-Frame Initialization and Temporal Refinement |  |  |  |
+| IHNet: Iterative Hierarchical Network Guided by High-Resolution Estimated Information for Scene Flow Estimation |  |  |  |
+| Can Language Models Learn to Listen? |  |  |  |
+| XVO: Generalized Visual Odometry via Cross-Modal Self-Training |  |  |  |
+| Distracting Downpour: Adversarial Weather Attacks for Motion Estimation |  |  |  |
+| Foreground-Background Distribution Modeling Transformer for Visual Object Tracking |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
