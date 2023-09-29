@@ -1316,12 +1316,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Audio-Visual Glance Network for Efficient Video Recognition | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Nugroho_Audio-Visual_Glance_Network_for_Efficient_Video_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.09322-b31b1b.svg)](https://arxiv.org/abs/2308.09322) | :heavy_minus_sign: |
 | Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization | [![GitHub](https://img.shields.io/github/stars/kunnxia/NPL)](https://github.com/kunnxia/NPL) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Video Action Recognition with Attentive Semantic Units | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Video_Action_Recognition_with_Attentive_Semantic_Units_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.09756-b31b1b.svg)](https://arxiv.org/abs/2303.09756) | :heavy_minus_sign: |
-<!-- | Masked Motion Predictors are Strong 3D Action Representation Learners |  |  |  |
-| Boosting Positive Segments for Weakly-Supervised Audio-Visual Video Parsing |  |  |  |
-| Weakly-Supervised Action Localization by Hierarchically-Structured Latent Attention Modeling |  |  |  |
-| Few-Shot Common Action Localization via Cross-Attentional Fusion of Context and Temporal Dynamics |  |  |  |
-| Interaction-Aware Joint Attention Estimation using People Attributes |  |  |  |
-| FineDance: A Fine-Grained Choreography Dataset for 3D Full Body Dance Generation |  |  |  |
+| Masked Motion Predictors are Strong 3D Action Representation Learners | [![GitHub](https://img.shields.io/github/stars/maoyunyao/MAMP)](https://github.com/maoyunyao/MAMP) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Mao_Masked_Motion_Predictors_are_Strong_3D_Action_Representation_Learners_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.07092-b31b1b.svg)](https://arxiv.org/abs/2308.07092) | :heavy_minus_sign: |
+| Boosting Positive Segments for Weakly-Supervised Audio-Visual Video Parsing | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Rachavarapu_Boosting_Positive_Segments_for_Weakly-Supervised_Audio-Visual_Video_Parsing_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Weakly-Supervised Action Localization by Hierarchically-Structured Latent Attention Modeling | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Weakly-Supervised_Action_Localization_by_Hierarchically-Structured_Latent_Attention_Modeling_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.09946-b31b1b.svg)](https://arxiv.org/abs/2308.09946) | :heavy_minus_sign: |
+| Few-Shot Common Action Localization via Cross-Attentional Fusion of Context and Temporal Dynamics | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Few-Shot_Common_Action_Localization_via_Cross-Attentional_Fusion_of_Context_and_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Interaction-Aware Joint Attention Estimation using People Attributes | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/selection/ICCV2023-PJAE.html) <br /> [![GitHub](https://img.shields.io/github/stars/chihina/PJAE)](https://github.com/chihina/PJAE) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Nakatani_Interaction-aware_Joint_Attention_Estimation_Using_People_Attributes_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.05382-b31b1b.svg)](https://arxiv.org/abs/2308.05382) | :heavy_minus_sign: |
+<!-- | FineDance: A Fine-Grained Choreography Dataset for 3D Full Body Dance Generation |  |  |  |
 | SOAR: Scene-Debiasing Open-Set Action Recognition |  |  |  |
 | Leveraging Spatio-Temporal Dependency for Skeleton-based Action Recognition |  |  |  |
 | Cross-Modal Learning with 3D Deformable Attention for Action Recognition |  |  |  |
@@ -1340,7 +1340,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Exploring Predicate Visual Context in Detecting of Human-Object Interactions |  |  |  |
 | E2E-LOAD: End-to-End Long-Form Online Action Detection |  |  |  |
 | Revisiting Foreground and Background Separation in Weakly-Supervised Temporal Action Localization: A Clustering-based Approach |  |  |  |
-| Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition |  |  |  | -->
+| Hierarchically Decomposed Graph Convolutional Networks for Skeleton-based Action Recognition |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
