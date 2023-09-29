@@ -1308,7 +1308,38 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Action and Event Understanding
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Weakly-Supervised Action Segmentation and Unseen Error Detection in Anomalous Instructional Videos | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghoddoosian_Weakly-Supervised_Action_Segmentation_and_Unseen_Error_Detection_in_Anomalous_Instructional_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Diffusion Action Segmentation | [![GitHub](https://img.shields.io/github/stars/Finspire13/DiffAct)](https://github.com/Finspire13/DiffAct) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Diffusion_Action_Segmentation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.17959-b31b1b.svg)](https://arxiv.org/abs/2303.17959) | :heavy_minus_sign: |
+| Audio-Visual Glance Network for Efficient Video Recognition | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Nugroho_Audio-Visual_Glance_Network_for_Efficient_Video_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.09322-b31b1b.svg)](https://arxiv.org/abs/2308.09322) | :heavy_minus_sign: |
+| Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization | [![GitHub](https://img.shields.io/github/stars/kunnxia/NPL)](https://github.com/kunnxia/NPL) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Video Action Recognition with Attentive Semantic Units | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Video_Action_Recognition_with_Attentive_Semantic_Units_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.09756-b31b1b.svg)](https://arxiv.org/abs/2303.09756) | :heavy_minus_sign: |
+<!-- | Masked Motion Predictors are Strong 3D Action Representation Learners |  |  |  |
+| Boosting Positive Segments for Weakly-Supervised Audio-Visual Video Parsing |  |  |  |
+| Weakly-Supervised Action Localization by Hierarchically-Structured Latent Attention Modeling |  |  |  |
+| Few-Shot Common Action Localization via Cross-Attentional Fusion of Context and Temporal Dynamics |  |  |  |
+| Interaction-Aware Joint Attention Estimation using People Attributes |  |  |  |
+| FineDance: A Fine-Grained Choreography Dataset for 3D Full Body Dance Generation |  |  |  |
+| SOAR: Scene-Debiasing Open-Set Action Recognition |  |  |  |
+| Leveraging Spatio-Temporal Dependency for Skeleton-based Action Recognition |  |  |  |
+| Cross-Modal Learning with 3D Deformable Attention for Action Recognition |  |  |  |
+| Generative Action Description Prompts for Skeleton-based Action Recognition |  |  |  |
+| Self-Feedback DETR for Temporal Action Detection |  |  |  |
+| Skip-Plan: Procedure Planning in Instructional Videos via Condensed Action Space Learning |  |  |  |
+| The Unreasonable Effectiveness of Large Language-Vision Models for Source-Free Video Domain Adaptation |  |  |  |
+| Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection |  |  |  |
+| Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks |  |  |  |
+| MiniROAD: Minimal RNN Framework for Online Action Detection |  |  |  |
+| How much Temporal Long-Term Context is Needed for Action Segmentation? |  |  |  |
+| DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion |  |  |  |
+| STEPs: Self-Supervised Key Step Extraction and Localization from Unlabeled Procedural Videos |  |  |  |
+| Efficient Video Action Detection with Token Dropout and Context Refinement |  |  |  |
+| FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation |  |  |  |
+| Exploring Predicate Visual Context in Detecting of Human-Object Interactions |  |  |  |
+| E2E-LOAD: End-to-End Long-Form Online Action Detection |  |  |  |
+| Revisiting Foreground and Background Separation in Weakly-Supervised Temporal Action Localization: A Clustering-based Approach |  |  |  |
+| Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
