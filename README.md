@@ -1348,7 +1348,45 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Computational Imaging
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Tiled Multiplane Images for Practical 3D Photography | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Khan_Tiled_Multiplane_Images_for_Practical_3D_Photography_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.14291-b31b1b.svg)](https://arxiv.org/abs/2309.14291) | :heavy_minus_sign: |
+| Eulerian Single-Photon Vision | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://wisionlab.com/project/eulerian-single-photon-vision/) <br /> [![GitHub](https://img.shields.io/github/stars/shantanu-gupta/ESPV)](https://github.com/shantanu-gupta/ESPV) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Gupta_Eulerian_Single-Photon_Vision_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| ProPainter: Improving Propagation and Transformer for Video Inpainting | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://shangchenzhou.com/projects/ProPainter/) <br /> [![GitHub](https://img.shields.io/github/stars/sczhou/ProPainter)](https://github.com/sczhou/ProPainter) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_ProPainter_Improving_Propagation_and_Transformer_for_Video_Inpainting_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.03897-b31b1b.svg)](https://arxiv.org/abs/2309.03897) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=92EHfgCO5-Q) |
+| Global Perception based Autoregressive Neural Processes | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Tai_Global_Perception_Based_Autoregressive_Neural_Processes_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| DOLCE: A Model-based Probabilistic Diffusion Framework for Limited-Angle CT Reconstruction | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_DOLCE_A_Model-Based_Probabilistic_Diffusion_Framework_for_Limited-Angle_CT_Reconstruction_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.12340-b31b1b.svg)](https://arxiv.org/abs/2211.12340) | :heavy_minus_sign: |
+<!-- | GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild |  |  |  |
+| Score-based Diffusion Models as Principled Priors for Inverse Imaging |  |  |  |
+| NLOS-NeuS: Non-Line-of-Sight Neural Implicit Surface |  |  |  |
+| MEFLUT: Unsupervised 1D Lookup Tables for Multi-Exposure Image Fusion |  |  |  |
+| Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation |  |  |  |
+| Enhancing Non-Line-of-Sight Imaging via Learnable Inverse Kernel and Attention Mechanisms |  |  |  |
+| Aperture Diffraction for Compact Snapshot Spectral Imaging |  |  |  |
+| Content-Aware Local GAN for Photo-Realistic Super-Resolution |  |  |  |
+| RED-PSM: Regularization by Denoising of Partially Separable Models for Dynamic Imaging |  |  |  |
+| Self-Supervised Burst Super-Resolution |  |  |  |
+| Coherent Event Guided Low-Light Video Enhancement |  |  |  |
+| Panoramas from Photons |  |  |  |
+| Designing Phase Masks for Under-Display Cameras |  |  |  |
+| Deep Optics for Video Snapshot Compressive Imaging |  |  |  |
+| TiDy-PSFs: Computational Imaging with Time-Averaged Dynamic Point-Spread-Functions |  |  |  |
+| Generalized Lightness Adaptation with Channel Selective Normalization |  |  |  |
+| Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction |  |  |  |
+| FCCNs: Fully Complex-Valued Convolutional Networks using Complex-Valued Color Model and Loss Function |  |  |  |
+| Event Camera Data Pre-Training |  |  |  |
+| Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models |  |  |  |
+| Multiscale Structure Guided Diffusion for Image Deblurring |  |  |  |
+| Generalizing Event-based Motion Deblurring in Real-World Scenarios |  |  |  |
+| On the Robustness of Normalizing Flows for Inverse Problems in Imaging |  |  |  |
+| Learned Compressive Representations for Single-Photon 3D Imaging |  |  |  |
+| Recovering a Molecule's 3D Dynamics from Liquid-Phase Electron Microscopy Movies |  |  |  |
+| NIR-Assisted Video Enhancement via Unpaired 24-Hour Data |  |  |  |
+| SpinCam: High-Speed Imaging via a Rotating Point-Spread Function |  |  |  |
+| RecRecNet: Rectangling Rectified Wide-Angle Images by Thin-Plate Spline Model and DoF-based Curriculum Learning |  |  |  |
+| Affective Image Filter: Reflecting Emotions from Text to Images |  |  |  |
+| Towards General Low-Light Raw Noise Synthesis and Modeling |  |  |  |
+| Unsupervised Video Deraining with an Event Camera |  |  |  |
+| LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
