@@ -1157,7 +1157,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images | [![GitHub](https://img.shields.io/github/stars/zjuluolun/BEVPlace)](https://github.com/zjuluolun/BEVPlace) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14325-b31b1b.svg)](https://arxiv.org/abs/2302.14325) | :heavy_minus_sign: |
 | CORE: Cooperative Reconstruction for Multi-Agent Perception | [![GitHub](https://img.shields.io/github/stars/zllxot/CORE)](https://github.com/zllxot/CORE) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11514-b31b1b.svg)](https://arxiv.org/abs/2307.11514) | :heavy_minus_sign: |
 | MetaBEV: Solving Sensor Failures for 3D Detection and Map Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://chongjiange.github.io/metabev.html) <br /> [![GitHub](https://img.shields.io/github/stars/ChongjianGE/MetaBEV)](https://github.com/ChongjianGE/MetaBEV) | [![arXiv](https://img.shields.io/badge/arXiv-2304.09801-b31b1b.svg)](https://arxiv.org/abs/2304.09801) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=TiEQpYq77Xo) |
-| CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition | [![GitHub](https://img.shields.io/github/stars/rayguan97/crossloc3d)](https://github.com/rayguan97/crossloc3d) | [![arXiv](https://img.shields.io/badge/arXiv-2303.17778-b31b1b.svg)](https://arxiv.org/abs/2303.17778) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -1403,7 +1402,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Recognition: Retrieval
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition | [![GitHub](https://img.shields.io/github/stars/rayguan97/crossloc3d)](https://github.com/rayguan97/crossloc3d) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Guan_CrossLoc3D_Aerial-Ground_Cross-Source_3D_Place_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.17778-b31b1b.svg)](https://arxiv.org/abs/2303.17778) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
