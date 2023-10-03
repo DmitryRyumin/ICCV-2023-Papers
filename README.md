@@ -1394,7 +1394,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Embodied Vision: Active Agents; Simulation
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Skill Transformer: A Monolithic Policy for Mobile Manipulation | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Skill_Transformer_A_Monolithic_Policy_for_Mobile_Manipulation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.09873-b31b1b.svg)](https://arxiv.org/abs/2308.09873) | :heavy_minus_sign: |
+<!-- | ENTL: Embodied Navigation Trajectory Learner |  |  |  |
+| DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation |  |  |  |
+| Scene Graph Contrastive Learning for Embodied Navigation |  |  |  |
+| Perpetual Humanoid Control for Real-Time Simulated Avatars |  |  |  |
+| Grounding 3D Object Affordance from 2D Interactions in Images |  |  |  |
+| Navigating to Objects Specified by Images |  |  |  |
+| PEANUT: Predicting and Navigating to Unseen Targets |  |  |  |
+| Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents |  |  |  |
+| Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation |  |  |  |
+| Exploiting Proximity-Aware Tasks for Embodied Social Navigation |  |  |  |
+| Bird's-Eye-View Scene Graph for Vision-Language Navigation |  |  |  |
+| Active Neural Mapping |  |  |  |
+| Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation |  |  |  |
+| Multi-Object Navigation with Dynamically Learned Neural Implicit Representations |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
