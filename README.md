@@ -1441,7 +1441,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Video Analysis and Understanding
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Long-range Multimodal Pretraining for Movie Understanding | [![GitHub](https://img.shields.io/github/stars/dawitmureja/LMP)](https://github.com/dawitmureja/LMP) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Argaw_Long-range_Multimodal_Pretraining_for_Movie_Understanding_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.09775-b31b1b.svg)](https://arxiv.org/pdf/2308.09775.pdf) | :heavy_minus_sign: |
+| Cross-view Semantic Alignment for Livestreaming Product Recognition | [![GitHub](https://img.shields.io/github/stars/adxcreative/RICE)](https://github.com/adxcreative/RICE) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Cross-view_Semantic_Alignment_for_Livestreaming_Product_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.04912-b31b1b.svg)](https://arxiv.org/abs/2308.04912) | :heavy_minus_sign: |
+| HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://mingfei.info/HTML/) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Han_HTML_Hybrid_Temporal-scale_Multimodal_Learning_Framework_for_Referring_Video_Object_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| DyGait: Exploiting Dynamic Representations for High-performance Gait Recognition | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DyGait_Exploiting_Dynamic_Representations_for_High-performance_Gait_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.14953-b31b1b.svg)](https://arxiv.org/abs/2303.14953)| :heavy_minus_sign: |
+| Identity-Consistent Aggregation for Video Object Detection | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_Identity-Consistent_Aggregation_for_Video_Object_Detection_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.07737-b31b1b.svg)](https://arxiv.org/abs/2308.07737)| :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
