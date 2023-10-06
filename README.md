@@ -1459,7 +1459,51 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Transfer, Low-Shot, Continual, Long-Tail Learning
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition |  |  |  |
+| LFS-GAN: Lifelong Few-Shot Image Generation |  |  |  |
+| Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection |  |  |  |
+| Contrastive Model Adaptation for Cross-Condition Robustness in Semantic Segmentation |  |  |  |
+| Towards Effective Instance Discrimination Contrastive Loss for Unsupervised Domain Adaptation |  |  |  |
+| Adversarial Bayesian Augmentation for Single-Source Domain Generalization |  |  |  |
+| Measuring Asymmetric Gradient Discrepancy in Parallel Continual Learning |  |  |  |
+| CSDA: Learning Category-Scale Joint Feature for Domain Adaptive Object Detection |  |  |  |
+| Distilling from Similar Tasks for Transfer Learning on a Budget |  |  |  |
+| Complementary Domain Adaptation and Generalization for Unsupervised Continual Domain Shift Learning |  |  |  |
+| Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-Identification |  |  |  |
+| Introducing Language Guidance in Prompt-based Continual Learning |  |  |  |
+| Fast and Accurate Transferability Measurement by Evaluating Intra-Class Feature Variance |  |  |  |
+| A Unified Continual Learning Framework with General Parameter-Efficient Tuning |  |  |  |
+| SFHarmony: Source Free Domain Adaptation for Distributed Neuroimaging Analysis |  |  |  |
+| Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint |  |  |  |
+| CDAC: Cross-Domain Attention Consistency in Transformer for Domain Adaptive Semantic Segmentation |  |  |  |
+| PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo-Label |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
