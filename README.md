@@ -1461,8 +1461,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition |  |  |  |
-| LFS-GAN: Lifelong Few-Shot Image Generation |  |  |  |
+| ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition | [![GitHub](https://img.shields.io/github/stars/cool-xuan/Imbalanced_SAM)](https://github.com/cool-xuan/Imbalanced_SAM) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_ImbSAM_A_Closer_Look_at_Sharpness-Aware_Minimization_in_Class-Imbalanced_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.07815-b31b1b.svg)](https://arxiv.org/abs/2308.07815) | :heavy_minus_sign: |
+<!-- | LFS-GAN: Lifelong Few-Shot Image Generation |  |  |  |
 | Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection |  |  |  |
 | Contrastive Model Adaptation for Cross-Condition Robustness in Semantic Segmentation |  |  |  |
 | Towards Effective Instance Discrimination Contrastive Loss for Unsupervised Domain Adaptation |  |  |  |
@@ -1503,7 +1503,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
+|  |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
