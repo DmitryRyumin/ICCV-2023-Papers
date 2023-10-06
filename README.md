@@ -1462,12 +1462,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition | [![GitHub](https://img.shields.io/github/stars/cool-xuan/Imbalanced_SAM)](https://github.com/cool-xuan/Imbalanced_SAM) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_ImbSAM_A_Closer_Look_at_Sharpness-Aware_Minimization_in_Class-Imbalanced_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.07815-b31b1b.svg)](https://arxiv.org/abs/2308.07815) | :heavy_minus_sign: |
-<!-- | LFS-GAN: Lifelong Few-Shot Image Generation |  |  |  |
-| Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection |  |  |  |
-| Contrastive Model Adaptation for Cross-Condition Robustness in Semantic Segmentation |  |  |  |
+| LFS-GAN: Lifelong Few-Shot Image Generation | [![GitHub](https://img.shields.io/github/stars/JJuOn/LFS-GAN)](https://github.com/JJuOn/LFS-GAN) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Seo_LFS-GAN_Lifelong_Few-Shot_Image_Generation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.11917-b31b1b.svg)](https://arxiv.org/abs/2308.11917) | :heavy_minus_sign: |
+| Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection | [![GitHub](https://img.shields.io/github/stars/YuyangSunshine/ABR_IOD)](https://github.com/YuyangSunshine/ABR_IOD) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Augmented_Box_Replay_Overcoming_Foreground_Shift_for_Incremental_Object_Detection_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.12427-b31b1b.svg)](https://arxiv.org/abs/2307.12427) | :heavy_minus_sign: |
+<!-- | Contrastive Model Adaptation for Cross-Condition Robustness in Semantic Segmentation |  |  |  |
 | Towards Effective Instance Discrimination Contrastive Loss for Unsupervised Domain Adaptation |  |  |  |
-| Adversarial Bayesian Augmentation for Single-Source Domain Generalization |  |  |  |
-| Measuring Asymmetric Gradient Discrepancy in Parallel Continual Learning |  |  |  |
+| Adversarial Bayesian Augmentation for Single-Source Domain Generalization |  |  |  | -->
+<!-- | Measuring Asymmetric Gradient Discrepancy in Parallel Continual Learning |  |  |  |
 | CSDA: Learning Category-Scale Joint Feature for Domain Adaptive Object Detection |  |  |  |
 | Distilling from Similar Tasks for Transfer Learning on a Budget |  |  |  |
 | Complementary Domain Adaptation and Generalization for Unsupervised Continual Domain Shift Learning |  |  |  |
@@ -1479,31 +1479,31 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint |  |  |  |
 | CDAC: Cross-Domain Attention Consistency in Transformer for Domain Adaptive Semantic Segmentation |  |  |  |
 | PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo-Label |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  | -->
+| DETA: Denoised Task Adaptation for Few-Shot Learning |  |  |  |
+| Activate and Reject: Towards Safe Domain Generalization under Category Shift |  |  |  |
+| Generalizable Decision Boundaries: Dualistic Meta-Learning for Open Set Domain Generalization |  |  |  |
+| Continual Zero-Shot Learning through Semantically Guided Generative Random Walks |  |  |  |
+| Zero-Shot Point Cloud Segmentation by Semantic-Visual Aware Synthesis |  |  |  |
+| MDCS: More Diverse Experts with Consistency Self-Distillation for Long-Tailed Recognition |  |  |  |
+| Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach |  |  |  |
+| Confidence-based Visual Dispersal for Few-Shot Unsupervised Domain Adaptation |  |  |  |
+| BEV-DG: Cross-Modal Learning under Bird's-Eye View for Domain Generalization of 3D Semantic Segmentation |  |  |  |
+| CDFSL-V: Cross-Domain Few-Shot Learning for Videos |  |  |  |
+| Energy-based Self-Training and Normalization for Unsupervised Domain Adaptation |  |  |  |
+| Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-Trained Vision-Language Models |  |  |  |
+| NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning |  |  |  |
+| A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance |  |  |  |
+| ViM: Vision Middleware for Unified Downstream Transferring |  |  |  |
+| Learning to Learn: How to Continuously Teach Humans and Machines |  |  |  |
+| A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation |  |  |  |
+| Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning |  |  |  |
+| Heterogeneous Forgetting Compensation for Class-Incremental Learning |  |  |  |
+| Disposable Transfer Learning for Selective Source Task Unlearning |  |  |  |
+| Online Continual Learning on Hierarchical Label Expansion |  |  |  |
+| Black-Box Unsupervised Domain Adaptation with Bi-Directional Atkinson-Shiffrin Memory |  |  |  |
+| Local and Global Logit Adjustments for Long-Tailed Learning |  |  |  |
+| FS-DETR: Few-Shot DEtection TRansformer with Prompting and without Re-Training |  |  |  |
+| Tuning Pre-Trained Model via Moment Probing |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
