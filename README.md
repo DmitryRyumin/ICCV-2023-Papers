@@ -1513,8 +1513,121 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| High-Resolution Document Shadow Removal via a Large-Scale Real-World Dataset and a Frequency-Aware Shadow Erasing Net | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cxh-research.github.io/DocShadow-SD7K/) <br /> [![GitHub](https://img.shields.io/github/stars/CXH-Research/DocShadow-SD7K)](https://github.com/CXH-Research/DocShadow-SD7K) | [![arXiv](https://img.shields.io/badge/arXiv-2308.14221-b31b1b.svg)](https://arxiv.org/abs/2308.14221) | :heavy_minus_sign: |
-| Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution | [![GitHub](https://img.shields.io/github/stars/Jiamian-Wang/Iterative-Soft-Shrinkage-SR)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09650-b31b1b.svg)](https://arxiv.org/abs/2303.09650) | :heavy_minus_sign: |
+| Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection | [![GitHub](https://img.shields.io/github/stars/xyfJASON/HCL)](https://github.com/xyfJASON/HCL) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Hierarchical_Contrastive_Learning_for_Pattern-Generalizable_Image_Corruption_Detection_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.14061-b31b1b.svg)](https://arxiv.org/abs/2308.14061) | :heavy_minus_sign: |
+| DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration | [![GitHub](https://img.shields.io/github/stars/miaoyuchun/DDS2M)](https://github.com/miaoyuchun/DDS2M) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Miao_DDS2M_Self-Supervised_Denoising_Diffusion_Spatio-Spectral_Model_for_Hyperspectral_Image_Restoration_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.06682-b31b1b.svg)](https://arxiv.org/abs/2303.06682) | :heavy_minus_sign: |
+| From Sky to the Ground: A Large-Scale Benchmark and Simple Baseline Towards Real Rain Removal | [![GitHub](https://img.shields.io/github/stars/yunguo224/LHP-Rain)](https://github.com/yunguo224/LHP-Rain) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_From_Sky_to_the_Ground_A_Large-scale_Benchmark_and_Simple_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.03867-b31b1b.svg)](https://arxiv.org/abs/2308.03867) | :heavy_minus_sign: |
+| VAPCNet: Viewpoint-Aware 3D Point Cloud Completion | [![GitHub](https://img.shields.io/github/stars/FZH92128/VAPCNet)](https://github.com/FZH92128/VAPCNet) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_VAPCNet_Viewpoint-Aware_3D_Point_Cloud_Completion_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| AccFlow: Backward Accumulation for Long-Range Optical Flow | [![GitHub](https://img.shields.io/github/stars/mulns/AccFlow)](https://github.com/mulns/AccFlow) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_AccFlow_Backward_Accumulation_for_Long-Range_Optical_Flow_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.13133-b31b1b.svg)](https://arxiv.org/abs/2308.13133) | :heavy_minus_sign: |
+| Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints |  |  |  |
+| Low-Light Image Enhancement with Multi-Stage Residue Quantization and Brightness-Aware Attention |  |  |  |
+| Random Sub-Samples Generation for Self-Supervised Real Image Denoising |  |  |  |
+| RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters |  |  |  |
+| Physics-Driven Turbulence Image Restoration with Stochastic Refinement |  |  |  |
+| SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device |  |  |  |
+| Self-supervised Image Denoising with Downsampled Invariance Loss and Conditional Blind-Spot Network |  |  |  |
+| Variational Degeneration to Structural Refinement: A Unified Framework for Superimposed Image Decomposition |  |  |  |
+| Reconstructed Convolution Module based Look-Up Tables for Efficient Image Super-Resolution |  |  |  |
+| Self-Supervised Pre-Training for Mirror Detection |  |  |  |
+| Downscaled Representation Matters: Improving Image Rescaling with Collaborative Downscaled Images |  |  |  |
+| Self-Supervised Monocular Underwater Depth Recovery, Image Restoration, and a Real-Sea Video Dataset |  |  |  |
+| Rethinking Video Frame Interpolation from Shutter mode Induced Degradation |  |  |  |
+| Single Image Deblurring with Row-Dependent Blur Magnitude |  |  |  |
+| Multi-View Self-Supervised Disentanglement for General Image Denoising |  |  |  |
+| Joint Demosaicing and Deghosting of Time-Varying Exposures for Single-Shot HDR Imaging |  |  |  |
+| Diff-Retinex: Rethinking Low-Light Image Enhancement with a Generative Diffusion Model |  |  |  |
+| Dual Aggregation Transformer for Image Super-Resolution |  |  |  |
+| Video Object Segmentation-Aware Video Frame Interpolation |  |  |  |
+| RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image |  |  |  |
+| Multi-Scale Residual Low-Pass Filter Network for Image Deblurring |  |  |  |
+| Indoor Depth Recovery based on Deep Unfolding with Non-Local Prior |  |  |  |
+| Learning Correction Filter via Degradation-Adaptive Regression for Blind Single Image Super-Resolution |  |  |  |
+| Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution |  |  |  |
+| Both Diverse and Realism Matter: Physical Attribute and Style Alignment for Rainy Image Generation |  |  |  |
+| Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion |  |  |  |
+| The Devil is in the Upsampling: Architectural Decisions Made Simpler for Denoising with Deep Image Prior |  |  |  |
+| SimFIR: A Simple Framework for Fisheye Image Rectification with Self-Supervised Representation Learning |  |  |  |
+| Exploring Temporal Frequency Spectrum in Deep Video Deblurring |  |  |  |
+| ExposureDiffusion: Learning to Expose for Low-Light Image Enhancement |  |  |  |
+| High-Resolution Document Shadow Removal via a Large-Scale Real-World Dataset and a Frequency-Aware Shadow Erasing Net | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cxh-research.github.io/DocShadow-SD7K/) <br /> [![GitHub](https://img.shields.io/github/stars/CXH-Research/DocShadow-SD7K)](https://github.com/CXH-Research/DocShadow-SD7K) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_High-Resolution_Document_Shadow_Removal_via_A_Large-Scale_Real-World_Dataset_and_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.14221-b31b1b.svg)](https://arxiv.org/abs/2308.14221) | :heavy_minus_sign: |
+| Towards Saner Deep Image Registration |  |  |  |
+| VideoFlow: Exploiting Temporal Cues for Multi-Frame Optical Flow Estimation |  |  |  |
+| Scene Matters: Model-based Deep Video Compression |  |  |  |
+| Non-Coaxial Event-Guided Motion Deblurring with Spatial Alignment |  |  |  |
+| Retinexformer: One-Stage Retinex-based Transformer for Low-Light Image Enhancement |  |  |  |
+| Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution |  |  |  |
+| MVPSNet: Fast Generalizable Multi-View Photometric Stereo |  |  |  |
+| FSI: Frequency and Spatial Interactive Learning for Image Restoration in Under-Display Cameras |  |  |  |
+| Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution |  |  |  |
+| Empowering Low-Light Image Enhancer through Customized Learnable Priors |  |  |  |
+| Learning Image Harmonization in the Linear Color Space |  |  |  |
+| Under-Display Camera Image Restoration with Scattering Effect |  |  |  |
+| Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution | [![GitHub](https://img.shields.io/github/stars/Jiamian-Wang/Iterative-Soft-Shrinkage-SR)](https://github.com/Jiamian-Wang/Iterative-Soft-Shrinkage-SR) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Iterative_Soft_Shrinkage_Learning_for_Efficient_Image_Super-Resolution_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.09650-b31b1b.svg)](https://arxiv.org/abs/2303.09650) | :heavy_minus_sign: |
+| Single Image Defocus Deblurring via Implicit Neural Inverse Kernels |  |  |  |
+| Degradation-Resistant Unfolding Network for Heterogeneous Image Fusion |  |  |  |
+| Graphics2RAW: Mapping Computer Graphics Images to Sensor RAW Images |  |  |  |
+| Lighting up NeRF via Unsupervised Decomposition and Enhancement |  |  |  |
+| Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches |  |  |  |
+| Adverse Weather Removal with Codebook Priors |  |  |  |
+| MSRA-SR: Image Super-Resolution Transformer with Multi-Scale Shared Representation Acquisition |  |  |  |
+| Deep Video Demoiréing via Compact Invertible Dyadic Decomposition |  |  |  |
+| SILT: Shadow-Aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels |  |  |  |
+| Innovating Real Fisheye Image Correction with Dual Diffusion Architecture |  |  |  |
+| Adaptive Illumination Mapping for Shadow Detection in Raw Images |  |  |  |
+| GEDepth: Ground Embedding for Monocular Depth Estimation |  |  |  |
+| Lightweight Image Super-Resolution with Superpixel Token Interaction |  |  |  |
+| Unfolding Framework with Prior of Convolution-Transformer Mixture and Uncertainty Estimation for Video Snapshot Compressive Imaging |  |  |  |
+| Efficient Unified Demosaicing for Bayer and Non-Bayer Patterned Image Sensors |  |  |  |
+| LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction |  |  |  |
+| Fine-Grained Visible Watermark Removal |  |  |  |
+| SRFormer: Permuted Self-Attention for Single Image Super-Resolution |  |  |  |
+| DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution |  |  |  |
+| MB-TaylorFormer: Multi-Branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing |  |  |  |
+| Multi-Frequency Representation Enhancement with Privilege Information for Video Super-Resolution |  |  |  |
+| COMPASS: High-Efficiency Deep Image Compression with Arbitrary-Scale Spatial Scalability |  |  |  |
+| Alignment-Free HDR Deghosting with Semantics Consistent Transformer |  |  |  |
+| From Chaos Comes Order: Ordering Event Representations for Object Recognition and Detection |  |  |  |
+| Towards High-Quality Specular Highlight Removal by Leveraging Large-Scale Synthetic Data |  |  |  |
+| DynamicISP: Dynamically Controlled Image Signal Processor for Image Recognition |  |  |  |
+| Dancing in the Dark: A Benchmark towards General Low-Light Video Enhancement |  |  |  |
+| Dec-Adapter: Exploring Efficient Decoder-Side Adapter for Bridging Screen Content and Natural Image Compression |  |  |  |
+| OmniZoomer: Learning to Move and Zoom in on Sphere at High-Resolution |  |  |  |
+| Pyramid Dual Domain Injection Network for Pan-Sharpening |  |  |  |
+| Implicit Neural Representation for Cooperative Low-Light Image Enhancement |  |  |  |
+| Physically-Plausible Illumination Distribution Estimation |  |  |  |
+| Score Priors Guided Deep Variational Inference for Unsupervised Real-World Single Image Denoising |  |  |  |
+| Semantic-Aware Dynamic Parameter for Video Inpainting Transformer |  |  |  |
+| Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction |  |  |  |
+| Improving Lens Flare Removal with General-Purpose Pipeline and Multiple Light Sources Recovery |  |  |  |
+| RFD-ECNet: Extreme Underwater Image Compression with Reference to Feature Dictionary |  |  |  |
+| Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction |  |  |  |
+| Focal Network for Image Restoration |  |  |  |
+| CIRI: Curricular Inactivation for Residue-Aware One-Shot Video Inpainting |  |  |  |
+| Beyond Image Borders: Learning Feature Extrapolation for Unbounded Image Composition |  |  |  |
+| MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces |  |  |  |
+| Boundary-Aware Divide and Conquer: A Diffusion-based Solution for Unsupervised Shadow Removal |  |  |  |
+| Leveraging Inpainting for Single-Image Shadow Removal |  |  |  |
+| Hybrid Spectral Denoising Transformer with Guided Attention |  |  |  |
+| Examining Autoexposure for Challenging Scenes |  |  |  |
+| Self-Supervised Learning to Bring Dual Reversed Rolling Shutter Images Alive |  |  |  |
+| DiffIR: Efficient Diffusion Model for Image Restoration |  |  |  |
+| Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks |  |  |  |
+| LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution |  |  |  |
+| Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network |  |  |  |
+| Single Image Reflection Separation via Component Synergy |  |  |  |
+| Learning Rain Location Prior for Nighttime Deraining |  |  |  |
+| Exploring Positional Characteristics of Dual-Pixel Data for Camera Autofocus |  |  |  |
+| Continuously Masked Transformer for Image Inpainting |  |  |  |
+| Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution |  |  |  |
+| Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution |  |  |  |
+| Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation |  |  |  |
+| Snow Removal in Video: a New Dataset and a Novel Method |  |  |  |
+| Boosting Single Image Super-Resolution via Partial Channel Shifting |  |  |  |
+| Towards Real-World Burst Image Super-Resolution: Benchmark and Method |  |  |  |
+| On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement |  |  |  |
+| E2NeRF: Event Enhanced Neural Radiance Fields from Blurry Images |  |  |  |
+| Iterative Denoiser and Noise Estimator for Self-Supervised Image Denoising |  |  |  |
+| Lighting Every Darkness in Two Pairs: a Calibration-Free Pipeline for RAW Denoising |  |  |  |
+| Fingerprinting Deep Image Restoration Models |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
