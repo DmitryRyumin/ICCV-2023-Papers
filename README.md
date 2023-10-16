@@ -1736,7 +1736,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-### 3D Shape Modeling and Processing
+<!-- ### 3D Shape Modeling and Processing
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -1787,7 +1787,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-### Efficient and Scalable Vision
+### Efficient and Scalable Vision -->
 
 <!-- | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
