@@ -1658,8 +1658,54 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Long-Range Multimodal Pretraining for Movie Understanding | [![GitHub](https://img.shields.io/github/stars/dawitmureja/LMP)](https://github.com/dawitmureja/LMP) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Argaw_Long-range_Multimodal_Pretraining_for_Movie_Understanding_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.09775-b31b1b.svg)](https://arxiv.org/pdf/2308.09775.pdf) | :heavy_minus_sign: |
 | Cross-View Semantic Alignment for Livestreaming Product Recognition | [![GitHub](https://img.shields.io/github/stars/adxcreative/RICE)](https://github.com/adxcreative/RICE) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Cross-view_Semantic_Alignment_for_Livestreaming_Product_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.04912-b31b1b.svg)](https://arxiv.org/abs/2308.04912) | :heavy_minus_sign: |
 | HTML: Hybrid Temporal-Scale Multimodal Learning Framework for Referring Video Object Segmentation | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://mingfei.info/HTML/) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Han_HTML_Hybrid_Temporal-scale_Multimodal_Learning_Framework_for_Referring_Video_Object_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-| DyGait: Exploiting Dynamic Representations for High-Performance Gait Recognition | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DyGait_Exploiting_Dynamic_Representations_for_High-performance_Gait_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.14953-b31b1b.svg)](https://arxiv.org/abs/2303.14953)| :heavy_minus_sign: |
-| Identity-Consistent Aggregation for Video Object Detection | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_Identity-Consistent_Aggregation_for_Video_Object_Detection_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.07737-b31b1b.svg)](https://arxiv.org/abs/2308.07737)| :heavy_minus_sign: |
+| DyGait: Exploiting Dynamic Representations for High-Performance Gait Recognition | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DyGait_Exploiting_Dynamic_Representations_for_High-performance_Gait_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.14953-b31b1b.svg)](https://arxiv.org/abs/2303.14953) | :heavy_minus_sign: |
+| Identity-Consistent Aggregation for Video Object Detection | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_Identity-Consistent_Aggregation_for_Video_Object_Detection_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.07737-b31b1b.svg)](https://arxiv.org/abs/2308.07737) | :heavy_minus_sign: |
+| Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation | [![GitHub](https://img.shields.io/github/stars/xuyu0010/SSA2lign)](https://github.com/xuyu0010/SSA2lign) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Augmenting_and_Aligning_Snippets_for_Few-Shot_Video_Domain_Adaptation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.10451-b31b1b.svg)](https://arxiv.org/abs/2303.10451) | :heavy_minus_sign: |
+| Action Sensitivity Learning for Temporal Action Localization | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_Action_Sensitivity_Learning_for_Temporal_Action_Localization_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.15701-b31b1b.svg)](https://arxiv.org/abs/2305.15701) | :heavy_minus_sign: |
+| SwinLSTM: Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM | [![GitHub](https://img.shields.io/github/stars/SongTang-x/SwinLSTM)](https://github.com/SongTang-x/SwinLSTM) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_SwinLSTM_Improving_Spatiotemporal_Prediction_Accuracy_using_Swin_Transformer_and_LSTM_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.09891-b31b1b.svg)](https://arxiv.org/abs/2308.09891) | :heavy_minus_sign: |
+| LVOS: A Benchmark for Long-Term Video Object Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lingyihongfd.github.io/lvos.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/LingyiHongfd/LVOS)](https://github.com/LingyiHongfd/LVOS) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_LVOS_A_Benchmark_for_Long-term_Video_Object_Segmentation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.10181-b31b1b.svg)](https://arxiv.org/abs/2211.10181) | :heavy_minus_sign: |
+| MGMAE: Motion Guided Masking for Video Masked Autoencoding | [![GitHub](https://img.shields.io/github/stars/MCG-NJU/MGMAE)](https://github.com/MCG-NJU/MGMAE) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_MGMAE_Motion_Guided_Masking_for_Video_Masked_Autoencoding_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.10794-b31b1b.svg)](https://arxiv.org/abs/2308.10794) | :heavy_minus_sign: |
+| Markov Game Video Augmentation for Action Segmentation | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Aziere_Markov_Game_Video_Augmentation_for_Action_Segmentation_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| COOL-CHIC: Coordinate-based Low Complexity Hierarchical Image Codec | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://orange-opensource.github.io/Cool-Chic/) <br /> [![GitHub](https://img.shields.io/github/stars/Orange-OpenSource/Cool-Chic)](https://github.com/Orange-OpenSource/Cool-Chic) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ladune_COOL-CHIC_Coordinate-based_Low_Complexity_Hierarchical_Image_Codec_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| ReGen: A Good Generative Zero-Shot Video Classifier Should be Rewarded | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Bulat_ReGen_A_good_Generative_Zero-Shot_Video_Classifier_Should_be_Rewarded_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+<!-- | Task Agnostic Restoration of Natural Video Dynamics |  |  |  |
+| Normalizing Flows for Human Pose Anomaly Detection |  |  |  |
+| Movement Enhancement toward Multi-Scale Video Feature Representation for Temporal Action Detection |  |  |  |
+| Event-Guided Procedure Planning from Instructional Videos with Text Supervision |  |  |  |
+| SCANet: Scene Complexity Aware Network for Weakly-Supervised Video Moment Retrieval |  |  |  |
+| Spatio-Temporal Prompting Network for Robust Video Feature Extraction |  |  |  |
+| TeD-SPAD: Temporal Distinctiveness for Self-Supervised Privacy-Preservation for Video Anomaly Detection |  |  |  |
+| Non-Semantics Suppressed Mask Learning for Unsupervised Video Semantic Compression |  |  |  |
+| UnLoc: A Unified Framework for Video Localization Tasks |  |  |  |
+| SkeleTR: Towards Skeleton-based Action Recognition in the Wild |  |  |  |
+| AutoAD II: The Sequel - Who, When, and What in Movie Audio Description |  |  |  |
+| What can a Cook in Italy Teach a Mechanic in India? Action Recognition Generalisation over Scenarios and Locations |  |  |  |
+| Localizing Moments in Long Video via Multimodal Guidance |  |  |  |
+| LAC - Latent Action Composition for Skeleton-based Action Segmentation |  |  |  |
+| RIGID: Recurrent GAN Inversion and Editing of Real Face Videos |  |  |  |
+| Uncertainty-Aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting |  |  |  |
+| What can Simple Arithmetic Operations do for Temporal Modeling? |  |  |  |
+| UATVR: Uncertainty-Adaptive Text-Video Retrieval |  |  |  |
+| D3G: Exploring Gaussian Prior for Temporal Sentence Grounding with Glance Annotation |  |  |  |
+| Unsupervised Open-Vocabulary Object Localization in Videos |  |  |  |
+| HiVLP: Hierarchical Interactive Video-Language Pre-Training |  |  |  |
+| Scanning Only Once: An End-to-End Framework for Fast Temporal Grounding in Long Videos |  |  |  |
+| Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition |  |  |  |
+| Lip2Vec: Efficient and Robust Visual Speech Recognition via Latent-to-Latent Visual to Audio Representation Mapping |  |  |  |
+| Video OWL-ViT: Temporally-Consistent Open-World Localization in Video |  |  |  |
+| Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization |  |  |  |
+| Memory-and-Anticipation Transformer for Online Action Understanding |  |  |  |
+| Video Action Segmentation via Contextually Refined Temporal Keypoints |  |  |  |
+| Knowing where to Focus: Event-Aware Transformer for Video Grounding |  |  |  |
+| MPI-Flow: Learning Realistic Optical Flow with Multiplane Images |  |  |  |
+| Discovering Spatio-Temporal Rationales for Video Question Answering |  |  |  |
+| Scalable Video Object Segmentation with Simplified Framework |  |  |  |
+| Root Pose Decomposition Towards Generic Non-Rigid 3D Reconstruction with Monocular Videos |  |  |  |
+| Helping Hands: An Object-Aware Ego-Centric Video Recognition Model |  |  |  |
+| Modeling the Relative Visual Tempo for Self-Supervised Skeleton-based Action Recognition |  |  |  |
+| Tube-Link: A Flexible Cross Tube Framework for Universal Video Segmentation |  |  |  |
+| Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning |  |  |  |
+| Tem-Adapter: Adapting Image-Text Pretraining for Video Question Answer |  |  |  | -->
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
