@@ -1651,7 +1651,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-<!-- ### Video Analysis and Understanding
+### Video Analysis and Understanding
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -1709,13 +1709,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a> -->
+</a>
 
-<!-- ### Object Pose Estimation and Tracking
+### Object Pose Estimation and Tracking
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| MixCycle: Mixup Assisted Semi-Supervised 3D Single Object Tracking with Cycle Consistency | [![GitHub](https://img.shields.io/github/stars/Mumuqiao/MixCycle)](https://github.com/Mumuqiao/MixCycle) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_MixCycle_Mixup_Assisted_Semi-Supervised_3D_Single_Object_Tracking_with_Cycle_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.09219-b31b1b.svg)](https://arxiv.org/abs/2303.09219) | :heavy_minus_sign: | -->
+| MixCycle: Mixup Assisted Semi-Supervised 3D Single Object Tracking with Cycle Consistency | [![GitHub](https://img.shields.io/github/stars/Mumuqiao/MixCycle)](https://github.com/Mumuqiao/MixCycle) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_MixCycle_Mixup_Assisted_Semi-Supervised_3D_Single_Object_Tracking_with_Cycle_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.09219-b31b1b.svg)](https://arxiv.org/abs/2303.09219) | :heavy_minus_sign: |
 <!-- | Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation |  |  |  |
 | IST-Net: Prior-Free Category-Level Pose Estimation with Implicit Space Transformation |  |  |  |
 | Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking |  |  |  |
@@ -1732,11 +1732,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation |  |  |  |
 | Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction |  |  |  | -->
 
-<!-- <a href="#sections">
+<a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a> -->
+</a>
 
-<!-- ### 3D Shape Modeling and Processing
+### 3D Shape Modeling and Processing
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -1787,9 +1787,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-### Efficient and Scalable Vision -->
+### Efficient and Scalable Vision
 
-<!-- | **Title** | **Repo** | **Paper** | **Video** |
+| **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Rethinking Vision Transformers for MobileNet Size and Speed | [![GitHub](https://img.shields.io/github/stars/snap-research/EfficientFormer)](https://github.com/snap-research/EfficientFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2212.08059-b31b1b.svg)](https://arxiv.org/abs/2212.08059) | :heavy_minus_sign: |
@@ -1853,7 +1853,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Efficient Deep Space Filling Curve | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Q-Diffusion: Quantizing Diffusion Models | [![GitHub](https://img.shields.io/github/stars/Xiuyu-Li/q-diffusion)](https://github.com/Xiuyu-Li/q-diffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2302.04304-b31b1b.svg)](https://arxiv.org/abs/2302.04304) | :heavy_minus_sign: |
 | Lossy and Lossless (L2) Post-training Model Size Compression | [![GitHub](https://img.shields.io/github/stars/ModelTC/L2_Compression)](https://github.com/ModelTC/L2_Compression) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04269-b31b1b.svg)](https://arxiv.org/abs/2308.04269) | :heavy_minus_sign: |
-| Robustifying Token Attention for Vision Transformers | [![GitHub](https://img.shields.io/github/stars/guoyongcs/TAPADL)](https://github.com/guoyongcs/TAPADL) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11126-b31b1b.svg)](https://arxiv.org/abs/2303.11126) | :heavy_minus_sign: | -->
+| Robustifying Token Attention for Vision Transformers | [![GitHub](https://img.shields.io/github/stars/guoyongcs/TAPADL)](https://github.com/guoyongcs/TAPADL) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11126-b31b1b.svg)](https://arxiv.org/abs/2303.11126) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
