@@ -229,13 +229,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/36-1D7FBF" alt="Open Code"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-graphics-and-robotics.md">Vision, Graphics, and Robotics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-graphics-and-robotics.md"><img src="https://img.shields.io/badge/soon-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-graphics-and-robotics.md"><img src="https://img.shields.io/badge/soon-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-graphics-and-robotics.md"><img src="https://img.shields.io/badge/soon-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Vision, Graphics, and Robotics](#vision-graphics-and-robotics)
 - [Privacy, Security, Fairness, and Explainability](#privacy-security-fairness-and-explainability)
 - [Fairness, Privacy, Ethics, Social-good, Transparency, Accountability in Vision](#fairness-privacy-ethics-social-good-transparency-accountability-in-vision)
 - [First Person (Egocentric) Vision](#first-person-egocentric-vision)
@@ -284,23 +297,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </details> -->
 
 <!-- 
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-### Vision, Graphics, and Robotics
-
-| **Title** | **Repo** | **Paper** | **Video** |
-|-----------|:--------:|:---------:|:---------:|
-| Adding Conditional Control to Text-to-Image Diffusion Models | [![GitHub](https://img.shields.io/github/stars/lllyasviel/ControlNet)](https://github.com/lllyasviel/ControlNet) | [![arXiv](https://img.shields.io/badge/arXiv-2302.05543-b31b1b.svg)](https://arxiv.org/abs/2302.05543) | :heavy_minus_sign: |
-| Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jerrypiglet.github.io/fipt-ucsd/) <br /> [![GitHub](https://img.shields.io/github/stars/lwwu2/fipt)](https://github.com/lwwu2/fipt) | [![arXiv](https://img.shields.io/badge/arXiv-2304.05669-b31b1b.svg)](https://arxiv.org/abs/2304.05669) |  |
-| Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://agi-labs.github.io/manipulate-by-seeing/) <br /> [![GitHub](https://img.shields.io/github/stars/AGI-Labs/manipulate-by-seeing)](https://github.com/AGI-Labs/manipulate-by-seeing) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08135-b31b1b.svg)](https://arxiv.org/abs/2303.08135) | :heavy_minus_sign: |
-| 3D Implicit Transporter for Temporally Consistent Keypoint Discovery | [![GitHub](https://img.shields.io/github/stars/zhongcl-thu/3D-Implicit-Transporter)](https://github.com/zhongcl-thu/3D-Implicit-Transporter) | [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/373328882_3D_Implicit_Transporter_for_Temporally_Consistent_Keypoint_Discovery) | :heavy_minus_sign: |
-| Chordal Averaging on Flag Manifolds and its Applications | [![GitHub](https://img.shields.io/github/stars/nmank/FlagAveraging)](https://github.com/nmank/FlagAveraging) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13501-b31b1b.svg)](https://arxiv.org/abs/2303.13501) | :heavy_minus_sign: |
-| UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-Aware Curriculum and Iterative Generalist-Specialist Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.00464-b31b1b.svg)](https://arxiv.org/abs/2304.00464) | :heavy_minus_sign: |
-| GameFormer: Game-Theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mczhi.github.io/GameFormer/) <br /> [![GitHub](https://img.shields.io/github/stars/MCZhi/GameFormer)](https://github.com/MCZhi/GameFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2303.05760-b31b1b.svg)](https://arxiv.org/abs/2303.05760) | :heavy_minus_sign: |
-| PPR: Physically Plausible Reconstruction from Monocular Videos | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gengshan-y.github.io/ppr/) <br /> [![GitHub](https://img.shields.io/github/stars/gengshan-y/ppr)](https://github.com/gengshan-y/ppr) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://gengshan-y.github.io/ppr/PPR.pdf) | :heavy_minus_sign: |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
