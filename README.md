@@ -98,7 +98,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <th scope="col">Section</th>
             <th scope="col">Papers</th>
-            <th scope="col">Preprints</th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="25" /></th>
             <th scope="col">Open Code</th>
         </tr>
     </thead>
