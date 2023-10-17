@@ -159,13 +159,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md">Segmentation, Grouping and Shape Analysis</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/soon-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/soon-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/soon-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Segmentation, Grouping and Shape Analysis](#segmentation-grouping-and-shape-analysis)
 - [Recognition: Categorization](#recognition-categorization)
 - [Explainable AI for CV](#explainable-ai-for-cv)
 - [Neural Generative Models](#neural-generative-models)
