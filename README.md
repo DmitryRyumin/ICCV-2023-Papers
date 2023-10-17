@@ -131,7 +131,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     </tbody>
 </table>
 
-<details open>
+<!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
 - [Vision and Robotics](#vision-and-robotics)
@@ -187,9 +187,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 - [Vision Applications and Systems](#vision-applications-and-systems)
 - [Machine Learning and Dataset](#machine-learning-and-dataset)
 
-</details>
+</details> -->
 
-<a href="#sections">
+<!-- <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
@@ -207,9 +207,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.04869-b31b1b.svg)](https://arxiv.org/abs/2303.04869) | :heavy_minus_sign: |
 | Environment Agnostic Representation for Visual Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Test-Time Personalizable Forecasting of 3D Human Poses | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.10628-b31b1b.svg)](https://arxiv.org/abs/2304.10628) | :heavy_minus_sign: |
+| HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.10628-b31b1b.svg)](https://arxiv.org/abs/2304.10628) | :heavy_minus_sign: | -->
 
-<a href="#sections">
+<!-- <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
@@ -1616,7 +1616,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-----------|:--------:|:---------:|:---------:|
 | MixCycle: Mixup Assisted Semi-Supervised 3D Single Object Tracking with Cycle Consistency | [![GitHub](https://img.shields.io/github/stars/Mumuqiao/MixCycle)](https://github.com/Mumuqiao/MixCycle) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_MixCycle_Mixup_Assisted_Semi-Supervised_3D_Single_Object_Tracking_with_Cycle_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.09219-b31b1b.svg)](https://arxiv.org/abs/2303.09219) | :heavy_minus_sign: |
 | Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation | [![GitHub](https://img.shields.io/github/stars/junzastar/DFTr_Voting)](https://github.com/junzastar/DFTr_Voting) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Deep_Fusion_Transformer_Network_with_Weighted_Vector-Wise_Keypoints_Voting_for_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.05438-b31b1b.svg)](https://arxiv.org/abs/2308.05438) | :heavy_minus_sign: |
-<!-- | IST-Net: Prior-Free Category-Level Pose Estimation with Implicit Space Transformation |  |  |  |
+| IST-Net: Prior-Free Category-Level Pose Estimation with Implicit Space Transformation |  |  |  |
 | Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking |  |  |  |
 | VI-Net: Boosting Category-Level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations |  |  |  |
 | Tracking by Natural Language Specification with Long Short-Term Context Decoupling |  |  |  |
@@ -1629,7 +1629,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Tracking by 3D Model Estimation of Unknown Objects in Videos |  |  |  |
 | Algebraically Rigorous Quaternion Framework for the Neural Network Pose Estimation Problem |  |  |  |
 | Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation |  |  |  |
-| Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction |  |  |  | -->
+| Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction |  |  |  |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
@@ -1909,7 +1909,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Unmasked Teacher: Towards Training-Efficient Video Foundation Models | [![GitHub](https://img.shields.io/github/stars/OpenGVLab/unmasked_teacher)](https://github.com/OpenGVLab/unmasked_teacher) | [![arXiv](https://img.shields.io/badge/arXiv-2303.16058-b31b1b.svg)](https://arxiv.org/abs/2303.16058) | :heavy_minus_sign: |
+| Unmasked Teacher: Towards Training-Efficient Video Foundation Models | [![GitHub](https://img.shields.io/github/stars/OpenGVLab/unmasked_teacher)](https://github.com/OpenGVLab/unmasked_teacher) | [![arXiv](https://img.shields.io/badge/arXiv-2303.16058-b31b1b.svg)](https://arxiv.org/abs/2303.16058) | :heavy_minus_sign: | -->
 
 ---
 
