@@ -313,14 +313,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/deep-learning-architectures.md"><img src="https://img.shields.io/badge/18-1D7FBF" alt="Open Code"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md">Recognition: Detection</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md"><img src="https://img.shields.io/badge/soon-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md"><img src="https://img.shields.io/badge/soon-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md"><img src="https://img.shields.io/badge/soon-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Deep Learning Architectures](#deep-learning-architectures)
-- [Recognition: Detection](#recognition-detection)
 - [Image and Video Synthesis](#image-and-video-synthesis)
 - [Vision and Audio](#vision-and-audio)
 - [Recognition, Segmentation, and Shape Analysis](#recognition-segmentation-and-shape-analysis)
@@ -363,88 +375,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </details> -->
 
 <!--
-
-### Recognition: Detection
-
-| **Title** | **Repo** | **Paper** | **Video** |
-|-----------|:--------:|:---------:|:---------:|
-| Random Boxes are Open-World Object Detectors | [![GitHub](https://img.shields.io/github/stars/scuwyh2000/RandBox)](https://github.com/scuwyh2000/RandBox) | [![arXiv](https://img.shields.io/badge/arXiv-2307.08249-b31b1b.svg)](https://arxiv.org/abs/2307.08249) | :heavy_minus_sign: |
-| Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection | [![GitHub](https://img.shields.io/github/stars/hustvl/MIMDet)](https://github.com/hustvl/MIMDet) | [![arXiv](https://img.shields.io/badge/arXiv-2204.02964-b31b1b.svg)](https://arxiv.org/abs/2204.02964) | :heavy_minus_sign: |
-| CoIn: Contrastive Instance Feature Mining for Outdoor 3D Object Detection with Very Limited Annotations | [![GitHub](https://img.shields.io/github/stars/xmuqimingxia/CoIn)](https://github.com/xmuqimingxia/CoIn) | :heavy_minus_sign: | :heavy_minus_sign: |
-| A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Anchor-Intermediate Detector: Decoupling and Coupling Bounding Boxes for Accurate Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Deep Equilibrium Object Detection | [![GitHub](https://img.shields.io/github/stars/MCG-NJU/DEQDet)](https://github.com/MCG-NJU/DEQDet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09564-b31b1b.svg)](https://arxiv.org/abs/2308.09564) | :heavy_minus_sign: |
-| RecursiveDet: End-to-End Region-based Recursive Object Detection | [![GitHub](https://img.shields.io/github/stars/bravezzzzzz/RecursiveDet)](https://github.com/bravezzzzzz/RecursiveDet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.13619-b31b1b.svg)](https://arxiv.org/abs/2307.13619) | :heavy_minus_sign: |
-| Small Object Detection via Coarse-to-Fine Proposal Generation and Imitation Learning | [![GitHub](https://img.shields.io/github/stars/shaunyuan22/CFINet)](https://github.com/shaunyuan22/CFINet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09534-b31b1b.svg)](https://arxiv.org/abs/2308.09534) |  |
-| ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation | [![GitHub](https://img.shields.io/github/stars/iSEE-Laboratory/ASAG)](https://github.com/iSEE-Laboratory/ASAG) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09242-b31b1b.svg)](https://arxiv.org/abs/2308.09242) | :heavy_minus_sign: |
-| COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/alibaba/easyrobust/tree/main/benchmarks/coco_o) <br /> [![GitHub](https://img.shields.io/github/stars/alibaba/easyrobust)](https://github.com/alibaba/easyrobust) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12730-b31b1b.svg)](https://arxiv.org/abs/2307.12730) | :heavy_minus_sign: |
-| Generative Prompt Model for Weakly Supervised Object Localization | [![GitHub](https://img.shields.io/github/stars/callsys/GenPromp)](https://github.com/callsys/GenPromp) | [![arXiv](https://img.shields.io/badge/arXiv-2307.09756-b31b1b.svg)](https://arxiv.org/abs/2307.09756) | :heavy_minus_sign: |
-| UniKD: Universal Knowledge Distillation for Mimicking Homogeneous or Heterogeneous Object Detectors | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| PNI: Industrial Anomaly Detection using Position and Neighborhood Information | [![GitHub](https://img.shields.io/github/stars/wogur110/PNI_Anomaly_Detection)](https://github.com/wogur110/PNI_Anomaly_Detection) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12634-b31b1b.svg)](https://arxiv.org/abs/2211.12634) | :heavy_minus_sign: |
-| Masked Autoencoders are Stronger Knowledge Distillers | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| GPA-3D: Geometry-Aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds | [![GitHub](https://img.shields.io/github/stars/Liz66666/GPA3D)](https://github.com/Liz66666/GPA3D) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08140-b31b1b.svg)](https://arxiv.org/abs/2308.08140) | :heavy_minus_sign: |
-| ADNet: Lane Shape Prediction via Anchor Decomposition | [![GitHub](https://img.shields.io/github/stars/Sephirex-X/ADNet)](https://github.com/Sephirex-X/ADNet) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10481-b31b1b.svg)](https://arxiv.org/abs/2308.10481) | :heavy_minus_sign: |
-| Periodically Exchange Teacher-Student for Source-Free Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Towards Fair and Comprehensive Comparisons for Image-based 3D Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.01289-b31b1b.svg)](https://arxiv.org/abs/2304.01289) | :heavy_minus_sign: |
-| Template-Guided Hierarchical Feature Restoration for Anomaly Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| ALWOD: Active Learning for Weakly-Supervised Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.07914-b31b1b.svg)](https://arxiv.org/abs/2309.07914) | :heavy_minus_sign: |
-| ProtoFL: Unsupervised Federated Learning via Prototypical Distillation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.12450-b31b1b.svg)](https://arxiv.org/abs/2307.12450) | :heavy_minus_sign: |
-| Efficient Adaptive Human-Object Interaction Detection with Concept-Guided Memory | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ltttpku.github.io/ADA-CM/) <br /> [![GitHub](https://img.shields.io/github/stars/ltttpku/ADA-CM)](https://github.com/ltttpku/ADA-CM) | [![arXiv](https://img.shields.io/badge/arXiv-2309.03696-b31b1b.svg)](https://arxiv.org/abs/2309.03696) | :heavy_minus_sign: |
-| Detection Transformer with Stable Matching | [![GitHub](https://img.shields.io/github/stars/IDEA-Research/Stable-DINO)](https://github.com/IDEA-Research/Stable-DINO) | [![arXiv](https://img.shields.io/badge/arXiv-2304.04742-b31b1b.svg)](https://arxiv.org/abs/2304.04742) | :heavy_minus_sign: |
-| Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Anomaly Detection Under Distribution Shift | [![GitHub](https://img.shields.io/github/stars/mala-lab/ADShift)](https://github.com/mala-lab/ADShift) | [![arXiv](https://img.shields.io/badge/arXiv-2303.13845-b31b1b.svg)](https://arxiv.org/abs/2303.13845) | :heavy_minus_sign: |
-| Detecting Objects with Context-Likelihood Graphs and Graph Refinement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2212.12395-b31b1b.svg)](https://arxiv.org/abs/2212.12395) | :heavy_minus_sign: |
-| Unsupervised Object Localization with Representer Point Selection | [![GitHub](https://img.shields.io/github/stars/yeonghwansong/UOLwRPS)](https://github.com/yeonghwansong/UOLwRPS) | [![arXiv](https://img.shields.io/badge/arXiv-2309.04172-b31b1b.svg)](https://arxiv.org/abs/2309.04172) | :heavy_minus_sign: |
-| DETR does not Need Multi-Scale or Locality Design | [![GitHub](https://img.shields.io/github/stars/impiga/Plain-DETR)](https://github.com/impiga/Plain-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2308.01904-b31b1b.svg)](https://arxiv.org/abs/2308.01904) | :heavy_minus_sign: |
-| Deep Directly-Trained Spiking Neural Networks for Object Detection | [![GitHub](https://img.shields.io/github/stars/BICLab/EMS-YOLO)](https://github.com/BICLab/EMS-YOLO) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11411-b31b1b.svg)](https://arxiv.org/abs/2307.11411) | :heavy_minus_sign: |
-| GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| StageInteractor: Query-based Object Detector with Cross-Stage Interaction | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.04978-b31b1b.svg)](https://arxiv.org/abs/2304.04978) | :heavy_minus_sign: |
-| Adaptive Rotated Convolution for Rotated Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2303.07820-b31b1b.svg)](https://arxiv.org/abs/2303.07820) | :heavy_minus_sign: |
-| Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Exploring Transformers for Open-World Instance Segmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.04206-b31b1b.svg)](https://arxiv.org/abs/2308.04206) | :heavy_minus_sign: |
-| DDG-Net: Discriminability-Driven Graph Network for Weakly-Supervised Temporal Action Localization | [![GitHub](https://img.shields.io/github/stars/XiaojunTang22/ICCV2023-DDGNet)](https://github.com/XiaojunTang22/ICCV2023-DDGNet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.16415-b31b1b.svg)](https://arxiv.org/abs/2307.16415) | :heavy_minus_sign: |
-| Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment | [![GitHub](https://img.shields.io/github/stars/Atten4Vis/GroupDETR)](https://github.com/Atten4Vis/GroupDETR) | [![arXiv](https://img.shields.io/badge/arXiv-2207.13085-b31b1b.svg)](https://arxiv.org/abs/2207.13085) | :heavy_minus_sign: |
-| Category-Aware Allocation Transformer for Weakly Supervised Object Localization | [![GitHub](https://img.shields.io/github/stars/zhiweichen0012/CATR)](https://github.com/zhiweichen0012/CATR) | :heavy_minus_sign: | :heavy_minus_sign: |
-| The Devil is in the Crack Orientation: A New Perspective for Crack Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Clusterformer: Cluster-based Transformer for 3D Object Detection in Point Clouds | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Less is more: Focus Attention for Efficient DETR | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR) <br /> [![Gitee Page](https://img.shields.io/badge/Gitee-Page-303643.svg)](https://gitee.com/mindspore/models/tree/master/research/cv/Focus-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12612-b31b1b.svg)](https://arxiv.org/abs/2307.12612) | :heavy_minus_sign: |
-| DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting | [![GitHub](https://img.shields.io/github/stars/IDEA-Research/3D-deformable-attention)](https://github.com/IDEA-Research/3D-deformable-attention) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12972-b31b1b.svg)](https://arxiv.org/abs/2307.12972) | :heavy_minus_sign: |
-| Multi-Label Self-Supervised Learning with Scene Images | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.03286-b31b1b.svg)](https://arxiv.org/abs/2308.03286) | :heavy_minus_sign: |
-| Cascade-DETR: Delving into High-Quality Universal Object Detection | [![GitHub](https://img.shields.io/github/stars/SysCV/cascade-detr)](https://github.com/SysCV/cascade-detr) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11035-b31b1b.svg)](https://arxiv.org/abs/2307.11035) | :heavy_minus_sign: |
-| Representation Disparity-Aware Distillation for 3D Object Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.10308-b31b1b.svg)](https://arxiv.org/abs/2308.10308) | :heavy_minus_sign: |
-| FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.03594-b31b1b.svg)](https://arxiv.org/abs/2308.03594) | :heavy_minus_sign: |
-| DetZero: Rethinking Offboard 3D Object Detection with Long-Term Sequential Point Clouds | [![GitHub](https://img.shields.io/github/stars/PJLab-ADG/DetZero)](https://github.com/PJLab-ADG/DetZero) | [![arXiv](https://img.shields.io/badge/arXiv-2306.06023-b31b1b.svg)](https://arxiv.org/abs/2306.06023) | :heavy_minus_sign: |
-| DETRs with Collaborative Hybrid Assignments Training | [![GitHub](https://img.shields.io/github/stars/Sense-X/Co-DETR)](https://github.com/Sense-X/Co-DETR) | [![arXiv](https://img.shields.io/badge/arXiv-2211.12860-b31b1b.svg)](https://arxiv.org/abs/2211.12860) | :heavy_minus_sign: |
-| Open-Vocabulary Object Detection with an Open Corpus | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| SparseDet: Improving Sparsely Annotated Object Detection with Pseudo-Positive Mining | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.cs.umd.edu/~sakshams/SparseDet/) <br /> [![GitHub](https://img.shields.io/github/stars/saksham-s/SparseDet)](https://github.com/saksham-s/SparseDet) | [![arXiv](https://img.shields.io/badge/arXiv-2201.04620-b31b1b.svg)](https://arxiv.org/abs/2201.04620) | :heavy_minus_sign: |
-| Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation | [![GitHub](https://img.shields.io/github/stars/Haiyang-W/UniTR)](https://github.com/Haiyang-W/UniTR) | [![arXiv](https://img.shields.io/badge/arXiv-2308.07732-b31b1b.svg)](https://arxiv.org/abs/2308.07732) | :heavy_minus_sign: |
-| Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection | [![GitHub](https://img.shields.io/github/stars/xcyao00/FOD)](https://github.com/xcyao00/FOD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02983-b31b1b.svg)](https://arxiv.org/abs/2308.02983) | :heavy_minus_sign: |
-| MonoNeRD: NeRF-Like Representations for Monocular 3D Object Detection | [![GitHub](https://img.shields.io/github/stars/cskkxjk/MonoNeRD)](https://github.com/cskkxjk/MonoNeRD) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09421-b31b1b.svg)](https://arxiv.org/abs/2308.09421) | :heavy_minus_sign: |
-| Integrally Migrating Pre-Trained Transformer Encoder-Decoders for Visual Object Detection | [![GitHub](https://img.shields.io/github/stars/LiewFeng/imTED)](https://github.com/LiewFeng/imTED) | [![arXiv](https://img.shields.io/badge/arXiv-2205.09613-b31b1b.svg)](https://arxiv.org/abs/2205.09613) | :heavy_minus_sign: |
-| Generating Dynamic Kernels via Transformers for Lane Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Meta-ZSDETR: Zero-Shot DETR with Meta-Learning | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.09540-b31b1b.svg)](https://arxiv.org/abs/2308.09540) | :heavy_minus_sign: |
-| Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det) <br /> [![GitHub](https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark)](https://github.com/ucas-vg/PointTinyBenchmark) | [![arXiv](https://img.shields.io/badge/arXiv-2307.12101-b31b1b.svg)](https://arxiv.org/abs/2307.12101) | :heavy_minus_sign: |
-| AlignDet: Aligning Pre-Training and Fine-Tuning in Object Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://liming-ai.github.io/AlignDet) <br /> [![GitHub](https://img.shields.io/github/stars/liming-ai/AlignDet)](https://github.com/liming-ai/AlignDet) | [![arXiv](https://img.shields.io/badge/arXiv-2307.11077-b31b1b.svg)](https://arxiv.org/abs/2307.11077) | :heavy_minus_sign: |
-| MULLER: Multilayer Laplacian Resizer for Vision | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.02859-b31b1b.svg)](https://arxiv.org/abs/2304.02859) | :heavy_minus_sign: |
-| Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.10155-b31b1b.svg)](https://arxiv.org/abs/2308.10155) | :heavy_minus_sign: |
-| DETRDistill: A Universal Knowledge Distillation Framework for DETR-Families | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.10156-b31b1b.svg)](https://arxiv.org/abs/2211.10156) | :heavy_minus_sign: |
-| Delving into Motion-Aware Matching for Monocular 3D Object Tracking | [![GitHub](https://img.shields.io/github/stars/kuanchihhuang/MoMA-M3T)](https://github.com/kuanchihhuang/MoMA-M3T) | [![arXiv](https://img.shields.io/badge/arXiv-2308.11607-b31b1b.svg)](https://arxiv.org/abs/2308.11607) | :heavy_minus_sign: |
-| FB-BEV: BEV Representation from Forward-Backward View Transformations | [![GitHub](https://img.shields.io/github/stars/NVlabs/FB-BEV)](https://github.com/NVlabs/FB-BEV) | [![arXiv](https://img.shields.io/badge/arXiv-2308.02236-b31b1b.svg)](https://arxiv.org/abs/2308.02236) | :heavy_minus_sign: |
-| Learning from Noisy Data for Semi-Supervised 3D Object Detection | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| Boosting Long-Tailed Object Detection via Step-Wise Learning on Smooth-Tail Data | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2305.12833-b31b1b.svg)](https://arxiv.org/abs/2305.12833) | :heavy_minus_sign: |
-| Objects do not Disappear: Video Object Detection by Single-Frame Object Location Anticipation | [![GitHub](https://img.shields.io/github/stars/L-KID/Video-object-detection-by-location-anticipation)](https://github.com/L-KID/Video-object-detection-by-location-anticipation) | [![arXiv](https://img.shields.io/badge/arXiv-2308.04770-b31b1b.svg)](https://arxiv.org/abs/2308.04770) | :heavy_minus_sign: |
-| Unified Visual Relationship Detection with Vision and Language Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/google-research/scenic/tree/main/scenic/projects/univrd) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08998-b31b1b.svg)](https://arxiv.org/abs/2303.08998) | :heavy_minus_sign: |
-| Universal Domain Adaptation via Compressive Attention Matching | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.11862-b31b1b.svg)](https://arxiv.org/abs/2304.11862) | :heavy_minus_sign: |
-| Unsupervised Domain Adaptive Detection with Network Stability Analysis | [![GitHub](https://img.shields.io/github/stars/tiankongzhang/NSA)](https://github.com/tiankongzhang/NSA) | [![arXiv](https://img.shields.io/badge/arXiv-2308.08182-b31b1b.svg)](https://arxiv.org/abs/2308.08182) | :heavy_minus_sign: |
-| ImGeoNet: Image-Induced Geometry-Aware Voxel Representation for Multi-View 3D Object Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ttaoretw.github.io/imgeonet/) | [![arXiv](https://img.shields.io/badge/arXiv-2308.09098-b31b1b.svg)](https://arxiv.org/abs/2308.09098) | :heavy_minus_sign: |
-| Cyclic-Bootstrap Labeling for Weakly Supervised Object Detection | [![GitHub](https://img.shields.io/github/stars/Yinyf0804/WSOD-CBL)](https://github.com/Yinyf0804/WSOD-CBL) | [![arXiv](https://img.shields.io/badge/arXiv-2308.05991-b31b1b.svg)](https://arxiv.org/abs/2308.05991) | :heavy_minus_sign: |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
 
 ### Image and Video Synthesis
 
