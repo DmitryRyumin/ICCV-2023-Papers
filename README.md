@@ -89,7 +89,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ---
 
-## [Papers](https://openaccess.thecvf.com/ICCV2023?day=all)
+## [Papers](https://openaccess.thecvf.com/ICCV2023?day=all) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" />
 
 <!-- > :exclamation: Final paper links will be added post-conference. -->
 
