@@ -102,9 +102,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tbody>
         <tr>
             <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a></td>
-            <td><img src="https://img.shields.io/badge/69-42BA16" alt="Papers"></td>
-            <td><img src="https://img.shields.io/badge/49-b31b1b" alt="Preprints"></td>
-            <td><img src="https://img.shields.io/badge/36-1D7FBF" alt="Open Code"></td>
+            <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/69-42BA16" alt="Papers"></a></td>
+            <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/49-b31b1b" alt="Preprints"></a></td>
+            <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/36-1D7FBF" alt="Open Code"></a></td>
         </tr>
     </tbody>
 </table>
