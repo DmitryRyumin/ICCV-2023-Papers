@@ -99,7 +99,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <th scope="col">Section</th>
             <th scope="col">Papers</th>
             <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" /></th>
-            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="25" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" /></th>
         </tr>
     </thead>
     <tbody>
