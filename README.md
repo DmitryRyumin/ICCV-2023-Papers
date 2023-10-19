@@ -571,14 +571,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td colspan="3" align="center"><i">Will soon be added</i></td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-shape-modeling-and-processing.md">3D Shape Modeling and Processing</a>
+            </td>
+            <td colspan="3" align="center"><i">Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/human-poseshape-estimation.md">3D Human Pose/Shape Estimation</a>
+            </td>
+            <td colspan="3" align="center"><i">Will soon be added</i></td>
+        </tr>
     </tbody>
 </table>
 
 <!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [3D Shape Modeling and Processing](#3d-shape-modeling-and-processing)
-- [Human Pose/Shape Estimation](#human-poseshape-estimation)
 - [Transfer, Low-Shot, and Continual Learning](#transfer-low-shot-and-continual-learning)
 - [Self-, Semi-, and Unsupervised Learning](#self--semi--and-unsupervised-learning)
 - [Self-, Semi-, Meta-, Unsupervised Learning](#self--semi--meta--unsupervised-learning)
@@ -601,25 +611,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </details> -->
 
 <!--
-
-### 3D Shape Modeling and Processing
-
-| **Title** | **Repo** | **Paper** | **Video** |
-|-----------|:--------:|:---------:|:---------:|
-| EPiC: Ensemble of Partial Point Clouds for Robust Classification | [![GitHub](https://img.shields.io/github/stars/yossilevii100/EPiC)](https://github.com/yossilevii100/EPiC) <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/yossilevii100/ce4cae6c26e7c3d3358c4fb7dda3bec4/untitled5.ipynb) | [![arXiv](https://img.shields.io/badge/arXiv-2303.11419-b31b1b.svg)](https://arxiv.org/abs/2303.11419) | :heavy_minus_sign: |
-| Neural Implicit Surface Evolution | [![GitHub](https://img.shields.io/github/stars/dsilvavinicius/nise)](https://github.com/dsilvavinicius/nise) | [![arXiv](https://img.shields.io/badge/arXiv-2201.09636-b31b1b.svg)](https://arxiv.org/abs/2201.09636) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=8NqwLkhaRBU) |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-### Human Pose/Shape Estimation
-
-> Will soon be added
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
 
 ### Transfer, Low-Shot, and Continual Learning
 
