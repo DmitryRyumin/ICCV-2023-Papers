@@ -2,7 +2,7 @@
 
 ## Computer Vision Theory
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-9-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
