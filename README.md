@@ -569,7 +569,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md">Object Pose Estimation and Tracking</a>
             </td>
-            <td colspan="3" rowspan=13 align="center"><i">Will soon be added</i></td>
+            <td colspan="3" rowspan=16 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -631,15 +631,27 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/faces-and-gestures.md">Faces and Gestures</a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md">Medical and Biological Vision; Cell Microscopy</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/scene-analysis-and-understanding.md">Scene Analysis and Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/multimodal-learning.md">Multimodal Learning</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Medical and Biological Vision; Cell Microscopy](#medical-and-biological-vision-cell-microscopy)
-- [Scene Analysis and Understanding](#scene-analysis-and-understanding)
-- [Multimodal Learning](#multimodal-learning)
 - [Human-in-the-Loop Computer Vision](#human-in-the-loop-computer-vision)
 - [Image and Video Forensics](#image-and-video-forensics)
 - [Geometric Deep Learning](#geometric-deep-learning)
@@ -649,33 +661,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </details> -->
 
 <!--
-
-### Medical and Biological Vision; Cell Microscopy
-
-| **Title** | **Repo** | **Paper** | **Video** |
-|-----------|:--------:|:---------:|:---------:|
-| BoMD: Bag of Multi-Label Local Descriptors for Noisy Chest X-Ray Classification | [![GitHub](https://img.shields.io/github/stars/cyh-0/BoMD)](https://github.com/cyh-0/BoMD) | [![arXiv](https://img.shields.io/badge/arXiv-2203.01937-b31b1b.svg)](https://arxiv.org/abs/2203.01937) | :heavy_minus_sign: |
-| CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection | [![GitHub](https://img.shields.io/github/stars/ljwztc/CLIP-Driven-Universal-Model)](https://github.com/ljwztc/CLIP-Driven-Universal-Model) | [![arXiv](https://img.shields.io/badge/arXiv-2301.00785-b31b1b.svg)](https://arxiv.org/abs/2301.00785) | :heavy_minus_sign: |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-### Scene Analysis and Understanding
-
-> Will soon be added
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-### Multimodal Learning
-
-> Will soon be added
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
 
 ### Human-in-the-Loop Computer Vision
 
