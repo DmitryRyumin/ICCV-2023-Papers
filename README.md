@@ -569,7 +569,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md">Object Pose Estimation and Tracking</a>
             </td>
-            <td colspan="3" rowspan=3 align="center"><i">Will soon be added</i></td>
+            <td colspan="3" rowspan=4 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -581,13 +581,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/human-poseshape-estimation.md">3D Human Pose/Shape Estimation</a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-and-continual-learning.md">Transfer, Low-Shot, and Continual Learning</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Transfer, Low-Shot, and Continual Learning](#transfer-low-shot-and-continual-learning)
 - [Self-, Semi-, and Unsupervised Learning](#self--semi--and-unsupervised-learning)
 - [Self-, Semi-, Meta-, Unsupervised Learning](#self--semi--meta--unsupervised-learning)
 - [Photogrammetry and Remote Sensing](#photogrammetry-and-remote-sensing)
@@ -609,14 +613,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </details> -->
 
 <!--
-
-### Transfer, Low-Shot, and Continual Learning
-
-> Will soon be added
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
 
 ### Self-, Semi-, and Unsupervised Learning
 
