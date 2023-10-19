@@ -576,7 +576,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md">Object Pose Estimation and Tracking</a>
             </td>
-            <td colspan="3" rowspan=21 align="center"><i">Will soon be added</i></td>
+            <td colspan="4" rowspan=21 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
