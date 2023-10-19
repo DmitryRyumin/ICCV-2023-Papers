@@ -151,6 +151,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-robotics.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-robotics.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -164,6 +167,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -179,6 +185,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/37-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -193,6 +202,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-categorization.md"><img src="https://img.shields.io/badge/25-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-categorization.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -206,6 +218,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/12-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
