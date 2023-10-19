@@ -406,6 +406,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-audio.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-audio.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -419,6 +422,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-segmentation-and-shape-analysis.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-segmentation-and-shape-analysis.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -434,6 +440,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/generative-ai.md"><img src="https://img.shields.io/badge/10-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/generative-ai.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -447,6 +456,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/humans-3d-modeling-and-driving.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/humans-3d-modeling-and-driving.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -462,6 +474,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/low-level-vision-and-theory.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/low-level-vision-and-theory.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -475,6 +490,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/27-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -490,6 +508,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-a-single-image-and-shape-from-x.md"><img src="https://img.shields.io/badge/39-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-a-single-image-and-shape-from-x.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -503,6 +524,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/motion-estimation-matching-and-tracking.md"><img src="https://img.shields.io/badge/41-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/motion-estimation-matching-and-tracking.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -518,6 +542,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/action-and-event-understanding.md"><img src="https://img.shields.io/badge/19-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/action-and-event-understanding.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -531,6 +558,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/computational-imaging.md"><img src="https://img.shields.io/badge/19-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/computational-imaging.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -546,6 +576,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/8-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -559,6 +592,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-retrieval.md"><img src="https://img.shields.io/badge/18-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-retrieval.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -574,6 +610,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/27-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -587,6 +626,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/78-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -602,6 +644,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -615,6 +660,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/video-analysis-and-understanding.md"><img src="https://img.shields.io/badge/32-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/video-analysis-and-understanding.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
