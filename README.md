@@ -569,15 +569,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md">Object Pose Estimation and Tracking</a>
             </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md"><img src="https://img.shields.io/badge/soon-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md"><img src="https://img.shields.io/badge/soon-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md"><img src="https://img.shields.io/badge/soon-1D7FBF" alt="Open Code"></a>
-            </td>
+            <td colspan="3" align="center"><i>Will soon be added</i></td>
         </tr>
     </tbody>
 </table>
