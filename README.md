@@ -254,7 +254,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/36-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -271,7 +271,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-graphics-and-robotics.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-graphics-and-robotics.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-graphics-and-robotics.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -288,7 +288,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/privacy-security-fairness-and-explainability.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/privacy-security-fairness-and-explainability.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/privacy-security-fairness-and-explainability.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -305,7 +305,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/fairness-privacy-ethics-social-good-transparency-accountability-in-vision.md"><img src="https://img.shields.io/badge/16-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/fairness-privacy-ethics-social-good-transparency-accountability-in-vision.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/fairness-privacy-ethics-social-good-transparency-accountability-in-vision.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
