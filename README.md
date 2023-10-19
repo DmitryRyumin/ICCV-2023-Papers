@@ -100,6 +100,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <th scope="col">Papers</th>
             <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" /></th>
             <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" /></th>
         </tr>
     </thead>
     <tbody>
@@ -116,6 +117,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/36-1D7FBF" alt="Open Code"></a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -129,6 +133,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/29-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
