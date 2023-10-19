@@ -169,7 +169,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/37-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
