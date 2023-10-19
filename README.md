@@ -118,7 +118,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/36-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/10-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
