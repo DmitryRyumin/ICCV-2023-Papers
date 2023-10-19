@@ -569,7 +569,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md">Object Pose Estimation and Tracking</a>
             </td>
-            <td colspan="3" rowspan=16 align="center"><i">Will soon be added</i></td>
+            <td colspan="3" rowspan=21 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -646,61 +646,33 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/multimodal-learning.md">Multimodal Learning</a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/human-in-the-loop-computer-vision.md">Human-in-the-Loop Computer Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-forensics.md">Image and Video Forensics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/geometric-deep-learning.md">Geometric Deep Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-applications-and-systems.md">Vision Applications and Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-and-dataset.md">Machine Learning and Dataset</a>
+            </td>
+        </tr>
     </tbody>
 </table>
-
-<!-- <details open>
-<summary>List of sections<a id="sections"></a></summary>
-
-- [Human-in-the-Loop Computer Vision](#human-in-the-loop-computer-vision)
-- [Image and Video Forensics](#image-and-video-forensics)
-- [Geometric Deep Learning](#geometric-deep-learning)
-- [Vision Applications and Systems](#vision-applications-and-systems)
-- [Machine Learning and Dataset](#machine-learning-and-dataset)
-
-</details> -->
-
-<!--
-
-### Human-in-the-Loop Computer Vision
-
-> Will soon be added
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-### Image and Video Forensics
-
-> Will soon be added
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-### Geometric Deep Learning
-
-> Will soon be added
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-### Vision Applications and Systems
-
-| **Title** | **Repo** | **Paper** | **Video** |
-|-----------|:--------:|:---------:|:---------:|
-| Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | [![GitHub](https://img.shields.io/github/stars/aimagelab/multimodal-garment-designer)](https://github.com/aimagelab/multimodal-garment-designer) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02051-b31b1b.svg)](https://arxiv.org/abs/2304.02051) | :heavy_minus_sign: |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-### Machine Learning and Dataset
-
-| **Title** | **Repo** | **Paper** | **Video** |
-|-----------|:--------:|:---------:|:---------:|
-| Unmasked Teacher: Towards Training-Efficient Video Foundation Models | [![GitHub](https://img.shields.io/github/stars/OpenGVLab/unmasked_teacher)](https://github.com/OpenGVLab/unmasked_teacher) | [![arXiv](https://img.shields.io/badge/arXiv-2303.16058-b31b1b.svg)](https://arxiv.org/abs/2303.16058) | :heavy_minus_sign: | -->
 
 ---
 
