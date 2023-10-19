@@ -537,13 +537,26 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/78-1D7FBF" alt="Open Code"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/computer-vision-theory.md">Computer Vision Theory</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/soon-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/soon-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/soon-1D7FBF" alt="Open Code"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Computer Vision Theory](#computer-vision-theory)
 - [Video Analysis and Understanding](#video-analysis-and-understanding)
 - [Object Pose Estimation and Tracking](#object-pose-estimation-and-tracking)
 - [3D Shape Modeling and Processing](#3d-shape-modeling-and-processing)
@@ -570,24 +583,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </details> -->
 
 <!--
-
-### Computer Vision Theory
-
-| **Title** | **Repo** | **Paper** | **Video** |
-|-----------|:--------:|:---------:|:---------:|
-| Environment-Invariant Curriculum Relation Learning for Fine-Grained Scene Graph Generation | [![GitHub](https://img.shields.io/github/stars/myukzzz/EICR)](https://github.com/myukzzz/EICR) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Min_Environment-Invariant_Curriculum_Relation_Learning_for_Fine-Grained_Scene_Graph_Generation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.03282-b31b1b.svg)](https://arxiv.org/abs/2308.03282) | :heavy_minus_sign: |
-| DCPB: Deformable Convolution based on the Poincaré Ball for Top-View Fisheye Cameras | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_DCPB_Deformable_Convolution_Based_on_the_Poincare_Ball_for_Top-view_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-| FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs | [![GitHub](https://img.shields.io/github/stars/yh-pengtu/FemtoDet)](https://github.com/yh-pengtu/FemtoDet) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Tu_FemtoDet_An_Object_Detection_Baseline_for_Energy_Versus_Performance_Tradeoffs_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.06719-b31b1b.svg)](https://arxiv.org/abs/2301.06719) | :heavy_minus_sign: |
-| Curvature-Aware Training for Coordinate Networks | [![GitHub](https://img.shields.io/github/stars/sfchng/curvature-aware-INRs)](https://github.com/sfchng/curvature-aware-INRs) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Saratchandran_Curvature-Aware_Training_for_Coordinate_Networks_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.08552-b31b1b.svg)](https://arxiv.org/abs/2305.08552) | :heavy_minus_sign: |
-| Yes, We CANN: Constrained Approximate Nearest Neighbors for Local Feature-based Visual Localization | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Aiger_Yes_we_CANN_Constrained_Approximate_Nearest_Neighbors_for_Local_Feature-Based_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.09012-b31b1b.svg)](https://arxiv.org/abs/2306.09012) | :heavy_minus_sign: |
-| Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence | [![GitHub](https://img.shields.io/github/stars/chenlicodebank/Dynamic-Confidence-in-Spiking-Neural-Networks)](https://github.com/chenlicodebank/Dynamic-Confidence-in-Spiking-Neural-Networks) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Unleashing_the_Potential_of_Spiking_Neural_Networks_with_Dynamic_Confidence_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-| Minimal Solutions to Uncalibrated Two-View Geometry with Known Epipoles | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Nakano_Minimal_Solutions_to_Uncalibrated_Two-view_Geometry_with_Known_Epipoles_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-| FBLNet: FeedBack Loop Network for Driver Attention Prediction | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_FBLNet_FeedBack_Loop_Network_for_Driver_Attention_Prediction_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.02096-b31b1b.svg)](https://arxiv.org/abs/2212.02096) | :heavy_minus_sign: |
-| Deep Feature Deblurring Diffusion for Detecting Out-of-Distribution Objects | [![GitHub](https://img.shields.io/github/stars/AmingWu/DFDD-OOD)](https://github.com/AmingWu/DFDD-OOD) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Deep_Feature_Deblurring_Diffusion_for_Detecting_Out-of-Distribution_Objects_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
 
 ### Video Analysis and Understanding
 
