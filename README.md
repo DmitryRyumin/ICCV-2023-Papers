@@ -569,7 +569,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md">Object Pose Estimation and Tracking</a>
             </td>
-            <td colspan="3" rowspan=8 align="center"><i">Will soon be added</i></td>
+            <td colspan="3" rowspan=10 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -606,14 +606,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md">Efficient and Scalable Vision</a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md">Machine Learning (other than Deep Learning)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/document-analysis-and-understanding.md">Document Analysis and Understanding</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 <!-- <details open>
 <summary>List of sections<a id="sections"></a></summary>
 
-- [Machine Learning (other than Deep Learning)](#machine-learning-other-than-deep-learning)
-- [Document Analysis and Understanding](#document-analysis-and-understanding)
 - [Biometrics](#biometrics)
 - [Datasets and Evaluation](#datasets-and-evaluation)
 - [Faces and Gestures](#faces-and-gestures)
@@ -629,14 +637,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </details> -->
 
 <!--
-
-### Machine Learning (other than Deep Learning)
-
-> Will soon be added
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
 
 ### Document Analysis and Understanding
 
