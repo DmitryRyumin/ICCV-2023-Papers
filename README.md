@@ -569,19 +569,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/object-pose-estimation-and-tracking.md">Object Pose Estimation and Tracking</a>
             </td>
-            <td colspan="3" align="center"><i">Will soon be added</i></td>
+            <td colspan="3" rowspan=3 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-shape-modeling-and-processing.md">3D Shape Modeling and Processing</a>
             </td>
-            <td colspan="3" align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/human-poseshape-estimation.md">3D Human Pose/Shape Estimation</a>
             </td>
-            <td colspan="3" align="center"><i">Will soon be added</i></td>
         </tr>
     </tbody>
 </table>
