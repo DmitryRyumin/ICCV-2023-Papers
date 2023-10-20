@@ -1,5 +1,17 @@
 # ICCV-2023-Papers
 
+<div align="center">
+    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-graphics-and-robotics.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/fairness-privacy-ethics-social-good-transparency-accountability-in-vision.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+    </a>
+</div>
+
 ## Privacy, Security, Fairness, and Explainability
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-8-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
