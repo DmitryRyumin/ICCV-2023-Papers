@@ -2,7 +2,7 @@
 
 ## Transfer, Low-Shot, Continual, Long-Tail Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-43-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-36-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-27-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-43-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-36-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-27-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-2-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
