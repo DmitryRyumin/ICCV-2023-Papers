@@ -2,7 +2,7 @@
 
 ## Action and Event Understanding
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-30-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-22-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-19-1D7FBF)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-30-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-22-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-19-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
