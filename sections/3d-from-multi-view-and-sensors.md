@@ -1,5 +1,14 @@
 # ICCV-2023-Papers
 
+<div align="center">
+    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+    </a>
+</div>
+
 ## 3D from Multi-View and Sensors
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-69-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-49-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-36-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-10-FF0000)
