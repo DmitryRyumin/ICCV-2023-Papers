@@ -701,7 +701,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/human-poseshape-estimation.md">3D Human Pose/Shape Estimation</a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/human-poseshape-estimation.md">Human Pose/Shape Estimation</a>
             </td>
             <td colspan="4" rowspan=19 align="center"><i">Will soon be added</i></td>
         </tr>
