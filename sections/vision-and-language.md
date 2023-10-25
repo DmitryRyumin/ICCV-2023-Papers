@@ -82,3 +82,56 @@
 | Too Large; Data Reduction for Vision-Language Pre-Training | [![GitHub](https://img.shields.io/github/stars/showlab/datacentric.vlp)](https://github.com/showlab/datacentric.vlp) | [![arXiv](https://img.shields.io/badge/arXiv-2305.20087-b31b1b.svg)](https://arxiv.org/abs/2305.20087) | :heavy_minus_sign: |
 | ViLTA: Enhancing Vision-Language Pre-Training through Textual Augmentation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.16689-b31b1b.svg)](https://arxiv.org/abs/2308.16689) | :heavy_minus_sign: |
 | Zero-Shot Composed Image Retrieval with Textual Inversion | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://circo.micc.unifi.it/demo) <br /> [![GitHub](https://img.shields.io/github/stars/miccunifi/SEARLE)](https://github.com/miccunifi/SEARLE) | [![arXiv](https://img.shields.io/badge/arXiv-2303.15247-b31b1b.svg)](https://arxiv.org/abs/2303.15247) | :heavy_minus_sign: |
+| SATR: Zero-Shot Semantic Segmentation of 3D Shapes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://samir55.github.io/SATR/) <br /> [![GitHub](https://img.shields.io/github/stars/Samir55/SATR)](https://github.com/Samir55/SATR) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelreheem_SATR_Zero-Shot_Semantic_Segmentation_of_3D_Shapes_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.04909-b31b1b.svg)](https://arxiv.org/abs/2304.04909) | :heavy_minus_sign: |
+| CiT: Curation in Training for Effective Vision-Language Data | [![GitHub](https://img.shields.io/github/stars/facebookresearch/CiT)](https://github.com/facebookresearch/CiT) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_CiT_Curation_in_Training_for_Effective_Vision-Language_Data_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.02241-b31b1b.svg)](https://arxiv.org/abs/2301.02241) | :heavy_minus_sign: |
+| Self-Regulating Prompts: Foundational Model Adaptation without Forgetting | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://muzairkhattak.github.io/PromptSRC/) <br /> [![GitHub](https://img.shields.io/github/stars/muzairkhattak/PromptSRC)](https://github.com/muzairkhattak/PromptSRC) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.06948-b31b1b.svg)](https://arxiv.org/abs/2307.06948) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=VVLwL57UBDg) |
+| Learning to Ground Instructional Articles in Videos through Narrations | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Mavroudi_Learning_to_Ground_Instructional_Articles_in_Videos_through_Narrations_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.03802-b31b1b.svg)](https://arxiv.org/abs/2306.03802) | :heavy_minus_sign: |
+| RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Kurita_RefEgo_Referring_Expression_Comprehension_Dataset_from_First-Person_Perception_of_Ego4D_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.12035-b31b1b.svg)](https://arxiv.org/abs/2308.12035) | :heavy_minus_sign: |
+<!-- | Multi3DRefer: Grounding Text Description to Multiple 3D Objects |  |  |  |
+| Bayesian Prompt Learning for Image-Language Model Generalization |  |  |  |
+| Who are You Referring to? Coreference Resolution in Image Narrations |  |  |  |
+| Guiding Image Captioning Models Toward more Specific Captions |  |  |  |
+| PreSTU: Pre-Training for Scene-Text Understanding |  |  |  |
+| Exploring Group Video Captioning with Efficient Relational Approximation |  |  |  |
+| VLSlice: Interactive Vision-and-Language Slice Discovery |  |  |  |
+| Pretrained Language Models as Visual Planners for Human Assistance |  |  |  |
+| VQA Therapy: Exploring Answer Differences by Visually Grounding Answers |  |  |  |
+| Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation using only Images |  |  |  |
+| Zero-Shot Composed Image Retrieval with Textual Inversion |  |  |  |
+| PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification |  |  |  |
+| Lip Reading for Low-Resource Languages by Learning and Combining General Speech Knowledge and Language-Specific Knowledge |  |  |  |
+| ViewRefer: Grasp the Multi-View Knowledge for 3D Visual Grounding |  |  |  |
+| AerialVLN: Vision-and-Language Navigation for UAVs |  |  |  |
+| Linear Spaces of Meanings: Compositional Structures in Vision-Language Models |  |  |  |
+| HiTeA: Hierarchical Temporal-Aware Video-Language Pre-Training |  |  |  |
+| EgoTV: Egocentric Task Verification from Natural Language Task Descriptions |  |  |  |
+| SINC: Self-Supervised in-Context Learning for Vision-Language Tasks |  |  |  |
+| VLN-PETL: Parameter-Efficient Transfer Learning for Vision-and-Language Navigation |  |  |  |
+| Going Denser with Open-Vocabulary Part Segmentation |  |  |  |
+| Temporal Collection and Distribution for Referring Video Object Segmentation |  |  |  |
+| Inverse Compositional Learning for Weakly-Supervised Relation Grounding |  |  |  |
+| Why is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? |  |  |  |
+| CHAMPAGNE: Learning Real-World Conversation from Large-Scale Web Videos |  |  |  |
+| RCA-NOC: Relative Contrastive Alignment for Novel Object Captioning |  |  |  |
+| DIME-FM: DIstilling Multimodal and Efficient Foundation Models |  |  |  |
+| Black Box Few-Shot Adaptation for Vision-Language Models |  |  |  |
+| Shatter and Gather: Learning Referring Image Segmentation with Text Supervision |  |  |  |
+| Accurate and Fast Compressed Video Captioning |  |  |  |
+| Exploring Temporal Concurrency for Video-Language Representation Learning |  |  |  |
+| Verbs in Action: Improving Verb Understanding in Video-Language Models |  |  |  |
+| Sign Language Translation with Iterative Prototype |  |  |  |
+| Contrastive Feature Masking Open-Vocabulary Vision Transformer |  |  |  |
+| Toward Unsupervised Realistic Visual Question Answering |  |  |  |
+| GridMM: Grid Memory Map for Vision-and-Language Navigation |  |  |  |
+| Video Background Music Generation: Dataset, Method and Evaluation |  |  |  |
+| Prompt Switch: Efficient CLIP Adaptation for Text-Video Retrieval |  |  |  |
+| Prompt-Aligned Gradient for Prompt Tuning |  |  |  |
+| Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models |  |  |  |
+| Order-Prompted Tag Sequence Generation for Video Tagging |  |  |  |
+| What does a Platypus Look Like? Generating Customized Prompts for Zero-Shot Image Classification |  |  |  |
+| PromptStyler: Prompt-Driven Style Generation for Source-Free Domain Generalization |  |  |  |
+| DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability |  |  |  |
+| EdaDet: Open-Vocabulary Object Detection using Early Dense Alignment |  |  |  |
+| MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition |  |  |  |
+| Waffling Around for Performance: Visual Classification with Random Words and Broad Concepts |  |  |  |
+| March in Chat: Interactive Prompting for Remote Embodied Referring Expression |  |  |  | -->
