@@ -245,16 +245,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md">Vision and Language</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/64-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/82-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/49-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/66-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/36-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/44-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-language.md"><img src="https://img.shields.io/badge/4-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
