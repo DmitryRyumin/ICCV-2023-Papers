@@ -14,7 +14,7 @@
 
 ## Vision and Language
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-82-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-66-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-44-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-4-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-82-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-66-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-45-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-4-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -28,7 +28,7 @@
 | Segment Every Reference Object in Spatial and Temporal Spaces | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Segment_Every_Reference_Object_in_Spatial_and_Temporal_Spaces_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Gradient-Regulated_Meta-Prompt_Learning_for_Generalizable_Vision-Language_Models_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.06571-b31b1b.svg)](https://arxiv.org/abs/2303.06571) | :heavy_minus_sign: |
 | Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pre-Training | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Misalign_Contrast_then_Distill_Rethinking_Misalignments_in_Language-Image_Pre-training_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-| Toward Multi-Granularity Decision-Making: Explicit Visual Reasoning with Hierarchical Knowledge | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Toward Multi-Granularity Decision-Making: Explicit Visual Reasoning with Hierarchical Knowledge | [![GitHub](https://img.shields.io/github/stars/SuperJohnZhang/HCNMN)](https://github.com/SuperJohnZhang/HCNMN) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Toward_Multi-Granularity_Decision-Making_Explicit_Visual_Reasoning_with_Hierarchical_Knowledge_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | VL-Match: Enhancing Vision-Language Pretraining with Token-Level and Instance-Level Matching | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Moment Detection in Long Tutorial Videos | [![GitHub](https://img.shields.io/github/stars/ioanacroi/longmoment-detr)](https://github.com/ioanacroi/longmoment-detr) | :heavy_minus_sign: | :heavy_minus_sign: |
 | Not All Features Matter: Enhancing Few-Shot CLIP with Adaptive Prior Refinement | [![GitHub](https://img.shields.io/github/stars/yangyangyang127/APE)](https://github.com/yangyangyang127/APE) | [![arXiv](https://img.shields.io/badge/arXiv-2304.01195-b31b1b.svg)](https://arxiv.org/abs/2304.01195) | :heavy_minus_sign: |
