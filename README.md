@@ -129,7 +129,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/53-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/40-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/41-b31b1b" alt="Preprints"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/34-1D7FBF" alt="Open Code"></a>
