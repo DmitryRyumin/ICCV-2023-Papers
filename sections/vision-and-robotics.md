@@ -18,7 +18,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Simoun: Synergizing Interactive Motion-Appearance Understanding for Vision-based Reinforcement Learning | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Simoun: Synergizing Interactive Motion-Appearance Understanding for Vision-based Reinforcement Learning | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Simoun_Synergizing_Interactive_Motion-appearance_Understanding_for_Vision-based_Reinforcement_Learning_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Among Us: Adversarially Robust Collaborative Perception by Consensus | [![GitHub](https://img.shields.io/github/stars/coperception/ROBOSAC)](https://github.com/coperception/ROBOSAC) | [![arXiv](https://img.shields.io/badge/arXiv-2303.09495-b31b1b.svg)](https://arxiv.org/abs/2303.09495) | :heavy_minus_sign: |
 | Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://saltoricristiano.github.io/lidog/) <br /> [![GitHub](https://img.shields.io/github/stars/saltoricristiano/LiDOG)](https://github.com/saltoricristiano/LiDOG) | [![arXiv](https://img.shields.io/badge/arXiv-2304.11705-b31b1b.svg)](https://arxiv.org/abs/2304.11705) | :heavy_minus_sign: |
 | Stabilizing Visual Reinforcement Learning via Asymmetric Interactive Cooperation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
