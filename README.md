@@ -19,7 +19,7 @@
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
 <div style="float:left;">
-  <img src="https://geps.dev/progress/64?successColor=006600" />
+  <img src="https://geps.dev/progress/65?successColor=006600" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" />
 </div>
 
