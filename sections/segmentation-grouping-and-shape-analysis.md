@@ -18,7 +18,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Enhancing Spatial and Semantic Supervision for Hybrid-based 3D Instance Segmentation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| 3D Instance Segmentation via Enhanced Spatial and Semantic Supervision | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Al_Khatib_3D_Instance_Segmentation_via_Enhanced_Spatial_and_Semantic_Supervision_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Learning Neural Eigenfunctions for Unsupervised Semantic Segmentation | [![GitHub](https://img.shields.io/github/stars/thudzj/NeuralEigenfunctionSegmentor)](https://github.com/thudzj/NeuralEigenfunctionSegmentor) | [![arXiv](https://img.shields.io/badge/arXiv-2304.02841-b31b1b.svg)](https://arxiv.org/abs/2304.02841) | :heavy_minus_sign: |
 | Divide and Conquer: 3D Point Cloud Instance Segmentation with Point-Wise Binarization | [![GitHub](https://img.shields.io/github/stars/weiguangzhao/PBNet)](https://github.com/weiguangzhao/PBNet) | [![arXiv](https://img.shields.io/badge/arXiv-2207.11209-b31b1b.svg)](https://arxiv.org/abs/2207.11209) | :heavy_minus_sign: |
 | Point2Mask: Point-Supervised Panoptic Segmentation via Optimal Transport | [![GitHub](https://img.shields.io/github/stars/LiWentomng/Point2Mask)](https://github.com/LiWentomng/Point2Mask) | [![arXiv](https://img.shields.io/badge/arXiv-2308.01779-b31b1b.svg)](https://arxiv.org/abs/2308.01779) | :heavy_minus_sign: |
