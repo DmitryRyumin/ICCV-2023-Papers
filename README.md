@@ -771,12 +771,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md">Photogrammetry and Remote Sensing</a>
             </td>
-            <td colspan="4" rowspan=16 align="center"><i">Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md">Efficient and Scalable Vision</a>
             </td>
+            <td colspan="4" rowspan=15 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
