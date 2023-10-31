@@ -46,42 +46,42 @@
 | Randomized Quantization: A Generic Augmentation for Data Agnostic Self-Supervised Learning | [![GitHub](https://img.shields.io/github/stars/microsoft/random_quantize)](https://github.com/microsoft/random_quantize) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Randomized_Quantization_A_Generic_Augmentation_for_Data_Agnostic_Self-supervised_Learning_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.08663-b31b1b.svg)](https://arxiv.org/abs/2212.08663) | :heavy_minus_sign: |
 | Prototypes-Oriented Transductive Few-Shot Learning with Conditional Transport | [![GitHub](https://img.shields.io/github/stars/RashLog/PUTM)](https://github.com/RashLog/PUTM) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Prototypes-oriented_Transductive_Few-shot_Learning_with_Conditional_Transport_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.03047-b31b1b.svg)](https://arxiv.org/abs/2308.03047) | :heavy_minus_sign: |
 | Contrastive Learning Relies more on Spatial Inductive Bias than Supervised Learning: An Empirical Study | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://haorantang.github.io/cl_spatial_inductive_bias/) <br /> [![GitHub](https://img.shields.io/github/stars/HaoranTang/cl_spatial_inductive_bias)](https://github.com/HaoranTang/cl_spatial_inductive_bias) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhong_Contrastive_Learning_Relies_More_on_Spatial_Inductive_Bias_Than_Supervised_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-<!-- | Pseudo-Label Alignment for Semi-Supervised Instance Segmentation |  |  |  |
-| CFCG: Semi-Supervised Semantic Segmentation via Cross-Fusion and Contour Guidance Supervision |  |  |  |
-| Pixel-Wise Contrastive Distillation |  |  |  |
-| Rethinking Safe Semi-Supervised Learning: Transferring the Open-Set Problem to a Close-Set One |  |  |  |
-| Towards Open-Set Test-Time Adaptation Utilizing the Wisdom of Crowds in Entropy Minimization |  |  |  |
-| Gradient-based Sampling for Class Imbalanced Semi-Supervised Object Detection |  |  |  |
+| Pseudo-Label Alignment for Semi-Supervised Instance Segmentation | [![GitHub](https://img.shields.io/github/stars/hujiecpp/PAIS)](https://github.com/hujiecpp/PAIS) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Pseudo-label_Alignment_for_Semi-supervised_Instance_Segmentation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.05359-b31b1b.svg)](https://arxiv.org/abs/2308.05359) | :heavy_minus_sign: |
+| CFCG: Semi-Supervised Semantic Segmentation via Cross-Fusion and Contour Guidance Supervision | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_CFCG_Semi-Supervised_Semantic_Segmentation_via_Cross-Fusion_and_Contour_Guidance_Supervision_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Pixel-Wise Contrastive Distillation | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Pixel-Wise_Contrastive_Distillation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00218-b31b1b.svg)](https://arxiv.org/abs/2211.00218) | :heavy_minus_sign: |
+| Rethinking Safe Semi-Supervised Learning: Transferring the Open-Set Problem to a Close-Set One | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Towards Open-Set Test-Time Adaptation Utilizing the Wisdom of Crowds in Entropy Minimization | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Towards_Open-Set_Test-Time_Adaptation_Utilizing_the_Wisdom_of_Crowds_in_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.06879-b31b1b.svg)](https://arxiv.org/abs/2308.06879) | :heavy_minus_sign: |
+<!-- | Gradient-based Sampling for Class Imbalanced Semi-Supervised Object Detection |  |  |  |
 | Remembering Normality: Memory-Guided Knowledge Distillation for Unsupervised Anomaly Detection |  |  |  |
 | Semi-Supervised Learning via Weight-Aware Distillation under Class Distribution Mismatch |  |  |  |
 | Label Shift Adapter for Test-Time Adaptation under Covariate and Label Shifts |  |  |  |
-| SimMatchV2: Semi-Supervised Learning with Graph Consistency |  |  |  |
-| Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples |  |  |  |
+| SimMatchV2: Semi-Supervised Learning with Graph Consistency |  |  |  | -->
+<!-- | Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples |  |  |  |
 | Learning by Sorting: Self-Supervised Learning with Group Ordering Constraints |  |  |  |
 | L-DAWA: Layer-Wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning |  |  |  |
 | Class-Relation Knowledge Distillation for Novel Class Discovery |  |  |  |
-| Representation Uncertainty in Self-Supervised Learning as Variational Inference |  |  |  |
-| Point-TTA: Test-Time Adaptation for Point Cloud Registration using Multitask Meta-Auxiliary Learning |  |  |  |
+| Representation Uncertainty in Self-Supervised Learning as Variational Inference |  |  |  | -->
+<!-- | Point-TTA: Test-Time Adaptation for Point Cloud Registration using Multitask Meta-Auxiliary Learning |  |  |  |
 | Adaptive Similarity Bootstrapping for Self-Distillation based Representation Learning |  |  |  |
 | Point Contrastive Prediction with Semantic Clustering for Self-Supervised Learning on Point Cloud Videos |  |  |  |
 | MHCN: A Hyperbolic Neural Network Model for Multi-View Hierarchical Clustering |  |  |  |
-| Time does Tell: Self-Supervised Time-Tuning of Dense Image Representations |  |  |  |
-| To Adapt or not to Adapt? Real-Time Adaptation for Semantic Segmentation |  |  |  |
+| Time does Tell: Self-Supervised Time-Tuning of Dense Image Representations |  |  |  | -->
+<!-- | To Adapt or not to Adapt? Real-Time Adaptation for Semantic Segmentation |  |  |  |
 | Simple and Effective Out-of-Distribution Detection via Cosine-based Softmax Loss |  |  |  |
 | MixBag: Bag-Level Data Augmentation for Learning from Label Proportions |  |  |  |
 | Masked Spatio-Temporal Structure Prediction for Self-Supervised Learning on Point Cloud Videos |  |  |  |
-| Parametric Classification for Generalized Category Discovery: A Baseline Study |  |  |  |
-| Object-Centric Multiple Object Tracking |  |  |  |
+| Parametric Classification for Generalized Category Discovery: A Baseline Study |  |  |  | -->
+<!-- | Object-Centric Multiple Object Tracking |  |  |  |
 | Locating Noise is Halfway Denoising for Semi-Supervised Segmentation |  |  |  |
 | Learning Semi-Supervised Gaussian Mixture Models for Generalized Category Discovery |  |  |  |
 | LoCUS: Learning Multiscale 3D-Consistent Features from Posed Images |  |  |  |
-| Stable Cluster Discrimination for Deep Clustering |  |  |  |
-| Cross-Modal Scalable Hyperbolic Hierarchical Clustering |  |  |  |
+| Stable Cluster Discrimination for Deep Clustering |  |  |  | -->
+<!-- | Cross-Modal Scalable Hyperbolic Hierarchical Clustering |  |  |  |
 | Collaborative Propagation on Multiple Instance Graphs for 3D Instance Segmentation with Single-Point Supervision |  |  |  |
 | Semantics Meets Temporal Correspondence: Self-Supervised Object-Centric Learning in Videos |  |  |  |
 | Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery |  |  |  |
-| DreamTeacher: Pretraining Image Backbones with Deep Generative Models |  |  |  |
-| MATE: Masked Autoencoders are Online 3D Test-Time Learners |  |  |  |
+| DreamTeacher: Pretraining Image Backbones with Deep Generative Models |  |  |  | -->
+<!-- | MATE: Masked Autoencoders are Online 3D Test-Time Learners |  |  |  |
 | PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels |  |  |  |
 | Calibrating Uncertainty for Semi-Supervised Crowd Counting |  |  |  |
 | Test Time Adaptation for Blind Image Quality Assessment |  |  |  |
