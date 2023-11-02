@@ -75,7 +75,6 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     <tr>
         <td>ISMIR</td>
         <td><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
-        <td>2024</td>
     </tr>
 </table>
 
