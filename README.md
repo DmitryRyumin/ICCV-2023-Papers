@@ -62,7 +62,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
         <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><i>Speech (SP)</i></td>
+      <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
@@ -71,6 +71,11 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     <tr>
         <td>INTERSPEECH</td>
         <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+    <tr>
+        <td>ISMIR</td>
+        <td><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
+        <td>2024</td>
     </tr>
 </table>
 
