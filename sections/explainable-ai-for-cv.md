@@ -14,7 +14,7 @@
 
 ## Explainable AI for CV
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-21-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-16-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-14-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-21-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-17-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-15-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -38,4 +38,4 @@
 | Counterfactual-based Saliency Map: Towards Visual Contrastive Explanations for Neural Networks | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Jeon_Beyond_Single_Path_Integrated_Gradients_for_Reliable_Input_Attribution_via_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Learning Support and Trivial Prototypes for Interpretable Image Classification | [![GitHub](https://img.shields.io/github/stars/cwangrun/ST-ProtoPNet)](https://github.com/cwangrun/ST-ProtoPNet) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.04011-b31b1b.svg)](https://arxiv.org/abs/2301.04011) | :heavy_minus_sign: |
-| Visual Explanations via Iterated Integrated Gradients | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Visual Explanations via Iterated Integrated Attributions | [![GitHub](https://img.shields.io/github/stars/iia-iccv23/iia)](https://github.com/iia-iccv23/iia) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Barkan_Visual_Explanations_via_Iterated_Integrated_Attributions_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.18585-b31b1b.svg)](https://arxiv.org/abs/2310.18585) | :heavy_minus_sign: |
