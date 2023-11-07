@@ -14,7 +14,7 @@
 
 ## Neural Generative Models
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-34-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-25-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-16-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-5-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-34-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-26-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-17-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-5-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -46,7 +46,7 @@
 | Feature Proliferation the Cancer in StyleGAN and its Treatments | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Unsupervised Facial Performance Editing via Vector-Quantized StyleGAN Representations | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | 3D-Aware Image Generation using 2D Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jeffreyxiang.github.io/ivid/) <br /> [![GitHub](https://img.shields.io/github/stars/JeffreyXiang/ivid)](https://github.com/JeffreyXiang/ivid) | [![arXiv](https://img.shields.io/badge/arXiv-2303.17905-b31b1b.svg)](https://arxiv.org/abs/2303.17905) | :heavy_minus_sign: |
-| Neural Collage Transfer: Artistic Reconstruction via Material Manipulation | [![GitHub](https://img.shields.io/github/stars/northadventure/CollageRL)](https://github.com/northadventure/CollageRL) | [![arXiv](https://img.shields.io/badge/arXiv-2311.02202-b31b1b.svg)](https://arxiv.org/abs/2311.02202) | :heavy_minus_sign: |
+| Neural Collage Transfer: Artistic Reconstruction via Material Manipulation | [![GitHub](https://img.shields.io/github/stars/northadventure/CollageRL)](https://github.com/northadventure/CollageRL) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Neural_Collage_Transfer_Artistic_Reconstruction_via_Material_Manipulation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2311.02202-b31b1b.svg)](https://arxiv.org/abs/2311.02202) | :heavy_minus_sign: |
 | Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption | [![GitHub](https://img.shields.io/github/stars/sjtuplayer/few-shot-diffusion)](https://github.com/sjtuplayer/few-shot-diffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2309.03729-b31b1b.svg)](https://arxiv.org/abs/2309.03729) | :heavy_minus_sign: |
 | Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lakonik.github.io/ssdnerf/) <br /> [![GitHub](https://img.shields.io/github/stars/Lakonik/SSDNeRF)](https://github.com/Lakonik/SSDNeRF) | [![arXiv](https://img.shields.io/badge/arXiv-2304.06714-b31b1b.svg)](https://arxiv.org/abs/2304.06714) | :heavy_minus_sign: |
 | Erasing Concepts from Diffusion Models | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://erasing.baulab.info/) <br /> [![GitHub](https://img.shields.io/github/stars/rohitgandikota/erasing)](https://github.com/rohitgandikota/erasing) | [![arXiv](https://img.shields.io/badge/arXiv-2303.07345-b31b1b.svg)](https://arxiv.org/abs/2303.07345) | :heavy_minus_sign: |
