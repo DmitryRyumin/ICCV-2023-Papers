@@ -218,7 +218,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/21-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/15-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/16-b31b1b" alt="Preprints"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/12-1D7FBF" alt="Open Code"></a>
