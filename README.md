@@ -204,7 +204,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-categorization.md"><img src="https://img.shields.io/badge/35-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-categorization.md"><img src="https://img.shields.io/badge/31-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-categorization.md"><img src="https://img.shields.io/badge/32-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-categorization.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
