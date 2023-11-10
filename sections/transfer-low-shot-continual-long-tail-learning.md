@@ -62,3 +62,70 @@
 | FS-DETR: Few-Shot DEtection TRansformer with Prompting and without Re-Training | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Bulat_FS-DETR_Few-Shot_DEtection_TRansformer_with_Prompting_and_without_Re-Training_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.04845-b31b1b.svg)](https://arxiv.org/abs/2210.04845) | :heavy_minus_sign: |
 | Tuning Pre-Trained Model via Moment Probing | [![GitHub](https://img.shields.io/github/stars/mingzeG/Moment-Probing)](https://github.com/mingzeG/Moment-Probing) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.11342-b31b1b.svg)](https://arxiv.org/abs/2307.11342) | :heavy_minus_sign: |
 | Benchmarking Low-Shot Robustness to Natural Distribution Shifts | [![GitHub](https://img.shields.io/github/stars/Aaditya-Singh/Low-Shot-Robustness)](https://github.com/Aaditya-Singh/Low-Shot-Robustness) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Singh_Benchmarking_Low-Shot_Robustness_to_Natural_Distribution_Shifts_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.11263-b31b1b.svg)](https://arxiv.org/abs/2304.11263) | :heavy_minus_sign: |
+| Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds | [![GitHub](https://img.shields.io/github/stars/Ze-Yang/LGKD)](https://github.com/Ze-Yang/LGKD) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Label-Guided_Knowledge_Distillation_for_Continual_Semantic_Segmentation_on_2D_Images_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| ETran: Energy-based Transferability Estimation | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Gholami_ETran_Energy-Based_Transferability_Estimation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.02027-b31b1b.svg)](https://arxiv.org/abs/2308.02027) | :heavy_minus_sign: |
+| PØDA: Prompt-Driven Zero-Shot Domain Adaptation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://astra-vision.github.io/PODA/) <br /> [![GitHub](https://img.shields.io/github/stars/astra-vision/PODA)](https://github.com/astra-vision/PODA) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Fahes_PODA_Prompt-driven_Zero-shot_Domain_Adaptation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.03241-b31b1b.svg)](https://arxiv.org/abs/2212.03241) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=kataxQoPuSE) |
+| Local Context-Aware Active Domain Adaptation | [![GitHub](https://img.shields.io/github/stars/tsun/LADA)](https://github.com/tsun/LADA) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_Local_Context-Aware_Active_Domain_Adaptation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.12856-b31b1b.svg)](https://arxiv.org/abs/2208.12856) | :heavy_minus_sign: |
+| MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition | [![GitHub](https://img.shields.io/github/stars/simplify23/MRN)](https://github.com/simplify23/MRN) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_MRN_Multiplexed_Routing_Network_for_Incremental_Multilingual_Text_Recognition_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.14758-b31b1b.svg)](https://arxiv.org/abs/2305.14758) | :heavy_minus_sign: |
+| Few-Shot Dataset Distillation via Translative Pre-Training | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Few-Shot_Dataset_Distillation_via_Translative_Pre-Training_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Wasserstein Expansible Variational Autoencoder for Discriminative and Generative Continual Learning | [![GitHub](https://img.shields.io/github/stars/dtuzi123/WEVAE)](https://github.com/dtuzi123/WEVAE) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Wasserstein_Expansible_Variational_Autoencoder_for_Discriminative_and_Generative_Continual_Learning_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| Tangent Model Composition for Ensembling and Continual Fine-Tuning | [![GitHub](https://img.shields.io/github/stars/tianyu139/tangent-model-composition)](https://github.com/tianyu139/tangent-model-composition) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Tangent_Model_Composition_for_Ensembling_and_Continual_Fine-tuning_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.08114-b31b1b.svg)](https://arxiv.org/abs/2307.08114) | :heavy_minus_sign: |
+| Look at the Neighbor: Distortion-Aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://vlislab22.github.io/DATR/) <br /> [![GitHub](https://img.shields.io/github/stars/zhengxuJosh/DATR)](https://github.com/zhengxuJosh/DATR) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Look_at_the_Neighbor_Distortion-aware_Unsupervised_Domain_Adaptation_for_Panoramic_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.05493-b31b1b.svg)](https://arxiv.org/abs/2308.05493) | :heavy_minus_sign: |
+| Homeomorphism Alignment for Unsupervised Domain Adaptation | [![GitHub](https://img.shields.io/github/stars/buerzlh/HMA)](https://github.com/buerzlh/HMA) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Homeomorphism_Alignment_for_Unsupervised_Domain_Adaptation_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+<!-- | Knowledge Restore and Transfer for Multi-Label Class-Incremental Learning |  |  |  |
+| Unsupervised Domain Adaptation for Training Event-based Networks using Contrastive Learning and Uncorrelated Conditioning |  |  |  |
+| A Simple Recipe to Meta-Learn Forward and Backward Transfer |  |  |  |
+| Dynamic Residual Classifier for Class Incremental Learning |  |  |  |
+| Concept-Wise Fine-Tuning Matters in Preventing Negative Transfer |  |  |  |
+| Online Prototype Learning for Online Continual Learning |  |  |  |
+| Bidirectional Alignment for Domain Adaptive Detection with Transformers |  |  |  |
+| Borrowing Knowledge from Pre-Trained Language Model: A New Data-Efficient Visual Learning Paradigm |  |  |  |
+| CLR: Channel-Wise Lightweight Reprogramming for Continual Learning |  |  |  |
+| Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation |  |  |  |
+| First Session Adaptation: A Strong Replay-Free Baseline for Class-Incremental Learning |  |  |  |
+| Domain Adaptive Few-Shot Open-Set Learning |  |  |  |
+| Rethinking the Role of Pre-Trained Networks in Source-Free Domain Adaptation |  |  |  |
+| Rapid Adaptation in Online Continual Learning: Are we Evaluating it Right? |  |  |  |
+| Multi-Grained Temporal Prototype Learning for Few-Shot Video Object Segmentation |  |  |  |
+| A Low-Shot Object Counting Network with Iterative Prototype Adaptation |  |  |  |
+| Towards Better Robustness against Common Corruptions for Unsupervised Domain Adaptation |  |  |  |
+| Alleviating Catastrophic Forgetting of Incremental Object Detection via Within-Class and Between-Class Knowledge Distillation |  |  |  |
+| Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification |  |  |  |
+| Order-Preserving Consistency Regularization for Domain Adaptation and Generalization |  |  |  |
+| Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation |  |  |  |
+| Diffusion Model as Representation Learner |  |  |  |
+| s-Adaptive Decoupled Prototype for Few-Shot Object Detection |  |  |  |
+| Growing a Brain with Sparsity-Inducing Generation for Continual Learning |  |  |  |
+| DomainAdaptor: A Novel Approach to Test-Time Adaptation |  |  |  |
+| Reconciling Object-Level and Global-Level Objectives for Long-Tail Detection |  |  |  |
+| Domain Generalization via Balancing Training Difficulty and Model Capability |  |  |  |
+| Understanding Hessian Alignment for Domain Generalization |  |  |  |
+| Vision Transformer Adapters for Generalizable Multitask Learning |  |  |  |
+| Focus on Your Target: A Dual Teacher-Student Framework for Domain-Adaptive Semantic Segmentation |  |  |  |
+| Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection |  |  |  |
+| DandelionNet: Domain Composition with Instance Adaptive Classification for Domain Generalization |  |  |  |
+| CAFA: Class-Aware Feature Alignment for Test-Time Adaptation |  |  |  |
+| Image-Free Classifier Injection for Zero-Shot Classification |  |  |  |
+| CBA: Improving Online Continual Learning via Continual Bias Adaptor |  |  |  |
+| AdaptGuard: Defending Against Universal Attacks for Model Adaptation |  |  |  |
+| Masked Autoencoders are Efficient Class Incremental Learners |  |  |  |
+| DomainDrop: Suppressing Domain-Sensitive Channels for Domain Generalization |  |  |  |
+| Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models |  |  |  |
+| Incremental Generalized Category Discovery |  |  |  |
+| SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-Trained Model |  |  |  |
+| Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation |  |  |  |
+| iDAG: Invariant DAG Searching for Domain Generalization |  |  |  |
+| SSDA: Secure Source-Free Domain Adaptation |  |  |  |
+| Learning Pseudo-Relations for Cross-Domain Semantic Segmentation |  |  |  |
+| Self-Organizing Pathway Expansion for Non-Exemplar Class-Incremental Learning |  |  |  |
+| Improved Knowledge Transfer for Semi-Supervised Domain Adaptation via Trico Training Strategy |  |  |  |
+| Few-Shot Continual Infomax Learning |  |  |  |
+| EDAPS: Enhanced Domain-Adaptive Panoptic Segmentation |  |  |  |
+| Label-Efficient Online Continual Object Detection in Streaming Video |  |  |  |
+| Prototypical Kernel Learning and Open-Set Foreground Perception for Generalized Few-Shot Semantic Segmentation |  |  |  |
+| MSI: Maximize Support-Set Information for Few-Shot Segmentation |  |  |  |
+| AREA: Adaptive Reweighting via Effective Area for Long-Tailed Classification |  |  |  |
+| PASTA: Proportional Amplitude Spectrum Training Augmentation for Syn-to-Real Domain Generalization |  |  |  |
+| Personalized Semantics Excitation for Federated Image Classification |  |  |  |
+| Few-Shot Video Classification via Representation Fusion and Promotion Learning |  |  |  |
+| Segmenting Known Objects and Unseen Unknowns without Prior Knowledge |  |  |  | -->
