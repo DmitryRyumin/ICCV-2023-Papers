@@ -809,12 +809,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md">Machine Learning (other than Deep Learning)</a>
             </td>
-            <td colspan="4" rowspan=14 align="center"><i">Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/document-analysis-and-understanding.md">Document Analysis and Understanding</a>
             </td>
+            <td colspan="4" rowspan=13 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
