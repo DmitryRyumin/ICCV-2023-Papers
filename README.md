@@ -606,16 +606,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md">Transfer, Low-Shot, Continual, Long-Tail Learning</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/44-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/37-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/43-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/28-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/36-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/transfer-low-shot-continual-long-tail-learning.md"><img src="https://img.shields.io/badge/3-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
