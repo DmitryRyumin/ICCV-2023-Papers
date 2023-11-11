@@ -14,7 +14,7 @@
 
 ## Transfer, Low-Shot, Continual, Long-Tail Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-110-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-78-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-73-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-7-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-110-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-78-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-72-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-7-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -127,6 +127,6 @@
 | PASTA: Proportional Amplitude Spectrum Training Augmentation for Syn-to-Real Domain Generalization | [![GitHub](https://img.shields.io/github/stars/prithv1/PASTA)](https://github.com/prithv1/PASTA) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Chattopadhyay_PASTA_Proportional_Amplitude_Spectrum_Training_Augmentation_for_Syn-to-Real_Domain_Generalization_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.00979-b31b1b.svg)](https://arxiv.org/abs/2212.00979) | :heavy_minus_sign: |
 | Personalized Semantics Excitation for Federated Image Classification | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Personalized_Semantics_Excitation_for_Federated_Image_Classification_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Few-Shot Video Classification via Representation Fusion and Promotion Learning | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Few-Shot_Video_Classification_via_Representation_Fusion_and_Promotion_Learning_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-| Segmenting known Objects and Unseen Unknowns without Prior Knowledge | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://holisticseg.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/IVRL/VTAGML)](https://github.com/IVRL/VTAGML) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Gasperini_Segmenting_Known_Objects_and_Unseen_Unknowns_without_Prior_Knowledge_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.05407-b31b1b.svg)](https://arxiv.org/abs/2209.05407) | :heavy_minus_sign: |
+| Segmenting known Objects and Unseen Unknowns without Prior Knowledge | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://holisticseg.github.io/) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Gasperini_Segmenting_Known_Objects_and_Unseen_Unknowns_without_Prior_Knowledge_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.05407-b31b1b.svg)](https://arxiv.org/abs/2209.05407) | :heavy_minus_sign: |
 
 <!-- | AdaptGuard: Defending Against Universal Attacks for Model Adaptation |  |  |  | -->
