@@ -860,12 +860,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/datasets-and-evaluation.md">Datasets and Evaluation</a>
             </td>
-            <td colspan="4" rowspan=11 align="center"><i">Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/53-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/46-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/41-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/14-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/faces-and-gestures.md">Faces and Gestures</a>
             </td>
+            <td colspan="4" rowspan=10 align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
