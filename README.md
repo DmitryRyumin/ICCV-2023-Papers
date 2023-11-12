@@ -19,7 +19,7 @@
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
 <div style="float:left;">
-  <img src="https://geps.dev/progress/84?successColor=006600" />
+  <img src="https://geps.dev/progress/87?successColor=006600" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" />
 </div>
 
@@ -816,7 +816,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
