@@ -18,7 +18,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Enhancing Privacy Preservation in Federated Learning via Learning Rate Perturbation | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Enhancing Privacy Preservation in Federated Learning via Learning Rate Perturbation | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wan_Enhancing_Privacy_Preservation_in_Federated_Learning_via_Learning_Rate_Perturbation_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation | [![GitHub](https://img.shields.io/github/stars/zj-jayzhang/Federated-Class-Continual-Learning)](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning) | [![arXiv](https://img.shields.io/badge/arXiv-2303.06937-b31b1b.svg)](https://arxiv.org/abs/2303.06937) | :heavy_minus_sign: |
 | FACTS: First Amplify Correlations and then Slice to Discover Bias | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Computation and Data Efficient Backdoor Attacks | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
