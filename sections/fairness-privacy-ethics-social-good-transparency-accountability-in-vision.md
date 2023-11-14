@@ -14,7 +14,7 @@
 
 ## Fairness, Privacy, Ethics, Social-good, Transparency, Accountability in Vision
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-41-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-28-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-21-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-41-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-28-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-22-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
