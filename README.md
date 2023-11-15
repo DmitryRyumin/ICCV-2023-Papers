@@ -303,7 +303,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/fairness-privacy-ethics-social-good-transparency-accountability-in-vision.md"><img src="https://img.shields.io/badge/41-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/fairness-privacy-ethics-social-good-transparency-accountability-in-vision.md"><img src="https://img.shields.io/badge/28-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/fairness-privacy-ethics-social-good-transparency-accountability-in-vision.md"><img src="https://img.shields.io/badge/29-b31b1b" alt="Preprints"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/fairness-privacy-ethics-social-good-transparency-accountability-in-vision.md"><img src="https://img.shields.io/badge/22-1D7FBF" alt="Open Code"></a>
