@@ -14,12 +14,12 @@
 
 ## Representation Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-40-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-28-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-20-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-40-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-29-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-20-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis | [![GitHub](https://img.shields.io/github/stars/ivalab/WDiscOOD)](https://github.com/ivalab/WDiscOOD) | [![arXiv](https://img.shields.io/badge/arXiv-2303.07543-b31b1b.svg)](https://arxiv.org/abs/2303.07543) | :heavy_minus_sign: |
-| Pairwise Similarity Learning is SimPLE | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis | [![GitHub](https://img.shields.io/github/stars/ivalab/WDiscOOD)](https://github.com/ivalab/WDiscOOD) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_WDiscOOD_Out-of-Distribution_Detection_via_Whitened_Linear_Discriminant_Analysis_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07543-b31b1b.svg)](https://arxiv.org/abs/2303.07543) | :heavy_minus_sign: |
+| Pairwise Similarity Learning is SimPLE | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://simple.is.tue.mpg.de/) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Pairwise_Similarity_Learning_is_SimPLE_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.09449-b31b1b.svg)](https://arxiv.org/abs/2310.09449) | :heavy_minus_sign: |
 | No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier | [![GitHub](https://img.shields.io/github/stars/ZexiLee/ICCV-2023-FedETF)](https://github.com/ZexiLee/ICCV-2023-FedETF) | [![arXiv](https://img.shields.io/badge/arXiv-2303.10058-b31b1b.svg)](https://arxiv.org/abs/2303.10058) | :heavy_minus_sign: |
 | Generalizable Neural Fields as Partially Observed Neural Processes | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2309.06660-b31b1b.svg)](https://arxiv.org/abs/2309.06660) | :heavy_minus_sign: |
 | M2T: Masking Transformers Twice for Faster Decoding | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2304.07313-b31b1b.svg)](https://arxiv.org/abs/2304.07313) | :heavy_minus_sign: |
