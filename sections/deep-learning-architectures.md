@@ -14,13 +14,13 @@
 
 ## Deep Learning Architectures
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-45-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-30-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-18-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-45-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-30-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-19-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Efficient Controllable Multi-Task Architectures | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.11744-b31b1b.svg)](https://arxiv.org/abs/2308.11744) | :heavy_minus_sign: |
-| ParCNetV2: Oversized Kernel with Enhanced Attention | [![GitHub](https://img.shields.io/github/stars/XuRuihan/ParCNetV2)](https://github.com/XuRuihan/ParCNetV2) | [![arXiv](https://img.shields.io/badge/arXiv-2211.07157-b31b1b.svg)](https://arxiv.org/abs/2211.07157) | :heavy_minus_sign: |
-| Unleashing the Power of Gradient Signal-to-Noise Ratio for Zero-Shot NAS | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Efficient Controllable Multi-Task Architectures | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Aich_Efficient_Controllable_Multi-Task_Architectures_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.11744-b31b1b.svg)](https://arxiv.org/abs/2308.11744) | :heavy_minus_sign: |
+| ParCNetV2: Oversized Kernel with Enhanced Attention | [![GitHub](https://img.shields.io/github/stars/XuRuihan/ParCNetV2)](https://github.com/XuRuihan/ParCNetV2) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_ParCNetV2_Oversized_Kernel_with_Enhanced_Attention_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.07157-b31b1b.svg)](https://arxiv.org/abs/2211.07157) | :heavy_minus_sign: |
+| Unleashing the Power of Gradient Signal-to-Noise Ratio for Zero-Shot NAS | [![GitHub](https://img.shields.io/github/stars/Sunzh1996/Xi-GSNR)](https://github.com/Sunzh1996/Xi-GSNR) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_Unleashing_the_Power_of_Gradient_Signal-to-Noise_Ratio_for_Zero-Shot_NAS_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | MMST-ViT: Climate Change-Aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer | [![GitHub](https://img.shields.io/github/stars/fudong03/MMST-ViT)](https://github.com/fudong03/MMST-ViT) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://drive.google.com/file/d/1xc_8KkOxVUVsHUiz9Vgv1nqqOa2O_t-2/view) | :heavy_minus_sign: |
 | FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization | [![GitHub](https://img.shields.io/github/stars/apple/ml-fastvit)](https://github.com/apple/ml-fastvit) | [![arXiv](https://img.shields.io/badge/arXiv-2303.14189-b31b1b.svg)](https://arxiv.org/abs/2303.14189) | :heavy_minus_sign: |
 | IIEU: Rethinking Neural Feature Activation from Decision-Making | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
