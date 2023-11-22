@@ -14,7 +14,7 @@
 
 ## Representation Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-40-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-30-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-25-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-40-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-30-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-26-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -41,7 +41,7 @@
 | OFVL-MS: Once for Visual Localization Across Multiple Indoor Scenes | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/mooncake199809/UFVL-Net/tree/main/configs/ofvl_ms) <br /> [![GitHub](https://img.shields.io/github/stars/mooncake199809/UFVL-Net)](https://github.com/mooncake199809/UFVL-Net) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_OFVL-MS_Once_for_Visual_Localization_across_Multiple_Indoor_Scenes_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.11928-b31b1b.svg)](https://arxiv.org/abs/2308.11928) | :heavy_minus_sign: |
 | Feature Prediction Diffusion Model for Video Anomaly Detection | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Joint Implicit Neural Representation for High-Fidelity and Compact Vector Fonts | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Joint_Implicit_Neural_Representation_for_High-fidelity_and_Compact_Vector_Fonts_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-| How Far Pre-Trained Models are from Neural Collapse on the Target Dataset Informs their Transferability | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| How Far Pre-Trained Models are from Neural Collapse on the Target Dataset Informs their Transferability | [![GitHub](https://img.shields.io/github/stars/BUserName/NCTI)](https://github.com/BUserName/NCTI) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_How_Far_Pre-trained_Models_Are_from_Neural_Collapse_on_the_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | OPERA: Omni-Supervised Representation Learning with Hierarchical Supervisions | [![GitHub](https://img.shields.io/github/stars/wangck20/OPERA)](https://github.com/wangck20/OPERA) | [![arXiv](https://img.shields.io/badge/arXiv-2210.05557-b31b1b.svg)](https://arxiv.org/abs/2210.05557) | :heavy_minus_sign: |
 | Perceptual Grouping in Contrastive Vision-Language Models | [![GitHub](https://img.shields.io/github/stars/kahnchana/clippy)](https://github.com/kahnchana/clippy) | [![arXiv](https://img.shields.io/badge/arXiv-2210.09996-b31b1b.svg)](https://arxiv.org/abs/2210.09996) | :heavy_minus_sign: |
 | Fully Attentional Networks with Self-Emerging Token Labeling | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
