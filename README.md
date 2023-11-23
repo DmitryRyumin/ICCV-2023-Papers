@@ -354,7 +354,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/deep-learning-architectures.md"><img src="https://img.shields.io/badge/45-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/deep-learning-architectures.md"><img src="https://img.shields.io/badge/35-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/deep-learning-architectures.md"><img src="https://img.shields.io/badge/36-b31b1b" alt="Preprints"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/deep-learning-architectures.md"><img src="https://img.shields.io/badge/29-1D7FBF" alt="Open Code"></a>
