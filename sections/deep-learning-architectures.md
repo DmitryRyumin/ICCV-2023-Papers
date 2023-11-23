@@ -14,7 +14,7 @@
 
 ## Deep Learning Architectures
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-45-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-36-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-29-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-2-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-45-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-36-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-30-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-2-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -59,7 +59,7 @@
 | Luminance-Aware Color Transform for Multiple Exposure Correction | [![GitHub](https://img.shields.io/github/stars/whdgusdl48/LACT)](https://github.com/whdgusdl48/LACT) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Baek_Luminance-aware_Color_Transform_for_Multiple_Exposure_Correction_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks | [![GitHub](https://img.shields.io/github/stars/qymeng94/SLTT)](https://github.com/qymeng94/SLTT) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Meng_Towards_Memory-_and_Time-Efficient_Backpropagation_for_Training_Spiking_Neural_Networks_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.14311-b31b1b.svg)](https://arxiv.org/abs/2302.14311) | :heavy_minus_sign: |
 | Domain Generalization Guided by Gradient Signal to Noise Ratio of Parameters | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Michalkiewicz_Domain_Generalization_Guided_by_Gradient_Signal_to_Noise_Ratio_of_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.07361-b31b1b.svg)](https://arxiv.org/abs/2310.07361) | :heavy_minus_sign: |
-| DOT: A Distillation-Oriented Trainer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.08436-b31b1b.svg)](https://arxiv.org/abs/2307.08436) | :heavy_minus_sign: |
+| DOT: A Distillation-Oriented Trainer | [![GitHub](https://img.shields.io/github/stars/megvii-research/mdistiller)](https://github.com/megvii-research/mdistiller) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_DOT_A_Distillation-Oriented_Trainer_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.08436-b31b1b.svg)](https://arxiv.org/abs/2307.08436) | :heavy_minus_sign: |
 | Extensible and Efficient Proxy for Neural Architecture Search | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | Learning to Transform for Generalizable Instance-Wise Invariance | [![GitHub](https://img.shields.io/github/stars/sutkarsh/flow_inv)](https://github.com/sutkarsh/flow_inv) | :heavy_minus_sign: | :heavy_minus_sign: |
 | Convolutional Networks with Oriented 1D Kernels | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
