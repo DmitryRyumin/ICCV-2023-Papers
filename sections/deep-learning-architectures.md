@@ -14,7 +14,7 @@
 
 ## Deep Learning Architectures
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-45-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-35-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-28-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-2-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-45-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-35-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-29-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-2-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -56,7 +56,7 @@
 | ModelGiF: Gradient Fields for Model Functional Distance | [![GitHub](https://img.shields.io/github/stars/zju-vipa/modelgif)](https://github.com/zju-vipa/modelgif) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_ModelGiF_Gradient_Fields_for_Model_Functional_Distance_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.11013-b31b1b.svg)](https://arxiv.org/abs/2309.11013) | :heavy_minus_sign: |
 | ClusT3: Information Invariant Test-Time Training | [![GitHub](https://img.shields.io/github/stars/dosowiechi/ClusT3)](https://github.com/dosowiechi/ClusT3) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Hakim_ClusT3_Information_Invariant_Test-Time_Training_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.12345-b31b1b.svg)](https://arxiv.org/abs/2310.12345) | :heavy_minus_sign: |
 | Cumulative Spatial Knowledge Distillation for Vision Transformers | [![GitHub](https://img.shields.io/github/stars/Zzzzz1/CSKD)](https://github.com/Zzzzz1/CSKD) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Cumulative_Spatial_Knowledge_Distillation_for_Vision_Transformers_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.08500-b31b1b.svg)](https://arxiv.org/abs/2307.08500) | :heavy_minus_sign: |
-| Luminance-Aware Color Transform for Multiple Exposure Correction | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Luminance-Aware Color Transform for Multiple Exposure Correction | [![GitHub](https://img.shields.io/github/stars/whdgusdl48/LACT)](https://github.com/whdgusdl48/LACT) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Baek_Luminance-aware_Color_Transform_for_Multiple_Exposure_Correction_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks | [![GitHub](https://img.shields.io/github/stars/qymeng94/SLTT)](https://github.com/qymeng94/SLTT) | [![arXiv](https://img.shields.io/badge/arXiv-2302.14311-b31b1b.svg)](https://arxiv.org/abs/2302.14311) | :heavy_minus_sign: |
 | Domain Generalization Guided by Gradient Signal to Noise Ratio of Parameters | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | DOT: A Distillation-Oriented Trainer | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.08436-b31b1b.svg)](https://arxiv.org/abs/2307.08436) | :heavy_minus_sign: |
