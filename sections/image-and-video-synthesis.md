@@ -14,11 +14,11 @@
 
 ## Image and Video Synthesis
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-71-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-58-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-44-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-10-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-71-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-58-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-45-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-10-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Text-Driven Generative Domain Adaptation with Spectral Consistency Regularization | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Text-Driven Generative Domain Adaptation with Spectral Consistency Regularization | [![GitHub](https://img.shields.io/github/stars/Victarry/Adaptation-SCR)](https://github.com/Victarry/Adaptation-SCR) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Text-Driven_Generative_Domain_Adaptation_with_Spectral_Consistency_Regularization_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2308.11096-b31b1b.svg)](https://arxiv.org/abs/2308.11096) | :heavy_minus_sign: |
 | Controllable Visual-Tactile Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://visual-tactile-synthesis.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/RuihanGao/visual-tactile-synthesis)](https://github.com/RuihanGao/visual-tactile-synthesis) | [![arXiv](https://img.shields.io/badge/arXiv-2305.03051-b31b1b.svg)](https://arxiv.org/abs/2305.03051) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=TdwPfwsGX3I) |
 | Editing Implicit Assumptions in Text-to-Image Diffusion Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://time-diffusion.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/bahjat-kawar/time-diffusion)](https://github.com/bahjat-kawar/time-diffusion) | [![arXiv](https://img.shields.io/badge/arXiv-2303.08084-b31b1b.svg)](https://arxiv.org/abs/2303.08084) | :heavy_minus_sign: |
