@@ -371,7 +371,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md"><img src="https://img.shields.io/badge/73-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md"><img src="https://img.shields.io/badge/57-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md"><img src="https://img.shields.io/badge/58-b31b1b" alt="Preprints"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md"><img src="https://img.shields.io/badge/44-1D7FBF" alt="Open Code"></a>
