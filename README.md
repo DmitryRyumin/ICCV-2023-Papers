@@ -388,10 +388,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-synthesis.md"><img src="https://img.shields.io/badge/70-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-synthesis.md"><img src="https://img.shields.io/badge/61-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-synthesis.md"><img src="https://img.shields.io/badge/62-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-synthesis.md"><img src="https://img.shields.io/badge/52-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-synthesis.md"><img src="https://img.shields.io/badge/54-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-synthesis.md"><img src="https://img.shields.io/badge/11-FF0000" alt="Videos"></a>
