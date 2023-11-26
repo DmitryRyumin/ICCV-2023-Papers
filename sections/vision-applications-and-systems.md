@@ -18,8 +18,8 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Democratising 2D Sketch to 3D Shape Retrieval Through Pivoting |  |  |  |
-| Towards Instance-Adaptive Inference for Federated Learning |  |  |  |
+| Democratising 2D Sketch to 3D Shape Retrieval through Pivoting | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=iM1A81QEhfw) |
+| Towards Instance-Adaptive Inference for Federated Learning | [![GitHub](https://img.shields.io/github/stars/chunmeifeng/FedIns)](https://github.com/chunmeifeng/FedIns) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Towards_Instance-adaptive_Inference_for_Federated_Learning_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.06051-b31b1b.svg)](https://arxiv.org/abs/2308.06051) | :heavy_minus_sign: |
 | TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception |  |  |  |
 | Counting Crowds in Bad Weather |  |  |  |
 | NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection |  |  |  |
