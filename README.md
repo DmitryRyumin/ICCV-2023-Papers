@@ -113,16 +113,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/161-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/173-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/124-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/136-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/99-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/110-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/37-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
