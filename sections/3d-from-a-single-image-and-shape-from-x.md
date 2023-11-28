@@ -18,7 +18,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Aggregating Feature Point Cloud for Depth Completion | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Aggregating Feature Point Cloud for Depth Completion | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Aggregating_Feature_Point_Cloud_for_Depth_Completion_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Coordinate Transformer: Achieving Single-Stage Multi-Person Mesh Recovery from Videos | [![GitHub](https://img.shields.io/github/stars/Li-Hao-yuan/CoordFormer)](https://github.com/Li-Hao-yuan/CoordFormer) | [![arXiv](https://img.shields.io/badge/arXiv-2308.10334-b31b1b.svg)](https://arxiv.org/abs/2308.10334) | :heavy_minus_sign: |
 | MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2307.14336-b31b1b.svg)](https://arxiv.org/abs/2307.14336) | :heavy_minus_sign: |
 | SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
