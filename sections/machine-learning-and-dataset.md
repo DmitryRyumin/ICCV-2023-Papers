@@ -15,9 +15,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| DiffusionDet: Diffusion Model for Object Detection |  |  |  |
-| V3Det: Vast Vocabulary Visual Detection Dataset |  |  |  |
-| PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking |  |  |  |
+| DiffusionDet: Diffusion Model for Object Detection | [![GitHub](https://img.shields.io/github/stars/ShoufaChen/DiffusionDet)](https://github.com/ShoufaChen/DiffusionDet) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_DiffusionDet_Diffusion_Model_for_Object_Detection_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.09788-b31b1b.svg)](https://arxiv.org/abs/2211.09788) | :heavy_minus_sign: |
+| V3Det: Vast Vocabulary Visual Detection Dataset | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://v3det.openxlab.org.cn/) <br /> [![GitHub](https://img.shields.io/github/stars/V3Det/V3Det)](https://github.com/V3Det/V3Det) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_V3Det_Vast_Vocabulary_Visual_Detection_Dataset_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.03752-b31b1b.svg)](https://arxiv.org/abs/2304.03752) | :heavy_minus_sign: |
+| PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://pointodyssey.com/) <br /> [![GitHub](https://img.shields.io/github/stars/aharley/pips2)](https://github.com/aharley/pips2) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_PointOdyssey_A_Large-Scale_Synthetic_Dataset_for_Long-Term_Point_Tracking_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2307.15055-b31b1b.svg)](https://arxiv.org/abs/2307.15055) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=BL-1nbA4G0M) |
 | Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events |  |  |  |
 | Vision HGNN: An Image is more than a Graph of Nodes |  |  |  |
 | Revisiting Vision Transformer from the View of Path Ensemble |  |  |  |
