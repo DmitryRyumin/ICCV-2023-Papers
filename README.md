@@ -19,7 +19,7 @@
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICCV-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
 <div style="float:left;">
-  <img src="https://geps.dev/progress/98?successColor=006600" />
+  <img src="https://geps.dev/progress/100?successColor=006600" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" />
 </div>
 
@@ -32,6 +32,10 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
         <img width="600" src="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/images/ICCV2023-banner.jpg" alt="ICCV 2023">
     </a>
 </p>
+
+![Total Papers](https://img.shields.io/badge/Total%20Papers-2156-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1660%20(76.99%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1419%20(65.82%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-274%20(12.71%25)%20*-FF0000)
+
+> :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
 ---
 
