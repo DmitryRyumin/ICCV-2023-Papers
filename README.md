@@ -77,11 +77,11 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
     </tr>
     <tr>
         <td>ISMIR</td>
-        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" /></a></td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
     </tr>
 </table>
 
