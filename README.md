@@ -33,7 +33,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 </p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-2156-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1660%20(76.99%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1419%20(65.82%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-274%20(12.71%25)%20*-FF0000)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-2156-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1660%20(76.99%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1419%20(65.82%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-275%20(12.76%25)%20*-FF0000)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -809,7 +809,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/43-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
