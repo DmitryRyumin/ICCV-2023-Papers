@@ -1160,12 +1160,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/artificial-social-intelligence-w-and-challenge.md">AI for Creative Video Editing and Understanding</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/artificial-social-intelligence-w-and-challenge.md">Artificial Social Intelligence Workshop and Challenge</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/international-w-on-analysis-and-modeling-of-faces-and-gestures.md">AI for Creative Video Editing and Understanding</a>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/international-w-on-analysis-and-modeling-of-faces-and-gestures.md">International Workshop on Analysis and Modeling of Faces and Gestures</a>
             </td>
         </tr>
         <tr>
