@@ -97,7 +97,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 ## Contributors
 
 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/graphs/contributors">
-  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/ICCV-2023-Papers" />
+  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/ICCV-2023-Papers" alt="" />
 </a>
 
 <br />
@@ -122,6 +122,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td colspan="5" align="center"><i>Main</i></td>
+        </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
@@ -1039,7 +1042,186 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/machine-learning-and-dataset.md"><img src="https://img.shields.io/badge/3-FF0000" alt="Videos"></a>
             </td>
-            <!-- <td colspan="4" rowspan="2" align="center"><i">Will soon be added</i></td> -->
+        </tr>
+        <tr>
+            <td colspan="5" align="center"><i>Workshops</i></td>
+        </tr>
+        <tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-scene-graphs-and-graph-representation-learning.md">1st Workshop on Scene Graphs and Graph Representation Learning</a>
+            </td>
+            <td colspan="4" rowspan="35" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/visual-inductive-priors-for-data-efficient-dl-w.md">4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-what-is-next-in-multimodal-foundation-models.md">What is Next in Multimodal Foundation Models?</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-and-challenge-on-deepfake-analysis-and-detection.md">Workshop and Challenge on DeepFake Analysis and Detection</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-cv-in-plant-phenotyping-and-agriculture.md">8th Workshop on Computer Vision in Plant Phenotyping and Agriculture</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-new-ideas-in-vision-transformers.md">Workshop on New Ideas in Vision Transformers</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-representation-learning-with-very-limited-images.md">Representation Learning with very Limited Images: The Potential of Self-, Synthetic- and Formula-Supervision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-to-nerf-or-not-to-nerf.md">To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-resource-efficient-dl-for-cv.md">Workshop on Resource Efficient Deep Learning for Computer Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-cv-aided-architectural-design.md">1st Workshop on Computer Vision Aided Architectural Design</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-electronic-cultural-heritage.md">4th Workshop on Electronic Cultural Heritage</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-solving-cad-history-and-parameters-recovery-from-point-clouds-and-3d-scans.md">Solving CAD History and pArameters Recovery from Point Clouds and 3D Scans</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/visual-object-tracking-and-segmentation-challenge.md">Visual Object Tracking and Segmentation Challenge</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-assistive-cv-and-robotics.md">11th Workshop on Assistive Computer Vision and Robotics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-open-vocabulary-3d-scene-understanding.md">1st Workshop on Open-Vocabulary 3D Scene Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-recovering-6d-object-pose.md">Recovering 6D Object Pose</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-visual-perception-for-navigation-in-human-environments.md">Visual Perception for Navigation in Human Environments: The JackRabbot Human Motion Forecasting Dataset and Benchmark</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-women-in-cv.md">Women in Computer Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-cv-for-automated-medical-diagnosis.md">2nd Workshop on Computer Vision for Automated Medical Diagnosis</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-closing-the-loop-between-vision-and-language.md">5th Workshop on Closing the Loop Between Vision and Language</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-ai-for-3d-content-creation.md">AI for 3D Content Creation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-ai-for-creative-video-editing-and-understanding.md">AI for Creative Video Editing and Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/artificial-social-intelligence-w-and-challenge.md">AI for Creative Video Editing and Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/international-w-on-analysis-and-modeling-of-faces-and-gestures.md">AI for Creative Video Editing and Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/the-second-road-workshop-and-challenge.md">2nd ROAD workshop and Challenge: Event Detection for Situation Awareness in Autonomous Driving</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-visual-continual-learning.md">Visual Continual Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-on-adversarial-robustness-in-the-real-world.md">Workshop on Adversarial Robustness in the Real World</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-ai-for-humanitarian-assistance-and-disaster-response.md">Artificial Intelligence for Humanitarian Assistance and Disaster Response</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/bioimage-computing-w.md">BioImage Computing Workshop</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-rob-and-rel-of-auto-vehicles-in-the-open-world.md">Robustness and Reliability of Autonomous Vehicles in the Open-World</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/latinx-in-ai-research-w.md">LatinX in AI Research Workshop</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/cv-for-metaverse-w.md">2nd Computer Vision for Metaverse Workshop</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-and-challenges-for-out-of-distribution-generalization-in-cv.md">2nd Workshop and Challenges for Out-of-Distribution Generalization in Computer Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/w-uncertainty-estimation-for-cv.md">Uncertainty Estimation for Computer Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers/blob/main/sections/vision-and-language-algorithmic-reasoning-w.md">Vision-and-Language Algorithmic Reasoning Workshop</a>
+            </td>
         </tr>
     </tbody>
 </table>
