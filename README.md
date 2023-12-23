@@ -1085,12 +1085,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-what-is-next-in-multimodal-foundation-models.md">What is Next in Multimodal Foundation Models?</a>
             </td>
-            <td colspan="4" rowspan="33" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-what-is-next-in-multimodal-foundation-models.md"><img src="https://img.shields.io/badge/9-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-what-is-next-in-multimodal-foundation-models.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-what-is-next-in-multimodal-foundation-models.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-what-is-next-in-multimodal-foundation-models.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-and-challenge-on-deepfake-analysis-and-detection.md">Workshop and Challenge on DeepFake Analysis and Detection</a>
             </td>
+            <td colspan="4" rowspan="32" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
