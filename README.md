@@ -1102,12 +1102,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-and-challenge-on-deepfake-analysis-and-detection.md">Workshop and Challenge on DeepFake Analysis and Detection</a>
             </td>
-            <td colspan="4" rowspan="32" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-and-challenge-on-deepfake-analysis-and-detection.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-and-challenge-on-deepfake-analysis-and-detection.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-and-challenge-on-deepfake-analysis-and-detection.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-and-challenge-on-deepfake-analysis-and-detection.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-on-cv-in-plant-phenotyping-and-agriculture.md">8th Workshop on Computer Vision in Plant Phenotyping and Agriculture</a>
             </td>
+            <td colspan="4" rowspan="31" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
