@@ -16,4 +16,30 @@
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Analyzing the Behavior of Cauliflower Harvest-Readiness Models by Investigating Feature Relevances |  |  |  |
+| Towards Automated Regulation of Jacobaea Vulgaris in Grassland using Deep Neural Networks |  |  |  |
+| Estimation of Crop Production by Fusing Images and Crop Features |  |  |  |
+| An Interpretable Framework to Characterize Compound Treatments on Filamentous Fungi using Cell Painting and Deep Metric Learning |  |  |  |
+| Rapid Tomato DUS Trait Analysis using an Optimized Mobile-based Coarse-to-Fine Instance Segmentation Algorithm |  |  |  |
+| Non-Destructive Infield Quality Estimation of Strawberries using Deep Architectures |  |  |  |
+| Reinforcement Learning with Space Carving for Plant Scanning |  |  |  |
+| Deep Learning based 3d Reconstruction for Phenotyping of Wheat Seeds: A Dataset, Challenge, and Baseline Method |  |  |  |
+| Semantic Segmentation of Crops and Weeds with Probabilistic Modeling and Uncertainty Quantification |  |  |  |
+| A New Large Dataset and a Transfer Learning Methodology for Plant Phenotyping in Vertical Farms |  |  |  |
+| Pollinators as Data Collectors: Estimating Floral Diversity with Bees and Computer Vision |  |  |  |
+| Inductive Conformal Prediction for Harvest-Readiness Classification of Cauliflower Plants: A Comparative Study of Uncertainty Quantification Methods |  |  |  |
+| Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification |  |  |  |
+| Vision-based Monitoring of the Short-Term Dynamic Behaviour of Plants for Automated Phenotyping |  |  |  |
+| Improving Deep Learning on Hyperspectral Images of Grain by Incorporating Domain Knowledge from Chemometrics |  |  |  |
+| Adapting Vision Foundation Models for Plant Phenotyping |  |  |  |
+| Embedded Plant Recognition: A Benchmark for Low Footprint Deep Neural Networks |  |  |  |
+| Deep Learning for Apple Fruit Quality Inspection using X-Ray Imaging |  |  |  |
+| Detection of Fusarium Damaged Kernels in Wheat using Deep Semi-Supervised Learning on a Novel WheatSeedBelt Dataset |  |  |  |
+| Unified Automatic Plant Cover and Phenology Prediction |  |  |  |
+| Weed Mapping with Convolutional Neural Networks on High Resolution Whole-Field Images |  |  |  |
+| Unlocking Comparative Plant Scoring with Siamese Neural Networks and Pairwise Pseudo Labelling |  |  |  |
+| Class-Incremental Learning of Plant and Disease Detection: Growing Branches with Knowledge Distillation |  |  |  |
+| Efficient Grapevine Structure Estimation in Vineyards Conditions |  |  |  |
+| Plant Root Occlusion Inpainting with Generative Adversarial Network |  |  |  |
