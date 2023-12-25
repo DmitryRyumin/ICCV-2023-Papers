@@ -18,11 +18,11 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Analyzing the Behavior of Cauliflower Harvest-Readiness Models by Investigating Feature Relevances |  |  |  |
-| Towards Automated Regulation of Jacobaea Vulgaris in Grassland using Deep Neural Networks |  |  |  |
-| Estimation of Crop Production by Fusing Images and Crop Features |  |  |  |
-| An Interpretable Framework to Characterize Compound Treatments on Filamentous Fungi using Cell Painting and Deep Metric Learning |  |  |  |
-| Rapid Tomato DUS Trait Analysis using an Optimized Mobile-based Coarse-to-Fine Instance Segmentation Algorithm |  |  |  |
+| Analyzing the Behavior of Cauliflower Harvest-Readiness Models by Investigating Feature Relevances | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/papers/Penzel_Analyzing_the_Behavior_of_Cauliflower_Harvest-Readiness_Models_by_Investigating_Feature_ICCVW_2023_paper.pdf) | :heavy_minus_sign: |
+| Towards Automated Regulation of Jacobaea Vulgaris in Grassland using Deep Neural Networks | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/papers/Schauer_Towards_Automated_Regulation_of_Jacobaea_Vulgaris_in_Grassland_Using_Deep_ICCVW_2023_paper.pdf) | :heavy_minus_sign: |
+| Estimation of Crop Production by Fusing Images and Crop Features | [![GitHub](https://img.shields.io/github/stars/joheras/yield-prediction)](https://github.com/joheras/yield-prediction) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/papers/Casado-Garcia_Estimation_of_Crop_Production_by_Fusing_Images_and_Crop_Features_ICCVW_2023_paper.pdf) | :heavy_minus_sign: |
+| An Interpretable Framework to Characterize Compound Treatments on Filamentous Fungi using Cell Painting and Deep Metric Learning | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/papers/Lejeune_An_Interpretable_Framework_to_Characterize_Compound_Treatments_on_Filamentous_Fungi_ICCVW_2023_paper.pdf) | :heavy_minus_sign: |
+| Rapid Tomato DUS Trait Analysis using an Optimized Mobile-based Coarse-to-Fine Instance Segmentation Algorithm | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/papers/Rustia_Rapid_Tomato_DUS_Trait_Analysis_Using_an_Optimized_Mobile-Based_Coarse-to-Fine_ICCVW_2023_paper.pdf) | :heavy_minus_sign: |
 | Non-Destructive Infield Quality Estimation of Strawberries using Deep Architectures |  |  |  |
 | Reinforcement Learning with Space Carving for Plant Scanning |  |  |  |
 | Deep Learning based 3d Reconstruction for Phenotyping of Wheat Seeds: A Dataset, Challenge, and Baseline Method |  |  |  |
