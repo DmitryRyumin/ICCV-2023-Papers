@@ -56,39 +56,78 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 <table>
     <tr>
         <td rowspan="2" align="center"><strong>Conference</strong></td>
-        <td colspan="1" align="center"><strong>Year</strong></td>
+        <td colspan="2" align="center"><strong>Year</strong></td>
     </tr>
     <tr>
         <td colspan="1" align="center"><i>2023</i></td>
+        <td colspan="1" align="center"><i>2024</i></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
+        <td colspan="3" align="center"><i>Computer Vision (CV)</i></td>
     </tr>
     <tr>
         <td>CVPR</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
+        <td>ICCV</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
+    </tr>
+    <tr>
+        <td>ECCV</td>
+        <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
+        <td align="center"><img src="https://img.shields.io/badge/October-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td>WACV</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/January-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ISMIR</td>
         <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center">:heavy_minus_sign:</td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><i>Natural Language Processing (NLP)</i></td>
+        <td colspan="3" align="center"><i>Natural Language Processing (NLP)</i></td>
     </tr>
     <tr>
         <td>EMNLP</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><i>Machine Learning (ML)</i></td>
+    </tr>
+    <tr>
+        <td>ICLR</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td>ICML</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/July-white?logo=github&labelColor=b31b1b" alt="" /></td>
+    </tr>
+    <tr>
+        <td>NeurIPS</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
 </table>
 
