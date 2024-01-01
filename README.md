@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-rc0)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/ICCV-2023-Papers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/LICENSE)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat?style=flat)](https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/README.md)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/README.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/ICCV-2023-Papers)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/ICCV-2023-Papers)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/DmitryRyumin/ICCV-2023-Papers)
