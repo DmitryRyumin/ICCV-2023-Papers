@@ -1192,12 +1192,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-representation-learning-with-very-limited-images.md">Representation Learning with very Limited Images: The Potential of Self-, Synthetic- and Formula-Supervision</a>
             </td>
-            <td colspan="4" rowspan="29" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-representation-learning-with-very-limited-images.md"><img src="https://img.shields.io/badge/20-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-representation-learning-with-very-limited-images.md"><img src="https://img.shields.io/badge/12-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-representation-learning-with-very-limited-images.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-representation-learning-with-very-limited-images.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-to-nerf-or-not-to-nerf.md">To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads</a>
             </td>
+            <td colspan="4" rowspan="28" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
