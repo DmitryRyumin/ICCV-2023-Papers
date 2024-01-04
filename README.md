@@ -83,7 +83,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     <tr>
         <td>WACV</td>
         <td align="center">:heavy_minus_sign:</td>
-        <td align="center"><img src="https://img.shields.io/badge/January-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/WACV-2024-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
