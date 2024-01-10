@@ -1,6 +1,7 @@
 # The code is importing necessary modules for the script to work:
 import os
 import shutil
+import re
 import json
 from pathlib import Path
 from bs4 import BeautifulSoup
@@ -20,10 +21,10 @@ class Config:
     GITHUB_WORKSPACE = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
     MARKDOWN_DIRECTORY = "sections"
     OUTPUT_DIRECTORY = "json_data"
-    MARKDOWN_DIRECTORY_LOCAL = "/Users/dl/GitHub/CVPR-2023-Papers/sections"
-    OUTPUT_DIRECTORY_LOCAL = "/Users/dl/GitHub/CVPR-2023-Papers/local_json_data"
+    MARKDOWN_DIRECTORY_LOCAL = "/Users/dl/GitHub/ICCV-2023-Papers/sections"
+    OUTPUT_DIRECTORY_LOCAL = "/Users/dl/GitHub/ICCV-2023-Papers/local_json_data"
     REPO_OWNER = "DmitryRyumin"
-    REPO_NAME = "CVPR-2023-Papers"
+    REPO_NAME = "ICCV-2023-Papers"
     COMMIT_MESSAGE = "Update files"
 
 
@@ -249,6 +250,8 @@ def process_markdown_file(
     try:
         with open(markdown_file, "r", encoding="utf-8") as file:
             markdown_content = file.read()
+
+        markdown_content = re.sub(r"<!--.*?-->", "", markdown_content, flags=re.DOTALL)
 
         html_content = markdown2.markdown(
             text=markdown_content, html4tags=True, extras=["tables"]
