@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+    "title_page": null,
+    "repo": "https://github.com/lllyasviel/ControlNet",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2302.05543",
+    "video": null
+  },
+  {
+    "title": "Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation",
+    "title_page": null,
+    "repo": "https://github.com/lwwu2/fipt",
+    "web_page": null,
+    "github_page": "https://jerrypiglet.github.io/fipt-ucsd/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Factorized_Inverse_Path_Tracing_for_Efficient_and_Accurate_Material-Lighting_Estimation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.05669",
+    "video": null
+  },
+  {
+    "title": "Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations",
+    "title_page": null,
+    "repo": "https://github.com/AGI-Labs/manipulate-by-seeing",
+    "web_page": null,
+    "github_page": "https://agi-labs.github.io/manipulate-by-seeing/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Manipulate_by_Seeing_Creating_Manipulation_Controllers_from_Pre-Trained_Representations_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.08135",
+    "video": null
+  },
+  {
+    "title": "3D Implicit Transporter for Temporally Consistent Keypoint Discovery",
+    "title_page": null,
+    "repo": "https://github.com/zhongcl-thu/3D-Implicit-Transporter",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhong_3D_Implicit_Transporter_for_Temporally_Consistent_Keypoint_Discovery_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://www.researchgate.net/publication/373328882_3D_Implicit_Transporter_for_Temporally_Consistent_Keypoint_Discovery",
+    "video": null
+  },
+  {
+    "title": "Chordal Averaging on Flag Manifolds and its Applications",
+    "title_page": null,
+    "repo": "https://github.com/nmank/FlagAveraging",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Mankovich_Chordal_Averaging_on_Flag_Manifolds_and_Its_Applications_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.13501",
+    "video": null
+  },
+  {
+    "title": "UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-Aware Curriculum and Iterative Generalist-Specialist Learning",
+    "title_page": null,
+    "repo": "https://github.com/PKU-EPIC/UniDexGrasp2",
+    "web_page": null,
+    "github_page": "https://pku-epic.github.io/UniDexGrasp++/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wan_UniDexGrasp_Improving_Dexterous_Grasping_Policy_Learning_via_Geometry-Aware_Curriculum_and_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.00464",
+    "video": null
+  },
+  {
+    "title": "GameFormer: Game-Theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving",
+    "title_page": null,
+    "repo": "https://github.com/MCZhi/GameFormer",
+    "web_page": null,
+    "github_page": "https://mczhi.github.io/GameFormer/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_GameFormer_Game-theoretic_Modeling_and_Learning_of_Transformer-based_Interactive_Prediction_and_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.05760",
+    "video": null
+  },
+  {
+    "title": "PPR: Physically Plausible Reconstruction from Monocular Videos",
+    "title_page": null,
+    "repo": "https://github.com/gengshan-y/ppr",
+    "web_page": null,
+    "github_page": "https://gengshan-y.github.io/ppr/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_PPR_Physically_Plausible_Reconstruction_from_Monocular_Videos_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://gengshan-y.github.io/ppr/PPR.pdf",
+    "video": null
+  }
+]

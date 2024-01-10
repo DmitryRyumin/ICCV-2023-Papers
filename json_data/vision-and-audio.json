@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Sound Source Localization is All About Cross-Modal Alignment",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Senocak_Sound_Source_Localization_is_All_about_Cross-Modal_Alignment_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2309.10724",
+    "video": null
+  },
+  {
+    "title": "Class-Incremental Grouping Network for Continual Audio-Visual Learning",
+    "title_page": null,
+    "repo": "https://github.com/stoneMo/CIGN",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Mo_Class-Incremental_Grouping_Network_for_Continual_Audio-Visual_Learning_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2309.05281",
+    "video": null
+  },
+  {
+    "title": "Audio-Visual Class-Incremental Learning",
+    "title_page": null,
+    "repo": "https://github.com/weiguoPian/AV-CIL_ICCV2023",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Pian_Audio-Visual_Class-Incremental_Learning_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.11073",
+    "video": null
+  },
+  {
+    "title": "DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-Guided Speaker Embedding",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Choi_DiffV2S_Diffusion-Based_Video-to-Speech_Synthesis_with_Vision-Guided_Speaker_Embedding_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.07787",
+    "video": null
+  },
+  {
+    "title": "The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion",
+    "title_page": null,
+    "repo": "https://github.com/ku-vai/TPoS",
+    "web_page": null,
+    "github_page": "https://ku-vai.github.io/TPoS/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Jeong_The_Power_of_Sound_TPoS_Audio_Reactive_Video_Generation_with_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2309.04509",
+    "video": null
+  },
+  {
+    "title": "SIDGAN: High-Resolution Dubbed Video Generation via Shift-Invariant Learning",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Muaz_SIDGAN_High-Resolution_Dubbed_Video_Generation_via_Shift-Invariant_Learning_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://www.amazon.science/publications/sidgan-high-resolution-dubbed-video-generation-via-shift-invariant-learning",
+    "video": null
+  },
+  {
+    "title": "On the Audio-Visual Synchronization for Lip-to-Speech Synthesis",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Niu_On_the_Audio-visual_Synchronization_for_Lip-to-Speech_Synthesis_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.00502",
+    "video": null
+  },
+  {
+    "title": "Be Everywhere - Hear Everything (BEE): Audio Scene Reconstruction by Sparse Audio-Visual Samples",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Be_Everywhere_-_Hear_Everything_BEE_Audio_Scene_Reconstruction_by_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation",
+    "title_page": null,
+    "repo": "https://github.com/HS-YN/DAPS",
+    "web_page": null,
+    "github_page": "https://hs-yn.github.io/DAPS/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yun_Dense_2D-3D_Indoor_Prediction_with_Sound_via_Aligned_Cross-Modal_Distillation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2309.11081",
+    "video": null
+  },
+  {
+    "title": "Hyperbolic Audio-Visual Zero-Shot Learning",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Hyperbolic_Audio-visual_Zero-shot_Learning_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.12558",
+    "video": null
+  },
+  {
+    "title": "AdVerb: Visually Guided Audio Dereverberation",
+    "title_page": null,
+    "repo": "https://github.com/Sreyan88/AdVerb-dereverb",
+    "web_page": null,
+    "github_page": "https://schowdhury671.github.io/adverb/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Chowdhury_AdVerb_Visually_Guided_Audio_Dereverberation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.12370",
+    "video": "https://www.youtube.com/watch?v=dZuR-pZ9uM0"
+  },
+  {
+    "title": "Sound Localization from Motion: Jointly Learning Sound Direction and Camera Rotation",
+    "title_page": null,
+    "repo": "https://github.com/IFICL/SLfM",
+    "web_page": null,
+    "github_page": "https://ificl.github.io/SLfM/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Sound_Localization_from_Motion_Jointly_Learning_Sound_Direction_and_Camera_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.11329",
+    "video": null
+  }
+]
