@@ -20,7 +20,7 @@ class Config:
     MARKDOWN_DIRECTORY = "sections"
     OUTPUT_DIRECTORY = "json_data"
     REPO_OWNER = "DmitryRyumin"
-    REPO_NAME = "ICCV-2024-Papers"
+    REPO_NAME = "ICCV-2023-Papers"
     COMMIT_MESSAGE = "Update files"
 
 
