@@ -1,5 +1,6 @@
 # The code is importing necessary modules for the script to work:
 import os
+import shutil
 import json
 from pathlib import Path
 from bs4 import BeautifulSoup
@@ -19,10 +20,10 @@ class Config:
     GITHUB_WORKSPACE = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
     MARKDOWN_DIRECTORY = "sections"
     OUTPUT_DIRECTORY = "json_data"
-    MARKDOWN_DIRECTORY_LOCAL = "/Users/dl/GitHub/ICCV-2023-Papers/sections"
-    OUTPUT_DIRECTORY_LOCAL = "/Users/dl/GitHub/ICCV-2023-Papers/local_json_data"
+    MARKDOWN_DIRECTORY_LOCAL = "/Users/dl/GitHub/CVPR-2023-Papers/sections"
+    OUTPUT_DIRECTORY_LOCAL = "/Users/dl/GitHub/CVPR-2023-Papers/local_json_data"
     REPO_OWNER = "DmitryRyumin"
-    REPO_NAME = "ICCV-2023-Papers"
+    REPO_NAME = "CVPR-2023-Papers"
     COMMIT_MESSAGE = "Update files"
 
 
@@ -41,6 +42,18 @@ def print_colored_count(count, label):
         color_code = 92  # Green color for No table or Errors when count is 0
 
     return f"\033[{color_code}m{count}\033[0m"
+
+
+def clear_directory(directory):
+    path = Path(directory)
+    for item in path.iterdir():
+        try:
+            if item.is_file():
+                item.unlink()
+            elif item.is_dir():
+                shutil.rmtree(item)
+        except Exception as e:
+            print(f"Error while deleting {item}: {e}")
 
 
 def get_github_repository():
@@ -243,16 +256,21 @@ def process_markdown_file(
         soup = BeautifulSoup(html_content, "html.parser")
         table_in_file = soup.find("table")
 
-        if table_in_file:
-            papers = []
+        papers = []
 
+        if table_in_file:
             for row in table_in_file.find_all("tr")[1:]:
                 columns = row.find_all("td")
-
                 paper_data = extract_paper_data(columns)
                 if paper_data:
                     papers.append(paper_data)
 
+        if len(papers) == 0:
+            table.add_row(
+                [counter, markdown_file.name, print_colored_status("No table")]
+            )
+            no_table_count[0] += 1
+        else:
             with open(json_filename, "w", encoding="utf-8") as file:
                 json.dump(papers, file, ensure_ascii=False, indent=2)
 
@@ -270,11 +288,6 @@ def process_markdown_file(
             )
 
             success_count[0] += 1
-        else:
-            table.add_row(
-                [counter, markdown_file.name, print_colored_status("No table")]
-            )
-            no_table_count[0] += 1
     except Exception as e:
         table.add_row(
             [
@@ -308,6 +321,8 @@ def main():
 
     if not output_directory.is_dir():
         output_directory.mkdir(parents=True)
+    else:
+        clear_directory(output_directory)
 
     # Create a PrettyTable
     table = PrettyTable(["#", "File", "Status"])
