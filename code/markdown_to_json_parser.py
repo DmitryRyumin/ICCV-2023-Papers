@@ -19,6 +19,8 @@ class Config:
     GITHUB_WORKSPACE = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
     MARKDOWN_DIRECTORY = "sections"
     OUTPUT_DIRECTORY = "json_data"
+    MARKDOWN_DIRECTORY_LOCAL = "/Users/dl/GitHub/ICCV-2023-Papers/sections"
+    OUTPUT_DIRECTORY_LOCAL = "/Users/dl/GitHub/ICCV-2023-Papers/local_json_data"
     REPO_OWNER = "DmitryRyumin"
     REPO_NAME = "ICCV-2023-Papers"
     COMMIT_MESSAGE = "Update files"
@@ -297,8 +299,8 @@ def main():
         output_directory = Path(Config.GITHUB_WORKSPACE) / Config.OUTPUT_DIRECTORY
     else:
         # Define local paths
-        markdown_directory = Path("/Users/dl/GitHub/ICCV-2023-Papers/sections")
-        output_directory = Path("/Users/dl/GitHub/ICCV-2023-Papers/local_json_data")
+        markdown_directory = Path(Config.MARKDOWN_DIRECTORY_LOCAL)
+        output_directory = Path(Config.OUTPUT_DIRECTORY_LOCAL)
 
     # Add this line at the end to print the paths for verification
     print(f"Markdown Directory: {markdown_directory}")
