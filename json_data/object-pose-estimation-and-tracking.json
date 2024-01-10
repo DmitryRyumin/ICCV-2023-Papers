@@ -1,0 +1,178 @@
+[
+  {
+    "title": "MixCycle: Mixup Assisted Semi-Supervised 3D Single Object Tracking with Cycle Consistency",
+    "title_page": null,
+    "repo": "https://github.com/Mumuqiao/MixCycle",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_MixCycle_Mixup_Assisted_Semi-Supervised_3D_Single_Object_Tracking_with_Cycle_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.09219",
+    "video": null
+  },
+  {
+    "title": "Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation",
+    "title_page": null,
+    "repo": "https://github.com/junzastar/DFTr_Voting",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Deep_Fusion_Transformer_Network_with_Weighted_Vector-Wise_Keypoints_Voting_for_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.05438",
+    "video": null
+  },
+  {
+    "title": "IST-Net: Prior-Free Category-Level Pose Estimation with Implicit Space Transformation",
+    "title_page": null,
+    "repo": "https://github.com/CVMI-Lab/IST-Net",
+    "web_page": "https://sites.google.com/view/cvmi-ist-net/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_IST-Net_Prior-Free_Category-Level_Pose_Estimation_with_Implicit_Space_Transformation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.13479",
+    "video": null
+  },
+  {
+    "title": "Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking",
+    "title_page": null,
+    "repo": "https://github.com/xyyang317/Aba-ViTrack",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Adaptive_and_Background-Aware_Vision_Transformer_for_Real-Time_UAV_Tracking_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "VI-Net: Boosting Category-Level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations",
+    "title_page": null,
+    "repo": "https://github.com/JiehongLin/VI-Net",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_VI-Net_Boosting_Category-level_6D_Object_Pose_Estimation_via_Learning_Decoupled_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.09916",
+    "video": null
+  },
+  {
+    "title": "Tracking by Natural Language Specification with Long Short-Term Context Decoupling",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Tracking_by_Natural_Language_Specification_with_Long_Short-term_Context_Decoupling_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network",
+    "title_page": null,
+    "repo": "https://github.com/RuyiLian/CheckerPose",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Lian_CheckerPose_Progressive_Dense_Keypoint_Localization_for_Object_Pose_Estimation_with_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.16874",
+    "video": null
+  },
+  {
+    "title": "Deep Active Contours for Real-Time 6-DoF Object Tracking",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://zju3dv.github.io/deep_ac/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Deep_Active_Contours_for_Real-time_6-DoF_Object_Tracking_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Learning Symmetry-Aware Geometry Correspondences for 6D Object Pose Estimation",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Learning_Symmetry-Aware_Geometry_Correspondences_for_6D_Object_Pose_Estimation_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Query6DoF: Learning Sparse Queries as Implicit Shape Prior for Category-Level 6DoF Pose Estimation",
+    "title_page": null,
+    "repo": "https://github.com/hustvl/Query6DoF",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Query6DoF_Learning_Sparse_Queries_as_Implicit_Shape_Prior_for_Category-Level_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "SOCS: Semantically-Aware Object Coordinate Space for Category-Level 6D Object Pose Estimation under Large Shape Variations",
+    "title_page": null,
+    "repo": "https://github.com/wanboyan/SOCS",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wan_SOCS_Semantically-Aware_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.10346",
+    "video": null
+  },
+  {
+    "title": "Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation",
+    "title_page": null,
+    "repo": "https://github.com/YangHai-1218/PseudoFlow",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Hai_Pseudo_Flow_Consistency_for_Self-Supervised_6D_Object_Pose_Estimation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.10016",
+    "video": "https://www.youtube.com/watch?v=wjm4hLTn5Bw"
+  },
+  {
+    "title": "Tracking by 3D Model Estimation of Unknown Objects in Videos",
+    "title_page": null,
+    "repo": "https://github.com/rozumden/tracking-by-3d",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Rozumnyi_Tracking_by_3D_Model_Estimation_of_Unknown_Objects_in_Videos_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.06419",
+    "video": "https://www.youtube.com/watch?v=fpY9B3ruJ7E"
+  },
+  {
+    "title": "Algebraically Rigorous Quaternion Framework for the Neural Network Pose Estimation Problem",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Algebraically_Rigorous_Quaternion_Framework_for_the_Neural_Network_Pose_Estimation_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation",
+    "title_page": null,
+    "repo": "https://github.com/fulliu/lc",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Linear-Covariance_Loss_for_End-to-End_Learning_of_6D_Pose_Estimation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.11516",
+    "video": null
+  },
+  {
+    "title": "Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction",
+    "title_page": null,
+    "repo": "https://github.com/cvg/VP-Estimation-with-Prior-Gravity",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Pautrat_Vanishing_Point_Estimation_in_Uncalibrated_Images_with_Prior_Gravity_Direction_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.10694",
+    "video": null
+  }
+]

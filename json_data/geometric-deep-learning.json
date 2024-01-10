@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Get the Best of Both Worlds: Improving Accuracy and Transferability by Grassmann Class Representation",
+    "title_page": null,
+    "repo": "https://github.com/innerlee/GCR",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Get_the_Best_of_Both_Worlds_Improving_Accuracy_and_Transferability_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.01547",
+    "video": null
+  },
+  {
+    "title": "4D Panoptic Segmentation as Invariant and Equivariant Field Prediction",
+    "title_page": null,
+    "repo": "https://github.com/minghanz/EQ-4D-StOP",
+    "web_page": null,
+    "github_page": "https://eq-4d-panoptic.github.io/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_4D_Panoptic_Segmentation_as_Invariant_and_Equivariant_Field_Prediction_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.15651",
+    "video": null
+  },
+  {
+    "title": "SiLK: Simple Learned Keypoints",
+    "title_page": null,
+    "repo": "https://github.com/facebookresearch/silk",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Gleize_SiLK_Simple_Learned_Keypoints_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.06194",
+    "video": null
+  },
+  {
+    "title": "SC3K: Self-Supervised and Coherent 3D Keypoints Estimation from Rotated, Noisy, and Decimated Point Cloud Data",
+    "title_page": null,
+    "repo": "https://github.com/IIT-PAVIS/SC3K",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zohaib_SC3K_Self-supervised_and_Coherent_3D_Keypoints_Estimation_from_Rotated_Noisy_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.05410",
+    "video": null
+  },
+  {
+    "title": "Geometric Viewpoint Learning with Hyper-Rays and Harmonics Encoding",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Min_Geometric_Viewpoint_Learning_with_Hyper-Rays_and_Harmonics_Encoding_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Surface Extraction from Neural Unsigned Distance Fields",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Surface_Extraction_from_Neural_Unsigned_Distance_Fields_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2309.08878",
+    "video": null
+  },
+  {
+    "title": "Learning Adaptive Neighborhoods for Graph Neural Networks",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Saha_Learning_Adaptive_Neighborhoods_for_Graph_Neural_Networks_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.09065",
+    "video": null
+  },
+  {
+    "title": "Why do Networks have Inhibitory/Negative Connections?",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Why_do_networks_have_inhibitorynegative_connections_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2208.03211",
+    "video": null
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models",
+    "title_page": null,
+    "repo": "https://github.com/lukasHoel/text2room",
+    "web_page": null,
+    "github_page": "https://lukashoel.github.io/text-to-room/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Hollein_Text2Room_Extracting_Textured_3D_Meshes_from_2D_Text-to-Image_Models_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.11989",
+    "video": "https://www.youtube.com/watch?v=fjRnFL91EZc"
+  },
+  {
+    "title": "LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses",
+    "title_page": null,
+    "repo": "https://github.com/apple/ml-live-pose",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Stier_LivePose_Online_3D_Reconstruction_from_Monocular_Video_with_Dynamic_Camera_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.00054",
+    "video": null
+  },
+  {
+    "title": "NDDepth: Normal-Distance Assisted Monocular Depth Estimation",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_NDDepth_Normal-Distance_Assisted_Monocular_Depth_Estimation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2309.10592",
+    "video": null
+  },
+  {
+    "title": "LATR: 3D Lane Detection from Monocular Images with Transformer",
+    "title_page": null,
+    "repo": "https://github.com/JMoonr/LATR",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_LATR_3D_Lane_Detection_from_Monocular_Images_with_Transformer_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.04583",
+    "video": null
+  },
+  {
+    "title": "DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving",
+    "title_page": null,
+    "repo": "https://github.com/OpenDriveLab/DriveAdapter",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Jia_DriveAdapter_Breaking_the_Coupling_Barrier_of_Perception_and_Planning_in_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.00398",
+    "video": null
+  },
+  {
+    "title": "Dynamic Point Fields",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://sergeyprokudin.github.io/dpf/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Prokudin_Dynamic_Point_Fields_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.02626",
+    "video": "https://www.youtube.com/watch?v=i-9eAgS8HEA"
+  },
+  {
+    "title": "Generalizing Neural Human Fitting to Unseen Poses with Articulated SE(3) Equivariance",
+    "title_page": null,
+    "repo": null,
+    "web_page": "https://arteq.is.tue.mpg.de/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Generalizing_Neural_Human_Fitting_to_Unseen_Poses_With_Articulated_SE3_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.10528",
+    "video": null
+  },
+  {
+    "title": "Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views",
+    "title_page": null,
+    "repo": "https://github.com/sanweiliti/EgoHMR",
+    "web_page": null,
+    "github_page": "https://sanweiliti.github.io/egohmr/egohmr.html",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Probabilistic_Human_Mesh_Recovery_in_3D_Scenes_from_Egocentric_Views_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.06024",
+    "video": "https://www.youtube.com/watch?v=K6m0BmfMG-E"
+  },
+  {
+    "title": "DECO: Dense Estimation of 3D Human-Scene Contact in the Wild",
+    "title_page": null,
+    "repo": null,
+    "web_page": "https://deco.is.tue.mpg.de/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Tripathi_DECO_Dense_Estimation_of_3D_Human-Scene_Contact_In_The_Wild_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image",
+    "title_page": null,
+    "repo": "https://github.com/PengfeiRen96/DIR",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Decoupled_Iterative_Refinement_Framework_for_Interacting_Hands_Reconstruction_from_a_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2302.02410",
+    "video": null
+  },
+  {
+    "title": "Chasing Clouds: Differentiable Volumetric Rasterisation of Point Clouds as a Highly Efficient and Accurate Loss for Large-Scale Deformable 3D Registration",
+    "title_page": null,
+    "repo": "https://github.com/mattiaspaul/ChasingClouds",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Heinrich_Chasing_Clouds_Differentiable_Volumetric_Rasterisation_of_Point_Clouds_as_a_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize more and Forget Less",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Rehearsal-Free_Domain_Continual_Face_Anti-Spoofing_Generalize_More_and_Forget_Less_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.09914",
+    "video": null
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "title": "GPGait: Generalized Pose-based Gait Recognition",
+    "title_page": null,
+    "repo": "https://github.com/BNU-IVC/FastPoseGait",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_GPGait_Generalized_Pose-based_Gait_Recognition_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.05234",
+    "video": "https://www.youtube.com/watch?v=NY_MzAxpm94"
+  },
+  {
+    "title": "RPG-Palm: Realistic Pseudo-Data Generation for Palmprint Recognition",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Shen_RPG-Palm_Realistic_Pseudo-data_Generation_for_Palmprint_Recognition_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.14016",
+    "video": null
+  },
+  {
+    "title": "Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification",
+    "title_page": null,
+    "repo": "https://github.com/liufeng2915/3DInvarReID",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Learning_Clothing_and_Pose_Invariant_3D_Shape_Representation_for_Long-Term_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.10658",
+    "video": null
+  },
+  {
+    "title": "Physics-Augmented Autoencoder for 3D Skeleton-based Gait Recognition",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Physics-Augmented_Autoencoder_for_3D_Skeleton-Based_Gait_Recognition_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Hierarchical Spatio-Temporal Representation Learning for Gait Recognition",
+    "title_page": null,
+    "repo": "https://github.com/gudaochangsheng/HSTL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Hierarchical_Spatio-Temporal_Representation_Learning_for_Gait_Recognition_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.09856",
+    "video": null
+  },
+  {
+    "title": "IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Model",
+    "title_page": null,
+    "repo": "https://github.com/fdbtrs/idiff-face",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Boutros_IDiff-Face_Synthetic-based_Face_Recognition_through_Fizzy_Identity-Conditioned_Diffusion_Model_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Template Inversion Attack against Face Recognition Systems using 3D Face Reconstruction",
+    "title_page": null,
+    "repo": null,
+    "web_page": "https://www.idiap.ch/paper/gafar/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Shahreza_Template_Inversion_Attack_against_Face_Recognition_Systems_using_3D_Face_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Privacy-Preserving Face Recognition using Random Frequency Components",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Mi_Privacy-Preserving_Face_Recognition_Using_Random_Frequency_Components_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.10461",
+    "video": null
+  },
+  {
+    "title": "FLIP: Cross-Domain Face Anti-Spoofing with Language Guidance",
+    "title_page": null,
+    "repo": "https://github.com/koushiksrivats/FLIP",
+    "web_page": null,
+    "github_page": "https://koushiksrivats.github.io/FLIP/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Srivatsan_FLIP_Cross-domain_Face_Anti-spoofing_with_Language_Guidance_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2309.16649",
+    "video": null
+  }
+]

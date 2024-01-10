@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Segment Anything",
+    "title_page": null,
+    "repo": "https://github.com/facebookresearch/segment-anything",
+    "web_page": "https://segment-anything.com/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.02643",
+    "video": null
+  },
+  {
+    "title": "Shape Analysis of Euclidean Curves under Frenet-Serret Framework",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Chassat_Shape_Analysis_of_Euclidean_Curves_under_Frenet-Serret_Framework_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Unmasking Anomalies in Road-Scene Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Nandan_Unmasking_Anomalies_in_Road-Scene_Segmentation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.13316",
+    "video": null
+  },
+  {
+    "title": "High Quality Entity Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/qqlu/Entity",
+    "web_page": null,
+    "github_page": "http://luqi.info/entityv2.github.io/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Qi_High_Quality_Entity_Segmentation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2211.05776",
+    "video": null
+  },
+  {
+    "title": "Towards Open-Vocabulary Video Instance Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/haochenheheda/LVVIS",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Towards_Open-Vocabulary_Video_Instance_Segmentation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.01715",
+    "video": null
+  },
+  {
+    "title": "Beyond One-to-One: Rethinking the Referring Image Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/toggle1995/RIS-DMMI",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Beyond_One-to-One_Rethinking_the_Referring_Image_Segmentation_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2308.13853",
+    "video": null
+  },
+  {
+    "title": "Multiple Instance Learning Framework with Masked Hard Instance Mining for whole Slide Image Classification",
+    "title_page": null,
+    "repo": "https://github.com/DearCaat/MHIM-MIL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_Multiple_Instance_Learning_Framework_with_Masked_Hard_Instance_Mining_for_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.15254",
+    "video": null
+  },
+  {
+    "title": "Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning",
+    "title_page": null,
+    "repo": "https://github.com/bair-climate-initiative/scale-mae",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Reed_Scale-MAE_A_Scale-Aware_Masked_Autoencoder_for_Multiscale_Geospatial_Representation_Learning_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2212.14532",
+    "video": null
+  },
+  {
+    "title": "Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval",
+    "title_page": null,
+    "repo": "https://github.com/IMCCretrieval/ProST",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Progressive_Spatio-Temporal_Prototype_Matching_for_Text-Video_Retrieval_ICCV_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Towards Deeply Unified Depth-Aware Panoptic Segmentation with Bi-Directional Guidance Learning",
+    "title_page": null,
+    "repo": "https://github.com/jwh97nn/DeepDPS",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/He_Towards_Deeply_Unified_Depth-aware_Panoptic_Segmentation_with_Bi-directional_Guidance_Learning_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.14786",
+    "video": null
+  },
+  {
+    "title": "LogicSeg: Parsing Visual Semantics with Neural Logic Learning and Reasoning",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Li_LogicSeg_Parsing_Visual_Semantics_with_Neural_Logic_Learning_and_Reasoning_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2309.13556",
+    "video": null
+  },
+  {
+    "title": "ASIC: Aligning Sparse in-the-Wild Image Collections",
+    "title_page": null,
+    "repo": "https://github.com/kampta/asic",
+    "web_page": null,
+    "github_page": "https://kampta.github.io/asic/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Gupta_ASIC_Aligning_Sparse_in-the-wild_Image_Collections_ICCV_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.16201",
+    "video": "https://www.youtube.com/watch?v=fLjkkMriuoY"
+  }
+]
