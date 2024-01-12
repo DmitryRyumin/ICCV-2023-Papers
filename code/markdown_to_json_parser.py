@@ -16,15 +16,19 @@ class FileUpdate:
         self.content = content
 
 
+repo_full_name = os.getenv("GITHUB_REPOSITORY")
+owner, repo_name = repo_full_name.split("/")
+
+
 class Config:
     GITHUB_TOKEN = os.getenv("INPUT_PAPER_TOKEN") or os.getenv("PAPER_TOKEN")
     GITHUB_WORKSPACE = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
     MARKDOWN_DIRECTORY = "sections"
     OUTPUT_DIRECTORY = "json_data"
-    MARKDOWN_DIRECTORY_LOCAL = "/Users/dl/GitHub/ICCV-2023-Papers/sections"
-    OUTPUT_DIRECTORY_LOCAL = "/Users/dl/GitHub/ICCV-2023-Papers/local_json_data"
-    REPO_OWNER = "DmitryRyumin"
-    REPO_NAME = "ICCV-2023-Papers"
+    MARKDOWN_DIRECTORY_LOCAL = Path("./sections").resolve()
+    OUTPUT_DIRECTORY_LOCAL = Path("./local_json_data").resolve()
+    REPO_OWNER = owner
+    REPO_NAME = repo_name
     COMMIT_MESSAGE = "Update files"
 
 
