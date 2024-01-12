@@ -169,4 +169,5 @@ dmypy.json
 
 # Custom
 *.pdf
+/*.sh
 local_json_data/
