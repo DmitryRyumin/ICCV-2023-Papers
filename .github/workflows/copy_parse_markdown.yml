@@ -1,0 +1,136 @@
+name: Copy Parse Markdown and Generate JSON from Source Repo
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_repo:
+        description: 'Source repository name'
+        required: false
+        default: 'DmitryRyumin/NewEraAI-Papers'
+      source_file_path:
+        description: 'Path to the file in the source repository'
+        required: false
+        default: 'code/markdown_to_json_parser.py'
+      code_directory:
+        description: 'Directory where code is stored'
+        required: false
+        default: 'code'
+      display_file_contents:
+        description: 'Whether or not to display the contents of the doanload file and the destination file'
+        required: false
+        default: 'false'
+  schedule:
+    - cron: '30 23 * * *'
+
+jobs:
+  copy-code:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    env:
+      SOURCE_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.code_directory }}/markdown_to_json_parser_new.py
+      SOURCE_DESTINATION_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.source_file_path }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        continue-on-error: true # Continue with the workflow even if the checkout fails
+        with:
+          ref: ${{ github.event.before || 'main' }}
+
+      - name: Define show_file_content function
+        run: echo 'source ${{ github.workspace }}/scripts/show_file_content.sh' > show_file_content_step.sh
+
+      - name: Download source file
+        run: |
+          if mkdir -p "${{ github.workspace }}/${{ github.event.inputs.code_directory }}"; then
+            echo "Directory created successfully or already existed."
+          else
+            echo "Failed to create directory."
+            exit 1
+          fi
+
+          source_url="https://raw.githubusercontent.com/${{ github.event.inputs.source_repo }}/main/${{ github.event.inputs.source_file_path }}"
+          if curl -o "${{ env.SOURCE_FILE_PATH }}" "$source_url"; then
+            echo "Source file downloaded successfully."
+          else
+            echo "Failed to download source file."
+            exit 1
+          fi
+
+      - name: Display content of the downloaded source file
+        run: |
+          set -e
+          source show_file_content_step.sh
+          show_file_content "${{ env.SOURCE_FILE_PATH }}" "${{ github.event.inputs.display_file_contents }}"
+
+      - name: Display content of destination file from target repository
+        run: |
+          set -e
+          source show_file_content_step.sh
+          show_file_content "${{ env.SOURCE_DESTINATION_FILE_PATH }}" "${{ github.event.inputs.display_file_contents }}"
+
+      - name: Compare and handle files
+        run: |
+          set -e
+
+          handle_equal_files() {
+            echo "Files are equal. Deleting SOURCE_FILE_PATH."
+            if rm "${{ env.SOURCE_FILE_PATH }}"; then
+              echo "SOURCE_FILE_PATH deleted successfully."
+            else
+              echo "Failed to delete SOURCE_FILE_PATH."
+              exit 1
+            fi
+          }
+
+          handle_unequal_files() {
+            echo "Files are not equal. Replacing SOURCE_DESTINATION_FILE_PATH with content from SOURCE_FILE_PATH."
+            if cat "${{ env.SOURCE_FILE_PATH }}" > "${{ env.SOURCE_DESTINATION_FILE_PATH }}"; then
+              echo "SOURCE_DESTINATION_FILE_PATH replaced successfully."
+              rm "${{ env.SOURCE_FILE_PATH }}"
+            else
+              echo "Failed to replace SOURCE_DESTINATION_FILE_PATH."
+              exit 1
+            fi
+          }
+
+          handle_missing_destination() {
+            echo "SOURCE_DESTINATION_FILE_PATH does not exist. Renaming SOURCE_FILE_PATH to SOURCE_DESTINATION_FILE_PATH."
+            if [ -f "${{ env.SOURCE_FILE_PATH }}" ] && [ -f "${{ env.SOURCE_DESTINATION_FILE_PATH }}" ]; then
+              if mv "${{ env.SOURCE_FILE_PATH }}" "${{ env.SOURCE_DESTINATION_FILE_PATH }}"; then
+                echo "Files renamed successfully."
+              else
+                echo "Failed to rename files."
+                exit 1
+              fi
+            else
+              echo "One or both of the files do not exist."
+            fi
+          }
+
+          if [ -f "${{ env.SOURCE_DESTINATION_FILE_PATH }}" ]; then
+            if cmp -s "${{ env.SOURCE_DESTINATION_FILE_PATH }}" "${{ env.SOURCE_FILE_PATH }}"; then
+              handle_equal_files
+            else
+              handle_unequal_files
+            fi
+          else
+            handle_missing_destination
+          fi
+
+      - name: Display working code directory content
+        run: |
+          ls -al "${{ github.workspace }}/${{ github.event.inputs.code_directory }}"
+
+      - name: Auto commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Copy Parse Markdown and Generate JSON from Source Repo'
+        env:
+          PAPER_TOKEN: ${{ secrets.PAPER_TOKEN }}
+
+      - name: Set output status
+        run: echo "status=${{ steps.parse.outcome }}" >> $GITHUB_ENV
