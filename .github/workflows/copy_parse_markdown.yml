@@ -5,20 +5,24 @@ on:
     inputs:
       source_repo:
         description: 'Source repository name'
-        required: false
+        required: true
         default: 'DmitryRyumin/NewEraAI-Papers'
       source_file_path:
         description: 'Path to the file in the source repository'
-        required: false
+        required: true
         default: 'code/markdown_to_json_parser.py'
       code_directory:
         description: 'Directory where code is stored'
-        required: false
+        required: true
         default: 'code'
       display_file_contents:
         description: 'Whether or not to display the contents of the doanload file and the destination file'
-        required: false
+        required: true
         default: 'false'
+        type: choice
+        options:
+          - true
+          - false
   schedule:
     - cron: '30 23 * * *'
 
@@ -30,8 +34,10 @@ jobs:
       contents: write
 
     env:
-      SOURCE_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.code_directory }}/markdown_to_json_parser_new.py
-      SOURCE_DESTINATION_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.source_file_path }}
+      INPUT_SOURCE_REPO: ${{ github.event.inputs.source_repo || 'DmitryRyumin/NewEraAI-Papers' }}
+      INPUT_SOURCE_FILE_PATH: ${{ github.event.inputs.source_file_path || 'code/markdown_to_json_parser.py' }}
+      INPUT_CODE_DIRECTORY: ${{ github.event.inputs.code_directory || 'code' }}
+      INPUT_DISPLAY_FILE_CONTENTS: ${{ github.event.inputs.display_file_contents || 'false' }}
 
     steps:
       - name: Checkout repository
@@ -40,19 +46,27 @@ jobs:
         with:
           ref: ${{ github.event.before || 'main' }}
 
+      - name: Set SOURCE_FILE_PATH
+        run: |
+          echo "SOURCE_FILE_PATH=${{ github.workspace }}/${{ env.INPUT_CODE_DIRECTORY }}/markdown_to_json_parser_new.py" >> $GITHUB_ENV
+
+      - name: Set SOURCE_DESTINATION_FILE_PATH
+        run: |
+          echo "SOURCE_DESTINATION_FILE_PATH=${{ github.workspace }}/${{ env.INPUT_SOURCE_FILE_PATH }}" >> $GITHUB_ENV
+
       - name: Define show_file_content function
         run: echo 'source ${{ github.workspace }}/scripts/show_file_content.sh' > show_file_content_step.sh
 
       - name: Download source file
         run: |
-          if mkdir -p "${{ github.workspace }}/${{ github.event.inputs.code_directory }}"; then
+          if mkdir -p "${{ github.workspace }}/${{ env.INPUT_CODE_DIRECTORY }}"; then
             echo "Directory created successfully or already existed."
           else
             echo "Failed to create directory."
             exit 1
           fi
 
-          source_url="https://raw.githubusercontent.com/${{ github.event.inputs.source_repo }}/main/${{ github.event.inputs.source_file_path }}"
+          source_url="https://raw.githubusercontent.com/${{ env.INPUT_SOURCE_REPO }}/main/${{ env.INPUT_SOURCE_FILE_PATH }}"
           if curl -o "${{ env.SOURCE_FILE_PATH }}" "$source_url"; then
             echo "Source file downloaded successfully."
           else
@@ -64,13 +78,13 @@ jobs:
         run: |
           set -e
           source show_file_content_step.sh
-          show_file_content "${{ env.SOURCE_FILE_PATH }}" "${{ github.event.inputs.display_file_contents }}"
+          show_file_content "${{ env.SOURCE_FILE_PATH }}" "${{ env.INPUT_DISPLAY_FILE_CONTENTS }}"
 
       - name: Display content of destination file from target repository
         run: |
           set -e
           source show_file_content_step.sh
-          show_file_content "${{ env.SOURCE_DESTINATION_FILE_PATH }}" "${{ github.event.inputs.display_file_contents }}"
+          show_file_content "${{ env.SOURCE_DESTINATION_FILE_PATH }}" "${{ env.INPUT_DISPLAY_FILE_CONTENTS }}"
 
       - name: Compare and handle files
         run: |
@@ -123,7 +137,7 @@ jobs:
 
       - name: Display working code directory content
         run: |
-          ls -al "${{ github.workspace }}/${{ github.event.inputs.code_directory }}"
+          ls -al "${{ github.workspace }}/${{ env.INPUT_CODE_DIRECTORY }}"
 
       - name: Auto commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
