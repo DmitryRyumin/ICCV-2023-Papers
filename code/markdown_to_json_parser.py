@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 import markdown2
 from prettytable import PrettyTable
 from github import Github, InputGitTreeElement, InputGitAuthor
+from urllib.parse import urlsplit, urlunsplit, urlparse, urlunparse
 
 
 class FileUpdate:
@@ -17,7 +18,10 @@ class FileUpdate:
 
 
 repo_full_name = os.getenv("GITHUB_REPOSITORY")
-owner, repo_name = repo_full_name.split("/")
+if repo_full_name:
+    owner, repo_name = repo_full_name.split("/")
+else:
+    owner, repo_name = None, None
 
 
 class Config:
@@ -171,7 +175,79 @@ def update_repository_with_json(file_updates):
     commit_and_update_branch(g, github_repo, latest_commit, tree)
 
 
-def extract_paper_data(columns):
+def find_common_prefix(urls):
+    if not urls or not all(urls):
+        return ""
+
+    first_parts = urlsplit(urls[0])
+    common_prefix = f"{first_parts.scheme}://{first_parts.netloc}"
+
+    path_prefix = first_parts.path
+
+    for url in urls[1:]:
+        parsed_url = urlsplit(url)
+
+        if (
+            parsed_url.scheme != first_parts.scheme
+            or parsed_url.netloc != first_parts.netloc
+        ):
+            common_prefix = f"{parsed_url.scheme}://{parsed_url.netloc}"
+            break
+
+        current_path = parsed_url.path
+
+        common_prefix_len = 0
+        for i in range(min(len(path_prefix), len(current_path))):
+            if path_prefix[i] == current_path[i]:
+                common_prefix_len += 1
+            else:
+                break
+
+        path_prefix = path_prefix[:common_prefix_len]
+
+    common_prefix = common_prefix.rstrip("/")
+
+    parsed_url = urlparse(common_prefix)
+    parsed_url = parsed_url._replace(scheme="")
+    url_without_https = urlunparse(parsed_url)
+    url_without_slashes = url_without_https.lstrip("/")
+
+    return urlunsplit(("https", url_without_slashes, path_prefix, "", ""))
+
+
+def extract_relative_url(full_url, base_url):
+    if full_url.startswith(base_url):
+        trimmed_title_page = full_url[len(base_url) :]
+        return trimmed_title_page
+    else:
+        return full_url
+
+
+def extract_video_id(url):
+    if not url:
+        return None
+
+    if "youtube.com" in url or "youtu.be" in url:
+        video_id = (
+            url.split("v=")[1].split("&")[0] if "v=" in url else url.split("/")[-1]
+        )
+        return video_id if video_id else None
+
+    return None
+
+
+def extract_github_info(url):
+    if not url:
+        return None
+
+    try:
+        username, repo_name = urlparse(url).path.strip("/").split("/")[-2:]
+        return f"{username}/{repo_name}" if username and repo_name else None
+    except Exception:
+        return None
+
+
+def extract_paper_data(paper_section, columns):
     title_column = columns[0]
     title = title_column.get_text(strip=True)
     title_link = title_column.find("a")
@@ -205,6 +281,7 @@ def extract_paper_data(columns):
             if repo_link and "github" in repo_link.img.get("alt", "").lower()
             else None
         )
+        repo_info = extract_github_info(repo)
 
         demo_link = next(
             (a for a in links if "hugging face" in a.img.get("alt", "").lower()),
@@ -217,20 +294,35 @@ def extract_paper_data(columns):
 
         paper_arxiv_link = columns[2].find_all("a")
         paper_arxiv = paper_arxiv_link[1]["href"] if len(paper_arxiv_link) > 1 else None
+        paper_arxiv_id = (
+            urlparse(paper_arxiv).path.split("/")[-1] if paper_arxiv else None
+        )
 
         video_link = columns[3].find("a")
         video = video_link["href"] if video_link else None
+        video_id = extract_video_id(video)
+
+        base_url = None
+        if title_page and paper_thecvf:
+            urls = [title_page, paper_thecvf]
+            common_prefix = find_common_prefix(urls)
+            base_url = common_prefix.rstrip("/")
+
+            title_page = extract_relative_url(title_page, base_url)
+            paper_thecvf = extract_relative_url(paper_thecvf, base_url)
 
         paper_data = {
             "title": title,
+            "base_url": base_url,
             "title_page": title_page,
-            "repo": repo,
+            "repo": repo_info,
             "web_page": web_page,
             "github_page": github_page,
             "demo_page": demo_page,
             "paper_thecvf": paper_thecvf,
-            "paper_arxiv": paper_arxiv,
-            "video": video,
+            "paper_arxiv_id": paper_arxiv_id,
+            "youtube_id": video_id,
+            "section": paper_section,
         }
 
         return paper_data
@@ -262,13 +354,14 @@ def process_markdown_file(
         )
         soup = BeautifulSoup(html_content, "html.parser")
         table_in_file = soup.find("table")
+        paper_section = soup.find("h2").text
 
         papers = []
 
         if table_in_file:
             for row in table_in_file.find_all("tr")[1:]:
                 columns = row.find_all("td")
-                paper_data = extract_paper_data(columns)
+                paper_data = extract_paper_data(paper_section, columns)
                 if paper_data:
                     papers.append(paper_data)
 
