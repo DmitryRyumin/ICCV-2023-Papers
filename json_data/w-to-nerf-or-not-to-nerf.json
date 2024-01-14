@@ -1,24 +1,28 @@
 [
   {
     "title": "ILSH: The Imperial Light-Stage Head Dataset for Human Head View Synthesis",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Zheng_ILSH_The_Imperial_Light-Stage_Head_Dataset_for_Human_Head_View_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2310.03952",
-    "video": null
+    "paper_arxiv_id": "2310.03952",
+    "youtube_id": null,
+    "section": "To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads"
   },
   {
     "title": "VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": "https://sites.google.com/view/vschh/",
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/RHWC/papers/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "To NeRF or not to NeRF: A View Synthesis Challenge for Human Heads"
   }
 ]

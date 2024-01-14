@@ -1,112 +1,132 @@
 [
   {
     "title": "DeepCut: Unsupervised Segmentation using Graph Neural Networks Clustering",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/SAMPL-Weizmann/DeepCut",
+    "repo": "SAMPL-Weizmann/DeepCut",
     "web_page": null,
     "github_page": "https://sampl-weizmann.github.io/DeepCut/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Aflalo_DeepCut_Unsupervised_Segmentation_Using_Graph_Neural_Networks_Clustering_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.05853",
-    "video": null
+    "paper_arxiv_id": "2212.05853",
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "Relational Prior Knowledge Graphs for Detection and Instance Segmentation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ozzyou/RP-FEM",
+    "repo": "ozzyou/RP-FEM",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Ulger_Relational_Prior_Knowledge_Graphs_for_Detection_and_Instance_Segmentation_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2310.07573",
-    "video": null
+    "paper_arxiv_id": "2310.07573",
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "Fine-Grained is Too Coarse: A Novel Data-Centric Approach for Efficient Scene Graph Generation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Maelic/VG_curated",
+    "repo": "Maelic/VG_curated",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Neau_Fine-Grained_is_Too_Coarse_A_Novel_Data-Centric_Approach_for_Efficient_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2305.18668",
-    "video": null
+    "paper_arxiv_id": "2305.18668",
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "Polygon Detection for Room Layout Estimation using Heterogeneous Graphs and Wireframes",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/DavidGillsjo/polygon-HGT",
+    "repo": "DavidGillsjo/polygon-HGT",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Gillsjo_Polygon_Detection_for_Room_Layout_Estimation_using_Heterogeneous_Graphs_andWireframes_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2306.12203",
-    "video": null
+    "paper_arxiv_id": "2306.12203",
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.14573",
-    "video": null
+    "paper_arxiv_id": "2304.14573",
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "Knowledge Informed Sequential Scene Graph Verification using VQA",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Thauvin_Knowledge_Informed_Sequential_Scene_Graph_Verification_Using_VQA_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "Dynamic Scene Graph Representation for Surgical Video",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Holm_Dynamic_Scene_Graph_Representation_for_Surgical_Video_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.14538",
-    "video": null
+    "paper_arxiv_id": "2309.14538",
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "Haystack: A Panoptic Scene Graph Dataset to Evaluate Rare Predicate Classes",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/lorjul/haystack",
+    "repo": "lorjul/haystack",
     "web_page": null,
     "github_page": "https://lorjul.github.io/haystack/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Lorenz_Haystack_A_Panoptic_Scene_Graph_Dataset_to_Evaluate_Rare_Predicate_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.02286",
-    "video": null
+    "paper_arxiv_id": "2309.02286",
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "nuScenes Knowledge Graph - A Comprehensive Semantic Representation of Traffic Scenes for Trajectory Prediction",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/boschresearch/nuScenes_Knowledge_Graph",
+    "repo": "boschresearch/nuScenes_Knowledge_Graph",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Mlodzian_nuScenes_Knowledge_Graph_-_A_Comprehensive_Semantic_Representation_of_Traffic_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2312.09676",
-    "video": null
+    "paper_arxiv_id": "2312.09676",
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   },
   {
     "title": "Exploring the Road Graph in Trajectory Forecasting for Autonomous Driving",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Sun_Exploring_the_Road_Graph_in_Trajectory_Forecasting_for_Autonomous_Driving_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "1st Workshop on Scene Graphs and Graph Representation Learning"
   }
 ]

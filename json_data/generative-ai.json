@@ -1,266 +1,314 @@
 [
   {
     "title": "CLIPascene: Scene Sketching with Different Types and Levels of Abstraction",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/yael-vinker/SceneSketch",
+    "repo": "yael-vinker/SceneSketch",
     "web_page": null,
     "github_page": "https://clipascene.github.io/CLIPascene/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Vinker_CLIPascene_Scene_Sketching_with_Different_Types_and_Levels_of_Abstraction_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2211.17256",
-    "video": null
+    "paper_arxiv_id": "2211.17256",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "LD-ZNet: A Latent Diffusion Approach for Text-based Image Segmentation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://koutilya-pnvr.github.io/LD-ZNet/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/PNVR_LD-ZNet_A_Latent_Diffusion_Approach_for_Text-Based_Image_Segmentation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.12343",
-    "video": null
+    "paper_arxiv_id": "2303.12343",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": "https://research.nvidia.com/labs/toronto-ai/texfusion/",
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_TexFusion_Synthesizing_3D_Textures_with_Text-Guided_Image_Diffusion_Models_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2310.13772",
-    "video": null
+    "paper_arxiv_id": "2310.13772",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://oppo-us-research.github.io/NeuRBF-website/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_NeuRBF_A_Neural_Fields_Representation_with_Adaptive_Radial_Basis_Functions_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://cse.buffalo.edu/~jsyuan/papers/2023/ICCV2023_zhang.pdf",
-    "video": null
+    "paper_arxiv_id": "ICCV2023_zhang.pdf",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Scalable Diffusion Models with Transformers",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/facebookresearch/DiT",
+    "repo": "facebookresearch/DiT",
     "web_page": "https://www.wpeebles.com/DiT",
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.09748",
-    "video": null
+    "paper_arxiv_id": "2212.09748",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Texture Generation on 3D Meshes with Point-UV Diffusion",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/CVMI-Lab/Point-UV-Diffusion",
+    "repo": "CVMI-Lab/Point-UV-Diffusion",
     "web_page": null,
     "github_page": "https://cvmi-lab.github.io/Point-UV-Diffusion/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Texture_Generation_on_3D_Meshes_with_Point-UV_Diffusion_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.10490",
-    "video": null
+    "paper_arxiv_id": "2308.10490",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Generative Novel View Synthesis with 3D-Aware Diffusion Models",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/NVlabs/genvs",
+    "repo": "NVlabs/genvs",
     "web_page": null,
     "github_page": "https://nvlabs.github.io/genvs/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Chan_Generative_Novel_View_Synthesis_with_3D-Aware_Diffusion_Models_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.02602",
-    "video": null
+    "paper_arxiv_id": "2304.02602",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/mkshing/DiffFit-pytorch",
+    "repo": "mkshing/DiffFit-pytorch",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_DiffFit_Unlocking_Transferability_of_Large_Diffusion_Models_via_Simple_Parameter-efficient_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.06648",
-    "video": null
+    "paper_arxiv_id": "2304.06648",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "VQ3D: Learning a 3D-Aware Generative Model on ImageNet",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://kylesargent.github.io/vq3d",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Sargent_VQ3D_Learning_a_3D-Aware_Generative_Model_on_ImageNet_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2302.06833",
-    "video": null
+    "paper_arxiv_id": "2302.06833",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/EnVision-Research/Ref-NeuS",
+    "repo": "EnVision-Research/Ref-NeuS",
     "web_page": null,
     "github_page": "https://g3956.github.io/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Ge_Ref-NeuS_Ambiguity-Reduced_Neural_Implicit_Surface_Learning_for_Multi-View_Reconstruction_with_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.10840",
-    "video": null
+    "paper_arxiv_id": "2303.10840",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "A Complete Recipe for Diffusion Generative Models",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/mandt-lab/PSLD",
+    "repo": "mandt-lab/PSLD",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Pandey_A_Complete_Recipe_for_Diffusion_Generative_Models_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.01748",
-    "video": null
+    "paper_arxiv_id": "2303.01748",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "MMVP: Motion-Matrix-based Video Prediction",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Kay1794/MMVP-motion-matrix-based-video-prediction",
+    "repo": "Kay1794/MMVP-motion-matrix-based-video-prediction",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhong_MMVP_Motion-Matrix-Based_Video_Prediction_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.16154",
-    "video": null
+    "paper_arxiv_id": "2308.16154",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Cross-Ray Neural Radiance Fields for Novel-View Synthesis from Unconstrained Image Collections",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/YifYang993/CR-NeRF-PyTorch",
+    "repo": "YifYang993/CR-NeRF-PyTorch",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Cross-Ray_Neural_Radiance_Fields_for_Novel-View_Synthesis_from_Unconstrained_Image_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2307.08093",
-    "video": null
+    "paper_arxiv_id": "2307.08093",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Effective Real Image Editing with Accelerated Iterative Diffusion Inversion",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.04907",
-    "video": null
+    "paper_arxiv_id": "2309.04907",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Simulating Fluids in Real-World Still Images",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/simon3dv/SLR-SFS",
+    "repo": "simon3dv/SLR-SFS",
     "web_page": null,
     "github_page": "https://slr-sfs.github.io/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_Simulating_Fluids_in_Real-World_Still_Images_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2204.11335",
-    "video": "https://www.youtube.com/watch?v=Aatrl16t-V8"
+    "paper_arxiv_id": "2204.11335",
+    "youtube_id": "Aatrl16t-V8",
+    "section": "Generative AI"
   },
   {
     "title": "FateZero: Fusing Attentions for Zero-Shot Text-based Video Editing",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ChenyangQiQi/FateZero",
+    "repo": "ChenyangQiQi/FateZero",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/QI_FateZero_Fusing_Attentions_for_Zero-shot_Text-based_Video_Editing_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.09535",
-    "video": null
+    "paper_arxiv_id": "2303.09535",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/csyxwei/ELITE",
+    "repo": "csyxwei/ELITE",
     "web_page": null,
     "github_page": null,
     "demo_page": "https://huggingface.co/spaces/ELITE-library/ELITE",
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_ELITE_Encoding_Visual_Concepts_into_Textual_Embeddings_for_Customized_Text-to-Image_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2302.13848",
-    "video": null
+    "paper_arxiv_id": "2302.13848",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
+    "repo": "Picsart-AI-Research/Text2Video-Zero",
     "web_page": null,
     "github_page": "https://text2video-zero.github.io/",
     "demo_page": "https://huggingface.co/spaces/PAIR/Text2Video-Zero",
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.13439",
-    "video": "https://www.dropbox.com/s/uv90mi2z598olsq/Text2Video-Zero.MP4?dl=0"
+    "paper_arxiv_id": "2303.13439",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/snuvclab/chupa",
+    "repo": "snuvclab/chupa",
     "web_page": null,
     "github_page": "https://snuvclab.github.io/chupa/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Chupa_Carving_3D_Clothed_Humans_from_Skinned_Shape_Priors_using_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2305.11870",
-    "video": "https://www.youtube.com/watch?v=ZHwtbQSsQjw"
+    "paper_arxiv_id": "2305.11870",
+    "youtube_id": "ZHwtbQSsQjw",
+    "section": "Generative AI"
   },
   {
     "title": "DiffPose: Multi-Hypothesis Human Pose Estimation using Diffusion Models",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/bastianwandt/DiffPose",
+    "repo": "bastianwandt/DiffPose",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Holmquist_DiffPose_Multi-hypothesis_Human_Pose_Estimation_using_Diffusion_Models_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2211.16487",
-    "video": null
+    "paper_arxiv_id": "2211.16487",
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/IDEA-Research/HumanSD",
+    "repo": "IDEA-Research/HumanSD",
     "web_page": null,
     "github_page": "https://idea-research.github.io/HumanSD/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Ju_HumanSD_A_Native_Skeleton-Guided_Diffusion_Model_for_Human_Image_Generation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.04269",
-    "video": "https://www.youtube.com/watch?v=rVy8eWCWRmg"
+    "paper_arxiv_id": "2304.04269",
+    "youtube_id": "rVy8eWCWRmg",
+    "section": "Generative AI"
   },
   {
     "title": "Role-Aware Interaction Generation from Textual Description",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/line/Human-Interaction-Generation",
+    "repo": "line/Human-Interaction-Generation",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Generative AI"
   },
   {
     "title": "PhysDiff: Physics-Guided Human Motion Diffusion Model",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://nvlabs.github.io/PhysDiff/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_PhysDiff_Physics-Guided_Human_Motion_Diffusion_Model_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.02500",
-    "video": "https://www.youtube.com/watch?v=y8Tdcvzjfjg"
+    "paper_arxiv_id": "2212.02500",
+    "youtube_id": "y8Tdcvzjfjg",
+    "section": "Generative AI"
   },
   {
     "title": "Forward Flow for Novel View Synthesis of Dynamic Scenes",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://npucvr.github.io/ForwardFlowDNeRF/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Forward_Flow_for_Novel_View_Synthesis_of_Dynamic_Scenes_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.17390",
-    "video": "https://www.youtube.com/watch?v=AiUogciQlW8"
+    "paper_arxiv_id": "2309.17390",
+    "youtube_id": "AiUogciQlW8",
+    "section": "Generative AI"
   }
 ]

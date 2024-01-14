@@ -1,167 +1,197 @@
 [
   {
     "title": "Skill Transformer: A Monolithic Policy for Mobile Manipulation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Skill_Transformer_A_Monolithic_Policy_for_Mobile_Manipulation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.09873",
-    "video": null
+    "paper_arxiv_id": "2308.09873",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "ENTL: Embodied Navigation Trajectory Learner",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Kotar_ENTL_Embodied_Navigation_Trajectory_Learner_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.02639",
-    "video": null
+    "paper_arxiv_id": "2304.02639",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/hanqingwangai/Dreamwalker",
+    "repo": "hanqingwangai/Dreamwalker",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DREAMWALKER_Mental_Planning_for_Continuous_Vision-Language_Navigation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.07498",
-    "video": null
+    "paper_arxiv_id": "2308.07498",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Scene Graph Contrastive Learning for Embodied Navigation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Singh_Scene_Graph_Contrastive_Learning_for_Embodied_Navigation_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Perpetual Humanoid Control for Real-Time Simulated Avatars",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/DelinQu/qrsc",
+    "repo": "DelinQu/qrsc",
     "web_page": null,
     "github_page": "https://zhengyiluo.github.io/PHC/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_Perpetual_Humanoid_Control_for_Real-time_Simulated_Avatars_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2305.06456",
-    "video": "https://www.youtube.com/watch?v=zS6Y00EW37A"
+    "paper_arxiv_id": "2305.06456",
+    "youtube_id": "zS6Y00EW37A",
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Grounding 3D Object Affordance from 2D Interactions in Images",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/yyvhang/IAGNet",
+    "repo": "yyvhang/IAGNet",
     "web_page": null,
     "github_page": "https://yyvhang.github.io/publications/IAG/index.html",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Grounding_3D_Object_Affordance_from_2D_Interactions_in_Images_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.10437",
-    "video": "https://www.youtube.com/watch?v=GfCPUM1nAHI"
+    "paper_arxiv_id": "2303.10437",
+    "youtube_id": "GfCPUM1nAHI",
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Navigating to Objects Specified by Images",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://jacobkrantz.github.io/modular_iin",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Krantz_Navigating_to_Objects_Specified_by_Images_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.01192",
-    "video": "https://www.youtube.com/watch?v=273jjBvu48s"
+    "paper_arxiv_id": "2304.01192",
+    "youtube_id": "273jjBvu48s",
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "PEANUT: Predicting and Navigating to Unseen Targets",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ajzhai/PEANUT",
+    "repo": "ajzhai/PEANUT",
     "web_page": null,
     "github_page": "https://ajzhai.github.io/PEANUT/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_PEANUT_Predicting_and_Navigating_to_Unseen_Targets_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.02497",
-    "video": null
+    "paper_arxiv_id": "2212.02497",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.07241",
-    "video": null
+    "paper_arxiv_id": "2308.07241",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/TritiumR/DeformableAffordance",
+    "repo": "TritiumR/DeformableAffordance",
     "web_page": null,
     "github_page": "https://hyperplane-lab.github.io/DeformableAffordance/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Learning_Foresightful_Dense_Visual_Affordance_for_Deformable_Object_Manipulation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.11057",
-    "video": "https://www.youtube.com/watch?v=aYneBzwhOGs"
+    "paper_arxiv_id": "2303.11057",
+    "youtube_id": "aYneBzwhOGs",
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Exploiting Proximity-Aware Tasks for Embodied Social Navigation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/EnricoCancelli/ProximitySocialNav",
+    "repo": "EnricoCancelli/ProximitySocialNav",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Cancelli_Exploiting_Proximity-Aware_Tasks_for_Embodied_Social_Navigation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.00767",
-    "video": null
+    "paper_arxiv_id": "2212.00767",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Birds-Eye-View_Scene_Graph_for_Vision-Language_Navigation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.04758",
-    "video": null
+    "paper_arxiv_id": "2308.04758",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Active Neural Mapping",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Active_Neural_Mapping_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.16246",
-    "video": "https://www.youtube.com/watch?v=psPvanfh7SA"
+    "paper_arxiv_id": "2308.16246",
+    "youtube_id": "psPvanfh7SA",
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/chenjinyubuaa/ORAN",
+    "repo": "chenjinyubuaa/ORAN",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Omnidirectional_Information_Gathering_for_Knowledge_Transfer-Based_Audio-Visual_Navigation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.10306",
-    "video": null
+    "paper_arxiv_id": "2308.10306",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents; Simulation"
   },
   {
     "title": "Multi-Object Navigation with Dynamically Learned Neural Implicit Representations",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/PierreMarza/dynamic_implicit_representations",
+    "repo": "PierreMarza/dynamic_implicit_representations",
     "web_page": null,
     "github_page": "https://pierremarza.github.io/projects/dynamic_implicit_representations/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Marza_Multi-Object_Navigation_with_Dynamically_Learned_Neural_Implicit_Representations_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2210.05129",
-    "video": "https://www.youtube.com/watch?v=r_F9M80GPUI"
+    "paper_arxiv_id": "2210.05129",
+    "youtube_id": "r_F9M80GPUI",
+    "section": "Embodied Vision: Active Agents; Simulation"
   }
 ]

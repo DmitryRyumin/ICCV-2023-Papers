@@ -1,200 +1,236 @@
 [
   {
     "title": "Explaining Through Transformer Input Sampling",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/aenglebert/Transformer_Input_Sampling",
+    "repo": "aenglebert/Transformer_Input_Sampling",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Englebert_Explaining_Through_Transformer_Input_Sampling_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "Actor-Agnostic Multi-Label Action Recognition with Multi-Modal Query",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/mondalanindya/MSQNet",
+    "repo": "mondalanindya/MSQNet",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Mondal_Actor-Agnostic_Multi-Label_Action_Recognition_with_Multi-Modal_Query_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2307.10763",
-    "video": "https://www.youtube.com/watch?v=bafoEVdQYJg"
+    "paper_arxiv_id": "2307.10763",
+    "youtube_id": "bafoEVdQYJg",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "All-Pairs Consistency Learning forWeakly Supervised Semantic Segmentation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Sun_All-pairs_Consistency_Learning_forWeakly_Supervised_Semantic_Segmentation_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "Dual-Contrastive Dual-Consistency Dual-Transformer: A Semi-Supervised Approach to Medical Image Segmentation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ziyangwang007/CV-SSL-MIS",
+    "repo": "ziyangwang007/CV-SSL-MIS",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Wang_Dual-Contrastive_Dual-Consistency_Dual-Transformer_A_Semi-Supervised_Approach_to_Medical_Image_Segmentation_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=JU9koBE83co"
+    "paper_arxiv_id": null,
+    "youtube_id": "JU9koBE83co",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "A Hybrid Visual Transformer for Efficient Deep Human Activity Recognition",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Djenouri_A_Hybrid_Visual_Transformer_for_Efficient_Deep_Human_Activity_Recognition_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "Which Tokens to Use? Investigating Token Reduction in Vision Transformers",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/JoakimHaurum/TokenReduction",
+    "repo": "JoakimHaurum/TokenReduction",
     "web_page": "https://vap.aau.dk/tokens/",
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Haurum_Which_Tokens_to_Use_Investigating_Token_Reduction_in_Vision_Transformers_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.04657",
-    "video": null
+    "paper_arxiv_id": "2308.04657",
+    "youtube_id": null,
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "Hierarchical Spatiotemporal Transformers for Video Object Segmentation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Yoo_Hierarchical_Spatiotemporal_Transformers_for_Video_Object_Segmentation_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2307.08263",
-    "video": "https://www.youtube.com/watch?v=JV9TyazM38Y"
+    "paper_arxiv_id": "2307.08263",
+    "youtube_id": "JV9TyazM38Y",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "IDTransformer: Transformer for Intrinsic Image Decomposition",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ParthaDasWeb/IDTransformer.web",
+    "repo": "ParthaDasWeb/IDTransformer.web",
     "web_page": null,
     "github_page": "https://morpheus3000.github.io/IDTransformer.web/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Das_IDTransformer_Transformer_for_Intrinsic_Image_Decomposition_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Qualcomm-AI-research/batchshaping",
+    "repo": "Qualcomm-AI-research/batchshaping",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Havtorn_MSViT_Dynamic_Mixed-Scale_Tokenization_for_Vision_Transformers_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2307.02321",
-    "video": "https://www.youtube.com/watch?v=1H7LJ7-v58w"
+    "paper_arxiv_id": "2307.02321",
+    "youtube_id": "1H7LJ7-v58w",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "Template-Guided Illumination Correction for Document Images with Imperfect Geometric Reconstruction",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/FelixHertlein/illtrtemplate-model",
+    "repo": "FelixHertlein/illtrtemplate-model",
     "web_page": null,
     "github_page": "https://felixhertlein.github.io/illtrtemplate/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Hertlein_Template-Guided_Illumination_Correction_for_Document_Images_with_Imperfect_Geometric_Reconstruction_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=CWrMHbvScSM"
+    "paper_arxiv_id": null,
+    "youtube_id": "CWrMHbvScSM",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "Spatio-Temporal Convolution-Attention Video Network",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Diba_Spatio-Temporal_Convolution-Attention_Video_Network_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "TSOSVNet: Teacher-Student Collaborative Knowledge Distillation for Online Signature Verification",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Sekhar_TSOSVNet_Teacher-Student_Collaborative_Knowledge_Distillation_for_Online_Signature_Verification_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=y0akK9vZ4xE"
+    "paper_arxiv_id": null,
+    "youtube_id": "y0akK9vZ4xE",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "SeMask: Semantically Masked Transformers for Semantic Segmentation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Picsart-AI-Research/SeMask-Segmentation",
+    "repo": "Picsart-AI-Research/SeMask-Segmentation",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Jain_SeMask_Semantically_Masked_Transformers_for_Semantic_Segmentation_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2112.12782",
-    "video": "https://www.youtube.com/watch?v=eLg2rmFWiGs"
+    "paper_arxiv_id": "2112.12782",
+    "youtube_id": "eLg2rmFWiGs",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "TransInpaint: Transformer-based Image Inpainting with Context Adaptation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Shamsolmoali_TransInpaint_Transformer-Based_Image_Inpainting_with_Context_Adaptation_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=ynEg6y4si_8"
+    "paper_arxiv_id": null,
+    "youtube_id": "ynEg6y4si_8",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "Interactive Image Segmentation with Cross-Modality Vision Transformers",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/lik1996/iCMFormer",
+    "repo": "lik1996/iCMFormer",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Li_Interactive_Image_Segmentation_with_Cross-Modality_Vision_Transformers_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2307.02280",
-    "video": null
+    "paper_arxiv_id": "2307.02280",
+    "youtube_id": null,
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "MOSAIC: Multi-Object Segmented Arbitrary Stylization using CLIP",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Ganugula_MOSAIC_Multi-Object_Segmented_Arbitrary_Stylization_Using_CLIP_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.13716",
-    "video": null
+    "paper_arxiv_id": "2309.13716",
+    "youtube_id": null,
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "On Moving Object Segmentation from Monocular Video with Transformers",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Homeyer_On_Moving_Object_Segmentation_from_Monocular_Video_with_Transformers_ICCVW_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=5kuGvSJmitQ"
+    "paper_arxiv_id": null,
+    "youtube_id": "5kuGvSJmitQ",
+    "section": "Workshop on New Ideas in Vision Transformers"
   },
   {
     "title": "SCSC: Spatial Cross-Scale Convolution Module to Strengthen Both CNNs and Transformers",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/NIVT/papers/Wang_SCSC_Spatial_Cross-Scale_Convolution_Module_to_Strengthen_Both_CNNs_and_ICCVW_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.07110",
-    "video": "https://www.youtube.com/watch?v=LE6ncJVvJMQ"
+    "paper_arxiv_id": "2308.07110",
+    "youtube_id": "LE6ncJVvJMQ",
+    "section": "Workshop on New Ideas in Vision Transformers"
   }
 ]

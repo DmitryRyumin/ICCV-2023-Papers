@@ -1,123 +1,145 @@
 [
   {
     "title": "Pre-Training-Free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Knightzjz/NCL-IML",
+    "repo": "Knightzjz/NCL-IML",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.14900",
-    "video": null
+    "paper_arxiv_id": "2309.14900",
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "VADER: Video Alignment Differencing and Retrieval",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/AlexBlck/vader",
+    "repo": "AlexBlck/vader",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Black_VADER_Video_Alignment_Differencing_and_Retrieval_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.13193",
-    "video": null
+    "paper_arxiv_id": "2303.13193",
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "PIRNet: Privacy-Preserving Image Restoration Network via Wavelet Lifting",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/gclonghorn/PIRNet",
+    "repo": "gclonghorn/PIRNet",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_PIRNet_Privacy-Preserving_Image_Restoration_Network_via_Wavelet_Lifting_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "Quality-Agnostic Deepfake Detection with Intra-Model Collaborative Learning",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Le_Quality-Agnostic_Deepfake_Detection_with_Intra-model_Collaborative_Learning_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.05911",
-    "video": null
+    "paper_arxiv_id": "2309.05911",
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/yhZhai/WSCL",
+    "repo": "yhZhai/WSCL",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.01246",
-    "video": null
+    "paper_arxiv_id": "2309.01246",
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "UCF: Uncovering Common Features for Generalizable Deepfake Detection",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.13949",
-    "video": null
+    "paper_arxiv_id": "2304.13949",
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_SAFL-Net_Semantic-Agnostic_Feature_Learning_Network_with_Auxiliary_Plugins_for_Image_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "DRAW: Defending Camera-Shooted RAW Against Image Manipulation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_DRAW_Defending_Camera-shooted_RAW_Against_Image_Manipulation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2307.16418",
-    "video": null
+    "paper_arxiv_id": "2307.16418",
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "DIRE for Diffusion-Generated Image Detection",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ZhendongWang6/DIRE",
+    "repo": "ZhendongWang6/DIRE",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DIRE_for_Diffusion-Generated_Image_Detection_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.09295",
-    "video": null
+    "paper_arxiv_id": "2303.09295",
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "Uncertainty-Guided Learning for Improving Image Manipulation Detection",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Ji_Uncertainty-guided_Learning_for_Improving_Image_Manipulation_Detection_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   },
   {
     "title": "The Stable Signature: Rooting Watermarks in Latent Diffusion Models",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/facebookresearch/stable_signature",
+    "repo": "facebookresearch/stable_signature",
     "web_page": null,
     "github_page": "https://pierrefdz.github.io/publications/stablesignature/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Fernandez_The_Stable_Signature_Rooting_Watermarks_in_Latent_Diffusion_Models_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.15435",
-    "video": null
+    "paper_arxiv_id": "2303.15435",
+    "youtube_id": null,
+    "section": "Image and Video Forensics"
   }
 ]

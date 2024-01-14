@@ -1,68 +1,80 @@
 [
   {
     "title": "Knowledge-Aware Federated Active Learning with Non-IID Data",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ycao5602/KAFAL",
+    "repo": "ycao5602/KAFAL",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Knowledge-Aware_Federated_Active_Learning_with_Non-IID_Data_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2211.13579",
-    "video": null
+    "paper_arxiv_id": "2211.13579",
+    "youtube_id": null,
+    "section": "Human-in-the-Loop Computer Vision"
   },
   {
     "title": "SimpleClick: Interactive Image Segmentation with Simple Vision Transformers",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/uncbiag/SimpleClick",
+    "repo": "uncbiag/SimpleClick",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_SimpleClick_Interactive_Image_Segmentation_with_Simple_Vision_Transformers_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2210.11006",
-    "video": null
+    "paper_arxiv_id": "2210.11006",
+    "youtube_id": null,
+    "section": "Human-in-the-Loop Computer Vision"
   },
   {
     "title": "InterFormer: Real-Time Interactive Image Segmentation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/YouHuang67/InterFormer",
+    "repo": "YouHuang67/InterFormer",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_InterFormer_Real-time_Interactive_Image_Segmentation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.02942",
-    "video": null
+    "paper_arxiv_id": "2304.02942",
+    "youtube_id": null,
+    "section": "Human-in-the-Loop Computer Vision"
   },
   {
     "title": "Interactive Class-Agnostic Object Counting",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Yifehuang97/ICACount",
+    "repo": "Yifehuang97/ICACount",
     "web_page": null,
     "github_page": "https://yifehuang97.github.io/ICACountProjectPage/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Interactive_Class-Agnostic_Object_Counting_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.05277",
-    "video": null
+    "paper_arxiv_id": "2309.05277",
+    "youtube_id": null,
+    "section": "Human-in-the-Loop Computer Vision"
   },
   {
     "title": "Agile Modeling: From Concept to Classifier in Minutes",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Stretcu_Agile_Modeling_From_Concept_to_Classifier_in_Minutes_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2302.12948",
-    "video": null
+    "paper_arxiv_id": "2302.12948",
+    "youtube_id": null,
+    "section": "Human-in-the-Loop Computer Vision"
   },
   {
     "title": "TiDAL: Learning Training Dynamics for Active Learning",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Kye_TiDAL_Learning_Training_Dynamics_for_Active_Learning_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2210.06788",
-    "video": null
+    "paper_arxiv_id": "2210.06788",
+    "youtube_id": null,
+    "section": "Human-in-the-Loop Computer Vision"
   }
 ]

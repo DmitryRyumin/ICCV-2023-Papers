@@ -1,123 +1,145 @@
 [
   {
     "title": "Adaptive Calibrator Ensemble: Navigating Test Set Difficulty in Out-of-Distribution Scenarios",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/insysgroup/Adaptive-Calibrator-Ensemble",
+    "repo": "insysgroup/Adaptive-Calibrator-Ensemble",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zou_Adaptive_Calibrator_Ensemble_Navigating_Test_Set_Difficulty_in_Out-of-Distribution_Scenarios_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Anchor Structure Regularization Induced Multi-View Subspace Clustering via Enhanced Tensor Rank Minimization",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/smallsky-jjt/ASR-ETR",
+    "repo": "smallsky-jjt/ASR-ETR",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Ji_Anchor_Structure_Regularization_Induced_Multi-view_Subspace_Clustering_via_Enhanced_Tensor_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Meta OOD Learning for Continuously Adaptive OOD Detection",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Meta_OOD_Learning_For_Continuously_Adaptive_OOD_Detection_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.11705",
-    "video": null
+    "paper_arxiv_id": "2309.11705",
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Learning with Diversity: Self-Expanded Equalization for Better Generalized Deep Metric Learning",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Learning_with_Diversity_Self-Expanded_Equalization_for_Better_Generalized_Deep_Metric_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Bold but Cautious: Unlocking the Potential of Personalized Federated Learning through Cautiously Aggressive Collaboration",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/kxzxvbk/Fling",
+    "repo": "kxzxvbk/Fling",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.11103",
-    "video": null
+    "paper_arxiv_id": "2309.11103",
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Federated Learning Over Images: Vertical Decompositions and Pre-Trained Backbones are Difficult to Beat",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Federated_Learning_Over_Images_Vertical_Decompositions_and_Pre-Trained_Backbones_Are_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.03237",
-    "video": null
+    "paper_arxiv_id": "2309.03237",
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Towards Inadequately Pre-Trained Models in Transfer Learning",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_Towards_Inadequately_Pre-trained_Models_in_Transfer_Learning_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2203.04668",
-    "video": null
+    "paper_arxiv_id": "2203.04668",
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Reducing Training Time in Cross-Silo Federated Learning using Multigraph Topology",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/aioz-ai/MultigraphFL",
+    "repo": "aioz-ai/MultigraphFL",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Do_Reducing_Training_Time_in_Cross-Silo_Federated_Learning_Using_Multigraph_Topology_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2207.09657",
-    "video": null
+    "paper_arxiv_id": "2207.09657",
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Membrane Potential Batch Normalization for Spiking Neural Networks",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/yfguo91/MPBN",
+    "repo": "yfguo91/MPBN",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Membrane_Potential_Batch_Normalization_for_Spiking_Neural_Networks_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.08359",
-    "video": null
+    "paper_arxiv_id": "2308.08359",
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Revisit PCA-based Technique for Out-of-Distribution Detection",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/SYSU-MIA-GROUP/pca-based-out-of-distribution-detection",
+    "repo": "SYSU-MIA-GROUP/pca-based-out-of-distribution-detection",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Guan_Revisit_PCA-based_Technique_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   },
   {
     "title": "Cross-View Topology based Consistent and Complementary Information for Deep Multi-View Clustering",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Machine Learning (other than Deep Learning)"
   }
 ]

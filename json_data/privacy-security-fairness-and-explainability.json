@@ -1,90 +1,106 @@
 [
   {
     "title": "Zolly: Zoom Focal Length Correctly for Perspective-Distorted Human Mesh Reconstruction",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/WenjiaWang0312/Zolly",
+    "repo": "WenjiaWang0312/Zolly",
     "web_page": null,
     "github_page": "https://wenjiawang0312.github.io/projects/zolly/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Zolly_Zoom_Focal_Length_Correctly_for_Perspective-Distorted_Human_Mesh_Reconstruction_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.13796",
-    "video": null
+    "paper_arxiv_id": "2303.13796",
+    "youtube_id": null,
+    "section": "Privacy, Security, Fairness, and Explainability"
   },
   {
     "title": "ACLS: Adaptive and Conditional Label Smoothing for Network Calibration",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/cvlab-yonsei/ACLS",
+    "repo": "cvlab-yonsei/ACLS",
     "web_page": null,
     "github_page": "https://cvlab.yonsei.ac.kr/projects/ACLS/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Park_ACLS_Adaptive_and_Conditional_Label_Smoothing_for_Network_Calibration_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.11911",
-    "video": null
+    "paper_arxiv_id": "2308.11911",
+    "youtube_id": null,
+    "section": "Privacy, Security, Fairness, and Explainability"
   },
   {
     "title": "PGFed: Personalize Each Client's Global Objective for Federated Learning",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ljaiverson/pgfed",
+    "repo": "ljaiverson/pgfed",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_PGFed_Personalize_Each_Clients_Global_Objective_for_Federated_Learning_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.01448",
-    "video": null
+    "paper_arxiv_id": "2212.01448",
+    "youtube_id": null,
+    "section": "Privacy, Security, Fairness, and Explainability"
   },
   {
     "title": "Overwriting Pretrained Bias with Finetuning Data",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/princetonvisualai/overcoming-pretraining-bias",
+    "repo": "princetonvisualai/overcoming-pretraining-bias",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Overwriting_Pretrained_Bias_with_Finetuning_Data_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.06167",
-    "video": null
+    "paper_arxiv_id": "2303.06167",
+    "youtube_id": null,
+    "section": "Privacy, Security, Fairness, and Explainability"
   },
   {
     "title": "ITI-GEN: Inclusive Text-to-Image Generation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/humansensinglab/ITI-GEN",
+    "repo": "humansensinglab/ITI-GEN",
     "web_page": null,
     "github_page": "https://czhang0528.github.io/iti-gen",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ITI-GEN_Inclusive_Text-to-Image_Generation_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2309.05569",
-    "video": null
+    "paper_arxiv_id": "2309.05569",
+    "youtube_id": null,
+    "section": "Privacy, Security, Fairness, and Explainability"
   },
   {
     "title": "FunnyBirds: A Synthetic Vision Dataset for a Part-based Analysis of Explainable AI Methods",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/visinf/funnybirds",
+    "repo": "visinf/funnybirds",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Hesse_FunnyBirds_A_Synthetic_Vision_Dataset_for_a_Part-Based_Analysis_of_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.06248",
-    "video": null
+    "paper_arxiv_id": "2308.06248",
+    "youtube_id": null,
+    "section": "Privacy, Security, Fairness, and Explainability"
   },
   {
     "title": "X-VoE: Measuring eXplanatory Violation of Expectation in Physical Events",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/daibopku/X-VoE",
+    "repo": "daibopku/X-VoE",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Dai_X-VoE_Measuring_eXplanatory_Violation_of_Expectation_in_Physical_Events_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2308.10441",
-    "video": null
+    "paper_arxiv_id": "2308.10441",
+    "youtube_id": null,
+    "section": "Privacy, Security, Fairness, and Explainability"
   },
   {
     "title": "Adaptive Testing of Computer Vision Models",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Adaptive_Testing_of_Computer_Vision_Models_ICCV_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.02774",
-    "video": null
+    "paper_arxiv_id": "2212.02774",
+    "youtube_id": null,
+    "section": "Privacy, Security, Fairness, and Explainability"
   }
 ]
