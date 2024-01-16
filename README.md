@@ -53,6 +53,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td><strong>Application</strong></td>
+    <td>
+      <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+        <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <div style="float:left;">
@@ -83,6 +91,13 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" alt="" />
   Other collections of the best AI conferences
+</a>
+
+<br />
+<br />
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
 <br />
@@ -190,6 +205,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## [Papers](https://openaccess.thecvf.com/ICCV2023?day=all) <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
 
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
 <!-- > :exclamation: Final paper links will be added post-conference. -->
 
 <table>
