@@ -1,20 +1,31 @@
 # ICCV-2023-Papers
 
+<table>
+    <tr>
+        <td><strong>Application</strong></td>
+        <td>
+            <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+                <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+            </a>
+        </td>
+    </tr>
+</table>
+
 <div align="center">
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-a-single-image-and-shape-from-x.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/action-and-event-understanding.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
 
 ## Motion Estimation, Matching and Tracking
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-59-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-42-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-41-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-14-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-59-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-42-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-40-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-14-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -29,7 +40,7 @@
 | NeSS-ST: Detecting Good and Stable Keypoints with a Neural Stability Score and the Shi-Tomasi Detector | [![GitHub](https://img.shields.io/github/stars/KonstantinPakulev/NeSS-ST?style=flat)](https://github.com/KonstantinPakulev/NeSS-ST) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Pakulev_NeSS-ST_Detecting_Good_and_Stable_Keypoints_with_a_Neural_Stability_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Robust Object Modeling for Visual Tracking | [![GitHub](https://img.shields.io/github/stars/dawnyc/ROMTrack?style=flat)](https://github.com/dawnyc/ROMTrack) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.05140-b31b1b.svg)](https://arxiv.org/abs/2308.05140) | :heavy_minus_sign: |
 | Social Diffusion: Long-Term Multiple Human Motion Anticipation | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Tanke_Social_Diffusion_Long-term_Multiple_Human_Motion_Anticipation_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
-| Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking | [![GitHub](https://img.shields.io/github/stars/kangben258/HiT?style=flat)](https://github.com/kangben258/HiT) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_Exploring_Lightweight_Hierarchical_Vision_Transformers_for_Efficient_Visual_Tracking_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.06904-b31b1b.svg)](https://arxiv.org/abs/2308.06904) | :heavy_minus_sign: |
+| Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_Exploring_Lightweight_Hierarchical_Vision_Transformers_for_Efficient_Visual_Tracking_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.06904-b31b1b.svg)](https://arxiv.org/abs/2308.06904) | :heavy_minus_sign: |
 | HMD-NeMo: Online 3D Avatar Motion Generation from Sparse Observations | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Aliakbarian_HMD-NeMo_Online_3D_Avatar_Motion_Generation_From_Sparse_Observations_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.11261-b31b1b.svg)](https://arxiv.org/abs/2308.11261) | :heavy_minus_sign: |
 | Learning Fine-Grained Features for Pixel-Wise Video Correspondences | [![GitHub](https://img.shields.io/github/stars/qianduoduolr/Spa-then-Temp?style=flat)](https://github.com/qianduoduolr/Spa-then-Temp) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Learning_Fine-Grained_Features_for_Pixel-Wise_Video_Correspondences_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.03040-b31b1b.svg)](https://arxiv.org/abs/2308.03040) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=2ZCVUoiyM0U) |
 | GAFlow: Incorporating Gaussian Attention into Optical Flow | [![GitHub](https://img.shields.io/github/stars/LA30/GAFlow?style=flat)](https://github.com/LA30/GAFlow) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_GAFlow_Incorporating_Gaussian_Attention_into_Optical_Flow_ICCV_2023_paper.pdf) | :heavy_minus_sign: |

@@ -1,14 +1,25 @@
 # ICCV-2023-Papers
 
+<table>
+    <tr>
+        <td><strong>Application</strong></td>
+        <td>
+            <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+                <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+            </a>
+        </td>
+    </tr>
+</table>
+
 <div align="center">
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/recognition-detection.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/vision-and-audio.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
 
@@ -114,7 +125,7 @@
 | InfiniCity: Infinite-Scale City Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://hubert0527.github.io/infinicity/) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_InfiniCity_Infinite-Scale_City_Synthesis_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.09637-b31b1b.svg)](https://arxiv.org/abs/2301.09637) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=eaoTVZSLPH4) |
 | Make-it-3D: High-fidelity 3D Creation from a Single Image with Diffusion Prior | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://make-it-3d.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/junshutang/Make-It-3D?style=flat)](https://github.com/junshutang/Make-It-3D) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_Make-It-3D_High-fidelity_3D_Creation_from_A_Single_Image_with_Diffusion_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.14184-b31b1b.svg)](https://arxiv.org/abs/2303.14184) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=2M8JJFeDBFk) |
 | SAMPLING: Scene-Adaptive Hierarchical Multiplane Images Representation for Novel View Synthesis from a Single Image | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://pkuvdig.github.io/SAMPLING/) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_SAMPLING_Scene-adaptive_Hierarchical_Multiplane_Images_Representation_for_Novel_View_Synthesis_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.06323-b31b1b.svg)](https://arxiv.org/abs/2309.06323) | :heavy_minus_sign: |
-| StyleLipSync: Style-based Personalized Lip-Sync Video Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://stylelipsync.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/TaekyungKi/StyleLipSync?style=flat)](https://github.com/TaekyungKi/StyleLipSync) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ki_StyleLipSync_Style-based_Personalized_Lip-sync_Video_Generation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.00521-b31b1b.svg)](https://arxiv.org/abs/2305.00521) | :heavy_minus_sign: |
+| StyleLipSync: Style-based Personalized Lip-Sync Video Generation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://stylelipsync.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/AMEERAZAM08/StyleLipSync?style=flat)](https://github.com/AMEERAZAM08/StyleLipSync) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ki_StyleLipSync_Style-based_Personalized_Lip-sync_Video_Generation_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.00521-b31b1b.svg)](https://arxiv.org/abs/2305.00521) | :heavy_minus_sign: |
 | StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.mmlab-ntu.com/project/styleinv/index.html) <br /> [![GitHub](https://img.shields.io/github/stars/johannwyh/StyleInV?style=flat)](https://github.com/johannwyh/StyleInV) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_StyleInV_A_Temporal_Style_Modulated_Inversion_Network_for_Unconditional_Video_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.16909-b31b1b.svg)](https://arxiv.org/abs/2308.16909) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=R_v_L-32_Vo) |
 | 3D-Aware Generative Model for Improved Side-View Image Synthesis | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Jo_3D-Aware_Generative_Model_for_Improved_Side-View_Image_Synthesis_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.10388-b31b1b.svg)](https://arxiv.org/abs/2309.10388) | :heavy_minus_sign: |
 | Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer | [![GitHub](https://img.shields.io/github/stars/YSerin/ZeCon?style=flat)](https://github.com/YSerin/ZeCon) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Zero-Shot_Contrastive_Loss_for_Text-Guided_Diffusion_Image_Style_Transfer_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.08622-b31b1b.svg)](https://arxiv.org/abs/2303.08622) | :heavy_minus_sign: |

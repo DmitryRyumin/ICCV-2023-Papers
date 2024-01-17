@@ -1,26 +1,37 @@
 # ICCV-2023-Papers
 
+<table>
+    <tr>
+        <td><strong>Application</strong></td>
+        <td>
+            <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+                <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+            </a>
+        </td>
+    </tr>
+</table>
+
 <div align="center">
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/human-in-the-loop-computer-vision.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/geometric-deep-learning.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
 
 ## Image and Video Forensics
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-11-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-11-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Pre-Training-Free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning | [![GitHub](https://img.shields.io/github/stars/Knightzjz/NCL-IML?style=flat)](https://github.com/Knightzjz/NCL-IML) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.14900-b31b1b.svg)](https://arxiv.org/abs/2309.14900) | :heavy_minus_sign: |
 | VADER: Video Alignment Differencing and Retrieval | [![GitHub](https://img.shields.io/github/stars/AlexBlck/vader?style=flat)](https://github.com/AlexBlck/vader) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Black_VADER_Video_Alignment_Differencing_and_Retrieval_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.13193-b31b1b.svg)](https://arxiv.org/abs/2303.13193) | :heavy_minus_sign: |
-| PIRNet: Privacy-Preserving Image Restoration Network via Wavelet Lifting | [![GitHub](https://img.shields.io/github/stars/gclonghorn/PIRNet?style=flat)](https://github.com/gclonghorn/PIRNet) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_PIRNet_Privacy-Preserving_Image_Restoration_Network_via_Wavelet_Lifting_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
+| PIRNet: Privacy-Preserving Image Restoration Network via Wavelet Lifting | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_PIRNet_Privacy-Preserving_Image_Restoration_Network_via_Wavelet_Lifting_ICCV_2023_paper.pdf) | :heavy_minus_sign: |
 | Quality-Agnostic Deepfake Detection with Intra-Model Collaborative Learning | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Le_Quality-Agnostic_Deepfake_Detection_with_Intra-model_Collaborative_Learning_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.05911-b31b1b.svg)](https://arxiv.org/abs/2309.05911) | :heavy_minus_sign: |
 | Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning | [![GitHub](https://img.shields.io/github/stars/yhZhai/WSCL?style=flat)](https://github.com/yhZhai/WSCL) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.01246-b31b1b.svg)](https://arxiv.org/abs/2309.01246) | :heavy_minus_sign: |
 | UCF: Uncovering Common Features for Generalizable Deepfake Detection | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_UCF_Uncovering_Common_Features_for_Generalizable_Deepfake_Detection_ICCV_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.13949-b31b1b.svg)](https://arxiv.org/abs/2304.13949) | :heavy_minus_sign: |

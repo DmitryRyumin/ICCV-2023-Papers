@@ -1,5 +1,16 @@
 # ICCV-2023-Papers
 
+<table>
+    <tr>
+        <td><strong>Application</strong></td>
+        <td>
+            <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+                <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+            </a>
+        </td>
+    </tr>
+</table>
+
 <div align="center">
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/w-on-cv-in-plant-phenotyping-and-agriculture.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />

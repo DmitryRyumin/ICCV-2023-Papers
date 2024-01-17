@@ -78,7 +78,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 </p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-2156-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1660%20(76.99%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1420%20(65.86%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-275%20(12.76%25)%20*-FF0000)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-2156-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1660%20(76.99%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1418%20(65.77%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-275%20(12.76%25)%20*-FF0000)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -643,7 +643,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/motion-estimation-matching-and-tracking.md"><img src="https://img.shields.io/badge/42-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/motion-estimation-matching-and-tracking.md"><img src="https://img.shields.io/badge/41-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/motion-estimation-matching-and-tracking.md"><img src="https://img.shields.io/badge/40-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/motion-estimation-matching-and-tracking.md"><img src="https://img.shields.io/badge/14-FF0000" alt="Videos"></a>
@@ -1085,7 +1085,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-forensics.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-forensics.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-forensics.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-forensics.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>

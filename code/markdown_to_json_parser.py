@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import markdown2
 from prettytable import PrettyTable
 from github import Github, InputGitTreeElement, InputGitAuthor
-from urllib.parse import urlsplit, urlunsplit, urlparse, urlunparse
+from urllib.parse import urlsplit, urlunsplit, urlparse, urlunparse, parse_qs
 
 
 class FileUpdate:
@@ -224,16 +224,74 @@ def extract_relative_url(full_url, base_url):
 
 
 def extract_video_id(url):
-    if not url:
-        return None
+    VIDEO_NOT_FOUND = {
+        "youtube": None,
+        "drive": None,
+        "dropbox": None,
+        "onedrive": None,
+        "loom": None,
+    }
 
-    if "youtube.com" in url or "youtu.be" in url:
-        video_id = (
-            url.split("v=")[1].split("&")[0] if "v=" in url else url.split("/")[-1]
-        )
-        return video_id if video_id else None
+    try:
+        if not url:
+            return VIDEO_NOT_FOUND
 
-    return None
+        parsed_url = urlparse(url)
+
+        if "youtube.com" in parsed_url.netloc or "youtu.be" in parsed_url.netloc:
+            video_id = parse_qs(parsed_url.query).get("v", [None])[
+                0
+            ] or parsed_url.path.lstrip("/")
+            if video_id:
+                return {
+                    "youtube": video_id,
+                    "drive": None,
+                    "dropbox": None,
+                    "onedrive": None,
+                    "loom": None,
+                }
+            else:
+                return VIDEO_NOT_FOUND
+
+        elif "drive.google.com" in parsed_url.netloc:
+            return {
+                "youtube": None,
+                "drive": url,
+                "dropbox": None,
+                "onedrive": None,
+                "loom": None,
+            }
+
+        elif "dropbox.com" in parsed_url.netloc:
+            return {
+                "youtube": None,
+                "drive": None,
+                "dropbox": url,
+                "onedrive": None,
+                "loom": None,
+            }
+
+        elif "onedrive.com" in parsed_url.netloc:
+            return {
+                "youtube": None,
+                "drive": None,
+                "dropbox": None,
+                "onedrive": url,
+                "loom": None,
+            }
+
+        elif "loom.com" in parsed_url.netloc:
+            return {
+                "youtube": None,
+                "drive": None,
+                "dropbox": None,
+                "onedrive": None,
+                "loom": url,
+            }
+
+        return VIDEO_NOT_FOUND
+    except Exception:
+        return VIDEO_NOT_FOUND
 
 
 def extract_github_info(url):
@@ -245,6 +303,44 @@ def extract_github_info(url):
         return f"{username}/{repo_name}" if username and repo_name else None
     except Exception:
         return None
+
+
+def parse_paper_links(html):
+    links = html.find_all("a")
+
+    final_link = None
+    arxiv_id = None
+    pdf_link = None
+    hal_link = None
+    researchgate_link = None
+    amazonscience_link = None
+
+    for link in links:
+        href = link.get("href", "")
+        img = link.img
+        img_alt = img.get("alt", "").lower() if img else ""
+
+        if "thecvf" in img_alt:
+            final_link = href
+        elif "arxiv" in img_alt and "arxiv.org" in href:
+            arxiv_id = urlsplit(href).path.split("/")[-1]
+        elif "pdf" in img_alt:
+            pdf_link = href
+        elif "hal science" in img_alt:
+            hal_link = href
+        elif "researchgate" in img_alt:
+            researchgate_link = href
+        elif "amazon science" in img_alt:
+            amazonscience_link = href
+
+    return {
+        "final": final_link,
+        "arxiv_id": arxiv_id,
+        "pdf": pdf_link,
+        "hal": hal_link,
+        "researchgate": researchgate_link,
+        "amazonscience": amazonscience_link,
+    }
 
 
 def extract_paper_data(paper_section, columns):
@@ -283,24 +379,89 @@ def extract_paper_data(paper_section, columns):
         )
         repo_info = extract_github_info(repo)
 
+        modelscope_link = next(
+            (a for a in links if a.img.get("alt", "").lower() == "modelscope"),
+            None,
+        )
+        modelscope = (
+            modelscope_link["href"]
+            if modelscope_link
+            and "modelscope" in modelscope_link.img.get("alt", "").lower()
+            else None
+        )
+
+        gitee_link = next(
+            (a for a in links if a.img.get("alt", "").lower() == "gitee"),
+            None,
+        )
+        gitee = (
+            gitee_link["href"]
+            if gitee_link and "gitee" in gitee_link.img.get("alt", "").lower()
+            else None
+        )
+
         demo_link = next(
-            (a for a in links if "hugging face" in a.img.get("alt", "").lower()),
+            (
+                a
+                for a in links
+                if any(
+                    keyword in a.img.get("alt", "").lower()
+                    for keyword in ["hugging face", "hf"]
+                )
+            ),
             None,
         )
         demo_page = demo_link["href"] if demo_link else None
 
-        paper_thecvf_link = columns[2].find("a")
-        paper_thecvf = paper_thecvf_link["href"] if paper_thecvf_link else None
-
-        paper_arxiv_link = columns[2].find_all("a")
-        paper_arxiv = paper_arxiv_link[1]["href"] if len(paper_arxiv_link) > 1 else None
-        paper_arxiv_id = (
-            urlparse(paper_arxiv).path.split("/")[-1] if paper_arxiv else None
+        colab_link = next(
+            (a for a in links if "open in colab" in a.img.get("alt", "").lower()),
+            None,
         )
+        colab = colab_link["href"] if colab_link else None
+
+        zenodo_link = next(
+            (a for a in links if "zenodo" in a.img.get("alt", "").lower()),
+            None,
+        )
+        zenodo = zenodo_link["href"] if zenodo_link else None
+
+        (
+            paper_thecvf,
+            paper_arxiv_id,
+            paper_pdf,
+            paper_hal,
+            paper_researchgate,
+            paper_amazon,
+        ) = parse_paper_links(columns[2]).values()
+        # The above code is extracting links to a paper from a HTML table.
+
+        # paper_thecvf_link = columns[2].find("a")
+        # paper_thecvf = paper_thecvf_link["href"] if paper_thecvf_link else None
+
+        # paper_arxiv_link = columns[2].find_all("a")
+        # paper_arxiv = paper_arxiv_link[1]["href"] if len(paper_arxiv_link) > 1 else None
+        # paper_arxiv_id = (
+        #     urlparse(paper_arxiv).path.split("/")[-1] if paper_arxiv else None
+        # )
+
+        # if paper_section == "3D from Multi-View and Sensors":
+        #     print(parse_paper_links(columns[2]))
+        # return
 
         video_link = columns[3].find("a")
         video = video_link["href"] if video_link else None
-        video_id = extract_video_id(video)
+
+        # if paper_section == "3D from Multi-View and Sensors":
+        #     print(video_link, video)
+        # return
+
+        (
+            video_id_youtube,
+            video_drive,
+            video_dropbox,
+            video_onedrive,
+            video_loom,
+        ) = extract_video_id(video).values()
 
         base_url = None
         if title_page and paper_thecvf:
@@ -318,10 +479,22 @@ def extract_paper_data(paper_section, columns):
             "repo": repo_info,
             "web_page": web_page,
             "github_page": github_page,
+            "colab": colab,
+            "modelscope": modelscope,
+            "gitee": gitee,
+            "zenodo": zenodo,
             "demo_page": demo_page,
             "paper_thecvf": paper_thecvf,
             "paper_arxiv_id": paper_arxiv_id,
-            "youtube_id": video_id,
+            "paper_pdf": paper_pdf,
+            "paper_hal_science": paper_hal,
+            "paper_researchgate": paper_researchgate,
+            "paper_amazon": paper_amazon,
+            "youtube_id": video_id_youtube,
+            "drive_google": video_drive,
+            "dropbox": video_dropbox,
+            "onedrive": video_onedrive,
+            "loom": video_loom,
             "section": paper_section,
         }
 
