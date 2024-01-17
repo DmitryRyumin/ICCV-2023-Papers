@@ -1,0 +1,28 @@
+[
+  {
+    "title": "A Simple and Explainable Method for Uncertainty Estimation using Attribute Prototype Networks",
+    "base_url": null,
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/UnCV/papers/Zelenka_A_Simple_and_Explainable_Method_for_Uncertainty_Estimation_Using_Attribute_ICCVW_2023_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Uncertainty Estimation for Computer Vision"
+  },
+  {
+    "title": "A Unified Approach to Learning with Label Noise and Unsupervised Confidence Approximation",
+    "base_url": null,
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/UnCV/papers/Rabbani_Unsupervised_Confidence_Approximation_Trustworthy_Learning_from_Noisy_Labelled_Data_ICCVW_2023_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Uncertainty Estimation for Computer Vision"
+  }
+]
