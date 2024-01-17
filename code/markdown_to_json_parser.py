@@ -508,7 +508,7 @@ def process_markdown_file(
             text=markdown_content, html4tags=True, extras=["tables"]
         )
         soup = BeautifulSoup(html_content, "html.parser")
-        table_in_file = soup.find("table")
+        table_in_file = soup.find_all("table")[-1]
         paper_section = soup.find("h2").text
 
         papers = []
