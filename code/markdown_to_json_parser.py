@@ -433,27 +433,9 @@ def extract_paper_data(paper_section, columns):
             paper_researchgate,
             paper_amazon,
         ) = parse_paper_links(columns[2]).values()
-        # The above code is extracting links to a paper from a HTML table.
-
-        # paper_thecvf_link = columns[2].find("a")
-        # paper_thecvf = paper_thecvf_link["href"] if paper_thecvf_link else None
-
-        # paper_arxiv_link = columns[2].find_all("a")
-        # paper_arxiv = paper_arxiv_link[1]["href"] if len(paper_arxiv_link) > 1 else None
-        # paper_arxiv_id = (
-        #     urlparse(paper_arxiv).path.split("/")[-1] if paper_arxiv else None
-        # )
-
-        # if paper_section == "3D from Multi-View and Sensors":
-        #     print(parse_paper_links(columns[2]))
-        # return
 
         video_link = columns[3].find("a")
         video = video_link["href"] if video_link else None
-
-        # if paper_section == "3D from Multi-View and Sensors":
-        #     print(video_link, video)
-        # return
 
         (
             video_id_youtube,
