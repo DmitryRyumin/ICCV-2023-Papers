@@ -345,7 +345,8 @@ def parse_paper_links(html):
 
 def extract_paper_data(paper_section, columns):
     title_column = columns[0]
-    title = title_column.get_text(strip=True)
+    # title = title_column.get_text(strip=True)
+    title = title_column.a.encode_contents().decode("utf-8")
     title_link = title_column.find("a")
     title_page = title_link["href"] if title_link else None
 
