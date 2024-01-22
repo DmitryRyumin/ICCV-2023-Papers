@@ -750,7 +750,7 @@
     "section": "Faces and Gestures"
   },
   {
-    "title": "HandR2N2: Iterative 3D Hand Pose Estimation using a Residual Recurrent Neural Network",
+    "title": "HandR<sup>2</sup>N<sup>2</sup>: Iterative 3D Hand Pose Estimation using a Residual Recurrent Neural Network",
     "base_url": null,
     "title_page": null,
     "repo": "cwc1260/HandR2N2",
@@ -1100,7 +1100,7 @@
     "section": "Faces and Gestures"
   },
   {
-    "title": "C2ST: Cross-Modal Contextualized Sequence Transduction for Continuous Sign Language Recognition",
+    "title": "C<sup>2</sup>ST: Cross-Modal Contextualized Sequence Transduction for Continuous Sign Language Recognition",
     "base_url": null,
     "title_page": null,
     "repo": null,

@@ -500,7 +500,7 @@
     "section": "Recognition: Retrieval"
   },
   {
-    "title": "BT2: Backward-Compatible Training with Basis Transformation",
+    "title": "BT<sup>2</sup>: Backward-Compatible Training with Basis Transformation",
     "base_url": null,
     "title_page": null,
     "repo": "YifeiZhou02/BT-2",

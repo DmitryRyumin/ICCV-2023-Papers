@@ -450,7 +450,7 @@
     "section": "Neural Generative Models"
   },
   {
-    "title": "A-STAR: Test-TimeAttentionSegregation andRetention for Text-to-Image Synthesis",
+    "title": "A-STAR: Test-Time <i>A</i>ttention <i>S</i>egrega<i>t</i>ion and <i>R</i>etention for Text-to-Image Synthesis",
     "base_url": null,
     "title_page": null,
     "repo": null,

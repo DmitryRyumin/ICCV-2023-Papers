@@ -1400,7 +1400,7 @@
     "section": "Efficient and Scalable Vision"
   },
   {
-    "title": "E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning",
+    "title": "E<sup>2</sup>VPT: An Effective and Efficient Approach for Visual Prompt Tuning",
     "base_url": null,
     "title_page": null,
     "repo": "ChengHan111/E2VPT",

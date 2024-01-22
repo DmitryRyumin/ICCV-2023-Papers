@@ -375,7 +375,7 @@
     "section": "Motion Estimation, Matching and Tracking"
   },
   {
-    "title": "Occ2Net: Robust Image Matching based on 3D Occupancy Estimation for Occluded Regions",
+    "title": "Occ<sup>2</sup>Net: Robust Image Matching based on 3D Occupancy Estimation for Occluded Regions",
     "base_url": null,
     "title_page": null,
     "repo": null,

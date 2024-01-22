@@ -725,7 +725,7 @@
     "section": "Adversarial Attack and Defense"
   },
   {
-    "title": "LEA2: A Lightweight Ensemble Adversarial Attack via Non-Overlapping Vulnerable Frequency Regions",
+    "title": "LEA<sup>2</sup>: A Lightweight Ensemble Adversarial Attack via Non-Overlapping Vulnerable Frequency Regions",
     "base_url": null,
     "title_page": null,
     "repo": null,

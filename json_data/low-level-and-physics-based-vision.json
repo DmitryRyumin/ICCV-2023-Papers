@@ -2775,7 +2775,7 @@
     "section": "Low-Level and Physics-based Vision"
   },
   {
-    "title": "E2NeRF: Event Enhanced Neural Radiance Fields from Blurry Images",
+    "title": "E<sup>2</sup>NeRF: Event Enhanced Neural Radiance Fields from Blurry Images",
     "base_url": null,
     "title_page": null,
     "repo": "iCVTEAM/E2NeRF",
