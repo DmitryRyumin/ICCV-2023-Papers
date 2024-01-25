@@ -22,7 +22,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "ENTL: Embodied Navigation Trajectory Learner",
@@ -47,7 +47,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation",
@@ -72,7 +72,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Scene Graph Contrastive Learning for Embodied Navigation",
@@ -97,7 +97,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Perpetual Humanoid Control for Real-Time Simulated Avatars",
@@ -122,7 +122,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Grounding 3D Object Affordance from 2D Interactions in Images",
@@ -147,7 +147,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Navigating to Objects Specified by Images",
@@ -172,7 +172,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "PEANUT: Predicting and Navigating to Unseen Targets",
@@ -197,7 +197,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents",
@@ -222,7 +222,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation",
@@ -247,7 +247,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Exploiting Proximity-Aware Tasks for Embodied Social Navigation",
@@ -272,7 +272,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
@@ -297,7 +297,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Active Neural Mapping",
@@ -322,7 +322,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation",
@@ -347,7 +347,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Multi-Object Navigation with Dynamically Learned Neural Implicit Representations",
@@ -372,6 +372,6 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Embodied Vision: Active Agents; Simulation"
+    "section": "Embodied Vision: Active Agents, Simulation"
   }
 ]
