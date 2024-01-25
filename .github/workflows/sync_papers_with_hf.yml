@@ -1,0 +1,92 @@
+name: Sync Hugging Face App
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # 04:00 UTC
+  workflow_dispatch:
+
+jobs:
+  sync-hf:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    env:
+      HF_USERNAME: 'DmitryRyumin'
+      HF_REPO: 'NewEraAI-Papers'
+      LOCAL_DIR: 'NewEraAI-Papers'
+      HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+      JSON_DATA_PATH: 'json_data/2023/ICCV'
+      UPDATE_REPO_SH: 'update_repo.sh'
+      COMPARE_FILES_SH: 'compare_files.sh'
+      EMAIL: 'dl_03.03.1991@mail.ru'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        continue-on-error: true # Continue with the workflow even if the checkout fails
+        with:
+          ref: ${{ github.event.before || 'main' }}
+
+      - name: Install Git LFS
+        run: |
+          if ! command -v git-lfs &> /dev/null; then
+            echo "Git LFS is not installed. Installing ..."
+            sudo apt-get install git-lfs
+          fi
+          git lfs install
+
+      - name: Install colordiff
+        run: |
+          if ! command -v colordiff &> /dev/null; then
+            echo "colordiff is not installed. Installing ..."
+            sudo apt-get install colordiff
+          fi
+
+      - name: Set REMOTE_URL
+        run: |
+          echo "REMOTE_URL=https://${{ env.HF_USERNAME }}:${{ env.HF_TOKEN }}@huggingface.co/spaces/${{ env.HF_USERNAME }}/${{ env.HF_REPO }}" >> $GITHUB_ENV
+
+      - name: Clone Hugging Face Repository
+        run: |
+          GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" "${{ env.LOCAL_DIR }}"
+        continue-on-error: true
+
+      - name: Display cloned directory contents
+        run: |
+          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+
+      - name: Make scripts executable
+        run: |
+          chmod +x ${{ github.workspace }}/scripts/${{ env.UPDATE_REPO_SH }}
+          chmod +x ${{ github.workspace }}/scripts/${{ env.COMPARE_FILES_SH }}
+
+      - name: Define scripts
+        run: |
+          echo 'source ${{ github.workspace }}/scripts/${{ env.UPDATE_REPO_SH }}' > ${{ env.UPDATE_REPO_SH }}
+          echo 'source ${{ github.workspace }}/scripts/${{ env.COMPARE_FILES_SH }}' > ${{ env.COMPARE_FILES_SH }}
+          chmod +x ${{ github.workspace }}/${{ env.UPDATE_REPO_SH }}
+          chmod +x ${{ github.workspace }}/${{ env.COMPARE_FILES_SH }}
+
+      - name: Compare and update files
+        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+
+      - name: Update repository and commit
+        run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+
+  finalize:
+    runs-on: ubuntu-latest
+    needs: sync-hf
+
+    steps:
+      - name: Output completion time
+        run: echo "Workflow completed at [$(date '+%Y-%m-%d %H:%M:%S')]"
+
+      - name: Set output status
+        run: |
+          if [ ${{ needs.sync-hf.result }} == 'success' ]; then
+            echo "status=success" >> $GITHUB_ENV
+          else
+            echo "status=failure" >> $GITHUB_ENV
+          fi

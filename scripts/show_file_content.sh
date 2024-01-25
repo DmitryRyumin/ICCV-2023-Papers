@@ -1,4 +1,4 @@
-# show_file_content.sh
+#!/bin/bash
 
 show_file_content() {
   local file_path=$1
