@@ -75,7 +75,7 @@
     "section": "Uncertainty Estimation for Computer Vision"
   },
   {
-    "title": "Biased Class disagreement: detection of out of distribution instances by using differently biased semantic segmentation models",
+    "title": "Biased Class Disagreement: Detection of Out of Distribution Instances by using Differently Biased Semantic Segmentation Models",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -111,7 +111,7 @@
     "gitee": null,
     "zenodo": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/https://openaccess.thecvf.com/content/ICCV2023W/UnCV/papers/Vojir_Calibrated_Out-of-Distribution_Detection_with_a_Generic_Representation_ICCVW_2023_paper.pdf",
+    "paper_thecvf": "https://openaccess.thecvf.com/content/ICCV2023W/UnCV/papers/Vojir_Calibrated_Out-of-Distribution_Detection_with_a_Generic_Representation_ICCVW_2023_paper.pdf",
     "paper_arxiv_id": "2303.13148",
     "paper_pdf": null,
     "paper_hal_science": null,
@@ -150,7 +150,7 @@
     "section": "Uncertainty Estimation for Computer Vision"
   },
   {
-    "title": "Distance matters for improving performance estimation under covariate shift",
+    "title": "Distance Matters for Improving Performance Estimation Under Covariate Shift",
     "base_url": null,
     "title_page": null,
     "repo": "melanibe/distance_matters_performance_estimation",
@@ -175,7 +175,7 @@
     "section": "Uncertainty Estimation for Computer Vision"
   },
   {
-    "title": "Dual-level Interaction for Domain Adaptive Semantic Segmentation",
+    "title": "Dual-Level Interaction for Domain Adaptive Semantic Segmentation",
     "base_url": null,
     "title_page": null,
     "repo": "RainJamesY/DIDA",
@@ -225,7 +225,7 @@
     "section": "Uncertainty Estimation for Computer Vision"
   },
   {
-    "title": "Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection",
+    "title": "Far Away in the Deep Space: Dense Nearest-Neighbor-based Out-of-Distribution Detection",
     "base_url": null,
     "title_page": null,
     "repo": "silviogalesso/dense-ood-knns",
@@ -300,7 +300,7 @@
     "section": "Uncertainty Estimation for Computer Vision"
   },
   {
-    "title": "Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-wise Regression",
+    "title": "Probabilistic MIMO U-Net: Efficient and Accurate Uncertainty Estimation for Pixel-Wise Regression",
     "base_url": null,
     "title_page": null,
     "repo": "antonbaumann/MIMO-Unet",
