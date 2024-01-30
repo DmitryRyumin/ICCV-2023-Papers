@@ -449,6 +449,12 @@ def extract_paper_data(paper_section, columns):
         )
         zenodo = zenodo_link["href"] if zenodo_link else None
 
+        kaggle_link = next(
+            (a for a in links if "kaggle" in a.img.get("alt", "").lower()),
+            None,
+        )
+        kaggle = kaggle_link["href"] if kaggle_link else None
+
         (
             paper_thecvf,
             paper_arxiv_id,
@@ -489,6 +495,7 @@ def extract_paper_data(paper_section, columns):
             "modelscope": modelscope,
             "gitee": gitee,
             "zenodo": zenodo,
+            "kaggle": kaggle,
             "demo_page": demo_page,
             "paper_thecvf": paper_thecvf,
             "paper_arxiv_id": paper_arxiv_id,
