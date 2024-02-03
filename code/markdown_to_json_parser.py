@@ -294,7 +294,7 @@ def extract_video_id(url):
         return VIDEO_NOT_FOUND
 
 
-def extract_github_info(url):
+def extract_hub_info(url):
     if not url:
         return None
 
@@ -392,16 +392,27 @@ def extract_paper_data(paper_section, columns):
             else None
         )
 
-        repo_link = next(
+        github_link = next(
             (a for a in links if a.img.get("alt", "").lower() == "github"),
             None,
         )
-        repo = (
-            repo_link["href"]
-            if repo_link and "github" in repo_link.img.get("alt", "").lower()
+        github = (
+            github_link["href"]
+            if github_link and "github" in github_link.img.get("alt", "").lower()
             else None
         )
-        repo_info = extract_github_info(repo)
+        github_info = extract_hub_info(github)
+
+        gitlab_link = next(
+            (a for a in links if a.img.get("alt", "").lower() == "gitlab"),
+            None,
+        )
+        gitlab = (
+            gitlab_link["href"]
+            if gitlab_link and "gitlab" in gitlab_link.img.get("alt", "").lower()
+            else None
+        )
+        gitlab_info = extract_hub_info(gitlab)
 
         modelscope_link = next(
             (a for a in links if a.img.get("alt", "").lower() == "modelscope"),
@@ -488,12 +499,13 @@ def extract_paper_data(paper_section, columns):
             "title": title,
             "base_url": base_url,
             "title_page": title_page,
-            "repo": repo_info,
+            "github": github_info,
             "web_page": web_page,
             "github_page": github_page,
             "colab": colab,
             "modelscope": modelscope,
             "gitee": gitee,
+            "gitlab": gitlab_info,
             "zenodo": zenodo,
             "kaggle": kaggle,
             "demo_page": demo_page,
