@@ -85,12 +85,29 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Progress Status</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td>
+      <div style="float:left;">
+        <img src="https://geps.dev/progress/100?successColor=006600" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Workshops</strong></td>
+    <td>
+      <!-- 127/497 -->
+      <div style="float:left;">
+        <img src="https://geps.dev/progress/26?successColor=006600" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
+      </div>
+    </td>
+  </tr>
 </table>
-
-<div style="float:left;">
-  <img src="https://geps.dev/progress/100?successColor=006600" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
-</div>
 
 ---
 
