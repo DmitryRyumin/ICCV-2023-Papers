@@ -538,8 +538,15 @@ def process_markdown_file(
     error_count,
     file_updates,
 ):
-    base_filename = markdown_file.stem
-    json_filename = output_directory.joinpath(f"{base_filename}.json")
+    common_ancestor = Path(
+        *Path(markdown_file)
+        .resolve()
+        .parts[: len(Path(output_directory).resolve().parts)]
+    )
+    relative_path = Path(
+        *Path(markdown_file).resolve().parts[len(common_ancestor.resolve().parts) :]
+    )
+    json_filename = output_directory.joinpath(relative_path.with_suffix(".json"))
 
     try:
         with open(markdown_file, "r", encoding="utf-8") as file:
@@ -569,6 +576,8 @@ def process_markdown_file(
             )
             no_table_count[0] += 1
         else:
+            json_filename.parent.mkdir(parents=True, exist_ok=True)
+
             with open(json_filename, "w", encoding="utf-8") as file:
                 json.dump(papers, file, ensure_ascii=False, indent=2)
 
@@ -582,7 +591,10 @@ def process_markdown_file(
 
             json_content = json.dumps(papers, ensure_ascii=False, indent=2)
             file_updates.append(
-                FileUpdate(path=f"json_data/{base_filename}.json", content=json_content)
+                FileUpdate(
+                    path=f"json_data/{relative_path.with_suffix('.json')}",
+                    content=json_content,
+                )
             )
 
             success_count[0] += 1
@@ -631,7 +643,7 @@ def main():
     no_table_count = [0]
     error_count = [0]
 
-    markdown_files = [f for f in markdown_directory.glob("*.md")]
+    markdown_files = [f for f in markdown_directory.rglob("*.md")]
 
     file_updates = []
 
