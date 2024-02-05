@@ -18,7 +18,7 @@
     <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
-    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/2023/main/w-scene-graphs-and-graph-representation-learning.md">
+    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/2023/workshops/w-scene-graphs-and-graph-representation-learning.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
