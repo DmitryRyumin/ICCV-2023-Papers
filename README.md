@@ -1460,6 +1460,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ---
 
+## Key Terms
+
+<p align="center">
+    <img width="500" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ICCV-2023-Papers@main/images/Keywords.png" alt="Key Terms">
+<p>
+
+---
+
 ## Star History
 
 <p align="center">
