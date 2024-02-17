@@ -565,7 +565,7 @@ def process_markdown_file(
 
         if table_in_file:
             for row in table_in_file.find_all("tr")[1:]:
-                columns = row.find_all("td")
+                columns = row.find_all("td")[-4:]
                 paper_data = extract_paper_data(paper_section, columns)
                 if paper_data:
                     papers.append(paper_data)
