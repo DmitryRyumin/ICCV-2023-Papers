@@ -1,4 +1,4 @@
-# ICCV-2023-Papers
+# ![ICCV-2023-Papers](https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICCV-2023-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18)
 
 <table>
   <tr>
@@ -125,7 +125,8 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 ---
 
-[*The online version of the ICCV 2023 Conference Programme*](https://iccv2023.thecvf.com/main.conference.program-107.php), comprises a list of all accepted full papers, their presentation order, as well as the designated presentation times.
+> [!TIP]
+> [*The online version of the ICCV 2023 Conference Programme*](https://iccv2023.thecvf.com/main.conference.program-107.php), comprises a list of all accepted full papers, their presentation order, as well as the designated presentation times.
 
 ---
 
@@ -144,7 +145,8 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 <br />
 <br />
 
-> :exclamation: Conference table will be up to date all the time.
+> [!important]
+> Conference table will be up to date all the time.
 
 <table>
     <tr>
@@ -240,7 +242,8 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 <br />
 <br />
 
-Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/ICCV-2023-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/ICCV-2023-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
+> [!NOTE]
+> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/ICCV-2023-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/ICCV-2023-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
 
