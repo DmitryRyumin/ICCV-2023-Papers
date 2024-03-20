@@ -53,6 +53,12 @@ def print_colored_count(count, label):
     return f"\033[{color_code}m{count}\033[0m"
 
 
+def is_digits(string):
+    pattern = r"^\d+$"
+
+    return bool(re.match(pattern, string)) if string else False
+
+
 def clear_directory(directory):
     path = Path(directory)
     for item in path.iterdir():
@@ -309,6 +315,7 @@ def parse_paper_links(html):
     links = html.find_all("a")
 
     final_link = None
+    ieee_id = None
     arxiv_id = None
     pdf_link = None
     hal_link = None
@@ -322,6 +329,8 @@ def parse_paper_links(html):
 
         if "thecvf" in img_alt:
             final_link = href
+        elif "ieee xplore" in img_alt:
+            ieee_id = urlsplit(href).path.split("/")[-1]
         elif "arxiv" in img_alt and "arxiv.org" in href:
             arxiv_id = urlsplit(href).path.split("/")[-1]
         elif "pdf" in img_alt:
@@ -335,6 +344,7 @@ def parse_paper_links(html):
 
     return {
         "final": final_link,
+        "ieee_id": ieee_id,
         "arxiv_id": arxiv_id,
         "pdf": pdf_link,
         "hal": hal_link,
@@ -468,6 +478,7 @@ def extract_paper_data(paper_section, columns):
 
         (
             paper_thecvf,
+            paper_ieee_id,
             paper_arxiv_id,
             paper_pdf,
             paper_hal,
@@ -495,10 +506,15 @@ def extract_paper_data(paper_section, columns):
             title_page = extract_relative_url(title_page, base_url)
             paper_thecvf = extract_relative_url(paper_thecvf, base_url)
 
+        ieee_id = None
+        if is_digits(paper_ieee_id):
+            ieee_id = paper_ieee_id
+
         paper_data = {
             "title": title,
             "base_url": base_url,
             "title_page": title_page,
+            "ieee_id": ieee_id,
             "github": github_info,
             "web_page": web_page,
             "github_page": github_page,
