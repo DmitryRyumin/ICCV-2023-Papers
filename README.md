@@ -121,7 +121,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 </p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-2156-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1660%20(76.99%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1417%20(65.72%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-276%20(12.80%25)%20*-FF0000)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-2156-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1660%20(76.99%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1418%20(65.77%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-276%20(12.80%25)%20*-FF0000)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -539,7 +539,7 @@ ICCV 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/2023/main/recognition-detection.md"><img src="https://img.shields.io/badge/58-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/2023/main/recognition-detection.md"><img src="https://img.shields.io/badge/49-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/2023/main/recognition-detection.md"><img src="https://img.shields.io/badge/50-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/2023/main/recognition-detection.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
